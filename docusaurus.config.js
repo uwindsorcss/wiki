@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Computer Science Society Wiki',
+  tagline: 'A Wiki for Computer Science Society',
+  url: 'https://css.uwindsor.ca/wiki',
+  baseUrl: '/wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'UWindsorCSS', // Usually your GitHub org/user name.
+  projectName: 'wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Computer Science Society Wiki',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
