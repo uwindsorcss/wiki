@@ -17,6 +17,35 @@
   --ifm-code-font-size: 95%;
 }
 
+/* to make it fit content not the box */
+nav {
+  box-sizing: content-box;
+}
+
+/* change the nav bar styling */
+.navbar {
+  --ifm-navbar-background-color: #212529;
+  /*padding-top: 1rem;
+  padding-bottom: 1rem;*/
+  padding: 1rem 0px;
+  align-content: center;
+}
+
+.navbar__brand {
+  padding-left: 0.5rem;
+}
+
+.navbar__items--right{
+  padding-right: 0.5rem;
+}
+
+/* setting logo height and width so its full sized */
+.navbar__logo {
+  width: 175px;
+  height: 69.5px;
+}
+
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
