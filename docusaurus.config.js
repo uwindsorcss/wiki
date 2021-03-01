@@ -5,17 +5,24 @@ module.exports = {
   baseUrl: '/wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-32x32.png',
   organizationName: 'UWindsorCSS', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   themeConfig: {
+    defaultMode: 'dark',
     navbar: {
+      style: 'dark',
       title: 'Computer Science Society Wiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'CSS Logo',
+        src: 'img/css-logo-square.png',
       },
       items: [
+        {
+          href: 'https://css.uwindsor.ca',
+          label: 'Hub',
+          position: 'left',
+        },
         {
           to: 'docs/',
           activeBasePath: 'docs',
@@ -72,7 +79,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/UWindsorCSS/Wiki',
             },
           ],
         },
