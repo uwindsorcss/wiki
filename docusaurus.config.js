@@ -12,10 +12,10 @@ module.exports = {
     defaultMode: 'dark',
     navbar: {
       style: 'dark',
-      title: 'Computer Science Society Wiki',
+      title: '',
       logo: {
         alt: 'CSS Logo',
-        src: 'img/css-logo-square.png',
+        src: 'img/css-logo.png',
       },
       items: [
         {
