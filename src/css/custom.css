@@ -29,11 +29,13 @@ nav {
   align-content: center;
 }
 
+/* padding for the brand on normal bar */
 .navbar__brand {
   padding: 1rem 0rem;
   padding-left: 0.5rem;
 }
 
+/* padding for right side of normal nav bar */
 .navbar__items--right{
   padding-right: 0.5rem;
 }
@@ -44,10 +46,12 @@ nav {
   height: 4.3125rem;
 }
 
+/* side bar header height */
 .navbar-sidebar__brand {
   height: calc(var(--ifm-navbar-height) + 1rem);
 }
 
+/* padding for the brand on the side bar */
 .navbar-sidebar .navbar__brand {
   padding: 1rem 0rem;
   padding-left: 0rem;
