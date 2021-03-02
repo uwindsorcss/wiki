@@ -25,13 +25,12 @@ nav {
 /* change the nav bar styling */
 .navbar {
   --ifm-navbar-background-color: #212529;
-  /*padding-top: 1rem;
-  padding-bottom: 1rem;*/
-  padding: 1rem 0px;
+  padding: 1rem 0rem;
   align-content: center;
 }
 
 .navbar__brand {
+  padding: 1rem 0rem;
   padding-left: 0.5rem;
 }
 
@@ -41,8 +40,17 @@ nav {
 
 /* setting logo height and width so its full sized */
 .navbar__logo {
-  width: 175px;
-  height: 69.5px;
+  width: 10.94rem;
+  height: 4.3125rem;
+}
+
+.navbar-sidebar__brand {
+  height: calc(var(--ifm-navbar-height) + 1rem);
+}
+
+.navbar-sidebar .navbar__brand {
+  padding: 1rem 0rem;
+  padding-left: 0rem;
 }
 
 /* Github logo */
