@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon-32x32.png',
   organizationName: 'UWindsorCSS', // Usually your GitHub org/user name.
-  projectName: 'wiki', // Usually your repo name.
+  projectName: 'Wiki', // Usually your repo name.
   themeConfig: {
     defaultMode: 'dark',
     navbar: {
@@ -63,8 +63,13 @@ module.exports = {
               href: 'https://css.uwindsor.ca/discord',
             },
             {
+              label: 'Github',
+              href: 'https://github.com/UWindsorCSS'
+
+            },
+            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/UWindsorCSS',
             },
           ],
         },
@@ -87,11 +92,10 @@ module.exports = {
               label: 'facebook',
               href: 'https://www.facebook.com/uwindsorcss',
             },
-
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Computer Science Society, Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} University of Windsor Computer Science Society`,
     },
   },
   presets: [

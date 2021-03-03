@@ -15,6 +15,7 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+
 }
 
 /* to make it fit content not the box */
@@ -27,6 +28,10 @@ nav {
   --ifm-navbar-background-color: #212529;
   padding: 1rem 0rem;
   align-content: center;
+
+  /* to make the colour of the collapsable always dark*/
+  /* the collapsable doesnt follow the `always dark mode` rule*/
+  color: rgb(245, 246, 247);
 }
 
 /* padding for the brand on normal bar */
@@ -55,6 +60,12 @@ nav {
 .navbar-sidebar .navbar__brand {
   padding: 1rem 0rem;
   padding-left: 0rem;
+}
+
+/* to keep dark mode colours while in mobile mode*/
+/* it doesnt follow darkmode always rules while side panel*/
+.navbar-sidebar__items .menu .menu__list .menu__list-item .menu__link{
+  color: rgb(245, 246, 247) !important;
 }
 
 /* Github logo */
