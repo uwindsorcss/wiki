@@ -64,8 +64,8 @@ nav {
 
 /* to keep dark mode colours while in mobile mode*/
 /* it doesnt follow darkmode always rules while side panel*/
-.menu__link {
-  color: rgb(245, 246, 247);
+.navbar-sidebar__items .menu .menu__list .menu__list-item .menu__link{
+  color: rgb(245, 246, 247) !important;
 }
 
 /* Github logo */
