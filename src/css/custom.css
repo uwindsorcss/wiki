@@ -18,6 +18,16 @@
 
 }
 
+.features {
+  /* this is to set the colour of the fonts */
+  color: rgb(28,30,33) !important;
+}
+
+.feature_link{
+  /* this is to set the colour of the fonts */
+  color: rgb(28,30,33) !important;
+}
+
 /* to make it fit content not the box */
 nav {
   box-sizing: content-box;
