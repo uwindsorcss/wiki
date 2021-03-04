@@ -18,14 +18,20 @@
 
 }
 
-.features {
+
+.feature_link {
   /* this is to set the colour of the fonts */
   color: rgb(28,30,33) !important;
+
+  /* to get the section label, paragraph, and image all centered */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
-.feature_link{
-  /* this is to set the colour of the fonts */
-  color: rgb(28,30,33) !important;
+.feature_image {
+  height: 7rem !important;
+  width: 7rem !important;
 }
 
 /* to make it fit content not the box */
