@@ -21,7 +21,7 @@
 
 .feature_link {
   /* this is to set the colour of the fonts */
-  color: rgb(28,30,33) !important;
+  color: var(--ifm-font-color-base);
 
   /* to get the section label, paragraph, and image all centered */
   display: flex;
