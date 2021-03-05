@@ -42,7 +42,7 @@ nav {
 /* change the nav bar styling */
 .navbar {
   --ifm-navbar-background-color: #212529;
-  padding: 1rem 0rem;
+  padding: 0.5rem 0rem;
   align-content: center;
 
   /* to make the colour of the collapsable always dark*/
@@ -63,8 +63,8 @@ nav {
 
 /* setting logo height and width so its full sized */
 .navbar__logo {
-  width: 10.94rem;
-  height: 4.3125rem;
+  width: 8.826rem;
+  height: 3.5rem;
 }
 
 /* side bar header height */
