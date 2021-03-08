@@ -7,8 +7,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 import useThemeContext from '@theme/hooks/useThemeContext';
 
-import { ReactSVG } from 'react-svg';
-
 const features = [
   {
     title: 'Course Information',
@@ -48,6 +46,7 @@ const features = [
   },
   {
     title: 'Computer Science Society',
+    imageUrl: "img/css-icon",
     linkTo: 'docs/',
     description: (
       <>
