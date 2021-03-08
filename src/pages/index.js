@@ -5,11 +5,14 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import useThemeContext from '@theme/hooks/useThemeContext';
+
+import { ReactSVG } from 'react-svg';
 
 const features = [
   {
     title: 'Course Information',
-    imageUrl: 'img/courses.svg',
+    imageUrl: 'img/courses',
     description: (
       <>
         Explore information about specific course. Tips, Tricks, Information and more!
@@ -18,7 +21,7 @@ const features = [
   },
   {
     title: 'Careers',
-    imageUrl: 'img/careers.svg',
+    imageUrl: 'img/careers',
     description: (
       <>
         Careers are hard. Get a leg up using our guide!
@@ -27,7 +30,7 @@ const features = [
   },
   {
     title: 'Academics',
-    imageUrl: 'img/academics.svg',
+    imageUrl: 'img/academics',
     description: (
       <>
         Got questions about school? Find some answers here.
@@ -36,7 +39,7 @@ const features = [
   },
   {
     title: 'Resources',
-    imageUrl: 'img/resources.svg',
+    imageUrl: 'img/resources',
     description: (
       <>
         Want to be better at Computers? Get some help here.
@@ -54,7 +57,7 @@ const features = [
   },
   {
     title: 'Newsletter',
-    imageUrl: 'img/newsletter.svg',
+    imageUrl: 'img/newsletter',
     description: (
       <>
         An update about whats going on in Computer Science and University of Windsor.
@@ -63,14 +66,22 @@ const features = [
   },
 ];
 
-function Feature({imageUrl, linkTo, title, description}) {
-  const imgUrl = useBaseUrl(imageUrl);
+const Feature = ({imageUrl, linkTo, title, description}) => {
+
+
+  const {isDarkTheme, setLightTheme,  setDarkTheme} = useThemeContext();
+
+  const theme = isDarkTheme ? "-dark.svg" : "-light.svg";
+
+  const imgUrl = useBaseUrl(imageUrl + theme);
+
+  // const themeStyle = 
   return (
     <div className={clsx('col col--4', styles.feature)}>
       <a href={linkTo} className={clsx('feature_link')}>
         {imgUrl && (
           <div className="text--center">
-            <img className={clsx('feature_image', styles.featureImage)} src={imgUrl} alt={`${title} icon`} />
+            <img className={clsx('feature_image', styles.featureImage)} src={imgUrl} alt={`${title} icon`}/>
           </div>
         )}
         <h3>{title}</h3>
@@ -78,7 +89,7 @@ function Feature({imageUrl, linkTo, title, description}) {
       </a>
     </div>
   );
-}
+};
 
 function Home() {
   const context = useDocusaurusContext();
