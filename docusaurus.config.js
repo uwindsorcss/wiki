@@ -30,6 +30,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'careers/',
+          activeBasePath: 'careers',
+          label: 'Careers',
+          position: 'left',
+        },
+        {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
@@ -108,15 +114,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          id: 'plugin-docs-courses',
-          path: 'courses',
-          sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: 'courses',
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -129,4 +127,30 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+          id: 'plugin-docs-careers',
+          path: 'careers',
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: 'careers',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+          id: 'plugin-docs-courses',
+          path: 'courses',
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: 'courses',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+      },
+    ],
+  ]
 };
