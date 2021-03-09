@@ -36,12 +36,29 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'academics/',
+          activeBasePath: 'academics',
+          label: 'Academics',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'resources/',
+          activeBasePath: 'resources',
+          label: 'Resources',
+          position: 'left',
+        },
+        {
+          to: 'css/',
+          activeBasePath: 'css',
+          label: 'CSS',
+          position: 'left',
+        },
+        {
+          to: 'newsletter/',
+          activeBasePath: 'newsletter',
+          label: 'Newsletter',
+          position: 'left',
+        },
         {
           href: 'https://github.com/UWindsorCSS/Wiki',
           position: 'right',
@@ -147,6 +164,18 @@ module.exports = {
           path: 'courses',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'courses',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+          id: 'plugin-docs-academics',
+          path: 'academics',
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: 'academics',
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',

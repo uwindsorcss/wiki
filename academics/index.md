@@ -5,4 +5,4 @@ sidebar_label: Index
 slug: /
 ---
 
-# Hello from careers
+# Hello from academics
