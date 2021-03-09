@@ -132,12 +132,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: false,
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+        blog: false, 
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -176,6 +171,41 @@ module.exports = {
           path: 'academics',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'academics',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+          id: 'plugin-docs-resources',
+          path: 'resources',
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: 'resources',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+          id: 'plugin-docs-css',
+          path: 'css',
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: 'css',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+          id: 'plugin-blog-newsletter',
+          path: 'newsletter',
+          routeBasePath: 'newsletter',
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
