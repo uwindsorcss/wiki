@@ -5,54 +5,95 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import useThemeContext from '@theme/hooks/useThemeContext';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Course Information',
+    imageUrl: 'img/courses',
+    linkTo: 'courses',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Explore information about specific course. Tips, Tricks, Information and more!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Careers',
+    imageUrl: 'img/careers',
+    linkTo: 'careers',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Careers are hard. Get a leg up using our guide!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Academics',
+    imageUrl: 'img/academics',
+    linkTo: 'academics/',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Got questions about school? Find some answers here.
+      </>
+    ),
+  },
+  {
+    title: 'Resources',
+    imageUrl: 'img/resources',
+    linkTo: 'resources/',
+    description: (
+      <>
+        Want to be better at Computers? Get some help here.
+      </>
+    ),
+  },
+  {
+    title: 'Computer Science Society',
+    imageUrl: "img/css-icon",
+    linkTo: 'css/',
+    description: (
+      <>
+        This one is all about us. Here you can find our constitution, who we are, and what our developers like.
+      </>
+    ),
+  },
+  {
+    title: 'Newsletter',
+    imageUrl: 'img/newsletter',
+    linkTo: 'newsletter/',
+    description: (
+      <>
+        An update about whats going on in Computer Science and University of Windsor.
       </>
     ),
   },
 ];
 
-function Feature({imageUrl, title, description}) {
-  const imgUrl = useBaseUrl(imageUrl);
+const Feature = ({imageUrl, linkTo, title, description}) => {
+
+
+  const {isDarkTheme, setLightTheme,  setDarkTheme} = useThemeContext();
+
+  const theme = isDarkTheme ? "-dark.svg" : "-light.svg";
+
+  const imgUrl = useBaseUrl(imageUrl + theme);
+
+  // const themeStyle = 
   return (
     <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
-        </div>
-      )}
-      <h3>{title}</h3>
-      <p>{description}</p>
+      <Link href={linkTo} className={clsx('feature_link')}>
+        {imgUrl && (
+          <div className="text--center">
+            <img className={clsx('feature_image', styles.featureImage)} src={imgUrl} alt={`${title} icon`}/>
+          </div>
+        )}
+        <h3>{title}</h3>
+        <p>{description}</p>
+      </Link>
     </div>
   );
-}
+};
 
 function Home() {
   const context = useDocusaurusContext();
