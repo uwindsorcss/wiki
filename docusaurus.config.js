@@ -24,6 +24,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'courses/',
+          activeBasePath: 'courses',
+          label: 'Course Information',
+          position: 'left',
+        },
+        {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
@@ -103,7 +109,10 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          id: 'plugin-docs-courses',
+          path: 'courses',
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: 'courses',
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
