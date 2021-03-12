@@ -71,17 +71,13 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Resources',
           items: [
             {
               label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
+              to: 'resources/style',
+            }
+          ]
         },
         {
           /* TDB: Replace this with something else*/
@@ -147,9 +143,8 @@ module.exports = {
           path: 'careers',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'careers',
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UWindsorCSS/Wiki/tree/master/',
       },
     ],
     [
@@ -159,9 +154,8 @@ module.exports = {
           path: 'courses',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'courses',
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UWindsorCSS/Wiki/tree/master/',
       },
     ],
     [
@@ -171,9 +165,8 @@ module.exports = {
           path: 'academics',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'academics',
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UWindsorCSS/Wiki/tree/master/',
       },
     ],
     [
@@ -183,9 +176,8 @@ module.exports = {
           path: 'resources',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'resources',
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UWindsorCSS/Wiki/tree/master/',
       },
     ],
     [
@@ -195,9 +187,8 @@ module.exports = {
           path: 'css',
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'css',
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UWindsorCSS/Wiki/tree/master/',
       },
     ],
     [
@@ -206,9 +197,8 @@ module.exports = {
           id: 'plugin-blog-newsletter',
           path: 'newsletter',
           routeBasePath: 'newsletter',
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UWindsorCSS/Wiki/tree/master/',
       },
     ],
   ]
