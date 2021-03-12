@@ -9,7 +9,9 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 
 ## Legend
 
-we will put the code of what it renders as(what it looks like) and the code
+We will put the code of what it renders as(what it looks like) and the code
+
+For the [code section]( #code "Style Guide Code Section"), we will escape the <code>```</code> with a <code>\</code> at the beginning. This is to stop it from rendering weirdly. 
 
 ### Legend Example
 
@@ -128,15 +130,39 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 [I'm an inline-style link](https://www.google.com/)
 
+```
+[I'm an inline-style link](https://www.google.com/)
+```
+
 [I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
+
+```
+[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
+```
 
 [I'm a reference-style link][arbitrary case-insensitive reference text]
 
+```
+[I'm a reference-style link][arbitrary case-insensitive reference text]
+```
+
 [You can use numbers for reference-style link definitions][1]
+
+```
+[You can use numbers for reference-style link definitions][1]
+```
 
 Or leave it empty and use the [link text itself].
 
+```
+Or leave it empty and use the [link text itself].
+```
+
 URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
+
+```
+URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
+```
 
 Some text to show that the reference links can follow later.
 
@@ -152,13 +178,29 @@ Here's our logo (hover to see the title text):
 
 Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
 
+```
+Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
+```
+
 Reference-style: ![alt text][logo]
 
+```
+Reference-style: ![alt text][logo]
+```
+
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+
+```
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+```
 
 Images from any folder can be used by providing path to file. Path should be relative to markdown file.
 
 ![img](../static/img/logo.svg)
+
+```
+![img](../static/img/logo.svg)
+```
 
 ---
 
@@ -169,20 +211,55 @@ var s = 'JavaScript syntax highlighting';
 alert(s);
 ```
 
+```
+\```javascript
+var s = 'JavaScript syntax highlighting';
+alert(s);
+\```
+```
+
+---
+
 ```python
 s = "Python syntax highlighting"
 print(s)
 ```
 
 ```
+\```python
+s = "Python syntax highlighting"
+print(s)
+\```
+```
+
+---
+
+```
 No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
+
+```
+\```
+No language indicated, so no syntax highlighting.
+But let's throw in a <b>tag</b>.
+\```
+```
+
+---
 
 ```js {2}
 function highlightMe() {
   console.log('This line can be highlighted!');
 }
+```
+
+```
+\```js {2}
+function highlightMe() {
+  console.log('This line can be highlighted!');
+}
+\```
 ```
 
 ---
@@ -197,6 +274,14 @@ Colons can be used to align columns.
 | col 2 is      |   centered    |   \$12 |
 | zebra stripes |   are neat    |    \$1 |
 
+```
+| Tables        |      Are      |   Cool |
+| ------------- | :-----------: | -----: |
+| col 3 is      | right-aligned | \$1600 |
+| col 2 is      |   centered    |   \$12 |
+| zebra stripes |   are neat    |    \$1 |
+```
+
 There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
 | Markdown | Less      | Pretty     |
@@ -204,15 +289,30 @@ There must be at least 3 dashes separating each header cell. The outer pipes (|)
 | _Still_  | `renders` | **nicely** |
 | 1        | 2         | 3          |
 
+```
+| Markdown | Less      | Pretty     |
+| -------- | --------- | ---------- |
+| _Still_  | `renders` | **nicely** |
+| 1        | 2         | 3          |
+```
+
 ---
 
 ## Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
 
+```
+> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
+```
+
 Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+
+```
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+```
 
 ---
 
@@ -226,16 +326,35 @@ Quote break.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+```
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+```
+
 ---
 
 ## Line Breaks
 
 Here's a line for us to start with.
 
+
 This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
 
 This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
 
+```
+Here's a line for us to start with.
+
+
+This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
+
+This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
+```
 ---
 
 ## Admonitions
@@ -246,11 +365,27 @@ This is a note
 
 :::
 
+```
+:::note
+
+This is a note
+
+:::
+```
+
 :::tip
 
 This is a tip
 
 :::
+
+```
+:::tip
+
+This is a tip
+
+:::
+```
 
 :::important
 
@@ -258,14 +393,48 @@ This is important
 
 :::
 
+```
+:::important
+
+This is important
+
+:::
+```
+
 :::caution
 
 This is a caution
 
 :::
 
+```
+:::caution
+
+This is a caution
+
+:::
+```
+
 :::warning
 
 This is a warning
 
 :::
+
+```
+:::warning
+
+This is a warning
+
+:::
+```
+
+---
+
+## Section Breaks
+
+---
+
+```
+---
+```
