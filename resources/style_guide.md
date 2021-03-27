@@ -11,8 +11,6 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 
 We will put the code of what it renders as(what it looks like) and the code
 
-For the [code section]( #code "Style Guide Code Section"), we will escape the <code>```</code> with a <code>\</code> at the beginning. This is to stop it from rendering weirdly. 
-
 ### Legend Example
 
 #### Example Header
@@ -211,12 +209,10 @@ var s = 'JavaScript syntax highlighting';
 alert(s);
 ```
 
-```
-\```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-\```
-```
+    ```javascript
+    var s = 'JavaScript syntax highlighting';
+    alert(s);
+    ```
 
 ---
 
@@ -225,12 +221,10 @@ s = "Python syntax highlighting"
 print(s)
 ```
 
-```
-\```python
-s = "Python syntax highlighting"
-print(s)
-\```
-```
+    ```python
+    s = "Python syntax highlighting"
+    print(s)
+    ```
 
 ---
 
@@ -239,12 +233,10 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
-```
-\```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-\```
-```
+   ```
+   No language indicated, so no syntax highlighting.
+   But let's throw in a <b>tag</b>.
+   ```
 
 ---
 
@@ -254,13 +246,12 @@ function highlightMe() {
 }
 ```
 
-```
-\```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
-\```
-```
+    ```
+    js {2}
+    function highlightMe() {
+      console.log('This line can be highlighted!');
+    }
+    ```
 
 ---
 
@@ -438,3 +429,7 @@ This is a warning
 ```
 ---
 ```
+
+## Further Reading
+
+If you want to learn more about styling docusaurus and our wiki you can read [here](https://docusaurus.io/docs/markdown-features)
