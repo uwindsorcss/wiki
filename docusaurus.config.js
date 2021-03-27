@@ -141,7 +141,7 @@ module.exports = {
       {
           id: 'plugin-docs-careers',
           path: 'careers',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./careers/careers_sidebars.js'),
           routeBasePath: 'careers',
           editUrl:
             'https://github.com/UWindsorCSS/Wiki/tree/master/',
@@ -152,7 +152,7 @@ module.exports = {
       {
           id: 'plugin-docs-courses',
           path: 'courses',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./courses/courses_sidebars.js'),
           routeBasePath: 'courses',
           editUrl:
             'https://github.com/UWindsorCSS/Wiki/tree/master/',
@@ -185,7 +185,7 @@ module.exports = {
       {
           id: 'plugin-docs-css',
           path: 'css',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./css/css_sidebars.js'),
           routeBasePath: 'css',
           editUrl:
             'https://github.com/UWindsorCSS/Wiki/tree/master/',
