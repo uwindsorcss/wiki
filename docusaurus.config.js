@@ -174,7 +174,7 @@ module.exports = {
       {
           id: 'plugin-docs-resources',
           path: 'resources',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./resources/resources_sidebar.js'),
           routeBasePath: 'resources',
           editUrl:
             'https://github.com/UWindsorCSS/Wiki/tree/master/',
