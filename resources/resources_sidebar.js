@@ -1,6 +1,12 @@
 module.exports = {
-	indexNav: {
-		SiteMap: ['index'],
-		StyleGuide: ['style_guide'],
-	}
+	indexNav: [
+		{
+			type: 'doc',
+			id: 'index',
+		},
+		{
+			type: 'doc',
+			id: 'style_guide',
+		}
+	]
 };
