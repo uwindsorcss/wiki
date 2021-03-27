@@ -9,6 +9,8 @@ Docusaurus is the static site generator we use. It works by transforming markdow
 
 ## Code Map
 
+*The order is a loose grouping of sections and importance*
+
 ### Code Map Legend
 
 `<file name>` for a file name
@@ -33,6 +35,12 @@ This is the templates for github. This includes templates for pull requests and 
 
 ---
 
+### `docusaurus.config.js`
+
+This is the master configuration for the wiki. This includes everything from section definitions and linking to specific side bars to defining what goes on the nav bar and footer. If you want to learn how the wiki is specifically layed out, this is the file to read. 
+
+---
+
 ### `src/`
 
 This is the source files for our wiki. It includes subfolders that contain our custom css and our home page.
@@ -49,5 +57,58 @@ This is the place to put our custom css.
 
 This is the place to put custom React pages. We currently have our homepage in there.
 
-### 
+---
 
+###  `static/`
+
+This is the place for all static files. This includes images in a subfolder.
+
+---
+
+### `static/img/`
+
+This is the subfolder for all images.
+
+---
+
+### `build/`
+
+This is where all the built files are put. The markdown files go through the build process and get turned into html, this is where the files end up. You can update the files that go here by running `yarn build`
+
+---
+
+### `academics/`
+
+This is the wiki section about academics. You would put files here that relate to academics and aren't about courses.
+
+---
+
+### `careers/`
+
+This is the wiki section relating careers. You would put files here that relate to careers, coop, or internships. 
+
+---
+
+### `courses/`
+
+This is the wiki section relating to courses. You would put files here that relate to specific courses or courses in general.
+
+---
+
+### `css/`
+
+This is the wiki section relating to University of Windsor Computer Science Society. You would put files here that relate to UWin CSS.
+
+---
+
+### `newsletter/`
+
+This is the wiki section relating to UWindsor CSS' monthly newsletter. You would put files here that are specific dated entries in our newsletter.
+
+---
+
+### `resources/`
+
+This is the section relating to resources for students. You would put files here that relate to resources for students.
+
+---
