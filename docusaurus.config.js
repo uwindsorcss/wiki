@@ -163,7 +163,7 @@ module.exports = {
       {
           id: 'plugin-docs-academics',
           path: 'academics',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./academics/academics_sidebars.js'),
           routeBasePath: 'academics',
           editUrl:
             'https://github.com/UWindsorCSS/Wiki/tree/master/',
@@ -174,7 +174,7 @@ module.exports = {
       {
           id: 'plugin-docs-resources',
           path: 'resources',
-          sidebarPath: require.resolve('./resources/resources_sidebar.js'),
+          sidebarPath: require.resolve('./resources/resources_sidebars.js'),
           routeBasePath: 'resources',
           editUrl:
             'https://github.com/UWindsorCSS/Wiki/tree/master/',
