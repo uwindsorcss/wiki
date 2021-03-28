@@ -10,6 +10,7 @@ module.exports = {
   projectName: 'Wiki', // Usually your repo name.
   themeConfig: {
     defaultMode: 'dark',
+	  hideableSidebar: true, 
     navbar: {
       style: 'dark',
       title: '',
@@ -75,7 +76,7 @@ module.exports = {
           items: [
             {
               label: 'Style Guide',
-              to: 'resources/style',
+              to: 'resources/guides/style',
             }
           ]
         },
