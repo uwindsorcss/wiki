@@ -14,7 +14,7 @@ const features = [
     linkTo: 'courses',
     description: (
       <>
-        Explore information about specific course. Tips, Tricks, Information and more!
+        Explore detailed information about specific courses for CS students. Tips, Tricks, Information and more!
       </>
     ),
   },
@@ -24,7 +24,7 @@ const features = [
     linkTo: 'careers',
     description: (
       <>
-        Careers are hard. Get a leg up using our guide!
+        Whether you're looking for your first internship or trying to get a new grad job, get a leg up using our guide!
       </>
     ),
   },
@@ -34,7 +34,7 @@ const features = [
     linkTo: 'academics/',
     description: (
       <>
-        Got questions about school? Find some answers here.
+        Not sure what courses to take? Got questions about school in general? Find some answers and advice here.
       </>
     ),
   },
@@ -44,7 +44,7 @@ const features = [
     linkTo: 'resources/',
     description: (
       <>
-        Want to be better at Computers? Get some help here.
+        Looking to improve your coding, development, or general computer skills? Find tips, links, and other help here.
       </>
     ),
   },
@@ -64,7 +64,7 @@ const features = [
     linkTo: 'newsletter/',
     description: (
       <>
-        An update about whats going on in Computer Science and University of Windsor.
+        Here you can find regular updates about what's going on in Computer Science and the University of Windsor.
       </>
     ),
   },
