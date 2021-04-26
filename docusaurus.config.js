@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Computer Science Society Wiki',
-  tagline: 'A Wiki for Computer Science Society',
+  title: 'UWindsor Computer Science Wiki',
+  tagline: 'Courtesy of the University of Windsor Computer Science Society',
   url: 'https://css.uwindsor.ca/wiki',
   baseUrl: '/wiki/',
   onBrokenLinks: 'throw',
@@ -77,6 +77,14 @@ module.exports = {
             {
               label: 'Style Guide',
               to: 'resources/guides/style',
+            },
+            {
+              label: 'CS Help Site',
+              href: 'https://help.cs.uwindsor.ca/mediawiki/index.php/Welcome',
+            },
+            {
+              label: 'Contribute',
+              href: 'https://github.com/uwindsorcss/wiki',
             }
           ]
         },
@@ -91,11 +99,10 @@ module.exports = {
             {
               label: 'Github',
               href: 'https://github.com/UWindsorCSS'
-
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/UWindsorCSS',
+              label: 'Hub',
+              href: 'https://css.uwindsor.ca',
             },
           ],
         },
@@ -103,21 +110,22 @@ module.exports = {
           title: 'Socials',
           items: [
             {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/uwindsorcss/',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/uwindsorcss/',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/uwindsorcss',
             },
             {
               label: 'Twitter',
               href: 'https://twitter.com/UWindsorCSS',
             },
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/uwindsorcss/',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/uwindsorcss/',
             },
-            {
-              label: 'facebook',
-              href: 'https://www.facebook.com/uwindsorcss',
-            },
+
           ],
         },
       ],
