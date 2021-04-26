@@ -3,18 +3,19 @@ id: index
 title: Index
 sidebar_label: Index
 slug: /
+hide_table_of_contents: true
 ---
 
-# Hello
+# Offered courses
 
-###### Requirements Legend
+### Requirements Legend
 
-❤️ Bachelor of Computer Science (General)<br/>
-💙 Bachelor of Computer Science (Honours)<br/>
-💛 Bachelor of Computer Science (Honours Applied Computing)<br/>
-💚 Bachelor of Science (Honours Computer Science with Software Engineering Specialization)<br/>
-💜 Bachelor of Commerce (Honours Business Administration and Computer Science)<br/>
-🖤 Bachelor of Mathematics (Honours Mathematics and Computer Science)<br/>
+❤️Bachelor of Computer Science (General)<br/>
+💙Bachelor of Computer Science (Honours)<br/>
+💛Bachelor of Computer Science (Honours Applied Computing)<br/>
+💚Bachelor of Science (Honours Computer Science with Software Engineering Specialization)<br/>
+💜Bachelor of Commerce (Honours Business Administration and Computer Science)<br/>
+🖤Bachelor of Mathematics (Honours Mathematics and Computer Science)<br/>
 
 | Course Code | Course Name | Fall | Winter | Summer | Required | Prerequisite(s)
 |-------------|:------------------------------------------------:|-------------|-------------|---------------------|----------|:------------------------------------------------------------------------------:|
