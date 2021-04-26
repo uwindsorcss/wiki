@@ -1,3 +1,5 @@
+### Did you read and follow article requirements
+
 ### What are you trying to accomplish?
 
 
