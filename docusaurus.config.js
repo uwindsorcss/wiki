@@ -20,8 +20,8 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://css.uwindsor.ca',
-          label: 'Hub',
+          to: '/',
+          label: 'Home',
           position: 'left',
         },
         {
@@ -59,6 +59,11 @@ module.exports = {
           activeBasePath: 'newsletter',
           label: 'Newsletter',
           position: 'left',
+        },
+        {
+          href: 'https://css.uwindsor.ca',
+          label: 'Hub',
+          position: 'right',
         },
         {
           href: 'https://github.com/UWindsorCSS/Wiki',
