@@ -1,13 +1,10 @@
 ---
-id: index
-title: Index
-sidebar_label: Index
+id: Offered Courses
+title: Offered Courses
+sidebar_label: Offered Courses
 slug: /
 hide_table_of_contents: true
 ---
-
-# Offered courses
-
 ### Requirements Legend
 
 ❤️Bachelor of Computer Science (General)<br/>
