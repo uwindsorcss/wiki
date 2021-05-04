@@ -1,7 +1,7 @@
 ---
 id: importantDates
-title: ImportantDates
-sidebar_label: ImportantDates
+title: Important Dates
+sidebar_label: Important Dates
 slug: /
 ---
 
