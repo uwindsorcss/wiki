@@ -3,7 +3,7 @@ id: Offered Courses
 title: Offered Courses
 sidebar_label: Offered Courses
 slug: /
-hide_table_of_contents: false
+hide_table_of_contents: true
 ---
 ### Requirements Legend
 
