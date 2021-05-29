@@ -19,6 +19,7 @@ const features = [
     imageUrl: 'img/careers',
     linkTo: 'careers',
     description: <>Careers are hard. Get a leg up using our guide!</>,
+
   },
   {
     title: 'Academics',
@@ -43,6 +44,7 @@ const features = [
     imageUrl: 'img/newsletter',
     linkTo: 'newsletter/',
     description: <>An update about whats going on in Computer Science and University of Windsor.</>,
+
   },
 ];
 

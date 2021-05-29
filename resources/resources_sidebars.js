@@ -5,8 +5,9 @@ module.exports = {
 			id: 'index',
 		},
 		{
-			type: 'doc',
-			id: 'style_guide',
+			type: 'category',
+			label: 'Guides',
+			items: ['guides/style_guide', 'guides/contributing'],
 		}
 	]
 };
