@@ -1,8 +1,6 @@
 ---
 id: index
-title: Index
+title: Careers and Internships
 sidebar_label: Index
 slug: /
 ---
-
-# Hello from careers
