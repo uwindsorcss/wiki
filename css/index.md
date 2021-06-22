@@ -2,7 +2,7 @@
 id: index
 title: Index
 sidebar_label: Index
-slug: /
+slug: /css
 ---
 
 # Hello from css
