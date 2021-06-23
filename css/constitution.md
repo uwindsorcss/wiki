@@ -29,7 +29,15 @@ covered by part a, may purchase a membership for **$20 per semester**.
 
 #### Section 1 - Positions
 
-![CSS Org Chart](https://i.imgur.com/dRCTTSIh.jpg)
+import ThemedImage from '@theme/ThemedImage';
+
+<ThemedImage
+  alt="Docusaurus themed image"
+  sources={{
+    light: '/static/img/constitution-positions-light.svg',
+    dark: '/static/img/constitution-positions-dark.svg',
+  }}
+/>
 
 ##### Section 1.1 - Executive Positions
 
@@ -234,7 +242,7 @@ Executive at an executive meeting.
 
 The first year representative, and any positions not elected in the
 annual election (including positions temporarily held), shall be elected
-during the first month of the fall semester. 
+during the first month of the fall semester.
 
 The elected positions shall be all positions except **Head of Technology**, **Social Media Moderators**, and **Secretary**.
 
