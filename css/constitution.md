@@ -32,7 +32,7 @@ covered by part a, may purchase a membership for **$20 per semester**.
 import ThemedImage from '@theme/ThemedImage';
 
 <ThemedImage
-  alt="Docusaurus themed image"
+  alt="CSS Position Chart"
   sources={{
     light: '/static/img/constitution-positions-light.svg',
     dark: '/static/img/constitution-positions-dark.svg',
