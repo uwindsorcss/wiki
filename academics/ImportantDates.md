@@ -2,7 +2,7 @@
 id: importantDates
 title: Important Dates
 sidebar_label: Important Dates
-slug: /
+slug: /dates
 ---
 
 ### Summer 2021
