@@ -1,11 +1,9 @@
 ---
 id: findingAwards
-title: Awards
+title: Finding Awards
 sidebar_label: Finding Awards
 slug: /findingAwards
 ---
-
-# Finding Awards
 
 Visit the University [award search][awardsearch] portal to find up-to-date information on currently available awards. You can search by faculty, program, study year, and multiple other factors to find awards best suited to you.
 

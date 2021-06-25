@@ -1,11 +1,9 @@
 ---
 id: awardApplication
-title: Awards
+title: Applying for Awards
 sidebar_label: Applying for Awards
 slug: /awardApplication
 ---
-
-# Applying for Awards
 
 Log into your [UWinsite Student][uwinsite] and complete the Award Profile. The University has provided a [how-to guide][guide] to assist you. Once you have completed your Award Profile, you can apply to the awards of your choice. See [Finding Awards](findingawards) to find out how to search for awards, as well as some notable awards to apply to.
 
