@@ -17,7 +17,7 @@ When you connect your wireless Wi-Fi device (phone/PC/Mac) to the network, you w
 
 Which should you use? The short answer is “Connect to eduroam”. The eduroam wireless network is available to all wireless users (Students/Faculty/Staff/guests). Plus it has the additional benefit that users from other eduroam institutions (many universities, for example) can also connect to the University of Windsor’s wireless network using their home institution’s crededentials.
 
-## Eduroam - The Preferred Wireless Network
+## [Eduroam - The Preferred Wireless Network](https://www.uwindsor.ca/itservices/2019-09-27/eduroam-preferred-wireless-network)
 ![alt text](https://www.uwindsor.ca/itservices/sites/uwindsor.ca.itservices/files/246studentlaw_sm-retouched_crop.jpg "girl connecting to the right choice")
 
 **Eduroam** is a network used by many universities, and your UWindsor sign in will work at any campus that uses eduroam.
