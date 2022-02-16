@@ -1,11 +1,9 @@
 ---
 id: wifi_guide
-title: Wi-Fi Guide # ![img](../../static/img/wifi-logo-blue-png-photo-resized.png 'Wifi Logo')
-sidebar_label: Wi-Fi Guide # ![img](../../static/img/wifi-logo-blue-png-photo-resized.png 'Wifi Logo')
+title: Wi-Fi Guide
+sidebar_label: Wi-Fi Guide
 slug: /guides/wifi
 ---
-<!-- # Wi-Fi Guide ![img](../../static/img/wifi-logo-blue-png-photo-resized.png 'Wifi Logo') -->
-<!-- ![alt text](https://www.transparentpng.com/thumb/wi-fi/wifi-logo-blue-png-photo-31.png 'Wifi Logo') -->
 
 This is a guide to connecting to Wi-Fi on campus.
 
