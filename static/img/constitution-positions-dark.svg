@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3740 1605" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-178.4,-909.584)">
+        <g id="Dark">
+            <g id="Event-Group" serif:id="Event Group" transform="matrix(1,0,0,1,704.3,0)">
+                <g id="Background" transform="matrix(0.86763,0,0,0.636106,626.342,1757.75)">
+                    <path d="M2968.15,334.46C2968.15,269.386 2929.42,216.555 2881.71,216.555L1336.41,216.555C1288.7,216.555 1249.96,269.386 1249.96,334.46L1249.96,1052.11C1249.96,1117.18 1288.7,1170.01 1336.41,1170.01L2881.71,1170.01C2929.42,1170.01 2968.15,1117.18 2968.15,1052.11L2968.15,334.46Z" style="fill:#0c3b5e;"/>
+                </g>
+                <g id="Heirarchy" transform="matrix(1,0,0,1,-704.3,0)">
+                    <g transform="matrix(1.00553,0,0,0.598698,1073.65,1525.43)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.598698,-74.7491,1525.43)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.598698,212.351,1525.43)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,1.13841,499.451,819.971)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.598698,786.551,1525.43)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.05573e-17,-0.172414,0.812227,4.97346e-17,2200.12,2601.15)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="Role---Event-Coord" serif:id="Role - Event Coord" transform="matrix(1,0,0,1,813.837,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,140.144)">
+                        <text x="1951.14px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Event</text>
+                        <text x="1895.56px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Coordinator</text>
+                    </g>
+                </g>
+                <g id="Role---Event-Coord1" serif:id="Role - Event Coord" transform="matrix(1,0,0,1,526.737,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,140.144)">
+                        <text x="1951.14px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Event</text>
+                        <text x="1895.56px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Coordinator</text>
+                    </g>
+                </g>
+                <g id="Role---Event-Coord2" serif:id="Role - Event Coord" transform="matrix(1,0,0,1,239.662,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,140.144)">
+                        <text x="1951.14px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Event</text>
+                        <text x="1895.56px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Coordinator</text>
+                    </g>
+                </g>
+                <g id="Role---Event-Coord3" serif:id="Role - Event Coord" transform="matrix(1,0,0,1,-47.4632,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,140.144)">
+                        <text x="1951.14px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Event</text>
+                        <text x="1895.56px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Coordinator</text>
+                    </g>
+                </g>
+                <g id="Role---Event-Org" serif:id="Role - Event Org" transform="matrix(1,0,0,1,-334.563,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,136.014)">
+                        <text x="1951.14px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Event</text>
+                        <text x="1912.95px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Organizer</text>
+                    </g>
+                </g>
+                <g id="Role---Events-Head" serif:id="Role - Events Head" transform="matrix(1,0,0,1,408.225,10)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1032.33,1403.56)">
+                        <path d="M2264.15,1390.87C2264.15,1361.06 2241.29,1336.86 2213.13,1336.86L1768,1336.86C1739.84,1336.86 1716.98,1361.06 1716.98,1390.87L1716.98,1565.13C1716.98,1594.94 1739.84,1619.14 1768,1619.14C1768,1619.14 2213.13,1619.14 2213.13,1619.14C2241.29,1619.14 2264.15,1594.94 2264.15,1565.13L2264.15,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,43.2772,-73.5918)">
+                        <text x="1931.45px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Head of</text>
+                        <text x="1940.73px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Events</text>
+                    </g>
+                </g>
+                <g id="Label" transform="matrix(0.947211,0,0,0.947211,695.135,1596.1)">
+                    <text x="1630.53px" y="405.457px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.18px;fill:#fff;">Events <tspan x="1893.16px 1932.75px 1976.79px " y="405.457px 405.457px 405.457px ">Tea</tspan>m</text>
+                </g>
+            </g>
+            <g id="Tech-Group" serif:id="Tech Group">
+                <g id="Background1" serif:id="Background" transform="matrix(0.392449,0,0,0.636106,1220.3,1757.75)">
+                    <path d="M2968.15,334.46C2968.15,269.386 2882.52,216.555 2777.04,216.555L1441.07,216.555C1335.6,216.555 1249.96,269.386 1249.96,334.46L1249.96,1052.11C1249.96,1117.18 1335.6,1170.01 1441.07,1170.01L2777.04,1170.01C2882.52,1170.01 2968.15,1117.18 2968.15,1052.11L2968.15,334.46Z" style="fill:#0c3b5e;"/>
+                </g>
+                <g id="Heirarchy1" serif:id="Heirarchy">
+                    <g transform="matrix(1.00553,0,0,0.648631,-781.585,1460.16)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.648631,-444.704,1460.16)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.589641,-613.049,1482.32)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.05573e-17,-0.172414,0.236208,1.44636e-17,1768.61,2601.15)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="Role---Moderator" serif:id="Role - Moderator" transform="matrix(1,0,0,1,0,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,863.766,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-125.286,160.669)">
+                        <text x="1909.47px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Moderator</text>
+                    </g>
+                </g>
+                <g id="Role---Moderator1" serif:id="Role - Moderator" transform="matrix(1,0,0,1,0,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,161.669)">
+                        <text x="1909.47px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Moderator</text>
+                    </g>
+                </g>
+                <g id="Role---Tech-Head" serif:id="Role - Tech Head" transform="matrix(1,0,0,1,0,10)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1032.33,1403.56)">
+                        <path d="M2264.15,1390.87C2264.15,1361.06 2241.29,1336.86 2213.13,1336.86L1768,1336.86C1739.84,1336.86 1716.98,1361.06 1716.98,1390.87L1716.98,1565.13C1716.98,1594.94 1739.84,1619.14 1768,1619.14C1768,1619.14 2213.13,1619.14 2213.13,1619.14C2241.29,1619.14 2264.15,1594.94 2264.15,1565.13L2264.15,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,43.2772,-77.732)">
+                        <text x="1931.45px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Head of</text>
+                        <text x="1899.02px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">T<tspan x="1919.85px 1943.03px " y="2226.01px 2226.01px ">ec</tspan>hnology</text>
+                    </g>
+                </g>
+                <g id="Label1" serif:id="Label" transform="matrix(0.947211,0,0,0.947211,213.925,1596.1)">
+                    <text x="1630.53px" y="405.457px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.18px;fill:#fff;">T<tspan x="1670.12px 1714.16px " y="405.457px 405.457px ">ec</tspan>hnology <tspan x="2051.68px 2091.27px 2135.3px " y="405.457px 405.457px 405.457px ">Tea</tspan>m</text>
+                </g>
+            </g>
+            <g id="Rep-Group" serif:id="Rep Group" transform="matrix(1,0,0,1,-704.3,0)">
+                <g id="Background2" serif:id="Background" transform="matrix(0.392449,0,0,0.636106,1220.3,1757.75)">
+                    <path d="M2968.15,334.46C2968.15,269.386 2882.52,216.555 2777.04,216.555L1441.07,216.555C1335.6,216.555 1249.96,269.386 1249.96,334.46L1249.96,1052.11C1249.96,1117.18 1335.6,1170.01 1441.07,1170.01L2777.04,1170.01C2882.52,1170.01 2968.15,1117.18 2968.15,1052.11L2968.15,334.46Z" style="fill:#0c3b5e;"/>
+                </g>
+                <g id="Role---CSC-Liason" serif:id="Role - CSC Liason" transform="matrix(1,0,0,1,168.563,75.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,863.766,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-125.286,140.408)">
+                        <text x="1960.43px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">CSC</text>
+                        <text x="1943.03px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Liason</text>
+                    </g>
+                </g>
+                <g id="Role---Sen-Rep" serif:id="Role - Sen Rep" transform="matrix(1,0,0,1,317.126,-78.9335)">
+                    <g transform="matrix(0.510243,0,0,0.482014,863.766,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-125.286,136.319)">
+                        <text x="1944.2px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Senior</text>
+                        <text x="1966.2px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Rep</text>
+                    </g>
+                </g>
+                <g id="Role---SY-Rep" serif:id="Role - SY Rep" transform="matrix(1,0,0,1,20,-78.9335)">
+                    <g transform="matrix(0.510243,0,0,0.482014,863.766,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-125.286,136.319)">
+                        <text x="1922.15px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">2nd <tspan x="2002.5px 2026.46px 2049.64px " y="2182.98px 2182.98px 2182.98px ">Yea</tspan>r</text>
+                        <text x="1966.2px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Rep</text>
+                    </g>
+                </g>
+                <g id="Role---FY-Rep" serif:id="Role - FY Rep" transform="matrix(1,0,0,1,149.594,-18.9335)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1032.33,1403.56)">
+                        <path d="M2264.15,1390.87C2264.15,1361.06 2241.29,1336.86 2213.13,1336.86C2213.13,1336.86 1768,1336.86 1768,1336.86C1739.84,1336.86 1716.98,1361.06 1716.98,1390.87L1716.98,1565.13C1716.98,1594.94 1739.84,1619.14 1768,1619.14C1768,1619.14 2213.13,1619.14 2213.13,1619.14C2241.29,1619.14 2264.15,1594.94 2264.15,1565.13C2264.15,1565.13 2264.15,1390.87 2264.15,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,43.2772,-77.732)">
+                        <text x="1929.12px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">1st <tspan x="1995.53px 2019.49px 2042.67px " y="2182.98px 2182.98px 2182.98px ">Yea</tspan>r</text>
+                        <text x="1966.2px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Rep</text>
+                    </g>
+                </g>
+                <g id="Role---FY-Rep1" serif:id="Role - FY Rep" transform="matrix(1,0,0,1,-317.126,-232.934)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,136.319)">
+                        <text x="1929.12px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">1st <tspan x="1995.53px 2019.49px 2042.67px " y="2182.98px 2182.98px 2182.98px ">Yea</tspan>r</text>
+                        <text x="1966.2px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Rep</text>
+                    </g>
+                </g>
+                <g id="Label2" serif:id="Label" transform="matrix(0.947211,0,0,0.947211,231.063,1596.1)">
+                    <text x="1630.53px" y="405.457px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.18px;fill:#fff;">Representatives</text>
+                </g>
+            </g>
+            <g id="SocDev" transform="matrix(1,0,0,1,-1408.6,0)">
+                <g id="Background3" serif:id="Background" transform="matrix(0.457256,0,0,0.636106,1027.95,1757.75)">
+                    <path d="M2968.15,334.46C2968.15,269.386 2894.66,216.555 2804.13,216.555L1413.99,216.555C1323.46,216.555 1249.96,269.386 1249.96,334.46L1249.96,1052.11C1249.96,1117.18 1323.46,1170.01 1413.99,1170.01L2804.13,1170.01C2894.66,1170.01 2968.15,1117.18 2968.15,1052.11L2968.15,334.46Z" style="fill:#0c3b5e;"/>
+                </g>
+                <g id="Heirarchy2" serif:id="Heirarchy" transform="matrix(1,0,0,1,1408.6,0)">
+                    <g transform="matrix(1.00553,0,0,0.648631,-2259.63,1460.16)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.648631,-1890.32,1460.16)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.542278,-2072.23,1544.23)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.05573e-17,-0.172414,0.259012,1.58599e-17,279.771,2601.15)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="Role---Merch-Coord" serif:id="Role - Merch Coord" transform="matrix(1,0,0,1,-69.5118,45.0233)">
+                    <g transform="matrix(0.598019,0,0,0.482014,689.042,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2243.39,1339 2220.32,1339L1760.81,1339C1737.73,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1737.73,1617 1760.81,1617L2220.32,1617C2243.39,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-125.286,140.144)">
+                        <text x="1868.93px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Merchandising</text>
+                        <text x="1895.56px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Coordinator</text>
+                    </g>
+                </g>
+                <g id="Role---Soc-Med-Coord" serif:id="Role - Soc Med Coord" transform="matrix(1,0,0,1,-37.0382,45.0233)">
+                    <g transform="matrix(0.542047,0,0,0.482014,1137.58,1617.56)">
+                        <path d="M2262.13,1390.87C2262.13,1362.24 2241.46,1339 2216.01,1339L1765.12,1339C1739.67,1339 1719,1362.24 1719,1390.87L1719,1565.13C1719,1593.76 1739.67,1617 1765.12,1617L2216.01,1617C2241.46,1617 2262.13,1593.76 2262.13,1565.13L2262.13,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,140.398)">
+                        <text x="1885.14px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Social Media</text>
+                        <text x="1895.56px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Coordinator</text>
+                    </g>
+                </g>
+                <g id="Role---Tech-Head1" serif:id="Role - Tech Head" transform="matrix(1,0,0,1,-55.675,14.7426)">
+                    <g transform="matrix(0.66154,0,0,0.482014,731.162,1403.56)">
+                        <path d="M2263.68,1390.87C2263.68,1361.06 2246.05,1336.86 2224.34,1336.86C2224.34,1336.86 1756.79,1336.86 1756.79,1336.86C1735.07,1336.86 1717.44,1361.06 1717.44,1390.87L1717.44,1565.13C1717.44,1594.94 1735.07,1619.14 1756.79,1619.14L2224.34,1619.14C2246.05,1619.14 2263.68,1594.94 2263.68,1565.13L2263.68,1390.87Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,43.2772,-77.732)">
+                        <text x="1851.55px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Head of Societal</text>
+                        <text x="1881.67px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Development</text>
+                    </g>
+                </g>
+                <g id="Label3" serif:id="Label" transform="matrix(0.947211,0,0,0.947211,81.6764,1596.1)">
+                    <text x="1630.53px" y="405.457px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.18px;fill:#fff;">Societal Development</text>
+                </g>
+            </g>
+            <g id="Exec-Group" serif:id="Exec Group" transform="matrix(1,0,0,1.14158,1.81899e-12,-1327.66)">
+                <g id="Background4" serif:id="Background" transform="matrix(0.93721,0,0,0.557214,71.3707,1850.05)">
+                    <path d="M2968.15,334.46C2968.15,269.386 2932.29,216.555 2888.13,216.555L1329.99,216.555C1285.82,216.555 1249.96,269.386 1249.96,334.46L1249.96,1052.11C1249.96,1117.18 1285.82,1170.01 1329.99,1170.01L2888.13,1170.01C2932.29,1170.01 2968.15,1117.18 2968.15,1052.11L2968.15,334.46Z" style="fill:#0c3b5e;"/>
+                </g>
+                <g id="Pres-Sub" serif:id="Pres Sub" transform="matrix(1,0,0,0.875977,-1.81899e-12,1163)">
+                    <g transform="matrix(1.00553,0,0,0.5,-14.6241,653.559)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.00553,0,0,0.5,-1211.61,653.559)">
+                        <rect x="2641.45" y="1206.98" width="9.945" height="100.134" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.05573e-17,-0.172414,0.839187,5.13854e-17,1055.75,1615.15)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="Role---Treasurer" serif:id="Role - Treasurer" transform="matrix(1,0,0,1,-430,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,863.766,1617.56)">
+                        <path d="M2262.13,1384.43C2262.13,1359.36 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1359.36 1719,1384.43L1719,1571.57C1719,1596.64 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1596.64 2262.13,1571.57L2262.13,1384.43Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-125.286,160.669)">
+                        <text x="1914.89px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">T<tspan x="1938.8px 1952.67px " y="2182.98px 2182.98px ">re</tspan>asurer</text>
+                    </g>
+                </g>
+                <g id="Role---VP" serif:id="Role - VP" transform="matrix(1,0,0,1,430,45.0233)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1200.89,1617.56)">
+                        <path d="M2262.13,1384.43C2262.13,1359.36 2240.17,1339 2213.13,1339L1768,1339C1740.95,1339 1719,1359.36 1719,1384.43L1719,1571.57C1719,1596.64 1740.95,1617 1768,1617L2213.13,1617C2240.17,1617 2262.13,1596.64 2262.13,1571.57L2262.13,1384.43Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,211.84,140.154)">
+                        <text x="1964.27px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">V<tspan x="1991.31px 2000.56px " y="2182.98px 2182.98px ">ic</tspan>e</text>
+                        <text x="1916.4px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">President</text>
+                    </g>
+                </g>
+                <g id="Role---President" serif:id="Role - President" transform="matrix(1,0,0,1,0,36.2793)">
+                    <g transform="matrix(0.510243,0,0,0.482014,1032.33,1403.56)">
+                        <path d="M2264.15,1384.43C2264.15,1358.32 2241.29,1337.13 2213.13,1337.13L1768,1337.13C1739.84,1337.13 1716.98,1358.32 1716.98,1384.43L1716.98,1571.57C1716.98,1597.68 1739.84,1618.87 1768,1618.87L2213.13,1618.87C2241.29,1618.87 2264.15,1597.68 2264.15,1571.57L2264.15,1384.43Z" style="fill:#fccf09;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,43.2772,-52.3312)">
+                        <text x="1916.4px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">President</text>
+                    </g>
+                </g>
+                <g id="Label4" serif:id="Label" transform="matrix(0.947211,0,0,0.947211,320.693,1666.63)">
+                    <text x="1630.53px" y="405.457px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:79.18px;fill:#fff;">Executives</text>
+                </g>
+            </g>
+            <g id="Exec-Links" serif:id="Exec Links">
+                <g id="Pres---Sec" serif:id="Pres &gt; Sec">
+                    <g transform="matrix(0.172414,0,0,0.482864,1694.9,980.232)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(0.325,0,0,1.10358,1382.4,-177.329)">
+                        <rect x="2048" y="1702.94" width="560" height="9.061" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="Exec---Reps" serif:id="Exec &gt; Reps">
+                    <g transform="matrix(0.172414,0,0,0.100617,990.597,1704.78)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(0.172414,0,0,0.163663,1342.75,1451.78)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(0.628839,0,0,1.10358,55.8371,-127.329)">
+                        <rect x="2048" y="1702.94" width="560" height="9.061" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="Treasurer---Soc" serif:id="Treasurer &gt; Soc">
+                    <g transform="matrix(0.172414,0,0,0.135675,235.622,1638.33)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(0.172414,0,0,0.176631,1091.47,1377.2)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.5283,0,0,1.10358,-2541.24,-177.329)">
+                        <rect x="2048" y="1702.94" width="560" height="9.061" style="fill:#fff;"/>
+                    </g>
+                </g>
+                <g id="VP---CA---Events" serif:id="VP &gt; CA + Events">
+                    <g transform="matrix(0.172414,0,0,0.176631,2293.32,1377.2)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(0.172414,0,0,0.132169,2807.42,1644.97)">
+                        <rect x="2019" y="469.298" width="58" height="1426.2" style="fill:#fff;"/>
+                    </g>
+                    <g transform="matrix(1.16731,0,0,1.10358,255.773,-177.329)">
+                        <rect x="2048" y="1702.94" width="560" height="9.061" style="fill:#fff;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="Role---Career-Advisor" serif:id="Role - Career Advisor" transform="matrix(1,0,0,1,1391.71,-408.507)">
+                <g transform="matrix(0.510243,0,0,0.482014,1032.33,1403.56)">
+                    <path d="M2264.15,1390.87C2264.15,1361.06 2241.29,1336.86 2213.13,1336.86C2213.13,1336.86 1768,1336.86 1768,1336.86C1739.84,1336.86 1716.98,1361.06 1716.98,1390.87L1716.98,1565.13C1716.98,1594.94 1739.84,1619.14 1768,1619.14C1768,1619.14 2213.13,1619.14 2213.13,1619.14C2241.29,1619.14 2264.15,1594.94 2264.15,1565.13C2264.15,1565.13 2264.15,1390.87 2264.15,1390.87Z" style="fill:#fccf09;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,43.2772,-73.5918)">
+                    <text x="1940.74px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Career</text>
+                    <text x="1934.95px" y="2226.01px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Adivsor</text>
+                </g>
+            </g>
+            <g id="Role---Secretary" serif:id="Role - Secretary" transform="matrix(1,0,0,1,321.594,-408.507)">
+                <g transform="matrix(0.510243,0,0,0.482014,1032.33,1403.56)">
+                    <path d="M2264.15,1390.87C2264.15,1361.06 2241.29,1336.86 2213.13,1336.86C2213.13,1336.86 1768,1336.86 1768,1336.86C1739.84,1336.86 1716.98,1361.06 1716.98,1390.87L1716.98,1565.13C1716.98,1594.94 1739.84,1619.14 1768,1619.14C1768,1619.14 2213.13,1619.14 2213.13,1619.14C2241.29,1619.14 2264.15,1594.94 2264.15,1565.13C2264.15,1565.13 2264.15,1390.87 2264.15,1390.87Z" style="fill:#fccf09;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,43.2772,-56.2171)">
+                    <text x="1915.27px" y="2182.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">Secretary</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
