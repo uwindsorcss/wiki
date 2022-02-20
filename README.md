@@ -1,40 +1,53 @@
-# Website
+# Get Started
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-## Installation Steps for Ubuntu
+Docusaurus is a **static-site generator**. It builds a **single-page application** with fast client-side navigation, leveraging the full power of **React** to make your site interactive. It provides out-of-the-box **documentation features** but can be used to create **any kind of site** (personal website, product, blog, marketing landing pages, etc).
 
-* Go into Wiki directory after cloning the Repo `cd Wiki/`
-* Locate `setup.sh` script in repo
-* Run `sudo ./setup.sh` or you can install manually one after another.
 
-Make sure to run script with `sudo` privileges.
+
+## Dependencies
+
+* **Nodejs** version >= 14 or above
+
+* **Yarn** version >= 1.5
+* **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+
+
+## How to install
+
+Windows and Mac users download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.																			
 
 ```bash
-#!/bin/bash
-#
-# Script Name: setup.sh
-# Purpose: This script will install the dependencies required
-# 					to run the CSS Wiki Application
+### Install Dependencies for Windows
+# Install Node from the link above 
+npm install --global yarn
 
-# Install the updates
+### Install Dependencies for Debian based(Ubuntu)
 sudo apt-get update
-
-# Install the npm packages
 sudo apt install npm -y
-
-# Install the yarn packages
 sudo npm install --global yarn -y
+sudo apt-get install git // In case, Not installed
 
-# Install Git (In case, Not installed)
-sudo apt-get install git
+### Install Dependencies for Mac
+# Install Node from the link above 
+npm install --global yarn
 ```
 
 
 
 ## Local Development
 
-We have required packages to run our application. Now we will boot up the application with follwoing command:
+1. Clone the repo
+
+```bash
+git clone git@github.com:UWindsorCSS/Wiki.git
+```
+
+
+
+2. Start the Server
 
 ```console
 yarn start
@@ -43,6 +56,12 @@ yarn start
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
 Open web browser the enter the address `http://localhost:3000/wiki/`
+
+**Alternatively, Use follwoing command to access application from other machine in your network:**
+
+`yarn start --host 0.0.0.0`
+
+Open web browser the enter the address `http://ip-address-of-other-machine:3000/wiki/`
 
 
 
@@ -54,6 +73,8 @@ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+
+
 ## Deployment
 
 ```console
@@ -64,24 +85,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 
-## Purge Installed Packages
-
-This script will purge/delete or the packages we installed for CSS Wiki.
-
-* Locate `purgeCommands.sh` in the repo.
-	* Run with sudo privileges `sudo ./purgeCommands.sh`
-
-```bash
-#!/bin/bash
-
-# This script will purge all the dependencies which were
-# required to run the CSS Wiki Application
-
-
-# Purge npm packages
-sudo apt-get purge npm -y
-
-# Purge yarn packages
-sudo apt-get purge cmdtest yarn -y
-```
-
+*Last modified: Feb 2022*
