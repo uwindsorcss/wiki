@@ -39,7 +39,7 @@ _Last updated on 2020/09/14_
 
 **Use Case:** If you need to date an article with sections
 
-Because there are many sections, please date each section with when it was last updated.
+Because there are many sections, please only date h1 sections(`#`) with when it was last updated.
 
 Put a `_Last updated on <date>_` under the section header.
 
@@ -58,7 +58,11 @@ _Last updated on 2020/09/14_
 
 ## Example Sub header
 
-_Last updated on 2020/09/17_
+some words
+
+### Example Sub Sub header
+
+some other words
 
 # Example 2
 
@@ -67,7 +71,7 @@ _Last updated on 2019/02/14_
 
 ## Citations
 
-As most of this information is factural, citating of sources is needed.
+As most of this information is factual, citing of sources is needed.
 
 Primary sources are preferred
 
@@ -99,7 +103,7 @@ https://example.com/example-source
 
 ### Sections
 
-**Use Case:** If you need to cite a sections
+**Use Case:** If you need to cite a section
 
 Citations for sections are done under the `Citations` section under another section with the name of the section you're trying to cite
 
