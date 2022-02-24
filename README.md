@@ -55,6 +55,7 @@ npm install --global yarn
 sudo apt-get update
 sudo apt install npm -y
 npm install --global yarn -y
+sudo apt-get install git // In case, Not installed
 ```
 
 ## Local Development
