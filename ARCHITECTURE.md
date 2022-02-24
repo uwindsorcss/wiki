@@ -1,7 +1,8 @@
 # Architecture
+
 **This document describes the high-level architecture of this project**
 
-If you want to familiarize yourself with the code base and *generally* how it works, this is a good place to be.
+If you want to familiarize yourself with the code base and _generally_ how it works, this is a good place to be.
 
 ## High Level TLDR
 
@@ -9,7 +10,7 @@ Docusaurus is the static site generator we use. It works by transforming markdow
 
 ## Code Map
 
-*The order is a loose grouping of sections and importance*
+_The order is a loose grouping of sections and importance_
 
 ### Code Map Legend
 
@@ -37,7 +38,7 @@ This is the templates for github. This includes templates for pull requests and 
 
 ### `docusaurus.config.js`
 
-This is the master configuration for the wiki. This includes everything from section definitions and linking to specific side bars to defining what goes on the nav bar and footer. If you want to learn how the wiki is specifically layed out, this is the file to read. 
+This is the master configuration for the wiki. This includes everything from section definitions and linking to specific side bars to defining what goes on the nav bar and footer. If you want to learn how the wiki is specifically layed out, this is the file to read.
 
 ---
 
@@ -59,7 +60,7 @@ This is the place to put custom React pages. We currently have our homepage in t
 
 ---
 
-###  `static/`
+### `static/`
 
 This is the place for all static files. This includes images in a subfolder.
 
@@ -85,7 +86,7 @@ This is the wiki section about academics. You would put files here that relate t
 
 ### `careers/`
 
-This is the wiki section relating careers. You would put files here that relate to careers, coop, or internships. 
+This is the wiki section relating careers. You would put files here that relate to careers, coop, or internships.
 
 ---
 

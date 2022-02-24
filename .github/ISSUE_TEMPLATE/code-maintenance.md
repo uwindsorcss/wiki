@@ -1,9 +1,9 @@
 ---
 name: Code Maintenance
 about: Project cleanup, improve documentation, refactor code
-title: ''
-labels: ''
-assignees: ''
+title: ""
+labels: ""
+assignees: ""
 ---
 
 #### Describe Problem
@@ -11,4 +11,3 @@ assignees: ''
 #### Suggest Changes
 
 #### Provide Examples
-

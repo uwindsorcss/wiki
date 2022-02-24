@@ -31,5 +31,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+    "prettier": {
+        "tabWidth": 4,
+        "useTabs": false,
+        "semi": true,
+        "singleQuote": false,
+        "trailingComma": "es5",
+        "quoteProps": "as-needed",
+        "bracketSpacing": false,
+        "arrowParens": "always",
+        "endOfLine": "lf"
+    },
+    "devDependencies": {
+        "prettier": "2.5.1"
+    }
 }

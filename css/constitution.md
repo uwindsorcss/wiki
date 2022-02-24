@@ -19,11 +19,12 @@ Science and to enhance the lives of computer science students on campus.
 #### Section 3 - Membership
 
 Society Membership shall consist of:
+
 1. All students who are currently enrolled on a full time basis at the
-University of Windsor majoring in a program offered by the department of
-Computer Science.
+   University of Windsor majoring in a program offered by the department of
+   Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
-covered by part a, may purchase a membership for **$20 per semester**.
+   covered by part a, may purchase a membership for **$20 per semester**.
 
 ### Article 2.
 
@@ -340,8 +341,8 @@ covered by part a, may purchase a membership for **$20 per semester**.
 import ThemedImage from '@theme/ThemedImage';
 
 <ThemedImage
-  alt="CSS Position Chart"
-  sources={{
+alt="CSS Position Chart"
+sources={{
     light: '/static/img/constitution-positions-light.svg',
     dark: '/static/img/constitution-positions-dark.svg',
   }}
@@ -382,6 +383,7 @@ The Executive shall take office on May 1st, for a 12-month term.
 #### Duties of the Executive
 
 The **President** shall:
+
 1. Preside over all meetings.
 2. Represent the society in its relations with other organizations and individuals or assign a designee in his/her place.
 3. Direct the activities of the executives and council members.
@@ -390,6 +392,7 @@ The **President** shall:
 6. Act as a moderator on the Computer Science Discord.
 
 The **Vice President** shall:
+
 1. Report to the President
 2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
 3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
@@ -397,6 +400,7 @@ The **Vice President** shall:
 5. Act as a moderator on the Computer Science Discord.
 
 The **Treasurer** shall:
+
 1. Report to the President
 2. Be responsible for all society finances including possession of society bank card.
 3. Collect and keep record of voluntary membership dues.
@@ -408,6 +412,7 @@ The **Treasurer** shall:
 9. Act as a moderator on the Computer Science Discord.
 
 The **Head of Events** shall:
+
 1. Report to the Vice President
 2. Be responsible for brainstorming events for the benefit of the social and academic life of students.
 3. Manage the entire events team (i.e. Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
@@ -416,10 +421,12 @@ The **Head of Events** shall:
 6. Act as a moderator on the Computer Science Discord.
 
 The **Event Organizer** shall:
+
 1. Report to the Head of Events.
 2. Be responsible for communicating with venues to organize, schedule, and gather pricing events.
 
 The **Event Coordinator(s)** shall:
+
 1. Report to the Head of Events
 2. Be responsible for attending events and help manage the events while they are happening.
 3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
@@ -427,6 +434,7 @@ The **Event Coordinator(s)** shall:
 5. Event Coordinators are limited to missing 2 events per semester or 4 events total per elected term before they are removed and replaced.
 
 The **Head of Societal Development** shall:
+
 1. Report to the Treasurer
 2. Be responsible for leading the Societal Development team (i.e. Merchandising Coordinator, Social Media Coordinator)
 3. Be responsible for planning and executing strategies to grow the Computer Science Society.
@@ -435,12 +443,14 @@ The **Head of Societal Development** shall:
 6. Act as a moderator on the Computer Science Discord.
 
 The **Social Media Coordinator** shall:
+
 1. Report to the Head of Societal Development.
 2. Be responsible for marketing any society activities and events through our social media channels (e.g. Instagram, Facebook)
 3. Be responsible for marketing other CSS/CS related items to the social media channels.
 4. Be responsible for posting photos/videos from events to social media channels including the CSS website and Discord.
 
 The **Merchandising Coordinator** shall:
+
 1. Report to the Head of Societal Development
 2. Be responsible for all things related to Computer Science merchandise (e.g. sweaters).
 3. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
@@ -448,12 +458,14 @@ The **Merchandising Coordinator** shall:
 5. Host/organize any design contests with the students (e.g. sweater design contest)
 
 The **Head of Technology** shall:
+
 1. Report to the President
 2. Be appointed via interview process, conducted by executive Computer Science Society executives.
 3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
 4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
 
 The **Career Advisor** shall:
+
 1. Report to the Vice President
 2. Actively brainstorm workshops, ideas, tools, etc. to improve the careers of our students.
 3. Host workshops related to internships and co-op, resume workshops, etc.
@@ -461,36 +473,42 @@ The **Career Advisor** shall:
 5. Act as a moderator on the Computer Science Discord.
 
 The **First Year Representative(s)** shall:
+
 1. Report to the executives
 2. Be responsible for representing the views and concerns of first year students to the executives.
 3. Be responsible for representing the executive to all first year members of the Society.
 4. Be responsible for making announcements at the beginning of first year lectures to make members aware of society events.
 
 The **Second Year Representative** shall:
+
 1. Report to the executives
-2. Be responsible for representing the views and concerns of second  year students to the executive.
+2. Be responsible for representing the views and concerns of second year students to the executive.
 3. Be responsible for representing the executive to second year members of the Society.
 4. Be responsible for making announcements at the beginning of second year lectures to make members aware of society events.
 
 The **Senior Years Representative** shall:
+
 1. Report to the executives
-2. Be responsible for representing the views and concerns of third and  fourth year students to the executive.
+2. Be responsible for representing the views and concerns of third and fourth year students to the executive.
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
 4. Be responsible for making announcements at the beginning of third and fourth year lectures to make members aware of society events.
 
 The **Secretary** shall:
+
 1. Report to the executives
 2. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
 3. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
 4. Be responsible for taking notes during meetings.
 
 The **Social Media Moderator(s)** shall:
+
 1. Report to the executives
 2. Be appointed via interview process, conducted by executive Computer Science Society executives and Head of Technology.
-2. Be responsible for representing the views and concerns of the Computer Science Society.
-3. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
+3. Be responsible for representing the views and concerns of the Computer Science Society.
+4. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
 
 The **CSC Liason(s)** Shall:
+
 1. Report to the Computer Science Society President.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
 3. Attend Computer Science Society meetings as non-voting members.
@@ -561,15 +579,13 @@ Science students may petition the UWSA VP Administration to represent
 the Computer Science Society on a temporary basis subject to election in
 the first month of the fall semester.
 
-
-
 #### Section 2 - Removal of Executive or Council Member
 
 In the event that a **member** is not fulfilling their responsibilities, the following procedure shall take place:
 
 1.  The **President** will meet with the **member** to discuss concerns raised by the membership.
-2. If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
-3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
+2.  If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
+3.  After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
 
 _**Note:** In the event the **member** in question is the **President**, the **Vice President** will conduct the above procedure._
 
@@ -578,16 +594,16 @@ _**Note:** In the event the **member** in question is the **President**, the **V
 An **Executive** meeting shall be called to determine whether a **member**
 shall continue to retain their position.
 
-- At least _one-week_ notice shall be given before the meeting. The
-**member** in question will be given an opportunity to address any issues
-and concerns raised, answer any questions as well as provide reasons why
-they should continue to hold their position.
-- Voting shall take place by secret ballot.
-- Quorum for the meeting shall be all of the **executives**, not including the accused.
-- If quorum is not met, or in the event that a **two-thirds vote** is
-not obtained, the individual shall retain their position.
-- No minutes shall be published for this meeting, beyond the immediate
-result.
+-   At least _one-week_ notice shall be given before the meeting. The
+    **member** in question will be given an opportunity to address any issues
+    and concerns raised, answer any questions as well as provide reasons why
+    they should continue to hold their position.
+-   Voting shall take place by secret ballot.
+-   Quorum for the meeting shall be all of the **executives**, not including the accused.
+-   If quorum is not met, or in the event that a **two-thirds vote** is
+    not obtained, the individual shall retain their position.
+-   No minutes shall be published for this meeting, beyond the immediate
+    result.
 
 #### Section 4 - Constitutional Amendments
 
