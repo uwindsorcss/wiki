@@ -4,38 +4,60 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 
 Docusaurus is a **static-site generator**. It builds a **single-page application** with fast client-side navigation, leveraging the full power of **React** to make your site interactive. It provides out-of-the-box **documentation features** but can be used to create **any kind of site** (personal website, product, blog, marketing landing pages, etc).
 
-
-
 ## Dependencies
 
 * **Nodejs** version >= 14 or above
 
 * **Yarn** version >= 1.5
-* **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
+* **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 
 ## How to install
 
-Windows and Mac users download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.																			
+## Install Dependencies for Windows users
+
+Download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
+
+### Install yarn
+
+```
+npm install --global yarn
+```
+
+## Install Dependencies for Mac Users
+
+Download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
+
+Alternatively:
+
+**Using Homebew**
+
+```
+brew install node
+```
+
+**Using MacPorts**
+
+```
+sudo port install nodejs10
+```
+
+### Install yarn
+
+```
+npm install --global yarn
+```
+
+## Install Dependencies for Debian based(Ubuntu)
 
 ```bash
-### Install Dependencies for Windows
-# Install Node from the link above 
-npm install --global yarn
-
 ### Install Dependencies for Debian based(Ubuntu)
 sudo apt-get update
 sudo apt install npm -y
 sudo npm install --global yarn -y
 sudo apt-get install git // In case, Not installed
-
-### Install Dependencies for Mac
-# Install Node from the link above 
-npm install --global yarn
 ```
-
-
 
 ## Local Development
 
@@ -44,7 +66,6 @@ npm install --global yarn
 ```bash
 git clone git@github.com:UWindsorCSS/Wiki.git
 ```
-
 
 2. Start the Server
 
