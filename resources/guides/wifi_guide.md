@@ -36,7 +36,7 @@ Which should you use? The short answer is “Connect to eduroam”. The eduroam 
 <!-- - Anonymous identity: Your full UWindsor email (example@uwindsor.ca) -->
 -   **Password: Your UWinID password**
 
-3. If prompted to trust a certificate after signing in (mainly iPhone) click trust.
+If prompted to trust a certificate after signing in (mainly iPhone) click trust.
 
 ### For Macs
 
