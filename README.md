@@ -31,16 +31,16 @@ Download [Nodejs installer](https://nodejs.org/en/download/) from their Official
 
 Alternatively:
 
-**Using Homebew**
+### Using Homebew
 
 ```
 brew install node
 ```
 
-**Using MacPorts**
+### Using MacPorts
 
 ```
-sudo port install nodejs10
+sudo port install nodejs17
 ```
 
 ### Install yarn
@@ -52,7 +52,6 @@ npm install --global yarn
 ## Install Dependencies for Debian based(Ubuntu)
 
 ```bash
-### Install Dependencies for Debian based(Ubuntu)
 sudo apt-get update
 sudo apt install npm -y
 sudo npm install --global yarn -y
