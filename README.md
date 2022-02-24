@@ -12,6 +12,8 @@ Docusaurus is a **static-site generator**. It builds a **single-page application
 
 * **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
+* **git**
+
 
 ## How to install
 
@@ -24,6 +26,10 @@ Download [Nodejs installer](https://nodejs.org/en/download/) from their Official
 ```
 npm install --global yarn
 ```
+
+### Install Git
+
+Download [Git Installer](https://git-scm.com/download/win) from their Official website.
 
 ## Install Dependencies for Mac Users
 
@@ -49,13 +55,27 @@ sudo port install nodejs17
 npm install --global yarn
 ```
 
+### Install Git
+
+There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. Latest macOS has git preinstalled.
+
+```
+git --version
+```
+
+
 ## Install Dependencies for Debian based(Ubuntu)
 
 ```bash
 sudo apt-get update
-sudo apt install npm -y
+sudo apt-get install git npm -y
 npm install --global yarn -y
-sudo apt-get install git // In case, Not installed
+```
+
+### Install Git
+
+```
+sudo apt install git-all
 ```
 
 ## Local Development
