@@ -1,20 +1,66 @@
-# Website
+# Get Started
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-## Installation
+Docusaurus is a **static-site generator**. It builds a **single-page application** with fast client-side navigation, leveraging the full power of **React** to make your site interactive. It provides out-of-the-box **documentation features** but can be used to create **any kind of site** (personal website, product, blog, marketing landing pages, etc).
 
-```console
-yarn install
+
+
+## Dependencies
+
+* **Nodejs** version >= 14 or above
+
+* **Yarn** version >= 1.5
+* **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+
+
+## How to install
+
+Windows and Mac users download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.																			
+
+```bash
+### Install Dependencies for Windows
+# Install Node from the link above 
+npm install --global yarn
+
+### Install Dependencies for Debian based(Ubuntu)
+sudo apt-get update
+sudo apt install npm -y
+sudo npm install --global yarn -y
+sudo apt-get install git // In case, Not installed
+
+### Install Dependencies for Mac
+# Install Node from the link above 
+npm install --global yarn
 ```
 
+
+
 ## Local Development
+
+1. Clone the repo
+
+```bash
+git clone git@github.com:UWindsorCSS/Wiki.git
+```
+
+
+2. Start the Server
 
 ```console
 yarn start
 ```
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+
+Open web browser the enter the address `http://localhost:3000/wiki/`
+
+**Alternatively, Use follwoing command to access application from other machine in your network:**
+
+`yarn start --host 0.0.0.0`
+
+Open web browser the enter the address `http://ip-address-of-other-machine:3000/wiki/`
 
 ## Build
 
