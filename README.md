@@ -67,8 +67,8 @@ git --version
 ## Install Dependencies for Debian based(Ubuntu)
 
 ```bash
-sudo apt-get update
-sudo apt-get install git npm -y
+sudo apt update
+sudo apt install git npm -y
 npm install --global yarn -y
 ```
 
