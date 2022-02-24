@@ -53,7 +53,7 @@ npm install --global yarn
 
 ```bash
 sudo apt-get update
-apt install npm -y
+sudo apt install npm -y
 npm install --global yarn -y
 ```
 
@@ -75,7 +75,7 @@ This command starts a local development server and open up a browser window. Mos
 
 Open web browser the enter the address `http://localhost:3000/wiki/`
 
-**Alternatively, Use follwoing command to access application from other machine in your network:**
+**Alternatively, Use following command to access application from other machine in your network:**
 
 `yarn start --host 0.0.0.0`
 
