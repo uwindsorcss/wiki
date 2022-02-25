@@ -2,7 +2,7 @@
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-Docusaurus is a **static-site generator**. It builds a **single-page application** with fast client-side navigation, leveraging the full power of **React** to make your site interactive. It provides out-of-the-box **documentation features** but can be used to create **any kind of site** (personal website, product, blog, marketing landing pages, etc).
+
 
 ## Dependencies
 
@@ -15,13 +15,13 @@ Docusaurus is a **static-site generator**. It builds a **single-page application
 * **git**
 
 
-## How to install
+# How to install
 
 ## Install Dependencies for Windows users
 
-Download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
+Download the [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
 
-### Install yarn
+### Install Yarn
 
 ```
 npm install --global yarn
@@ -49,7 +49,7 @@ brew install node
 sudo port install nodejs17
 ```
 
-### Install yarn
+### Install Yarn
 
 ```
 npm install --global yarn
@@ -57,14 +57,14 @@ npm install --global yarn
 
 ### Install Git
 
-There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. Latest macOS has git preinstalled.
+There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. 
 
 ```
 git --version
 ```
 
 
-## Install Dependencies for Debian based(Ubuntu)
+## Install Dependencies for Debian / Ubuntu
 
 ```bash
 sudo apt update
