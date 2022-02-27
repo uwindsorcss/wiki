@@ -14,17 +14,17 @@ your secondary school education - if you've made it to University, you probably 
 
 ### Perfecting your Resume
 
-- [This article](https://www.gautamtata.com/blog/get-a-job-1) on resume design explains how to optimize your resume to
-  improve your chances of being interviewed.
-- [Jobscan](https://www.jobscan.co) can help you optimize your resume to give you the best chance to get past the robots
-  and get seen by a real recruiter.
+-   [This article](https://www.gautamtata.com/blog/get-a-job-1) on resume design explains how to optimize your resume to
+    improve your chances of being interviewed.
+-   [Jobscan](https://www.jobscan.co) can help you optimize your resume to give you the best chance to get past the robots
+    and get seen by a real recruiter.
 
 ### Example Resumes
 
-- [Jose Nicolas Alba Aguado](http://josealba.org/files/JoseAlba_Resume.pdf)
-- [Eric Pickup](https://drive.google.com/file/d/1QUNbEYP0TBf33-JeCfXFwp_eoqI5YDql/view)
-- [Brandon Lucier](https://scet.ch/Resume.pdf)
-- [Harshdip Singh Deogan](https://hsdeogan.com/Resume-HarshdipSinghDeogan.pdf)
-- [Ryan Prairie](https://ryanprairie.com/static/extras/resume.pdf)
+-   [Jose Nicolas Alba Aguado](http://josealba.org/files/JoseAlba_Resume.pdf)
+-   [Eric Pickup](https://drive.google.com/file/d/1QUNbEYP0TBf33-JeCfXFwp_eoqI5YDql/view)
+-   [Brandon Lucier](https://scet.ch/Resume.pdf)
+-   [Harshdip Singh Deogan](https://hsdeogan.com/Resume-HarshdipSinghDeogan.pdf)
+-   [Ryan Prairie](https://ryanprairie.com/static/extras/resume.pdf)
 
 #### Todo: Talk to Co-Op to expand this section.

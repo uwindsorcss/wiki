@@ -1,8 +1,8 @@
 module.exports = {
-	indexNav: [
-		{
-			type: 'doc',
-			id: 'constitution',
-		},
-	]
+    indexNav: [
+        {
+            type: "doc",
+            id: "constitution",
+        },
+    ],
 };
