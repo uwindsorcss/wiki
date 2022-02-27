@@ -51,3 +51,7 @@ To manually run prettier, please run
 ```console
 yarn prettier --write .
 ```
+
+## Article Requirements
+
+Please read about it at `REQUIREMENTS.md`
