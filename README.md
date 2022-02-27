@@ -15,7 +15,7 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 * **git**
 
 
-# How to install
+# How to Install
 
 ## Install Dependencies for Windows users
 
