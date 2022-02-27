@@ -1,5 +1,7 @@
 ### Did you read and follow article requirements
 
+### Did you run prettier
+
 ### What are you trying to accomplish?
 
 ### How are you accomplishing it?

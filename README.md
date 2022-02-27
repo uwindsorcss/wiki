@@ -31,3 +31,23 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## Formatting
+
+We use [prettier](https://prettier.io). Prettier automatically formats markdown and javascript so it is extremely useful to use.
+
+This **MUST** be run before making a pull request
+
+### Automatically Running
+
+If you use VSCode, I highly recommend the prettier plugin.
+
+If you don't use VSCode, we are assuming that you can figure out your editors plugin for prettier.
+
+### Manually Running
+
+To manually run prettier, please run
+
+```console
+yarn prettier --write .
+```
