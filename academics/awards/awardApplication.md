@@ -10,5 +10,3 @@ Log into your [UWinsite Student][uwinsite] and complete the Award Profile. The U
 [awardsearch]: https://www.uwindsor.ca/studentawards/awards-search?ACAD_CAREER=UGRD&UW_FAC=SCIENCE
 [uwinsite]: https://student.uwindsor.ca
 [guide]: https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/uwinaward_application_profile_instructions_for_students_3.pdf
-
-testing
