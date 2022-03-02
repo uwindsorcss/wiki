@@ -44,11 +44,11 @@ If prompted to trust a certificate after signing in (mainly iPhone) click trust.
 
 The **uwindsor** wireless network is available for use but should only be used as a **last resort**. Unlike **eduroam** and **uwinsecure**, the **uwindsor** network does not encrypt the network traffic. So, for example, if you are accessing network applications using a protocol which is insecure, (eg. http instead of https), then everyone else using the **uwindsor** network in the vicinity could view your network activity. The wireless network called **uwindsor** is not secure.
 
-### [For Residence Students](https://www.uwindsor.ca/residence/wifi)
+## [For Residence Students](https://www.uwindsor.ca/residence/wifi)
 
 While Eduroam is the primary campus-wide Wi-Fi network, you may want to use UWinResLife in your hall for heavier use (i.e. streaming or downloading). Sign in using your UWindsor ID (just the first part - _not @uwindsor.ca_), and your UWinID password.
 
-### Activating Your UWindsor Account
+## Activating Your UWindsor Account
 
 You use your UWindsor ID to sign into your UWinsite Student, Blackboard, MySuccess, etc. Your UWindsor email address is your ID @uwindsor.ca and sign-in is via Gmail.
 
