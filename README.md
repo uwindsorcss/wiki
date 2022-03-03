@@ -59,6 +59,8 @@ npm install --global yarn
 
 There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. 
 
+Verify git
+
 ```
 git --version
 ```
@@ -86,7 +88,13 @@ sudo apt install git-all
 git clone git@github.com:UWindsorCSS/Wiki.git
 ```
 
-2. Start the Server
+2. Install all dependencies 
+
+```console
+yarn install
+```
+
+3. Start the Server
 
 ```console
 yarn start
