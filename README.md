@@ -2,18 +2,15 @@
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-
-
 ## Dependencies
 
-* **Nodejs** version >= 14 or above
+-   **Nodejs** version >= 14 or above
 
-* **Yarn** version >= 1.5
+-   **Yarn** version >= 1.5
 
-* **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+-   **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-* **git**
-
+-   **git**
 
 # How to Install
 
@@ -57,14 +54,13 @@ npm install --global yarn
 
 ### Install Git
 
-There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. 
+There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools.
 
 Verify git
 
 ```
 git --version
 ```
-
 
 ## Install Dependencies for Debian / Ubuntu
 
@@ -88,7 +84,7 @@ sudo apt install git-all
 git clone git@github.com:UWindsorCSS/Wiki.git
 ```
 
-2. Install all dependencies 
+2. Install all dependencies
 
 ```console
 yarn install
@@ -120,8 +116,16 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
+### Linux
+
 ```console
 GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
+
+### Windows
+
+```console
+cmd /C 'set "GIT_USER=uwindsorcss" && yarn deploy'
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

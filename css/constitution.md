@@ -25,10 +25,10 @@ Science and to enhance the lives of computer science students on campus.
 Society Membership shall consist of:
 
 1. All students who are currently enrolled on a full-time basis at the
-University of Windsor majoring in a program offered by the department of
-Computer Science.
+   University of Windsor majoring in a program offered by the department of
+   Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
-covered by part a, may purchase a membership for **$20 per semester**.
+   covered by part a, may purchase a membership for **$20 per semester**.
 
 #### Section 4 - Independence
 
@@ -42,6 +42,7 @@ than the University of Windsor Students' Alliance).
 #### Section 1 - Positions
 
 <!--TODO: change to static image hosted on docusaurus-->
+
 ![CSS Org Chart](https://raw.githubusercontent.com/UWindsorCSS/Documents/master/static/CSS_Hierarchy.svg)
 
 ##### Section 1.1 - Executive Positions
@@ -191,7 +192,7 @@ The **Career Advisor** shall:
 The **Senior Representative** shall:
 
 1. Report to the Head of Student Affairs.
-2. Be responsible for representing the views and concerns of third- and  fourth-year students to the executive.
+2. Be responsible for representing the views and concerns of third- and fourth-year students to the executive.
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
 4. Be responsible for making announcements at the beginning of third- and fourth-year lectures to make members aware of society events.
 
@@ -310,16 +311,16 @@ _**Note:** In the event the **member** in question is the **President**, the **V
 An **Executive** meeting shall be called to determine whether a **member**
 shall continue to retain their position.
 
-- At least _one-week_ notice shall be given before the meeting. The
-**member** in question will be given an opportunity to address any issues
-and concerns raised, answer any questions as well as provide reasons why
-they should continue to hold their position.
-- Voting shall take place by secret ballot.
-- Quorum for the meeting shall be all of the **executives**, not including the accused.
-- If quorum is not met, or in the event that a **two-thirds vote** is
-not obtained, the individual shall retain their position.
-- No minutes shall be published for this meeting, beyond the immediate
-result.
+-   At least _one-week_ notice shall be given before the meeting. The
+    **member** in question will be given an opportunity to address any issues
+    and concerns raised, answer any questions as well as provide reasons why
+    they should continue to hold their position.
+-   Voting shall take place by secret ballot.
+-   Quorum for the meeting shall be all of the **executives**, not including the accused.
+-   If quorum is not met, or in the event that a **two-thirds vote** is
+    not obtained, the individual shall retain their position.
+-   No minutes shall be published for this meeting, beyond the immediate
+    result.
 
 #### Section 4 - Constitutional Amendments
 
@@ -328,7 +329,7 @@ meeting, with a three-fourths majority vote.
 
 Any amendments must be announced one week prior to either meeting.
 
-Amendments that only include stylistic, grammatical, typographical, graphical, or formatting changes can be made to the constitution outside of a meeting, without the need for an announcement one week prior, with a three-fourths majority vote. This vote may be electronic or in-person, as decided by the President.  
+Amendments that only include stylistic, grammatical, typographical, graphical, or formatting changes can be made to the constitution outside of a meeting, without the need for an announcement one week prior, with a three-fourths majority vote. This vote may be electronic or in-person, as decided by the President.
 
 #### Section 5 - Interpretation of Bylaws
 

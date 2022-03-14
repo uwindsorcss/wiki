@@ -1,13 +1,13 @@
 module.exports = {
     title: "UWindsor Computer Science Wiki",
     tagline: "Courtesy of the University of Windsor Computer Science Society",
-    url: "https://css.uwindsor.ca/wiki",
+    url: "https://uwindsorcss.github.io/wiki/",
     baseUrl: "/wiki/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon-32x32.png",
     organizationName: "UWindsorCSS", // Usually your GitHub org/user name.
-    projectName: "Wiki", // Usually your repo name.
+    projectName: "wiki", // Usually your repo name.
     themeConfig: {
         defaultMode: "dark",
         hideableSidebar: true,
