@@ -1,20 +1,110 @@
-# Website
+# Get Started
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-## Installation
+## Dependencies
+
+-   **Nodejs** version >= 14 or above
+
+-   **Yarn** version >= 1.5
+
+-   **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+-   **git**
+
+# How to Install
+
+## Install Dependencies for Windows users
+
+Download the [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
+
+### Install Yarn
+
+```
+npm install --global yarn
+```
+
+### Install Git
+
+Download [Git Installer](https://git-scm.com/download/win) from their Official website.
+
+## Install Dependencies for Mac Users
+
+Download [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
+
+Alternatively:
+
+### Using Homebew
+
+```
+brew install node
+```
+
+### Using MacPorts
+
+```
+sudo port install nodejs17
+```
+
+### Install Yarn
+
+```
+npm install --global yarn
+```
+
+### Install Git
+
+There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools.
+
+Verify git
+
+```
+git --version
+```
+
+## Install Dependencies for Debian / Ubuntu
+
+```bash
+sudo apt update
+sudo apt install git npm -y
+npm install --global yarn -y
+```
+
+### Install Git
+
+```
+sudo apt install git-all
+```
+
+## Local Development
+
+1. Clone the repo
+
+```bash
+git clone git@github.com:UWindsorCSS/Wiki.git
+```
+
+2. Install all dependencies
 
 ```console
 yarn install
 ```
 
-## Local Development
+3. Start the Server
 
 ```console
 yarn start
 ```
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+
+Open web browser the enter the address `http://localhost:3000/wiki/`
+
+**Alternatively, Use following command to access application from other machine in your network:**
+
+`yarn start --host 0.0.0.0`
+
+Open web browser the enter the address `http://ip-address-of-other-machine:3000/wiki/`
 
 ## Build
 
@@ -26,8 +116,16 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
+### Linux
+
 ```console
 GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
+
+### Windows
+
+```console
+cmd /C 'set "GIT_USER=uwindsorcss" && yarn deploy'
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
