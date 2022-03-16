@@ -53,7 +53,7 @@ hide_table_of_contents: true
 | COMP-4150   |     Advanced and Practical Database Systems      | Offered     | Not Offered | Not Offered | 💛           |                       COMP-3150, COMP-3300                        |
 | COMP-4200   |          Mobile Application Development          | Not Offered | Offered     | Not Offered | 💛           |                       COMP-3150, COMP-3220                        |
 | COMP-4220   |            Agile Software Development            | Offered     | Not Offered | Not Offered | 💛           |                             COMP-3220                             |
-| COMP-4250   |      Big Data Analytics and Database Design      | Not Offered | Offered     | Not Offered | 💛           |                             COMP-3150                             |
+| COMP-4250   |      Big Data Analytics and Database Design      | Not Offered | Offered     | Not Offered | 💛💜         |                             COMP-3150                             |
 | COMP-4400   |       Principles of Programming Languages        | Offered     | Not Offered | Not Offered | 💙💚         |                  COMP-2140, COMP-2310, COMP-2540                  |
 | COMP-4540   |        Design and Analysis of Algorithms         | Offered     | Offered     | Not Offered | 💙💚         |                  COMP-2310, COMP-2540, COMP-3540                  |
 | COMP-4670   |                 Network Security                 | Offered     | Not Offered | Not Offered |              |                             COMP-3670                             |

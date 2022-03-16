@@ -7,7 +7,11 @@ module.exports = {
         {
             type: "category",
             label: "Guides",
-            items: ["guides/style_guide", "guides/contributing"],
+            items: [
+                "guides/style_guide",
+                "guides/contributing",
+                "guides/wifi_guide",
+            ],
         },
     ],
 };
