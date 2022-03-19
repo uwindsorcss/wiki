@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
-import useThemeContext from "@theme/hooks/useThemeContext";
+import ThemedImage from "@theme/ThemedImage";
 
 const features = [
     {
@@ -62,24 +62,20 @@ const features = [
 ];
 
 const Feature = ({imageUrl, linkTo, title, description}) => {
-    const {isDarkTheme, setLightTheme, setDarkTheme} = useThemeContext();
-
-    const theme = isDarkTheme ? "-dark.svg" : "-light.svg";
-
-    const imgUrl = useBaseUrl(imageUrl + theme);
-
-    // const themeStyle =
     return (
         <div className={clsx("col col--4", styles.feature)}>
             <Link href={linkTo} className={clsx("feature_link")}>
-                {imgUrl && (
+                {imageUrl && (
                     <div className="text--center">
-                        <img
+                        <ThemedImage
                             className={clsx(
                                 "feature_image",
                                 styles.featureImage
                             )}
-                            src={imgUrl}
+                            sources={{
+                                light: useBaseUrl(imageUrl + "-light.svg"),
+                                dark: useBaseUrl(imageUrl + "-dark.svg"),
+                            }}
                             alt={`${title} icon`}
                         />
                     </div>
