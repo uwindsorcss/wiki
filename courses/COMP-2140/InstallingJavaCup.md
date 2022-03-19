@@ -17,14 +17,14 @@ curl -o- https://gist.githubusercontent.com/jere-mie/63277b52b89f0184bff86069e47
 ### Make the 2140-javacup directory and cd into it
 
 ```bash
-mkdir 2140-javacup
+mkdir -p 2140-javacup
 cd 2140-javacup
 ```
 
 ### Install JLex
 
 ```bash
-mkdir JLex
+mkdir -p JLex
 cd JLex
 wget http://jlu.myweb.cs.uwindsor.ca/214/Main.java
 javac Main.java
@@ -91,20 +91,25 @@ curl -o- https://gist.githubusercontent.com/jere-mie/63277b52b89f0184bff86069e47
 Commands one at a time:
 
 ```bash
-mkdir 2140-javacup
+mkdir -p 2140-javacup
 cd 2140-javacup
-mkdir JLex
+
+mkdir -p JLex
 cd JLex
+
 wget http://jlu.myweb.cs.uwindsor.ca/214/Main.java
 javac Main.java
 cd ..
+
 wget https://jlu.myweb.cs.uwindsor.ca/214/javaCup.tar
 tar -xvf *.tar
 rm *.tar
+
 wget https://jlu.myweb.cs.uwindsor.ca/214/calc.lex
 wget https://jlu.myweb.cs.uwindsor.ca/214/calc.cup
 wget https://jlu.myweb.cs.uwindsor.ca/214/CalcParserUser.java
 wget https://jlu.myweb.cs.uwindsor.ca/214/calc.input
+
 java JLex.Main calc.lex
 java java_cup.Main -parser CalcParser -symbols CalcSymbol calc.cup
 javac calc.lex.java

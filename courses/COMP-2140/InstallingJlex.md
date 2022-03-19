@@ -12,7 +12,7 @@ Want all the instructions in one code block without the explanations? Check out 
 You may want to create a separate "2140" directory for this class:
 
 ```bash
-mkdir 2140
+mkdir -p 2140
 cd 2140
 ```
 
@@ -93,13 +93,16 @@ Now try typing stuff on your keyboard and see how the lexer responds. Try typing
 ```bash
 mkdir 2140
 cd 2140
+
 wget http://jlu.myweb.cs.uwindsor.ca/214/Main.java
 wget http://jlu.myweb.cs.uwindsor.ca/214/simple.lex
+
 mkdir JLex
 mv Main.java JLex
 cd JLex
 javac Main.java
 cd ..
+
 java JLex.Main simple.lex
 javac simple.lex.java
 java MyLexer
