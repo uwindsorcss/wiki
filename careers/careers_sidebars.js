@@ -14,6 +14,10 @@ module.exports = {
         },
         {
             type: "doc",
+            id: "coopsequence",
+        },
+        {
+            type: "doc",
             id: "findingajob",
         },
         {
