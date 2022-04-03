@@ -18,7 +18,7 @@ UWindsor offers the Outstanding Scholars program for students to get involved in
 -   Great experience to put on resume or grad school application.
 -   A lot of machine learning and cyber security research projects focusing on different areas (ex. social network analysis and document and network analysis).
 -   Placements are not limited in your department. OS program is a golden key that can open any research doors for you.
--   Oustanding Scholars Medal & Golden Maple Leaf Medallion will be awarded.
+-   Outstanding Scholars Medal & Golden Maple Leaf Medallion will be awarded.
 
 ### Cons
 
@@ -44,11 +44,11 @@ The deadline for applications for Fall 2022 admission will be Thursday, March 31
 
 **Applying from second year:**
 
-Students who did not apply to OS during high school can still apply during the summer after their first year of study, if they are invited to apply. Invitation will be given by email to top 250 first-year students with the highest cumulative GPA. Note that OS Candidates must also be among the 250 students in order to re-apply.
+Students who did not apply to OS during high school can still apply during the summer after their first year of study, if they are invited to apply. Invitations will be given by email to the top 250 first-year students with the highest cumulative GPA. Note that OS Candidates must also be among the 250 students in order to re-apply.
 
-Every year, the OS program will admit the top 80 second-year students as Outstanding Scholars. These Outstanding Scholars will start to find their research placement during the Fall of their second year.
+Every year, the OS program will admit the top 80 second-year students as Outstanding Scholars. These Outstanding Scholars will start to find their research placement during the Fall semester of their second year.
 
-Students are eligible to apply if their cumulative GPA is among the top 250 first-year students.
+Students are eligible to apply if their cumulative GPA ranks among the top 250 first-year students.
 
 :::note
 

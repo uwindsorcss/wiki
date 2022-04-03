@@ -9,7 +9,7 @@ slug: /doingresearch
 
 If you plan to do graduate studies, research is the best way to get you started. It will give you helpful insight into how research study works, and you will build a good relationship with different faculty members who will help you when you apply for grad school.
 
-If you do not want to continue graduate studies and you are not interested in research work, then Co-op/Internship may be a better path for you. You will gain different practical skills and experience that will help you. (Add a section to Co-op here).
+If you do not want to continue graduate studies and you are not interested in research work, then Co-op/Internship may be a better path for you. You will gain different practical skills and experience that will help you. (**Todo: Link the section to Co-op here once the article "Is co-op right for you" is finished**).
 
 ## Ways To Get Involved With Research
 
