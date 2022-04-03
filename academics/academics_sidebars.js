@@ -13,5 +13,10 @@ module.exports = {
             label: "Awards",
             items: ["awards/findingAwards", "awards/awardApplication"],
         },
+        {
+            type: "category",
+            label: "Research",
+            items: ["research/doingresearch", "research/outstandingscholars"],
+        },
     ],
 };
