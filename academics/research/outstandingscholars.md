@@ -5,7 +5,7 @@ sidebar_label: Outstanding Scholars
 slug: /outstandingscholars
 ---
 
-_Last updated on 2022/04/03_
+_Last updated on 2022/04/16_
 
 UWindsor offers the Outstanding Scholars program for students to get involved in research projects. Student will get paid for each placement under the supervision of instructors. The program requires students to complete 6 placements in order to complete the OS program. Most students will start their placement from 3rd semester until the last semester to complete all 6 placements.
 
@@ -52,9 +52,9 @@ Students are eligible to apply if their cumulative GPA ranks among the top 250 f
 
 :::note
 
--   If you complete only 9 courses for 2 semesters in first year, then you will not receive an invitation to apply for the program. However, do not worry! you can contact Dr. Tim Brunet to inform him about your interests in the program.
+-   If you complete only 9 courses for 2 semesters in first year, then you will not receive an invitation to apply for the program. However, do not worry! you can contact [Dr. Tim Brunet](mailto:tbrunet@uwindsor.ca) to inform him about your interests in the program.
 
--   To graduate as an OS student, you must complete 6 placements, which is 6 semesters or 3 years of your study. If you have completed more than 10 courses, you won't be able to meet the requirement. However, if you plan to take extra summer courses and do a research placement, then you are eligible to apply. Contact Dr. Tim Brunet and explain your goal to complete the program.
+-   To graduate as an OS student, you must complete 6 placements, which is 6 semesters or 3 years of your study. If you have completed more than 10 courses, you won't be able to meet the requirement. However, if you plan to take extra summer courses and do a research placement, then you are eligible to apply. Contact [Dr. Tim Brunet](mailto:tbrunet@uwindsor.ca) and explain your goal to complete the program.
 
 :::
 
@@ -69,6 +69,14 @@ Students are eligible to apply if their cumulative GPA ranks among the top 250 f
 
 ---
 
+## Extra Note
+
 For more information about Outstanding Scholars, see here:
 
 [1] https://www.uwindsor.ca/outstandingscholars
+
+Furthermore, if you have any questions about the OS program, send the following CSS members an email!
+
+-   [Andrea Bonato](mailto:bonato11@uwindsor.ca)
+-   [Aman Patel](mailto:patel1wq@uwindsor.ca)
+-   [Jeremie Bornais](mailto:borna113@uwindsor.ca)
