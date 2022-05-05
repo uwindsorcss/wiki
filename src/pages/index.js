@@ -52,11 +52,7 @@ const features = [
         title: "CSS Hub",
         imageUrl: "img/newsletter",
         linkTo: "https://css.uwindsor.ca",
-        description: (
-            <>
-                The UWindsor Computer Science Society's main website.
-            </>
-        ),
+        description: <>The UWindsor Computer Science Society's main website.</>,
     },
 ];
 
