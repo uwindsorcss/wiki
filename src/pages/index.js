@@ -49,13 +49,12 @@ const features = [
         ),
     },
     {
-        title: "Newsletter",
+        title: "CSS Hub",
         imageUrl: "img/newsletter",
-        linkTo: "newsletter/",
+        linkTo: "https://css.uwindsor.ca",
         description: (
             <>
-                An update about whats going on in Computer Science and
-                University of Windsor.
+                The UWindsor Computer Science Society's main website.
             </>
         ),
     },

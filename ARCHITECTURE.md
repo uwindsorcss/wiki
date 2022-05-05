@@ -102,12 +102,6 @@ This is the wiki section relating to University of Windsor Computer Science Soci
 
 ---
 
-### `newsletter/`
-
-This is the wiki section relating to UWindsor CSS' monthly newsletter. You would put files here that are specific dated entries in our newsletter.
-
----
-
 ### `resources/`
 
 This is the section relating to resources for students. You would put files here that relate to resources for students.

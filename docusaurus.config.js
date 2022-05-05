@@ -55,12 +55,6 @@ module.exports = {
                     position: "left",
                 },
                 {
-                    to: "newsletter/",
-                    activeBasePath: "newsletter",
-                    label: "Newsletter",
-                    position: "left",
-                },
-                {
                     href: "https://css.uwindsor.ca",
                     label: "Hub",
                     position: "right",
@@ -200,15 +194,6 @@ module.exports = {
                 path: "css",
                 sidebarPath: require.resolve("./css/css_sidebars.js"),
                 routeBasePath: "css",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
-            },
-        ],
-        [
-            "@docusaurus/plugin-content-blog",
-            {
-                id: "plugin-blog-newsletter",
-                path: "newsletter",
-                routeBasePath: "newsletter",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
             },
         ],
