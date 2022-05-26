@@ -14,6 +14,10 @@ module.exports = {
         },
         {
             type: "doc",
+            id: "choosingcoop",
+        },
+        {
+            type: "doc",
             id: "coopsequence",
         },
         {
