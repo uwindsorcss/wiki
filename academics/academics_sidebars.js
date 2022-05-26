@@ -18,5 +18,14 @@ module.exports = {
             label: "Research",
             items: ["research/doingresearch", "research/outstandingscholars"],
         },
+        {
+            type: "category",
+            label: "Support Resources",
+            items: [
+                "support/academicsupport",
+                "support/mentalhealth",
+                "support/physicalhealth",
+            ],
+        },
     ],
 };
