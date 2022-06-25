@@ -5,6 +5,8 @@ sidebar_label: UWinsite Guide
 slug: /guides/uwinsite_guide
 ---
 
+_Last updated on 2022/06/25_
+
 This is a guide on how to use and access the important sections on your UWinsite Student page.
 
 ## Course Management
@@ -28,11 +30,11 @@ term for which you are planning.
 
 **To get started planning your classes:**
 
-![img](../../static/img/uwinsite_guide/uwinsite_homepage.jpg)
+![UWinsite homepage](../../static/img/uwinsite_guide/uwinsite_homepage.jpg)
 
 1. On the Student Homepage, click the Manage Classes tile.
 2. Click the Class Search & Enroll tab in the left navigation menu.
-![img](../../static/img/uwinsite_guide/class_search_and_enroll.jpg)
+![Class search and enroll page](../../static/img/uwinsite_guide/class_search_and_enroll.jpg)
 3. Select the term in which you will be registering.
 4. In the Search for Classes field, enter a subject area, topic or course code.
 5. From the Search Results, select a course.
@@ -40,7 +42,7 @@ term for which you are planning.
 selected. Some classes have one section while others have multiple sections. Under
 **Class Selection**, you can view the time, date, instructor, location and available seats
 for each section of the class.
-![img](../../static/img/uwinsite_guide/course_info_and_class_selection.jpg)
+![Course info and class selection page](../../static/img/uwinsite_guide/course_info_and_class_selection.jpg)
 7. Select a class section. You can click anywhere on the class except for the Lecture or
 Lab link to select it.
 8. You’ll now be directed to the confirmation process:
@@ -60,7 +62,7 @@ Lab link to select it.
 #### Registering in your Classes
 
 Registration at UWindsor is by appointment time. Registration appointment times are
-assigned based on program and level of study. Your registration appointment time is
+assigned based on several factors including program and level of study. Your registration appointment time is
 when you can start to register. It is important to register early to have a better chance
 of getting into the classes that you want to take. Registration does, however, remain
 open until the tenth day of classes so you may make changes to your courses so long
@@ -79,6 +81,7 @@ sent to your UWindsor email account.
     + If you are not enrolled in a class, you will see a **red X** beside it. 
 4. There are several reasons why you might not be successfully enrolled in a class:
     + The class is full.
+    + There is a time conflict
     + Enrolment in the class is restricted for various reasons. For example: it is reserved
     for students in particular majors or levels of study.
     + You may be missing a prerequisite (this should not be the case IF you validated
@@ -95,7 +98,7 @@ sent to your UWindsor email account.
 
 #### Account Balance
 
-![img](../../static/img/uwinsite_guide/account_balance.jpg)
+![Account balance page](../../static/img/uwinsite_guide/account_balance.jpg)
 
 The first tab on your left will be your **Account Balance**. You can see the amount balance due now without clicking on it. If you want to see a detailed breakdown of what you owe, click on the **Account Balance Due Now** tile on the left of your screen. 
 
@@ -117,7 +120,7 @@ The **Account Services** tab on the left has four subcategories:
 + **Charges Due:** provides a summary by due date of the charges and deposits that you owe
 + **Opt Out Drug and Dental:** gives you the option to opt out of your drug and dental insurance 
 + **Income Tax Forms:** allows you to request an income tax T2202A or T4A form by selected year.
-    ![img](../../static/img/uwinsite_guide/income_tax_forms.jpg)
+    ![Income tax forms page](../../static/img/uwinsite_guide/income_tax_forms.jpg)
     1. Select a year
     2. Click the dropdown arrow to select an income tax form type
     3. Click on **download**
@@ -146,13 +149,15 @@ Here, current students can change their programs and this is also for students w
 To start a change of program application: 
 1. Click **Create New Application**. You will see a variety of areas that need to be completed. 
 2. Now, click the **Application Start** button which you may need to scroll down to see. 
-![img](../../static/img/uwinsite_guide/change_program_app.jpg)
+![Change program application page](../../static/img/uwinsite_guide/change_program_app.jpg)
 3. Then, complete the required fields on the page. 
 4. Once you complete a page of your application, click the **Save** button to save what you've filled 
 5. Click the **Continue** button to proceed to the next page and do the same until all pages have been filled.
 6. When you complete your application, click **Submit Application** 
 
-**Note**: *Make sure you save your application often. You can also save what you've currently filled and come back another time to complete the rest of your application.*
+:::note
+*Make sure you save your application often. You can also save what you've currently filled and come back another time to complete the rest of your application.*
+:::
 
 #### Returning Student Application
 
@@ -186,7 +191,7 @@ The What-if Report allows you to view **what requirements you need to fulfill if
 
 To run a What-if Report: 
 1. Click **Create New Report** in the **View What-if Report** tab. 
-![img](../../static/img/uwinsite_guide/what_if_report.jpg)
+![What-if report page](../../static/img/uwinsite_guide/what_if_report.jpg)
 2. Then you choose your **Career** followed by your **Academic Program**, then your **Area of Study**, and then your **Concentration**. 
 3. After that, click **Browse Course Catalog**. 
 4. Then select **Subject Codes** for inclusion in your course what-if report. 
@@ -198,18 +203,22 @@ The system will generate a response based on your choices. You will be provided 
 
 #### Course History
 
-Course History alows you to view the courses you have completed, transferred from, are planning to take, and that are currently in progress. You can see the **status** of each of your courses on the right hand side.
+Course History allows you to view the courses you have completed, transferred from, are planning to take, and that are currently in progress. You can see the **status** of each of your courses on the right hand side.
 
 #### View Grades
 
-Here, you can look at your grades by semester. Choose what semester you would like to view and you'll see a listing of the courses you took including the grades you recieved and the units/credits the course is worth. Note: **units = credits**. 
+Here, you can look at your grades by semester. Choose what semester you would like to view and you'll see a listing of the courses you took including the grades you recieved and the units/credits the course is worth. 
+
+:::note
+**units = credits**. 
+:::
 
 An undergraduate student also has an option to **submit a request to appeal a grade**. 
 If you are not satisfied with a grade you receive in any course, you should first discuss it with the **individual instructor** who assigned the grade. You should make every effort to resolve the issue with the instructor by outlining the reasons for your dissatisfaction and attempt to come to a mutually agreeable resolution.
 
-If you are unable to resolve the problem with your instructor, you may consider formally appealing your grade based on **Incorrect Evaluation** or **Procedural Irregularity**. Students who wish to appeal a grade in a course must submit a Grade Appeal through UWinsite Student no later than three weeks after the final grade has been posted. A letter of rationale and supporting documentation must accompany the appeal form along with an administrative fee of $20 (this fee will be refunded if your appeal is successful). An appeal for compassionate reasons do not have an administrative fee of $20. 
+If you are unable to resolve the problem with your instructor, you may consider formally appealing your grade based on **Incorrect Evaluation** or **Procedural Irregularity**. Students who wish to appeal a grade in a course must submit a Grade Appeal through UWinsite Student **no later than three weeks after the final grade has been posted.** A letter of rationale and supporting documentation must accompany the appeal form along with an administrative fee of $20 (this fee will be refunded if your appeal is successful). An appeal for compassionate reasons do not have an administrative fee of $20. 
 
-There are twp types of appeals: **Administrative** appeal and **Medical/Compassionate** appeal.
+There are two types of appeals: **Administrative** appeal and **Medical/Compassionate** appeal.
 
 To **submit an appeal**: 
 1. Click the **Appeal/Consideration** button.
@@ -220,12 +229,14 @@ To **submit an appeal**:
     + Select the appeal type: **Medical/Compassionate** if you are appealing for extenuating circumstances or on other compassionate grounds.
 4. Click **Ok**
 5. Select whatever answer that suits your situation in the dropdown box
-![img](../../static/img/uwinsite_guide/grade_appeal.jpg)
+![Grade appeal page](../../static/img/uwinsite_guide/grade_appeal.jpg)
 6. Upload any supporting documents you may have in the **Supporting Details** section
 7. You may elaborate further about your appeal in the **Detail Reason for Appeal** box
 8. Click **Submit**
 
-**Note:** *Follow the instructions carefully. Once you have submitted a file, you can view it, but you can't make any changes.*
+:::note
+*Follow the instructions carefully. Once you have submitted a file, you can view it, but you can't make any changes.*
+:::
 
 ## Your Profile
 
