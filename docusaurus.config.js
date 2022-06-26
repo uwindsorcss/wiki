@@ -1,7 +1,7 @@
 module.exports = {
     title: "UWindsor Computer Science Wiki",
     tagline: "Courtesy of the University of Windsor Computer Science Society",
-    url: "https://uwindsorcss.github.io/wiki/",
+    url: "https://uwindsorcss.github.io",
     baseUrl: "/wiki/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -10,7 +10,11 @@ module.exports = {
     projectName: "wiki", // Usually your repo name.
     themeConfig: {
         defaultMode: "dark",
-        hideableSidebar: true,
+        docs: {
+            sidebar: {
+                hideable: true,
+            },
+        },
         navbar: {
             style: "dark",
             title: "",
