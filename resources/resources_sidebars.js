@@ -12,7 +12,6 @@ module.exports = {
                 "guides/contributing",
                 "guides/wifi_guide",
                 "guides/parking_guide",
-                "guides/uwinsite_guide",
             ],
         },
     ],
