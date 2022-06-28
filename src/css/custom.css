@@ -104,6 +104,13 @@ nav {
         no-repeat;
 }
 
+/* navbar automatically wraps itself as the viewport isnt large enough for thea
+ * whole navbar. changing `flex-wrap` to nowrap fixes it.
+*/
+.navbar__inner {
+    flex-wrap: nowrap;
+}
+
 /* hamburger menu */
 .navbar__toggle {
     margin-left: 1rem;
