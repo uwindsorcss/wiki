@@ -62,6 +62,7 @@ Lab link to select it.
 #### Registering in your Classes
 
 Registration at UWindsor is by appointment time. Registration appointment times are
+assigned based on a number of factors including program and level of study. Your registration appointment time is
 assigned based on several factors including program and level of study. Your registration appointment time is
 when you can start to register. It is important to register early to have a better chance
 of getting into the classes that you want to take. Registration does, however, remain
@@ -155,7 +156,7 @@ To start a change of program application:
 5. Click the **Continue** button to proceed to the next page and do the same until all pages have been filled.
 6. When you complete your application, click **Submit Application** 
 
-:::note
+:::note 
 *Make sure you save your application often. You can also save what you've currently filled and come back another time to complete the rest of your application.*
 :::
 
@@ -216,6 +217,7 @@ Here, you can look at your grades by semester. Choose what semester you would li
 An undergraduate student also has an option to **submit a request to appeal a grade**. 
 If you are not satisfied with a grade you receive in any course, you should first discuss it with the **individual instructor** who assigned the grade. You should make every effort to resolve the issue with the instructor by outlining the reasons for your dissatisfaction and attempt to come to a mutually agreeable resolution.
 
+If you are unable to resolve the problem with your instructor, you may consider formally appealing your grade based on **Incorrect Evaluation** or **Procedural Irregularity**. Students who wish to appeal a grade in a course must submit a Grade Appeal through UWinsite Student **no later than three weeks after the final grade has been posted**. A letter of rationale and supporting documentation must accompany the appeal form along with an administrative fee of $20 (this fee will be refunded if your appeal is successful). An appeal for compassionate reasons do not have an administrative fee of $20. 
 If you are unable to resolve the problem with your instructor, you may consider formally appealing your grade based on **Incorrect Evaluation** or **Procedural Irregularity**. Students who wish to appeal a grade in a course must submit a Grade Appeal through UWinsite Student **no later than three weeks after the final grade has been posted.** A letter of rationale and supporting documentation must accompany the appeal form along with an administrative fee of $20 (this fee will be refunded if your appeal is successful). An appeal for compassionate reasons do not have an administrative fee of $20. 
 
 There are two types of appeals: **Administrative** appeal and **Medical/Compassionate** appeal.
