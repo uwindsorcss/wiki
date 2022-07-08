@@ -114,6 +114,10 @@ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Important to know:
+
+The **search bar** feature **ONLY** works when you run ````yarn build````. It will **NOT** work when you run ````yarn start````
+
 ## Deployment
 
 ### Linux
