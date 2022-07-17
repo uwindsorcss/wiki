@@ -1,8 +1,8 @@
 ---
 id: oldTable
-title: check
-sidebar_label: check
-slug: /check
+title: Old Table
+sidebar_label: Old Table
+slug: /oldtable
 hide_table_of_contents: true
 ---
 
