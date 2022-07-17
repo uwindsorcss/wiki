@@ -34,7 +34,6 @@ function programToEmoji(p) {
     if (p === "CSG") return "📚";
     else if (p === "CSH") return "🎓";
     else if (p === "CSHAC") return "📲";
-    else if (p === "CIS") return "💽";
     else if (p === "CSSE") return "⚙";
     else if (p === "BACS") return "👔";
     else if (p === "MCS") return "📐";

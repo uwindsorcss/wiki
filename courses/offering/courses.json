@@ -6,7 +6,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": []
         },
         {
@@ -24,7 +24,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": []
         },
         {
@@ -33,7 +33,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1400"]
         },
         {
@@ -78,7 +78,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": ["COMP-1410"]
         },
         {
@@ -105,7 +105,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": ["COMP-1000", "COMP-1410"]
         },
         {
@@ -114,7 +114,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": ["COMP-1410"]
         },
         {
@@ -123,7 +123,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": ["COMP-1400"]
         },
         {
@@ -132,7 +132,7 @@
             "fall": true,
             "winter": true,
             "summer": false,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE"],
             "prerequisites": ["COMP-2650"]
         },
         {
@@ -195,7 +195,7 @@
             "fall": true,
             "winter": true,
             "summer": false,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": ["COMP-2560 or COMP-2650", "COMP-2540"]
         },
         {
@@ -204,7 +204,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE"],
             "prerequisites": ["COMP-2540", "COMP-2120"]
         },
         {
@@ -213,7 +213,7 @@
             "fall": false,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS"],
             "prerequisites": [
                 "COMP-2540",
                 "COMP-2120",
@@ -227,7 +227,7 @@
             "fall": false,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSHAC", "CIS", "BACS"],
+            "required": ["CSG", "CSHAC", "BACS"],
             "prerequisites": ["COMP-2540", "COMP-2120"]
         },
         {
@@ -236,7 +236,7 @@
             "fall": false,
             "winter": true,
             "summer": false,
-            "required": ["CSHAC", "CIS"],
+            "required": ["CSHAC"],
             "prerequisites": ["COMP-2560", "COMP-2120"]
         },
         {
@@ -448,7 +448,7 @@
             "fall": true,
             "winter": true,
             "summer": false,
-            "required": ["CSH", "CSHAC", "CIS", "CSSE"],
+            "required": ["CSH", "CSHAC", "CSSE"],
             "prerequisites": []
         },
         {
@@ -468,7 +468,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": []
         },
         {
@@ -477,7 +477,7 @@
             "fall": true,
             "winter": true,
             "summer": false,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
             "prerequisites": []
         },
         {
@@ -508,7 +508,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS"],
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS"],
             "prerequisites": []
         }
     ]
