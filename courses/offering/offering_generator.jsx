@@ -106,7 +106,7 @@ function BuildJsonTable() {
 
     const bodyRows = courseData.map((course) => {
         return (
-            <tr key={course.code}>
+            <tr style={{textAlign: "center"}} key={course.code}>
                 {Object.values(course).map((element, index) => {
                     return <td key={index}>{element}</td>;
                 })}
