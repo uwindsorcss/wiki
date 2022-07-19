@@ -1,0 +1,515 @@
+{
+    "courses": [
+        {
+            "course code": "COMP-1000",
+            "course name": "Key Concepts in Computer Science",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": []
+        },
+        {
+            "course code": "COMP-1047",
+            "course name": "Computer Concepts for End-Users",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": [],
+            "prerequisites": []
+        },
+        {
+            "course code": "COMP-1400",
+            "course name": "Intro to Programming and Algorithms I",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": []
+        },
+        {
+            "course code": "COMP-1410",
+            "course name": "Intro to Programming and Algorithms II",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1400"]
+        },
+        {
+            "course code": "COMP-2057",
+            "course name": "Intro to the Internet",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": [],
+            "prerequisites": ["COMP-1047 or COMP-2067 or COMP-1400"]
+        },
+        {
+            "course code": "COMP-2067",
+            "course name": "Programming for Beginners",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": [],
+            "prerequisites": []
+        },
+        {
+            "course code": "COMP-2077",
+            "course name": "Problem Solving and Information on the Internet",
+            "fall": true,
+            "winter": false,
+            "summer": true,
+            "required": [],
+            "prerequisites": ["COMP-1047", "COMP-2057"]
+        },
+        {
+            "course code": "COMP-2097",
+            "course name": "Social Media and Mobile Technology for End Users",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": [],
+            "prerequisites": []
+        },
+        {
+            "course code": "COMP-2120",
+            "course name": "Object Oriented Programming Using Java",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["COMP-1410"]
+        },
+        {
+            "course code": "COMP-2140",
+            "course name": "Computer Languages, Grammars and Translators",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSH", "CSSE", "MCS"],
+            "prerequisites": ["COMP-1000", "COMP-2120"]
+        },
+        {
+            "course code": "COMP-2310",
+            "course name": "Theoretical Foundations of Computer Science",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSH", "CSSE", "MCS"],
+            "prerequisites": ["COMP-1000", "MATH-1020"]
+        },
+        {
+            "course code": "COMP-2540",
+            "course name": "Data Structures and Algorithms",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["COMP-1000", "COMP-1410"]
+        },
+        {
+            "course code": "COMP-2560",
+            "course name": "System Programming",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["COMP-1410"]
+        },
+        {
+            "course code": "COMP-2650",
+            "course name": "Computer Architecture I",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["COMP-1400"]
+        },
+        {
+            "course code": "COMP-2660",
+            "course name": "Computer Architecture II",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE"],
+            "prerequisites": ["COMP-2650"]
+        },
+        {
+            "course code": "COMP-2707",
+            "course name": "Advanced Website Design",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": [],
+            "prerequisites": ["COMP-2057"]
+        },
+        {
+            "course code": "COMP-2750",
+            "course name": "Selected Topics",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1410"]
+        },
+        {
+            "course code": "COMP-2800",
+            "course name": "Software Development",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSSE"],
+            "prerequisites": ["COMP-2120"]
+        },
+        {
+            "course code": "COMP-3057",
+            "course name": "Cyber-Ethics",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": [],
+            "prerequisites": ["COMP-1047", "COMP-2057"]
+        },
+        {
+            "course code": "COMP-3077",
+            "course name": "Web-Based Data Management",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-2707"]
+        },
+        {
+            "course code": "COMP-3110",
+            "course name": "Introduction to Software Engineering",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSH", "CSSE"],
+            "prerequisites": ["COMP-2120", "COMP-2540"]
+        },
+        {
+            "course code": "COMP-3150",
+            "course name": "Database Management Systems",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["COMP-2560 or COMP-2650", "COMP-2540"]
+        },
+        {
+            "course code": "COMP-3220",
+            "course name": "Obj Oriented Software Analysis and Design",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE"],
+            "prerequisites": ["COMP-2540", "COMP-2120"]
+        },
+        {
+            "course code": "COMP-3300",
+            "course name": "Operating System Fundamentals",
+            "fall": false,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS"],
+            "prerequisites": [
+                "COMP-2540",
+                "COMP-2120",
+                "COMP-2560",
+                "COMP-2650 or COMP-2660"
+            ]
+        },
+        {
+            "course code": "COMP-3340",
+            "course name": "WWW Information System Development",
+            "fall": false,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSHAC", "BACS"],
+            "prerequisites": ["COMP-2540", "COMP-2120"]
+        },
+        {
+            "course code": "COMP-3400",
+            "course name": "Advanced Object Oriented System Design Using C++",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSHAC"],
+            "prerequisites": ["COMP-2560", "COMP-2120"]
+        },
+        {
+            "course code": "COMP-3500",
+            "course name": "Introduction to Multimedia Systems",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-2540", "COMP-2650"]
+        },
+        {
+            "course code": "COMP-3520",
+            "course name": "Introduction to Computer Graphics",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-2540", "MATH-1250"]
+        },
+        {
+            "course code": "COMP-3540",
+            "course name": "Theory of Computation",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSH", "CSSE"],
+            "prerequisites": ["COMP-2540", "COMP-2310", "COMP-2140"]
+        },
+        {
+            "course code": "COMP-3670",
+            "course name": "Computer Networks",
+            "fall": true,
+            "winter": false,
+            "summer": true,
+            "required": ["CSH", "CSHAC", "CSSE", "BACS"],
+            "prerequisites": [
+                "COMP-2120",
+                "COMP-2540",
+                "COMP-2560",
+                "COMP-2650"
+            ]
+        },
+        {
+            "course code": "COMP-3680",
+            "course name": "Network Practicum",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-3300", "COMP-3670"]
+        },
+        {
+            "course code": "COMP-3710",
+            "course name": "Artificial Intelligence Concepts",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["STAT-2910 or STAT-2920", "COMP-2540"]
+        },
+        {
+            "course code": "COMP-3770",
+            "course name": "Game Design, Development, and Tools",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-2540", "COMP-2120"]
+        },
+        {
+            "course code": "COMP-4110",
+            "course name": "Software Verification and Testing",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSSE"],
+            "prerequisites": ["COMP-3110", "COMP-3300"]
+        },
+        {
+            "course code": "COMP-4150",
+            "course name": "Advanced and Practical Database Systems",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSHAC"],
+            "prerequisites": ["COMP-3150", "COMP-3300"]
+        },
+        {
+            "course code": "COMP-4200",
+            "course name": "Mobile Application Development",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSHAC"],
+            "prerequisites": ["COMP-3150", "COMP-3220"]
+        },
+        {
+            "course code": "COMP-4220",
+            "course name": "Agile Software Development",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSHAC"],
+            "prerequisites": ["COMP-3220"]
+        },
+        {
+            "course code": "COMP-4250",
+            "course name": "Big Data Analytics and Database Design",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSHAC", "BACS"],
+            "prerequisites": ["COMP-3150"]
+        },
+        {
+            "course code": "COMP-4400",
+            "course name": "Principles of Programming Languages",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSH", "CSSE"],
+            "prerequisites": ["COMP-2140", "COMP-2310", "COMP-2540"]
+        },
+        {
+            "course code": "COMP-4500",
+            "course name": "3D Multimedia System Development",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["Other requirements (see [1])"]
+        },
+        {
+            "course code": "COMP-4540",
+            "course name": "Design and Analysis of Algorithms",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSH", "CSSE"],
+            "prerequisites": ["COMP-2310", "COMP-2540", "COMP-3540"]
+        },
+        {
+            "course code": "COMP-4670",
+            "course name": "Network Security",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-3670"]
+        },
+        {
+            "course code": "COMP-4680",
+            "course name": "Advanced Networking",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-3670", "COMP-3680"]
+        },
+        {
+            "course code": "COMP-4730",
+            "course name": "Advanced Topics in AI I",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-3710"]
+        },
+        {
+            "course code": "COMP-4740",
+            "course name": "Advanced Topics in AI II",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-3710"]
+        },
+        {
+            "course code": "COMP-4770",
+            "course name": "Artifical Intelligence for Games",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": ["COMP-3770"]
+        },
+        {
+            "course code": "COMP-4800",
+            "course name": "Selected Topics in Software Engineering",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["CSSE"],
+            "prerequisites": ["COMP-3110", "COMP-3220", "COMP-3300"]
+        },
+        {
+            "course code": "COMP-4960",
+            "course name": "Research Project",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSH", "CSSE"],
+            "prerequisites": []
+        },
+        {
+            "course code": "COMP-4990",
+            "course name": "Project Management: Techniques and Tools",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSH", "CSHAC", "CSSE"],
+            "prerequisites": []
+        },
+        {
+            "course code": "MATH-1020",
+            "course name": "Mathematical Foundations",
+            "fall": false,
+            "winter": true,
+            "summer": true,
+            "required": ["CSH", "CSSE", "MCS"],
+            "prerequisites": [
+                "COMP-1000 or MATH-1250 or MATH-1260 or MATH-1270"
+            ]
+        },
+        {
+            "course code": "MATH-1250",
+            "course name": "Linear Algebra I",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": []
+        },
+        {
+            "course code": "MATH-1720",
+            "course name": "Differential Calculus",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS", "MCS"],
+            "prerequisites": []
+        },
+        {
+            "course code": "MATH-1730",
+            "course name": "Integral Calculus",
+            "fall": false,
+            "winter": true,
+            "summer": true,
+            "required": ["CSH", "CSSE", "MCS"],
+            "prerequisites": ["MATH-1760 or MATH-1720"]
+        },
+        {
+            "course code": "MATH-3940",
+            "course name": "Numerical Analysis for Computer Scientists",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSH"],
+            "prerequisites": [
+                "MATH-1250 or MATH-1260 or MATH-1270",
+                "COMP-1410",
+                "MATH-1730"
+            ]
+        },
+        {
+            "course code": "STAT-2910",
+            "course name": "Statistics for the Sciences",
+            "fall": true,
+            "winter": true,
+            "summer": true,
+            "required": ["CSG", "CSH", "CSHAC", "CSSE", "BACS"],
+            "prerequisites": []
+        }
+    ]
+}
