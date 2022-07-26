@@ -5,6 +5,8 @@ sidebar_label: Becoming a UWSA-Ratified Club
 slug: /guides/uwsa_club
 ---
 
+_Last updated on 2022/07/26_
+
 Just want the instructions? Head over to the [instructions section](#ratification-instructions).
 
 ## Why You Should Become a UWSA Ratified Club
