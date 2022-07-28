@@ -1,3 +1,9 @@
+/*
+ * This file used and modified code from TanStack Table v7 under MIT license.
+ * More information about the license can be found in ACKNOWLEDGEMENT.md.
+ * The original code can be found here: https://github.com/TanStack/table/blob/v7/examples/filtering/src/App.js.
+ */
+
 import React from "react";
 import regeneratorRuntime from "regenerator-runtime";
 import {
