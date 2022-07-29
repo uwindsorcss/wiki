@@ -4,9 +4,7 @@
  * @returns {string} a string of emoji icon signifying true or false. If 'p' is neither true or false, returns an error message.
  */
 function BooleanToEmoji(b) {
-    if (b === true) return "✅";
-    else if (!b) return "❌";
-    return "ERROR";
+    return b ? "✅" : "❌";
 }
 
 /**
@@ -30,27 +28,7 @@ function ProgramToEmoji(p) {
  * @returns {string} text - a string array of emoji icons signifying the programs.
  */
 function ListProgramsAsEmoji(programs) {
-    var text = "";
-    const len = programs.length;
-    for (let i = 0; i < len; i++) {
-        text += ProgramToEmoji(programs[i]);
-    }
-    return text;
-}
-
-/**
- * Joins an array of string elements with commas.
- * @param {string} text - a string array of words.
- * @returns {string} out - a string of words separated by commas.
- */
-function JoinWithComma(text) {
-    var out = text[0];
-    const len = text.length;
-    for (let i = 1; i < len; i++) {
-        out += ", ";
-        out += text[i];
-    }
-    return out;
+    return programs.map((p) => ProgramToEmoji(p)).join("");
 }
 
 /**
@@ -66,7 +44,7 @@ function ReformatData(data) {
         winter: BooleanToEmoji(element.winter),
         summer: BooleanToEmoji(element.summer),
         required: ListProgramsAsEmoji(element.required),
-        prerequisites: JoinWithComma(element.prerequisites),
+        prerequisites: element.prerequisites.join(", "),
     }));
 
     return newData;
