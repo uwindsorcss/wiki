@@ -1,129 +1,256 @@
+/*
+ * This file used and modified code from TanStack Table v7 under MIT license.
+ * More information about the license can be found in ACKNOWLEDGEMENT.md.
+ * The original code can be found here: https://github.com/TanStack/table/blob/v7/examples/filtering/src/App.js.
+ */
+
 import React from "react";
+import regeneratorRuntime from "regenerator-runtime";
+import {
+    useTable,
+    useFilters,
+    useGlobalFilter,
+    useAsyncDebounce,
+} from "react-table";
+import ReformatData from "./DataFormat";
 import JsonData from "./courses.json";
 
-/**
- * Converts boolean values into emojis.
- * @param {boolean} p - a boolean value that is either true or false.
- * @returns {string} a string of emoji icon signifying true or false. If 'p' is neither true or false, returns an error message.
- */
-function booleanToEmoji(b) {
-    if (b === true) return "✅";
-    else if (!b) return "❌";
-    return "ERROR";
+// Defines a default UI for filtering
+// This would be the filter that searches all cells in the table rows
+function GlobalFilter({preGlobalFilteredRows, globalFilter, setGlobalFilter}) {
+    const count = preGlobalFilteredRows.length;
+    const [value, setValue] = React.useState(globalFilter);
+    const onChange = useAsyncDebounce((value) => {
+        setGlobalFilter(value || undefined);
+    }, 200);
+
+    return (
+        <span>
+            Search:{" "}
+            <input
+                value={value || ""}
+                onChange={(e) => {
+                    setValue(e.target.value);
+                    onChange(e.target.value);
+                }}
+                placeholder={`${count} records...`}
+                style={{
+                    fontSize: "1.1rem",
+                    border: "0",
+                }}
+            />
+        </span>
+    );
 }
 
-/**
- * Converts a string of words into titlecase.
- * @param {string} str - a string of words separated by spaces.
- * @returns {string} a string of words with the first letter of each word capitalized.
- */
-function toTitleCase(str) {
-    var words = str.split(" ");
-    for (var i = 0; i < words.length; i++) {
-        words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
-    }
-    return words.join(" ");
+// Defines a default UI for filtering
+// This would be the filter that searches all cells in a column
+function DefaultColumnFilter({
+    column: {filterValue, preFilteredRows, setFilter},
+}) {
+    const count = preFilteredRows.length;
+
+    return (
+        <input
+            value={filterValue || ""}
+            onChange={(e) => {
+                setFilter(e.target.value || undefined); // Set undefined to remove the filter entirely
+            }}
+            placeholder={`Search ${count} records...`}
+        />
+    );
 }
 
-/**
- * Converts a string of UWindsor undergrad CS program into emojis.
- * @param {string} p - an acronym of one of the UWindsor CS programs.
- * @returns {string} a string of emoji icon signifying the program. If the acronym cannot be found, returns an error message.
- */
-function programToEmoji(p) {
-    if (p === "CSG") return "📚";
-    else if (p === "CSH") return "🎓";
-    else if (p === "CSHAC") return "📲";
-    else if (p === "CSSE") return "⚙";
-    else if (p === "BACS") return "👔";
-    else if (p === "MCS") return "📐";
-    return "ERROR";
+// This is a custom filter UI for selecting a unique option from a list
+function SelectColumnFilter({
+    column: {filterValue, setFilter, preFilteredRows, id},
+}) {
+    // Calculate the options for filtering
+    // using the preFilteredRows
+    const options = React.useMemo(() => {
+        const options = new Set();
+        preFilteredRows.forEach((row) => {
+            const item = [...row.values[id]]; //breaks the emoji string by their code points
+            const len = item.length;
+            for (let i = 0; i < len; i++) {
+                options.add(item[i]);
+            }
+        });
+        return [...options.values()];
+    }, [id, preFilteredRows]);
+
+    // Render a multi-select box
+    return (
+        <select
+            value={filterValue}
+            onChange={(e) => {
+                setFilter(e.target.value || undefined);
+            }}
+        >
+            <option value="">All</option>
+            {options.map((option, i) => (
+                <option key={i} value={option}>
+                    {option}
+                </option>
+            ))}
+        </select>
+    );
 }
 
-/**
- * Converts a string array of UWindsor CS program acronyms and into an array of emojis
- * @param {string} programs - an array of acronyms of one of the UWindsor CS programs.
- * @returns {string} text - a string array of emoji icons signifying the programs.
- */
-function listProgramsAsEmoji(programs) {
-    var text = "";
-    const len = programs.length;
-    for (let i = 0; i < len; i++) {
-        text += programToEmoji(programs[i]);
-    }
-    return text;
-}
-
-/**
- * Joins an array of string elements with commas.
- * @param {string} text - a string array of words.
- * @returns {string} out - a string of words separated by commas.
- */
-function joinWithComma(text) {
-    var out = text[0];
-    const len = text.length;
-    for (let i = 1; i < len; i++) {
-        out += ", ";
-        out += text[i];
-    }
-    return out;
-}
-
-/**
- * Reformats an array of UWindsor undergrad CS course objects for display purposes.
- * @param {string} data - an array of objects.
- * @returns {string} newData - an array of objects with their properties modified: string array converted to one string, and terms and programs are converted to emoji strings.
- */
-function reformatData(data) {
-    const newData = data.map((element) => ({
-        code: element["course code"],
-        name: element["course name"],
-        fall: booleanToEmoji(element.fall),
-        winter: booleanToEmoji(element.winter),
-        summer: booleanToEmoji(element.summer),
-        required: listProgramsAsEmoji(element.required),
-        prerequisites: joinWithComma(element.prerequisites),
+// This is the table component for the plug-in
+function Table({columns, data}) {
+    const filterTypes = React.useMemo(() => ({
+        // default text filter
+        text: (rows, id, filterValue) => {
+            return rows.filter((row) => {
+                const rowValue = row.values[id];
+                return rowValue !== undefined
+                    ? String(rowValue)
+                          .toLowerCase()
+                          .startsWith(String(filterValue).toLowerCase())
+                    : true;
+            });
+        },
     }));
 
-    return newData;
+    const defaultColumn = React.useMemo(() => ({
+        // This sets up the default filter UI
+        Filter: DefaultColumnFilter,
+    }));
+
+    const {
+        getTableProps,
+        getTableBodyProps,
+        headerGroups,
+        rows,
+        prepareRow,
+        state,
+        visibleColumns,
+        preGlobalFilteredRows,
+        setGlobalFilter,
+    } = useTable(
+        {
+            columns,
+            data,
+            defaultColumn, // Be sure to pass the defaultColumn option
+            filterTypes,
+        },
+        useFilters, // useFilters!
+        useGlobalFilter // useGlobalFilter!
+    );
+
+    return (
+        <>
+            <table {...getTableProps()}>
+                <thead>
+                    {headerGroups.map((headerGroup) => (
+                        <tr {...headerGroup.getHeaderGroupProps()}>
+                            {headerGroup.headers.map((column) => (
+                                <th {...column.getHeaderProps()}>
+                                    {column.render("Header")}
+                                    {/* Render the columns filter UI */}
+                                    <div>
+                                        {column.canFilter
+                                            ? column.render("Filter")
+                                            : null}
+                                    </div>
+                                </th>
+                            ))}
+                        </tr>
+                    ))}
+                    <tr>
+                        <th
+                            colSpan={visibleColumns.length}
+                            style={{
+                                textAlign: "center",
+                            }}
+                        >
+                            <GlobalFilter
+                                preGlobalFilteredRows={preGlobalFilteredRows}
+                                globalFilter={state.globalFilter}
+                                setGlobalFilter={setGlobalFilter}
+                            />
+                        </th>
+                    </tr>
+                </thead>
+                <tbody {...getTableBodyProps()}>
+                    {rows.map((row, i) => {
+                        prepareRow(row);
+                        return (
+                            <tr {...row.getRowProps()}>
+                                {row.cells.map((cell) => {
+                                    return (
+                                        <td {...cell.getCellProps()}>
+                                            {cell.render("Cell")}
+                                        </td>
+                                    );
+                                })}
+                            </tr>
+                        );
+                    })}
+                </tbody>
+            </table>
+            <br />
+        </>
+    );
 }
 
 /**
  * Builds a table that lists all UWindsor undergrad CS courses and their course information.
- * @returns {object} a HTML table that lists the courses' code, name, terms of offering, programs that requires it, and course prerequisites
+ * @returns {object} a React component table that lists the courses' code, name, terms of offering, programs that requires it, and course prerequisites
  */
 function BuildJsonTable() {
-    //extract data from JSON file and convert them into proper format
-    const headings = Object.keys(JsonData.courses[0]).map((item) =>
-        toTitleCase(item)
+    //columns with no specified filters use the default text filter
+    const columns = React.useMemo(
+        () => [
+            {
+                Header: "Course Offering Table",
+                columns: [
+                    {
+                        Header: "Course Code",
+                        accessor: "code",
+                    },
+                    {
+                        Header: "Course Name",
+                        accessor: "name",
+                    },
+                    {
+                        Header: "Fall",
+                        accessor: "fall",
+                        Filter: SelectColumnFilter,
+                        filter: "includes",
+                    },
+                    {
+                        Header: "Winter",
+                        accessor: "winter",
+                        Filter: SelectColumnFilter,
+                        filter: "includes",
+                    },
+                    {
+                        Header: "Summer",
+                        accessor: "summer",
+                        Filter: SelectColumnFilter,
+                        filter: "includes",
+                    },
+                    {
+                        Header: "Required",
+                        accessor: "required",
+                        Filter: SelectColumnFilter,
+                        filter: "includes",
+                    },
+                    {
+                        Header: "Prerequisite(s)",
+                        accessor: "prerequisites",
+                    },
+                ],
+            },
+        ],
+        []
     );
-    const courseData = reformatData(JsonData.courses);
 
-    //construct the HTML elements for the table
-    const headingRow = headings.map((title) => {
-        return <th key={title}>{title}</th>;
-    });
+    const courseData = ReformatData(JsonData.courses);
 
-    const bodyRows = courseData.map((course) => {
-        return (
-            <tr style={{textAlign: "center"}} key={course.code}>
-                {Object.values(course).map((element, index) => {
-                    return <td key={index}>{element}</td>;
-                })}
-            </tr>
-        );
-    });
-
-    return (
-        <div>
-            <table className="course-table">
-                <thead>
-                    <tr>{headingRow}</tr>
-                </thead>
-                <tbody>{bodyRows}</tbody>
-            </table>
-        </div>
-    );
+    return <Table columns={columns} data={courseData} />;
 }
 
 export default BuildJsonTable;
