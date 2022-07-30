@@ -9,7 +9,7 @@ _Last updated on 2022/07/29_
 
 Most CS programs require students to take some Arts/Languages/Social Science classes. The Honours Computer Science program, for example, requires three of such courses (at least one in Arts/Languages and one in Social Science).
 
-**The bolded courses are what considers to be bird courses by other CSS members who have taken them.**
+**The bolded courses are considered to be bird courses by other CSS members who have taken them.**
 
 :::warning
 
@@ -24,30 +24,30 @@ This list gives you an overview about classes that you may want to take to satis
 <details>
   <summary>Arts Options</summary>
   <div>
-    <li>ARAB 2610: Introduction to Arabic Culture</li>
-    <li>ASIA 2620: Special Topics: Chinese Culture</li>
-    <li>DRAM 1000: Introduction to Theatre and Performance Studies</li>
-    <li>DRAM 1300: Theatre History</li>
-    <li>ENGL 1001: Composition</li>
-    <li>FILM 1001: Film Studies I</li>
-    <li>FILM 1100: Film Production I</li>
-    <li>FILM 1110: Film Production II</li>
-    <li>GART 1210: Introduction to Indigenous Issues</li>
-    <li>GART 2040: Health Care Ethics: Life-Span</li>
-    <li>GART 2090: Ethics in the Professions</li>
-    <li>GREK 1100: Introduction to Ancient Greek</li>
-    <li>GRST 1100: Introduction to Greek Civilization</li>
-    <li>GRST 2210: Latin Prose</li>
-    <li>GRST 2000: Topics in Classical Culture</li>
-    <li>INCS 1370: Introduction to German, Italian and Spanish Literature</li>
-    <li>INCS 2020: Culture & Ideas</li>
-    <li>INCS 2200: Language, Linguistics and Society</li>
-    <li>JWST 2350: To Auschwitz & Beyond</li>
-    <li>MACS 1500: Contemporary Visual Culture</li>
-    <li>PHIL 1100: Introduction to Western Philosophy</li>
-    <li>PHIL 1120: Philosophy and Human Nature</li>
-    <li>PHIL 1290: Contemporary Moral Issues</li>
-    <li>PHIL 1600: Reasoning Skills</li>
+    <li>ARAB-2610: Introduction to Arabic Culture</li>
+    <li>ASIA-2620: Special Topics: Chinese Culture</li>
+    <li>DRAM-1000: Introduction to Theatre and Performance Studies</li>
+    <li>DRAM-1300: Theatre History</li>
+    <li>ENGL-1001: Composition</li>
+    <li>FILM-1001: Film Studies I</li>
+    <li>FILM-1100: Film Production I</li>
+    <li>FILM-1110: Film Production II</li>
+    <li>GART-1210: Introduction to Indigenous Issues</li>
+    <li>GART-2040: Health Care Ethics: Life-Span</li>
+    <li>GART-2090: Ethics in the Professions</li>
+    <li>GREK-1100: Introduction to Ancient Greek</li>
+    <li>GRST-1100: Introduction to Greek Civilization</li>
+    <li>GRST-2000: Topics in Classical Culture</li>
+    <li>GRST-2210: Latin Prose</li>
+    <li>INCS-1370: Introduction to German, Italian and Spanish Literature</li>
+    <li>INCS-2020: Culture & Ideas</li>
+    <li>INCS-2200: Language, Linguistics and Society</li>
+    <li>JWST-2350: To Auschwitz & Beyond</li>
+    <li>MACS-1500: Contemporary Visual Culture</li>
+    <li>PHIL-1100: Introduction to Western Philosophy</li>
+    <li>PHIL-1120: Philosophy and Human Nature</li>
+    <li>PHIL-1290: Contemporary Moral Issues</li>
+    <li>PHIL-1600: Reasoning Skills</li>
   </div>
 </details>
 
@@ -130,11 +130,9 @@ Taking these courses are especially useful if you are considering student exchan
   <summary>Other Social Science Options</summary>
   <div>
     <li>CMAF-1010: Introduction to Media and Society</li>
-    <li>ESTU-1000</li>
-    <li>ESTU-2100</li>
-    <li>HIST-1230: The World in the 20th Century 1914-1945</li>
     <li>HIST-1030: Past to Present: Understanding History</li>
     <li>HIST-1130: Europe Encounters the World: Facing Islam, 8th-15th Century</li>
+    <li>HIST-1230: The World in the 20th Century 1914-1945</li>
     <li>HIST-2430: Canada from Early European Contacts to the Origins of Confederation, 1600-1867</li>
     <li>HIST-2460: Aboriginal Peoples in Canadian History: Beginning to Mid-Nineteenth Century</li>
     <li>POLS-1000: Introduction to Canadian Government and Politics</li>
@@ -184,7 +182,7 @@ Taking these courses are especially useful if you are considering student exchan
 
 ### Course Tips
 
--   Bailey recommends taking ECON-1100 online instead of in-person, if available. The class only consists of midterms and final, and the midterms were all online and therefore open book. Read the textbook thoroughly and you will do well. If the professor requires Pearson MyLab, Christine recommends utilizing its flashcard or mastery question as study guides.
+-   Bailey recommends taking ECON-1100 online instead of in-person, if available. The class only consists of midterms and final, and the midterms were all online and therefore open book. Read the textbook thoroughly and you will do well. If the professor requires Pearson MyLab, Christine recommends utilizing its flashcards and mastery questions as study guides.
 
 :::
 

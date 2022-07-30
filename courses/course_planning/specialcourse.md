@@ -58,6 +58,6 @@ They are 3 credits Pass/nonPass courses that will count toward your electives. T
 :::note
 
 **Two Birds with One Stone:**<br/>
-You could enrol in this course while you are an [OS program placement](/wiki/academics/outstandingscholars). Since the OS contract requires you to complete 45-100 hours and the course requires 106 hours and frequent reports to the instructor. With these two requirements satisfied as the OS placement, you use SCIE-3990 or SCIE-3800 as the placement in the OS contract. In the end, you get to complete a placement and a 3 credits course by workig for only one.
+You could enrol in this course while you are an [OS program placement](/wiki/academics/outstandingscholars). Since the OS contract requires you to complete 45-100 hours and the course requires 106 hours and frequent reports to the instructor. With these two requirements satisfied as the OS placement, you use SCIE-3990 or SCIE-3800 as the placement in the OS contract. In the end, you get to complete a placement and a 3 credits course by working for only one.
 
 :::
