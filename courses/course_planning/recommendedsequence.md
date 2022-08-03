@@ -52,4 +52,6 @@ It is always better to have a good plan about the course you'll be taking each s
 
 When you are planning for your courses, pay attention to the classes you want to take and the terms of their offering. Many classes, especially third-year or fourth-year classes, are only offered for one particular semester. Thus, make sure that you complete your mandatory classes in time before you make room for other electives.
 
+The recommended sequence works best for Honours Computer Science students, but a lot of the courses above are required for students in other CS programs too. Make sure to look at your [course requirements](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars) to see which courses you need.
+
 :::
