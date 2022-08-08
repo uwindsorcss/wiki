@@ -13,8 +13,12 @@ module.exports = {
                 "guides/wifi_guide",
                 "guides/uwinsite_guide",
                 "guides/parking_guide",
-                "guides/uwsa_club"
+                "guides/uwsa_club",
             ],
+        },
+        {
+            type: "doc",
+            id: "useful_links",
         },
     ],
 };

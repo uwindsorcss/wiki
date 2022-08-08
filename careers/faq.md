@@ -26,3 +26,7 @@ significantly easier to get the next one on your own, and many people outgrow th
 Co-op advisors advise against applying without their permission, but in the end there's nothing stopping you
 from applying for internships on your own. If you find one by yourself and want to stay in the co-op program,
 co-op will gladly accept that company as a co-op placement after a little screening.
+
+#### Do grades matter?
+
+For most co-op applications you must submit your transcript. Smaller/local companies may look at grades. However, for internships, you will not need to submit your transcript for 99% of applications.
