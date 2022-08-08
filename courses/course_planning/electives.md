@@ -22,7 +22,7 @@ This list gives you an overview about classes that you may want to take to satis
 -   **GART-1500: Effective Writing I** - this class is easy if you feel comfortable with writing and grammar. There are a lot of independent readings, weekly assignments, quizzes, and paragraph-writing. However, the classes are short (50 minutes per week). Make sure to follow the rubric and talk to your GA/TA whenever you need help!
 
 <details>
-  <summary>Arts Options</summary>
+  <summary>Course Options</summary>
   <div>
     <li>ARAB-2610: Introduction to Arabic Culture</li>
     <li>ASIA-2620: Special Topics: Chinese Culture</li>
@@ -52,8 +52,8 @@ This list gives you an overview about classes that you may want to take to satis
 </details>
 
 <details>
-    <summary>Course Codes for Arts Classes</summary>
-    These course codes are generally permitted to satisfy Arts requirements.
+    <summary>Qualifying Subject Codes</summary>
+    Courses with these subjects in their course codes are generally permitted to satisfy Arts requirements.
     <div>
         <li>ANZO</li>
         <li>MACS</li>
@@ -84,7 +84,7 @@ This list gives you an overview about classes that you may want to take to satis
 Taking these courses are especially useful if you are considering student exchange in your third year.
 
 <details>
-  <summary>Languages Options</summary>
+  <summary>Course Options</summary>
   <div>
     <li>GRMN 1020: Intensive German for Beginners</li>
     <li>GRMN 2020: Intensive Intermediate German</li>
@@ -97,8 +97,8 @@ Taking these courses are especially useful if you are considering student exchan
 </details>
 
 <details>
-    <summary>Course Codes for Languages Classes</summary>
-    These course codes are generally permitted to satisfy Languages requirements.
+    <summary>Qualifying Subject Codes</summary>
+    Courses with these subjects in their course codes are generally permitted to satisfy Languages requirements.
     <div>
         <li>ARAB</li>
         <li>FREN</li>
@@ -127,7 +127,7 @@ Taking these courses are especially useful if you are considering student exchan
 -   **ECON-1110: Introduction to Economics II**
 
 <details>
-  <summary>Other Social Science Options</summary>
+  <summary>Course Options</summary>
   <div>
     <li>CMAF-1010: Introduction to Media and Society</li>
     <li>HIST-1030: Past to Present: Understanding History</li>
@@ -155,8 +155,8 @@ Taking these courses are especially useful if you are considering student exchan
 </details>
 
 <details>
-    <summary>Course Codes for Social Science Classes</summary>
-    These course codes are generally permitted to satisfy Social Science requirements.
+    <summary>Qualifying Subject Codes</summary>
+    Courses with these subjects in their course codes are generally permitted to satisfy Social Science requirements.
     <div>
         <li>SACR</li>
         <li>CMAF</li>
