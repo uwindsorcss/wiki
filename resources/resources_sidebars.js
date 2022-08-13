@@ -16,5 +16,9 @@ module.exports = {
                 "guides/uwsa_club"
             ],
         },
+        {
+            type: "doc",
+            id: "contributors",
+        },
     ],
 };
