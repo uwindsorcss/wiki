@@ -14,11 +14,8 @@ module.exports = {
                 "guides/uwinsite_guide",
                 "guides/parking_guide",
                 "guides/uwsa_club",
+                "guides/student_exchange_guide",
             ],
-        },
-        {
-            type: "doc",
-            id: "useful_links",
         },
     ],
 };
