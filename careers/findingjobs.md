@@ -17,7 +17,8 @@ on your own. Some good places to search:
     fantastic companies that offer internships.
 -   [Work In Tech](https://www1.communitech.ca/jobs) has an extensive list of job opportunities, though most of
     them are not internships.
--   [Pitt-CSC](https://github.com/pittcsc) has a giant open source repo that tracks open CS internships for a lot of companies. The organization also have a repo for new grad roles.
+-   [Pitt-CSC](https://github.com/pittcsc) has a giant open source repo that tracks open CS internships for a lot of companies.
+    -   The organization had a repo for new grad roles, but it is no longer maintained. A current version is maintained by [coderQuad](https://github.com/coderQuad/New-Grad-Positions-2023).
 
 :::warning
 
