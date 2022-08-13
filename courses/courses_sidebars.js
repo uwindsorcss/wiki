@@ -6,6 +6,15 @@ module.exports = {
         },
         {
             type: "category",
+            label: "Course Planning",
+            items: [
+                "course_planning/recommendedsequence",
+                "course_planning/electives",
+                "course_planning/specialcourse",
+            ],
+        },
+        {
+            type: "category",
             label: "COMP-2140",
             items: ["COMP-2140/installingJLex", "COMP-2140/installingJavaCup"],
         },
