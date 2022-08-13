@@ -17,5 +17,9 @@ module.exports = {
                 "guides/student_exchange_guide",
             ],
         },
+        {
+            type: "doc",
+            id: "useful_links",
+        },
     ],
 };
