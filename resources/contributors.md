@@ -40,7 +40,7 @@ Thank you for contributing to the UWindsor Computer Science Society Wiki!
 #### **Arunesh Choudhary**
 + https://github.com/choudh91
 
-#### **Hasan Ahmad**
+#### **Hassan Ahmad**
 + https://github.com/hassanuahmad
 + https://www.hassanuahmad.com/
 + ahmad12p@uwindsor.ca
