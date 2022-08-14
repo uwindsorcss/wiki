@@ -47,3 +47,6 @@ Thank you for contributing to the UWindsor Computer Science Society Wiki!
 
 #### **Veronica Reingold**
 + https://github.com/pekcus
+
+#### **Josh Boutros**
++ joshboutros2801@gmail.com
