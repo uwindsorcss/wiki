@@ -11,7 +11,7 @@ Here is your 2022-2023 CSS board:
 
 **President** - Jeremie Bornais | borna113@uwindsor.ca  
 **Vice President** - Laila Albalkhi | albalkhl@uwindsor.ca  
-**Treasurer** - Justin Bornais | bornais3@uwindsor.ca  
+**Treasurer** - Justin Bornais | bornais3@uwindsor.ca
 
 ---
 
@@ -20,7 +20,7 @@ Here is your 2022-2023 CSS board:
 **Head of Student Affairs** - Ben Chittle | chittle5@uwindsor.ca  
 **Head of Communications** - Sharjeel Mustafa | mustafa7@uwindsor.ca  
 **Head of Events** - Usman Farooqi | farooqiu@uwindsor.ca  
-**Head of Technology** - Ryan Prairie | prairie@uwindsor.ca  
+**Head of Technology** - Ryan Prairie | prairie@uwindsor.ca
 
 ---
 
@@ -35,4 +35,4 @@ Here is your 2022-2023 CSS board:
 **First Year Representatives** - TBD Fall 2022  
 **Event Organizer** - Shubham Mehta | mehta32@uwindsor.ca  
 **Event Coordinators** - Julia Sabelli | sabell11@uwindsor.ca, Eva Mudgal | mudgal@uwindsor.ca, Nick Boisclair | boiscla@uwindsor.ca, Musaib Nagani | naganim@uwindsor.ca  
-**Secretary** - Abbie Dewhirst | dyck41@uwindsor.ca  
+**Secretary** - Abbie Dewhirst | dyck41@uwindsor.ca
