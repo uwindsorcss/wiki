@@ -20,6 +20,11 @@ module.exports = {
         },
         {
             type: "category",
+            label: "COMP-2310",
+            items: ["COMP-2310/surviving2310"],
+        },
+        {
+            type: "category",
             label: "COMP-2660",
             items: ["COMP-2660/easyMASM"],
         },
