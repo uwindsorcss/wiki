@@ -37,7 +37,11 @@ module.exports = {
         {
             type: "category",
             label: "COMP-2140",
-            items: ["COMP-2140/overview", "COMP-2140/installingJLex", "COMP-2140/installingJavaCup"],
+            items: [
+                "COMP-2140/overview",
+                "COMP-2140/installingJLex",
+                "COMP-2140/installingJavaCup",
+            ],
         },
         {
             type: "category",
@@ -52,7 +56,7 @@ module.exports = {
         {
             type: "category",
             label: "COMP-2560",
-            items: ["COMP-2560/overview"],
+            items: ["COMP-2560/overview", "COMP-2560/advice"],
         },
         {
             type: "category",
