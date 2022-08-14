@@ -9,7 +9,7 @@ Chances are you've probably heard a lot about COMP-2310 from your peers (and if 
 
 ## How to Succeed in This Course
 
-The good news is that if you take this course seriously and put in the work, passing (and even performing well) is competely attainable. Here are some ways to better your chances of doing well in this course:
+The good news is that if you take this course seriously and put in the work, passing (and even performing well) is completely attainable. Here are some ways to better your chances of doing well in this course:
 
 ### Purchase (and Read) the Courseware
 
@@ -27,11 +27,11 @@ is referred to in COMP-2310 as "I4". Without the textbook, there'd be no way of 
 
 During the labs, you'll have the chance to go over actual practice questions together as a group. This will be incredibly helpful as this will likely be your first time seeing how to solve questions like these.
 
-In addition to the educational benefit you'll get from attending the labs, you're also more likely to gain favour from the professor. While the labs may not be worth any concrete marks, the professor does take attendance, and not showing up may end up affecting your final mark. This is because there's usually a very large curve in this class for your final mark. Unlike other classes though, the curve is not always applied the same to all students. Students who show that they're trying are more likely to get a higher curve, and thus a better mark.
+In addition to the educational benefit you'll get from attending the labs, you're also more likely to gain favour from the professor. While the labs may not be worth any concrete marks, the professor does take attendance, and not showing up will end up affecting your final mark. This is because there's usually a very large curve in this class for your final mark. Unlike other classes though, the curve is not always applied the same to all students. Students who show that they're making their best effort, and always attend and participate in labs, are likely to get a higher curve, and thus a better mark.
 
 ### Don't "Pass" in Labs
 
-During the labs, everyone is called on to solve one step in a problem. You're given the option to skip if you don't know the next step ("passing") or solving a step. However, even if you don't know what the next step is, you should always give a step anyways. Even if it doesn't bring you closer to the conclusion, it'll show that you both understand the basics of what's going on, and that you're making an effort. Similar to above, showing that you're making an effort will likely help when you get your curve at the end of the semester.
+During the labs, everyone is called on to solve one step in a problem. You're given the option to skip if you don't know the next step ("passing"). However, even if you don't know what the next step is, you should always give a step anyways. Even if it doesn't bring you closer to the conclusion, it'll show that you both understand the basics of what's going on, and that you're making an effort. Similar to above, showing that you're making an effort will likely help when you get your curve at the end of the semester.
 
 ### Don't Leave Questions Blank
 
@@ -51,7 +51,7 @@ Graph theory is the last concept covered in this course, and is often somewhat r
 
 ### Ride the Curve
 
-You may be discouraged as you go throughout this course, receiving marks that are generally lower than you're used to. This is to be expected in this course though. Fortunately, due to the especially-low averages, there is usually a fairly steep curve to your final mark. Depending on what your mark is pre-curve, and the level of effort you put into the class, you could receive upwards of a 25% curve (or 0% if you either have too high of a mark or you did not put any effort in). For example, if you consistently performed poorly on assessments, and ended up with a 25% pre-curve, but you attended all lab sessions and attempted all assessments, it's probably that you get curved up to a 50%. However, if you performed very well on the first Midterm and stopped trying in the course, ending up with that same 25% final mark pre-curve, you're much less likely to be curved up.
+You may be discouraged as you go throughout this course, receiving marks that are generally lower than you're used to. This is to be expected in this course though. Fortunately, due to the especially-low averages, there is usually a fairly steep curve to your final mark. Depending on what your mark is pre-curve, and the level of effort you put into the class, you could receive upwards of a 25% curve (or 0% if you either have too high of a mark or you did not put any effort in). For example, if you consistently performed poorly on assessments, and ended up with a 25% pre-curve, but you attended all lab sessions and attempted all assessments, it's probable that you will get curved up to a 50%. However, if you performed very well on the first Midterm and stopped trying in the course, ending up with that same 25% final mark pre-curve, you're much less likely to be curved up.
 
 ## Conclusion
 
@@ -59,4 +59,4 @@ COMP-2310 is a difficult course that requires special attention and effort. With
 
 ## Disclaimer
 
-Much of the material covered in this article is based off of the individual experiences of several students who have taken this course in the past. While students across several years have had similar experiences with this course, the material covered in this article does not represent any official stance from the university. As such, you should take this material with a grain of salt, and your experience may not be exactly the same as what was represented here.
+Much of the material covered in this article is based off of the individual experiences of several students who have taken this course in the past. While students across several years have had similar experiences with this course, the material covered in this article does not represent any official stance from the university. Moreover, depending on which professor is teaching this course, your mileage may vary. As such, you should take this material with a grain of salt, and your experience may not be exactly the same as what was represented here. It's recommended that in addition to reading this guide, you should also speak with students who have already taken this course with your professor for the most accurate information.
