@@ -7,7 +7,7 @@ slug: /COMP-1410/overview
 
 ## Course Title
 
-The title for COMP-1410 is "Intro to Programming and Algorithms II"
+The title for COMP-1410 is "Intro to Programming and Algorithms II".
 
 ## Course Description
 

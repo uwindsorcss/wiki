@@ -7,7 +7,7 @@ slug: /COMP-2650/overview
 
 ## Course Title
 
-The title for COMP-2650 is "Computer Architecture I: Digital Design"
+The title for COMP-2650 is "Computer Architecture I: Digital Design".
 
 ## Course Description
 

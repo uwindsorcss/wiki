@@ -7,7 +7,7 @@ slug: /COMP-3300/overview
 
 ## Course Title
 
-The title for COMP-3300 is "Operating Systems Fundamentals"
+The title for COMP-3300 is "Operating Systems Fundamentals".
 
 ## Course Description
 

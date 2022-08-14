@@ -7,7 +7,7 @@ slug: /COMP-1000/overview
 
 ## Course Title
 
-The title for COMP-1000 is "Key Concepts in Computer Science"
+The title for COMP-1000 is "Key Concepts in Computer Science".
 
 ## Course Description
 

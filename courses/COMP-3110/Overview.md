@@ -7,7 +7,7 @@ slug: /COMP-3110/overview
 
 ## Course Title
 
-The title for COMP-3110 is "Introduction to Software Engineering"
+The title for COMP-3110 is "Introduction to Software Engineering".
 
 ## Course Description
 

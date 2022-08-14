@@ -7,7 +7,7 @@ slug: /COMP-3220/overview
 
 ## Course Title
 
-The title for COMP-3220 is "Object-Oriented Software Analysis and Design"
+The title for COMP-3220 is "Object-Oriented Software Analysis and Design".
 
 ## Course Description
 

@@ -7,7 +7,7 @@ slug: /COMP-2310/overview
 
 ## Course Title
 
-The title for COMP-2310 is "Theoretical Foundations of Computer Science"
+The title for COMP-2310 is "Theoretical Foundations of Computer Science".
 
 ## Course Description
 

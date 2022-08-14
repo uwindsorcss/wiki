@@ -7,7 +7,7 @@ slug: /COMP-2560/overview
 
 ## Course Title
 
-The title for COMP-2560 is "System Programming"
+The title for COMP-2560 is "System Programming".
 
 ## Course Description
 

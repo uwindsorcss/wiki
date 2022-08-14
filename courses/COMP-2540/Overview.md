@@ -7,7 +7,7 @@ slug: /COMP-2540/overview
 
 ## Course Title
 
-The title for COMP-2540 is "Data Structures and Algorithms"
+The title for COMP-2540 is "Data Structures and Algorithms".
 
 ## Course Description
 

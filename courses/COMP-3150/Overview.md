@@ -7,7 +7,7 @@ slug: /COMP-3150/overview
 
 ## Course Title
 
-The title for COMP-3150 is "Database Management Systems"
+The title for COMP-3150 is "Database Management Systems".
 
 ## Course Description
 

@@ -7,7 +7,7 @@ slug: /COMP-2800/overview
 
 ## Course Title
 
-The title for COMP-2800 is "Software Development"
+The title for COMP-2800 is "Software Development".
 
 ## Course Description
 

@@ -7,7 +7,7 @@ slug: /COMP-2660/overview
 
 ## Course Title
 
-The title for COMP-2660 is "Computer Architecture II: Microprocessor Programming"
+The title for COMP-2660 is "Computer Architecture II: Microprocessor Programming".
 
 ## Course Description
 

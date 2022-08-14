@@ -7,7 +7,7 @@ slug: /COMP-2140/overview
 
 ## Course Title
 
-The title for COMP-2140 is "Computer Languages, Grammars, and Translators"
+The title for COMP-2140 is "Computer Languages, Grammars, and Translators".
 
 ## Course Description
 

@@ -7,7 +7,7 @@ slug: /COMP-2120/overview
 
 ## Course Title
 
-The title for COMP-2120 is "Object Oriented Programming Using Java"
+The title for COMP-2120 is "Object Oriented Programming Using Java".
 
 ## Course Description
 

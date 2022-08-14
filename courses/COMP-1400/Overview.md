@@ -7,7 +7,7 @@ slug: /COMP-1400/overview
 
 ## Course Title
 
-The title for COMP-1400 is "Intro to Programming and Algorithms I"
+The title for COMP-1400 is "Intro to Programming and Algorithms I".
 
 ## Course Description
 
