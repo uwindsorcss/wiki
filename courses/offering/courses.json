@@ -6,7 +6,6 @@
             "fall": true,
             "winter": true,
             "summer": true,
-
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
             "prerequisites": []
         },
