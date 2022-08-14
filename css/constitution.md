@@ -2,7 +2,7 @@
 id: constitution
 title: Constitution
 sidebar_label: Constitution
-slug: /
+slug: /constitution
 ---
 
 # University of Windsor Computer Science Society
