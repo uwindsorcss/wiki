@@ -116,7 +116,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### Important to know:
 
-The **search bar** feature **ONLY** works when you run ````yarn build````. It will **NOT** work when you run ````yarn start````
+The **search bar** feature **ONLY** works when you run `yarn build`. It will **NOT** work when you run `yarn start`
 
 ## Deployment
 

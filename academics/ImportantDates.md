@@ -39,7 +39,7 @@ slug: /dates
 -   August 15 - Fees Due
 -   September 8 - Classes begin
 -   September 21 - Last day to Add/Drop courses
--   October 8 to October 16  - Reading week
+-   October 8 to October 16 - Reading week
 -   October 10 - Thanksgiving Day: University Closed
 -   October 15 - Last day to submit a Full-Time OSAP application for the fall term
 -   November 5 - Last day to submit OSAP appeals and Part Time OSAP Application deadline for fall term
@@ -53,7 +53,7 @@ slug: /dates
 -   December 15 - Fees Due
 -   January 5 - Classes begin
 -   February 15 - Last day to submit a Full-Time OSAP application for the winter term
--   February 18 to February 26  - Reading week
+-   February 18 to February 26 - Reading week
 -   February 20 - Family Day: University Closed
 -   February 24 - University Offices Closed
 -   March 4 - Last day to submit OSAP appeals and Part Time OSAP Application deadline for winter term

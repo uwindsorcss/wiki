@@ -15,7 +15,6 @@ It is okay to not be completely sure if you want to do research or not: going to
 
 However, if those ideas don't appeal to you, then Co-op/Internship may be a better path. You will gain different practical skills and experience that will help you.
 
-
 ## Ways To Get Involved With Research
 
 The University has a program called Outstanding Scholars where students from all faculties can get involved in research projects.
