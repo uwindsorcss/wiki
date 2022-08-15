@@ -14,4 +14,3 @@ slug: /
 -   [Resumes](/careers/resume.md)
 -   [Interviews](/careers/interviewing.md)
 -   [Working in the United States](/careers/workinus.md)
-

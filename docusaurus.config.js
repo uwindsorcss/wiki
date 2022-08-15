@@ -153,9 +153,12 @@ module.exports = {
         ],
     ],
     plugins: [
-
-        ["@cmfcmf/docusaurus-search-local", {
-            indexDocs: true }],
+        [
+            "@cmfcmf/docusaurus-search-local",
+            {
+                indexDocs: true,
+            },
+        ],
 
         [
             "@docusaurus/plugin-content-docs",
