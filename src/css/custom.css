@@ -133,3 +133,8 @@ nav {
     --aa-background-color-rgb: 27, 27, 29 !important;
     --aa-input-border-color-rgb: 198, 232, 240 !important;
 }
+
+/* makes sure that the icon is visible in the toggle button */
+button.clean-btn:hover {
+    background-color: rgb(100, 100, 100);
+}
