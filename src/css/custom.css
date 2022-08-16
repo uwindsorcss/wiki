@@ -118,23 +118,18 @@ nav {
 
 /* Search Bar config in light mode */
 :root {
-    --aa-primary-color-rgb: 27,27,29 !important;
-    --aa-muted-color-rgb: 27,27,29 !important;
-    --aa-description-highlight-background-color-rgb: 27,27,29 !important; 
-    --aa-selected-color-rgb: 255,255,255  !important;
-    --aa-input-border-color-rgb: 27,27,29 !important;
-} 
-
-/* Search Bar config in dark mode */
-[data-theme='dark'] { 
-    --aa-primary-color-rgb: 198,232,240  !important;
-    --aa-muted-color-rgb: 198,232,240  !important;
-    --aa-selected-color-rgb: 27,27,29  !important;   /* Background of selected result when searching */
-    --aa-background-color-rgb: 27,27,29 !important;
-    --aa-input-border-color-rgb: 198,232,240 !important;
+    --aa-primary-color-rgb: 27, 27, 29 !important;
+    --aa-muted-color-rgb: 27, 27, 29 !important;
+    --aa-description-highlight-background-color-rgb: 27, 27, 29 !important;
+    --aa-selected-color-rgb: 255, 255, 255 !important;
+    --aa-input-border-color-rgb: 27, 27, 29 !important;
 }
 
-/* makes sure that the icon is visible in the toggle button */
-button.clean-btn:hover {
-    background-color: rgb(100, 100, 100);
+/* Search Bar config in dark mode */
+[data-theme="dark"] {
+    --aa-primary-color-rgb: 198, 232, 240 !important;
+    --aa-muted-color-rgb: 198, 232, 240 !important;
+    --aa-selected-color-rgb: 27, 27, 29 !important; /* Background of selected result when searching */
+    --aa-background-color-rgb: 27, 27, 29 !important;
+    --aa-input-border-color-rgb: 198, 232, 240 !important;
 }

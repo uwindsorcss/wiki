@@ -19,7 +19,7 @@ module.exports = {
         },
         {
             type: "doc",
-            id: "useful_links",
+            id: "contributors",
         },
     ],
 };
