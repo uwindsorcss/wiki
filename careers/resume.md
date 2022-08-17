@@ -21,11 +21,9 @@ your secondary school education - if you've made it to University, you probably 
 
 ### Example Resumes
 
--   [Jose Nicolas Alba Aguado](http://josealba.org/files/JoseAlba_Resume.pdf)
 -   [Eric Pickup](https://drive.google.com/file/d/1QUNbEYP0TBf33-JeCfXFwp_eoqI5YDql/view)
 -   [Brandon Lucier](https://scet.ch/Resume.pdf)
 -   [Harshdip Singh Deogan](https://hsdeogan.com/Resume-HarshdipSinghDeogan.pdf)
 -   [Ryan Prairie](https://ryanprairie.com/static/extras/resume.pdf)
--   [Abdulaziz Khan](https://drive.google.com/file/d/1giKnKYCMVJna55LkK2gHYxM3ex0j-53S/view?usp=sharing)
 
 #### Todo: Talk to Co-Op to expand this section.
