@@ -25,6 +25,7 @@ module.exports = {
             items: [
                 {
                     to: "/",
+                    activeBaseRegex: "^/wiki/$",
                     label: "Home",
                     position: "left",
                 },
