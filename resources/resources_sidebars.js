@@ -15,6 +15,7 @@ module.exports = {
                 "guides/parking_guide",
                 "guides/uwsa_club",
                 "guides/student_exchange_guide",
+                "guides/laptop_guide",
             ],
         },
         {
