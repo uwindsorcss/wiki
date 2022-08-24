@@ -5,6 +5,8 @@ sidebar_label: Laptop Requirements Guide
 slug: /guides/laptop
 ---
 
+_Last updated on 2022/08/24_
+
 Here are a few things to keep in mind when purchasing/configuring your laptop:
 
 ## Hardware
