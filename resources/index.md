@@ -15,3 +15,4 @@ slug: /
     -   [Parking Guide](/resources/guides/parking_guide.md)
     -   [Becoming a UWSA-Ratified Club](/resources/guides/uwsa_club.md)
     -   [Student Exchange Guide](/resources/guides/student_exchange_guide.md)
+    -   [Free e-Textbooks Guide](/resources/guides/free_etextbooks.md)
