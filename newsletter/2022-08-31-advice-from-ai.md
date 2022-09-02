@@ -6,7 +6,7 @@ author_image_url: https://uwindsorcss.github.io/files/dir/newsletter/img/stock-p
 ---
 
 :::note note from Jeremie
-The following article was written by an artificial intelligence called [GPT-3](https://openai.com/api/) in response to the following prompt: *"Write a long newsletter article written by yourself, GPT-3, for the UWindsor Computer Science Society Newsletter, giving advice to the incoming first years."* I hope you enjoy!
+The following article was written by an artificial intelligence called [GPT-3](https://openai.com/api/) in response to the following prompt: _"Write a long newsletter article written by yourself, GPT-3, for the UWindsor Computer Science Society Newsletter, giving advice to the incoming first years."_ I hope you enjoy!
 :::
 
 Hi everyone!

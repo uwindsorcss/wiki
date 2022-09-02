@@ -9,6 +9,10 @@ module.exports = {
             id: "importantDates",
         },
         {
+            type: "doc",
+            id: "textbooks",
+        },
+        {
             type: "category",
             label: "Awards",
             items: ["awards/findingAwards", "awards/awardApplication"],
