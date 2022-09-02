@@ -16,7 +16,7 @@ Although the following specifications are not strictly required, having these mi
 -   8 GB of RAM
     -   for gaming/future-proof purposes, 12 or 16 GB is more preferable
 -   256 GB of SSD storage
-    -   UWindsor provides 1 TB OneDrive cloud storage. However, if you download a lot of games and software, or if you simply prefer more local storage, you should upgrade to 512 GB / 1 TB storage
+    -   UWindsor provides 1 TB OneDrive cloud storage. However, it is **strongly** recommended that you upgrade to at least 512 GB. This will allow you to have space for a lot of games and software, and the extra local storage is good if you don't want the hassle of constantly uploading and downloading files from the cloud.
 
 ## Operating System
 
@@ -26,25 +26,25 @@ You aren't required to have certain OS since the School of Computer Science has 
 
 Windows is one of the most popular OS among students, particularly because it comes with most pre-assembled laptops. The user interface should be fairly intuitive even when you are new to using laptops, and it is one of the most supported OS for app availability or IT support. Additionally, it is much easier to game on Windows.
 
-Many Computer Science classes (COMP-1400 and COMP-1410, for example) will require programming environments that are harder to set up in Windows than in other UNIX/Linux-based OS. Although substitutes like WSL and virtual machines can help, they may not be fully compatible or require a lot of computing power. Should you choose Windows as your primary OS, you should consider setting up an SSH connection to the UWindsor's remote server on editors like Visual Studio Code or via other means. In addition, when you are working with other developers on a project, you may also have to pay attention to your line breaks (CRLF vs. LF).
+Many Computer Science classes (COMP-1400 and COMP-1410, for example) will require programming environments that are harder to set up in Windows than in other UNIX/Linux-based OS. Although substitutes like WSL can help, you _might_ run into compatibility issues when working with sockets and pipes in classes like COMP-2560. Virtual machines shouldn't have compatibility issues, but they can require a lot of computing power, especially when GUI is involved. Should you choose Windows as your primary OS, you should consider setting up an SSH connection to the UWindsor's remote server on editors like Visual Studio Code or via other means. In addition, when you are working with other developers on a project, you may also have to pay attention to your line breaks (CRLF vs. LF).
 
 If you are taking classes offered by other faculties or departments (e.g. Engineering), you may have to install software that are only available on Windows. However, this usually is not a concern since such instances are quite rare, and the University of Windsor has many other computer resources to help you out if something like this happens.
 
 ### Linux
 
-Linux/UNIX is very good for programming/developing because of how easy it is to set up the necessary environment. Much like MacOS, it can be difficult to game on. Depending on how important gaming is to you, you may need to use Wine, set up virtual machine, or dual-boot with Windows. Additionally, since many of the University's software (Office 365, OneDrive, Teams, etc.) are on the Microsoft platform, there _may_ be some compatibility issues.
+Linux/UNIX is very good for programming/developing because of how easy it is to set up the necessary environment. Much like MacOS, it can be difficult to game on. Depending on how important gaming is to you, you may need to use Wine, set up a virtual machine, or dual-boot with Windows. Additionally, since many of the University's software (Office 365, OneDrive, Teams, etc.) are on the Microsoft platform, there _may_ be some compatibility issues.
 
-Popular Linux distros include Ubuntu, Debian, Fedora, Pop!\_OS, Linux Mint, and Arch Linux. If you are very new to Linux, then Ubuntu and Debian may be a good starting point for you simply because there is a large community using them and most likely have answers for any problem you encounter. The University, for example, uses Debian on its remote servers. If you have time and are willing to experiment, you should test out the different Linux OS since the desktop environment on Ubuntu and Debian (GNOME) can be slightly laggy on laptops without high specifications.
+Popular Linux distros include Ubuntu, Debian, Fedora, Pop!\_OS, Linux Mint, and Arch Linux. If you are very new to Linux, then Ubuntu and Debian may be a good starting point for you simply because there is a large community using them and most likely have answers for any problem you encounter. The University, for example, uses Debian on its remote servers. If you have time and are willing to experiment, you should test out the different Linux OS since the desktop environment on Ubuntu and Debian (GNOME) can be slightly laggy on laptops without high specifications. If you are coming from Windows, Linux Mint's Cinnamon desktop environment will help you adjust to Linux as it has a look and feel comparable to that of Windows.
 
-Although Linux OS may be confusing for new users, becoming comfortable with a UNIX/Linux environment is very beneficial for you. The University generally expects you to produce codes/projects that will work on its Linux server. As well, Linux forces you to interact with the command line more, which is great if you want to learn more about how your computer works underneath.
+Although Linux OS may be confusing for new users, becoming comfortable with a UNIX/Linux environment is very beneficial for you. The University generally expects you to produce code/projects that will work on its Linux server. As well, Linux forces you to interact with the command line more, which is great if you want to learn more about how your computer works underneath.
 
-Almost all Linux distros are free, especially the popular ones. As well, people have said that Linux takes up less storage and is more battery-efficient compared to Windows. Thus, the right Linux distro will significantly optimize your laptop, especially if you are on a budget.
+Almost all Linux distros are free, especially the popular ones. In general, Linux distros require less disk space and perform better on low-end devices, compared to Windows. Thus, the right Linux distro will significantly optimize your laptop, especially if you are on a budget. However, Linux is also generally worse for battery life compared to other OS.
 
 ### MacOS
 
-Since the MacOS is a UNIX-based operating system, it is usually easier to set up local programming environment than Windows. As well, it is also among the most supported OS in terms of IT support and app availability. However, MacOS is generally not compatible with non-Apple products. This means that you would need to purchase a MacBook to use MacOS, which may be expensive/less cost-effective depending on your budget and what specifications you're looking for.
+Since the MacOS is a UNIX operating system, it is usually easier to set up local programming environment than Windows. As well, it is also among the most supported OS in terms of IT support and app availability. However, MacOS is generally not compatible with non-Apple products. This means that you would need to purchase a MacBook to use MacOS, which may be expensive/less cost-effective depending on your budget and what specifications you're looking for.
 
-Much like Linux OS, it can be difficult to game on. Depending on how important gaming is to you, you may need to use Wine, set up virtual machine, or dual-boot with Windows.
+Much like Linux OS, it can be difficult to game on. Depending on how important gaming is to you, you may need to use Wine, set up a virtual machine, or dual-boot with Windows.
 
 ### ChromeOS (Chromebook)
 
