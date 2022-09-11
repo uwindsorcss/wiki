@@ -20,7 +20,7 @@ Once you've installed all the prerequisites, you're ready to run the wiki locall
 ## Updating Existing Articles
 
 The simplest way to contribute is to add to or update an existing article. To do this, simply find the relevant `.md` file for the corresponding article you'd like to update, and edit the contents. That's it! After you edit the content you should be able to see it change in the browser.  
-If the article you're updating contains a "Last Updated" date at the start of it, make sure to update it with the current date! Make sure to also follow the [style guide](/resources/guides/style) when updating an article.
+If the article you're updating contains a "Last Updated" date at the start of it, make sure to update it with the current date! Make sure to also follow the [style guide](/resources/guides/style) and [article requirements](https://github.com/uwindsorcss/wiki/blob/master/REQUIREMENTS.md) when updating an article.
 
 ## Creating New Articles
 
@@ -87,7 +87,7 @@ Here, to add a new article, say with id of "meetRyan", you would add the followi
 },
 ```
 
-The name of the game here is following the pattern of what's already there. If you do this, you'll be doing the right thing most of the time. Once this is all done, you can finish writing your article and it should appear on your local wiki! Remember of course to follow the [style guide](/resources/guides/style) when creating an article.
+The name of the game here is following the pattern of what's already there. If you do this, you'll be doing the right thing most of the time. Once this is all done, you can finish writing your article and it should appear on your local wiki! Remember of course to follow the [style guide](/resources/guides/style) and [article requirements](https://github.com/uwindsorcss/wiki/blob/master/REQUIREMENTS.md) when creating an article. All sections also have an index page which lists all of the articles in that section. Look for an `index.md` in the section folder you're working on, and add your article to it! For example, for adding a careers-related article, add a link in `careers/index.md`.
 
 ## Running Prettier
 
@@ -114,3 +114,7 @@ When creating your pull request, you may receive comments and suggested changes 
 ## Giving Yourself Credit
 
 To thank everyone for their contributions to the wiki, we've created [a page dedicated to showcasing all of our contributors](/resources/contributors). Make sure you add yourself to this list so you can be recognized for your work! Feel free to add your GitHub, personal website, and/or your email address as well.
+
+## More Resouces
+
+Check out the [Docusaurus documentation](https://docusaurus.io/docs) for more information on how Docusaurus works!
