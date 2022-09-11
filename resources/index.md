@@ -16,3 +16,4 @@ slug: /
     -   [Becoming a UWSA-Ratified Club](/resources/guides/uwsa_club.md)
     -   [Student Exchange Guide](/resources/guides/student_exchange_guide.md)
     -   [Laptop Requirements Guide](/resources/guides/laptop_guide.md)
+    -   [First Year Guide](/resources//guides//first_year_guide.md)
