@@ -56,6 +56,10 @@ nav {
     padding-left: 1rem;
 }
 
+.navbar__items {
+    white-space: nowrap;
+}
+
 /* padding for right side of normal nav bar */
 .navbar__items--right {
     padding-right: 0.5rem;
