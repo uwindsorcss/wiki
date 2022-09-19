@@ -17,3 +17,4 @@ slug: /
     -   [Student Exchange Guide](/resources/guides/student_exchange_guide.md)
     -   [Laptop Requirements Guide](/resources/guides/laptop_guide.md)
     -   [First Year Guide](/resources//guides//first_year_guide.md)
+    -   [VPN Setup Guide](/resources//guides//vpn_guide.md)
