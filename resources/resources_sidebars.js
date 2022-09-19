@@ -17,6 +17,7 @@ module.exports = {
                 "guides/student_exchange_guide",
                 "guides/laptop_guide",
                 "guides/first_year_guide",
+                "guides/vpn_guide",
             ],
         },
         {
