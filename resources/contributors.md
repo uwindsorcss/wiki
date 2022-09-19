@@ -61,3 +61,7 @@ Thank you for contributing to the UWindsor Computer Science Society Wiki!
 #### **Josh Boutros**
 
 -   joshboutros2801@gmail.com
+
+#### **Nafiz Hasan**
+
+-   https://github.com/Nafiz1
