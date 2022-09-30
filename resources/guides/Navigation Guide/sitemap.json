@@ -23,6 +23,18 @@
       "loc": "https://uwindsorcss.github.io/wiki/resources/guides/contributing"
     },
     {
+      "name": "First Year Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/first_year"
+    },
+    {
+      "name": "VPN Setup Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/vpn"
+    },
+    {
+      "name": "Laptop Requirements Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/laptop"
+    },
+    {
       "name": "How to Become a UWSA Ratified Club",
       "loc": "https://uwindsorcss.github.io/wiki/resources/guides/uwsa_club"
     },
@@ -55,6 +67,10 @@
     {
       "name": "Important Dates",
       "loc": "https://uwindsorcss.github.io/wiki/academics/dates"
+    },
+    {
+      "name": "Textbook Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/textbooks"
     },
     {
       "name": "Academic Support",
