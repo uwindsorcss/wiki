@@ -16,6 +16,9 @@ module.exports = {
                 "guides/uwsa_club",
                 "guides/student_exchange_guide",
                 "guides/Navigation Guide/navigation-guide",
+                "guides/laptop_guide",
+                "guides/first_year_guide",
+                "guides/vpn_guide",
             ],
         },
         {

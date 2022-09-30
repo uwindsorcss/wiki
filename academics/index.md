@@ -6,6 +6,7 @@ slug: /
 ---
 
 -   [Important Dates](/academics/ImportantDates.md)
+-   [Textbook Guide](/academics/Textbooks.md)
 -   Awards
     -   [Finding Awards](/academics/awards/findingAwards.md)
     -   [Applying for Awards](/academics/awards/awardApplication.md)
