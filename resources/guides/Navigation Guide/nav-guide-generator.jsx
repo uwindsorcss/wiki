@@ -1,8 +1,6 @@
 import React from 'react'
 import JSONData from './sitemap.json'
 
-Object.values(JSONData).map(parent => parent.map(child => console.log(child)))
-
 export const WikiPages = () => {
   return (
     <div className='pages-container'>
