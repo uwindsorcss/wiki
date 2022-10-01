@@ -4,54 +4,36 @@ title: Important Dates
 sidebar_label: Important Dates
 slug: /dates
 ---
-
-### Summer 2021
-
--   May 10 - Classes begin (Full Summer and Inter-Session)
--   May 21 - Last day for late registration and change of courses
--   June 17 to June 27th - Reading week
--   June 6, June 18 - Last day to voluntarily withdraw from courses (Inter-Session and Full Summer respectively)
--   August 2 - University closed
--   June 21, August 10 - Last day of classes (Inter-Session and Full Summer respectively)
--   August 14 to August 23 - Final exams
-
-### Winter 2022
-
--   December 20 - Confirmation of enrollment begins
--   January 7 - Classes begin
--   January 20 - Last day for late registration and change of courses
--   February 13 to February 21 - Reading week
--   February 15 - Last day to submit a Full-Time OSAP application for the winter term
--   March 4 - Last day to submit OSAP appeals and Part Time OSAP Application deadline for winter term
--   March 17 - Last day to voluntarily withdraw from courses
--   April 2 - University closed
--   April 9 - Last day of classes
--   April 12 to April 22 - Final exams
--   April 23 - Alternate exam date
-
-### Summer 2022
-
--   May 5 - Confirmation of enrollment begins
--   August 13 to August 22 - Final exams
+_Last updated on 2022/09/28_
 
 ### Fall 2022
 
 -   August 15 - Fees Due
 -   September 8 - Classes begin
 -   September 21 - Last day to Add/Drop courses
+-   October 5 - Financial Drop Date: Fall 2022
+-   October 5 - Format checking deadline for Phase II
+-   October 6 - Last Day to file an appeal of grades for Summer 2022 Graduate & Undergrad courses
 -   October 8 to October 16 - Reading week
 -   October 10 - Thanksgiving Day: University Closed
+-   October 13 - Phase II deposit deadline for Fall term 2022
+-   October 14 - Fall 2022 Convocation
 -   October 15 - Last day to submit a Full-Time OSAP application for the fall term
 -   November 5 - Last day to submit OSAP appeals and Part Time OSAP Application deadline for fall term
+-   November 7 to November 11 - LAW: Study Week for All Law Students
 -   November 16 - Last day to voluntarily withdraw from courses
--   December 7 - Last day of classes
+-   November 21 - December 16 - Education: Practicum Block
+-   December 7 - Last Day of Fall 2022 Classes
+-   December 8 - Deadline for students to submit for Format checking, for completion within Fall 2022
 -   December 10 to December 21 - Final exams
+-   December 15 - Fees Due
 -   December 22 - Alternate final exam date
+-   December 23 - January 2 - University Offices Closed for December Holiday recess
 
 ### Winter 2023
 
--   December 15 - Fees Due
 -   January 5 - Classes begin
+-   February 1 - Full tuition refund (less non-refundable deposit if applicable) drop date for the Winter 2023 semester
 -   February 15 - Last day to submit a Full-Time OSAP application for the winter term
 -   February 18 to February 26 - Reading week
 -   February 20 - Family Day: University Closed
@@ -61,3 +43,5 @@ slug: /dates
 -   April 7 - Good Friday: University Closed
 -   April 10 to April 20 - Final exams
 -   April 21 - Alternate final exam date
+
+[Follow this link for more information](https://www.uwindsor.ca/registrar/events-listing)
