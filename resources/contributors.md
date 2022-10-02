@@ -65,3 +65,7 @@ Thank you for contributing to the UWindsor Computer Science Society Wiki!
 #### **Nafiz Hasan**
 
 -   https://github.com/Nafiz1
+
+#### **Vinit Hemadri**
+
+-   https://github.com/Vinitvh
