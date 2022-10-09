@@ -21,6 +21,7 @@ COMP-3110 is typically offered in the Fall semester.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-2120 and COMP-2540 are prerequesites for this class.
+COMP-2120 and COMP-2540 are the prerequisites for this class.
+

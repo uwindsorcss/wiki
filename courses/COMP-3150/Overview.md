@@ -21,6 +21,7 @@ COMP-3150 is typically offered in the Fall and Winter semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-Prerequesites for this class are COMP-2540 and COMP-2560 or COMP-2650
+COMP-2560 or COMP-2650 and COMP-2540 are the prerequisites for this class.
+

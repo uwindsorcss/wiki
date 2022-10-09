@@ -21,6 +21,7 @@ COMP-2540 is typically offered in all semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-1000 and COMP-1410 are prerequesites for this class.
+COMP-1000 and COMP-1410 are the prerequisites for this class.
+

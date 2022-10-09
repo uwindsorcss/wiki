@@ -21,6 +21,7 @@ COMP-2120 is typically offered in all semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-1410 is a prerequesite for this class.
+COMP-1410 is the prerequisite for this class.
+
