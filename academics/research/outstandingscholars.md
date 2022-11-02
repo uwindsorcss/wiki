@@ -5,7 +5,7 @@ sidebar_label: Outstanding Scholars
 slug: /outstandingscholars
 ---
 
-_Last updated on 2022/04/16_
+_Last updated on 2022/10/09_
 
 UWindsor offers the Outstanding Scholars program for students to get involved in research projects. Student will get paid for each placement under the supervision of instructors. The program requires students to complete 6 placements in order to complete the OS program. Most students will start their placement from 3rd semester until the last semester to complete all 6 placements.
 
@@ -30,11 +30,11 @@ UWindsor offers the Outstanding Scholars program for students to get involved in
 
 ## Applying to Outstanding Scholars
 
-There are two entry point for a student to enter the OS program: apply directly from high school, or apply after their first year at the University.
+During high school, you can apply to become an OS **Candidate** for your first year at UWindsor. However, regardless if you are an OS Candidate or not, you must apply again after your first year in order to enter the OS program as a full scholar and perform research.
 
-**Applying from high school:**
+**Applying to be an Outstanding Scholar Candidate:**
 
-High school students can apply to the OS Program by applying to the OS Candidates Scholarship. The selected students for this scholarship will be known as OS Candidates. After their first year at the University of Windsor, OS Candidates need to re-apply to the OS Program to formally get involved with research projects.
+High school students can apply to the OS Candidates Scholarship. The selected students for this scholarship will be known as OS Candidates. During their first year, OS Candidates will receive $750 / semester, interact with other Outstanding Scholars, and have opportunities to network with professors. After their first year at the University of Windsor, OS Candidates need to re-apply to the OS Program to formally get involved with research projects.
 
 The application will be done through the Student Awards Profile at UWinsite Student, and the top 100 students applying for admission to any first-entry program at the University of Windsor will be accepted.
 
@@ -42,13 +42,13 @@ Students are eligible to apply if their GPA, based on the top three to six Grade
 
 The deadline for applications for Fall 2022 admission will be Thursday, March 31st, 2022.
 
-**Applying from second year:**
+**Applying to be a Full-fledged Outstanding Scholar:**
 
-Students who did not apply to OS during high school can still apply during the summer after their first year of study, if they are invited to apply. Invitations will be given by email to the top 250 first-year students with the highest cumulative GPA. Note that OS Candidates must also be among the 250 students in order to re-apply.
+Every summer, invitations will be given out to prospective second-years to apply to the OS program to become a full scholar. Invitations will be given by email to the top 250 first-year students with the highest cumulative GPA. If a student is already an OS Candidate, then they will be invited if they are in good academic standing and has maintained a cumulative average of 80%+.
 
 Every year, the OS program will admit the top 80 second-year students as Outstanding Scholars. These Outstanding Scholars will start to find their research placement during the Fall semester of their second year.
 
-Students are eligible to apply if their cumulative GPA ranks among the top 250 first-year students.
+Students are eligible to apply if their cumulative GPA ranks among the top 250 first-year students. If a student is already an OS Candidate, then they will be invited if they are in good academic standing and has maintained a cumulative average of 80%+.
 
 :::note
 
