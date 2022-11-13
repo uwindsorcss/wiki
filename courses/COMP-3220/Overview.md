@@ -7,7 +7,7 @@ slug: /COMP-3220/overview
 
 ## Course Title
 
-The title for COMP-3220 is "Object-Oriented Software Analysis and Design".
+The title for COMP-3220 is "Obj Oriented Software Analysis and Design".
 
 ## Course Description
 
@@ -21,6 +21,7 @@ COMP-3220 is typically offered in all semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-2120 and COMP-2540 are prerequesites for this class.
+COMP-2540 and COMP-2120 are the prerequisites for this class.
+

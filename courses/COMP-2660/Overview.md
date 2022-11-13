@@ -7,7 +7,7 @@ slug: /COMP-2660/overview
 
 ## Course Title
 
-The title for COMP-2660 is "Computer Architecture II: Microprocessor Programming".
+The title for COMP-2660 is "Computer Architecture II".
 
 ## Course Description
 
@@ -21,6 +21,7 @@ COMP-2660 is typically offered in the Fall and Winter semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-2650 is a prerequesite for this class.
+COMP-2650 is the prerequisite for this class.
+

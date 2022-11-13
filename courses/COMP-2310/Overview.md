@@ -21,6 +21,6 @@ COMP-2310 is typically offered in the Fall and Winter semesters.
 
 Yes, a textbook is absolutely required to pass this class.
 
-## Prerequesites
+## Prerequisites
 
-COMP-1000 and MATH-1020 are prerequesites for this class.
+COMP-1000 and MATH-1020 are the prerequisites for this class.

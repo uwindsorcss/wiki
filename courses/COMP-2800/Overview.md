@@ -21,6 +21,7 @@ COMP-2800 is typically offered in the Winter semester.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-2120 is a prerequesite for this class.
+COMP-2120 is the prerequisite for this class.
+
