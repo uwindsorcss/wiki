@@ -1,35 +1,35 @@
 import React from 'react'
 import JSONData from './sitemap.json'
 
-Object.values(JSONData).map(parent => parent.map(child => console.log(child)))
-
 export const WikiPages = () => {
   return (
     <div className='pages-container'>
-      {Object.values(JSONData).map((parent, key) => {
-        return (
-          <div key={key}>
-            <h3>{parent[0].name}</h3>
-            {parent.map((data, key) => {
-              return (
-                <ul key={key}>
-                  <li><a href={data.loc}>{data.name}</a></li>
-                </ul>
-              )
-            })}
-          </div>
-        )
+      {Object.values(JSONData).map((header, index) => {
+        if (header[0] != undefined) { // checks to see that if the header page contains subpages or not
+          return ( // lists subpages of header page 
+            <div key={index}>
+              <h3>{header[0].name}</h3>
+              {header.map((data, index) => {
+                return (
+                  <ul key={index}>
+                    <li><a href={data.loc}>{data.name}</a></li> 
+                  </ul>
+                )
+              })}
+            </div>
+          )
+        }
+        else { 
+          console.log(Object.keys(JSONData)[index] + " isn't available")
+          return ( // renders if subpages aren't available for certain header page
+            <div key={index}>
+              <h3>No pages available for {Object.keys(JSONData)[index]}</h3> 
+            </div>  
+          )
+        }
       })}
     </div>
   )
 }
 
-function App() {
-  return (
-    <div className='App'>
-      <WikiPages />
-    </div>
-  )
-}
-
-export default App;
+export default WikiPages;
