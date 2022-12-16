@@ -17,7 +17,7 @@ The good news is that if you take this course seriously and put in the work, pas
 
 ### Purchase (and Read) the Courseware
 
-Normally with CS classes the textbook is optional (and not helpful). COMP-4540 is an exception to this rule. All of the lecture content is contained within this book. Moreover, you may be expected in assignments or on examinations to use or refer to an algorithm described in the courseware. Without the courseware, you'll be our of luck.
+Normally with CS classes the textbook is optional (and not helpful). COMP-4540 is an exception to this rule. All of the lecture content is contained within this book. Moreover, you may be expected in assignments or on examinations to use or refer to an algorithm described in the courseware. Without the courseware, you'll be out of luck.
 
 #### COMP-2310 Courseware
 
@@ -31,9 +31,9 @@ Whether it's on an assignment or an exam, if you know any part in solving the qu
 
 Don't underestimate the difficulty and length of the assignments. Many of the questions may take you a full day to solve, so you'll need all the time you can get. Leaving things until the last minute will inevitably lead to you not being able to finish them.
 
-### Read CLRS (and Other Supplementary Material)
+### Make Use of Supplementary Materials
 
-Unlike in COMP-2310, you can actually use different sources to supplement what you learn in the lectures and in the courseware. Probably the best supplementary material you can make use of is [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), the most famous textbook on algorithms. It goes a bit more in detail than the courseware and gives additional examples. It also gives sample questions, which the courseware lacks. You should be able to find a copy of CLRS easily online. [Leetcode](https://leetcode.com/) is also surprisingly helpful in this course. While this course may be focused on theory, the algorithm design skills you gain from doing Leetcode problems does help quite a bit. Some questions you encounter in this course may be very similar to Leetcode problems.
+Unlike in COMP-2310, you can actually use different sources to supplement what you learn in the lectures and in the courseware. Probably the best supplementary material you can make use of is [CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms), the most famous textbook on algorithms. It goes a bit more in detail than the courseware and gives additional examples. It also gives sample questions, which the courseware lacks. You should be able to find a copy of CLRS easily online. [Leetcode](https://leetcode.com/) is also surprisingly helpful in this course. While this course may be focused on theory, the algorithm design skills you gain from doing Leetcode problems does help quite a bit. Some questions you encounter in this course may be very similar to Leetcode problems. Other useful resources include [Abdul Bari's YouTube videos](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) on algorithms (many students found his videos helpful) and [MIT's Open Courseware](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) (contains full lecture videos, notes, quizzes, assignments, etc.)
 
 ### Ride the Curve
 
