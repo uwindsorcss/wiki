@@ -25,7 +25,7 @@ If you don't have the COMP-2310 courseware you should purchase it as well. In it
 
 ### Don't Leave Questions Blank
 
-Whether it's on an assignment or an exam, if you know any part in solving the question, you should write something down. More times than not if what you write is at all useful in solving the question you might get some marks. Even if you don't get any marks though, showing the professor that you have some understanding of the course content and are actively trying to learn will make you look better when it's time for your grade to be curved. 
+Whether it's on an assignment or an exam, if you know any part in solving the question, you should write something down. More times than not if what you write is at all useful in solving the question you might get some marks. Even if you don't get any marks though, showing the professor that you have some understanding of the course content and are actively trying to learn will make you look better when it's time for your grade to be curved.
 
 ### Start The Assignments Once You Receive Them
 
@@ -39,7 +39,7 @@ Unlike in COMP-2310, you can actually use different sources to supplement what y
 
 You may be discouraged as you go throughout this course, receiving marks that are generally lower than you're used to. This is to be expected in this course though. Fortunately, due to the especially-low averages, there is usually a fairly steep curve to your final mark. Depending on what your mark is pre-curve, and the level of effort you put into the class, you could receive up to a 30% curve in your final grade.
 
-The difficulty of the assessments may make you think the professor is trying to fail you, but in reality they do the best they can to curve you up to a pass if you show some level of understanding of the material. 
+The difficulty of the assessments may make you think the professor is trying to fail you, but in reality they do the best they can to curve you up to a pass if you show some level of understanding of the material.
 
 ## Conclusion
 
