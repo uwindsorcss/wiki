@@ -49,6 +49,10 @@ Obviously you shouldn't cheat in any class. However, if there were any class tha
 
 Graph theory is the last concept covered in this course, and is often somewhat rushed. You're likely to have one assignment pertaining to it, and only one or two questions on the final exam relating to it. As such, it doesn't make up much of your final grade. Since graph theory is very different from the rest of the material covered in this course, it might take more time and effort to study than the rest of the material. Therefore, if you're a bit behind in the material by the end of the course and you're confident about graph theory, simply gloss over the basics of it and focus your attention on the earlier material.
 
+#### A Note About COMP-4540
+
+While it is true you can pass and even do relatively well in COMP-2310 without stressing about graph theory, you will be expected to know the definitions and core concepts of graph theory taught in this course when you take COMP-4540. As such, if you don't get around to studying graph theory seriously while taking this course, you should definitely make sure you review the material before taking COMP-4540.
+
 ### Ride the Curve
 
 You may be discouraged as you go throughout this course, receiving marks that are generally lower than you're used to. This is to be expected in this course though. Fortunately, due to the especially-low averages, there is usually a fairly steep curve to your final mark. Depending on what your mark is pre-curve, and the level of effort you put into the class, you could receive upwards of a 25% curve (or 0% if you either have too high of a mark or you did not put any effort in). For example, if you consistently performed poorly on assessments, and ended up with a 25% pre-curve, but you attended all lab sessions and attempted all assessments, it's probable that you will get curved up to a 50%. However, if you performed very well on the first Midterm and stopped trying in the course, ending up with that same 25% final mark pre-curve, you're much less likely to be curved up.
