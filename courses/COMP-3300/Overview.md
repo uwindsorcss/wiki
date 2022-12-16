@@ -7,7 +7,7 @@ slug: /COMP-3300/overview
 
 ## Course Title
 
-The title for COMP-3300 is "Operating Systems Fundamentals".
+The title for COMP-3300 is "Operating System Fundamentals".
 
 ## Course Description
 
@@ -21,6 +21,7 @@ COMP-3300 is typically offered in the Winter and Summer semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-Prerequesites for this class are COMP-2540, COMP-2120, COMP-2560, COMP-2650 or COMP-2660.
+COMP-2540, COMP-2120, COMP-2560, and COMP-2650 or COMP-2660 are the prerequisites for this class.
+

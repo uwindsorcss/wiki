@@ -21,6 +21,7 @@ COMP-1000 is typically offered in all semesters.
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-There are no prerequesites for this class.
+There is no UWindsor prerequisite for this class.
+

@@ -7,7 +7,7 @@ slug: /COMP-2140/overview
 
 ## Course Title
 
-The title for COMP-2140 is "Computer Languages, Grammars, and Translators".
+The title for COMP-2140 is "Computer Languages, Grammars and Translators".
 
 ## Course Description
 
@@ -15,12 +15,13 @@ Pragmatic and theoretical aspects of grammars, recognizers, and translators for 
 
 ## Typical Course Offering
 
-COMP-2140 is typically offered in the Winter semester only.
+COMP-2140 is typically offered in the Winter semester.
 
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.
 
-## Prerequesites
+## Prerequisites
 
-COMP-1000 and COMP-2120 are prerequesites for this class.
+COMP-1000 and COMP-2120 are the prerequisites for this class.
+
