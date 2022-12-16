@@ -242,7 +242,10 @@ module.exports = {
                 {
                     type: "category",
                     label: "COMP-4540",
-                    items: ["COMP-4540/overview"],
+                    items: [
+                        "COMP-4540/overview",
+                        "COMP-4540/surviving4540"
+                    ],
                 },
                 {
                     type: "category",
