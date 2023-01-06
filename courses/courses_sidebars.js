@@ -151,7 +151,7 @@ module.exports = {
                 {
                     type: "category",
                     label: "COMP-3300",
-                    items: ["COMP-3300/overview", "COMP-3300/advice"],
+                    items: ["COMP-3300/overview", "COMP-3300/advice", "COMP-3300/xv6"],
                 },
                 {
                     type: "category",
