@@ -96,6 +96,10 @@ module.exports = {
                             label: "Contribute",
                             href: "https://github.com/uwindsorcss/wiki",
                         },
+                        {
+                            label: "How to Navigate the Wiki",
+                            to: "resources/guides/Navigation Guide/navigation-guide",
+                        },
                     ],
                 },
                 {
