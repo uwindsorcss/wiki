@@ -27,6 +27,7 @@ module.exports = {
             label: "Support Resources",
             items: [
                 "support/academicsupport",
+                "support/academiccomplaints",
                 "support/mentalhealth",
                 "support/physicalhealth",
             ],
