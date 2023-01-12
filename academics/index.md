@@ -15,5 +15,6 @@ slug: /
     -   [Outstanding Scholars](/academics/research/outstandingscholars.md)
 -   Support Resources
     -   [Academic Support Resources](/academics/support/academicsupport.md)
+    -   [Academic Complaints](/academics/support/academiccomplaints.md)
     -   [Mental Health Resources](/academics/support/mentalhealth.md)
     -   [Physical Health Resources](/academics/support/physicalhealth.md)
