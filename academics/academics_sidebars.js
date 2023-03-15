@@ -13,6 +13,10 @@ module.exports = {
             id: "textbooks",
         },
         {
+            type: "doc",
+            id: "course_overload",
+        },
+        {
             type: "category",
             label: "Awards",
             items: ["awards/findingAwards", "awards/awardApplication"],
