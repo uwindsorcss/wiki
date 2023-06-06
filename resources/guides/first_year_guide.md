@@ -23,7 +23,7 @@ Some of the online services you can access using your UWin Account include:
 
 For browsing and enrolling in classes, viewing tuition and fees, accessing acedamic information, applying for scholarships, and more. See the [UWinsite Guide](/wiki/resources/guides/uwinsite_guide) for more details and help.
 
-#### [Blackboard](https://blackboard.uwindsor.ca)
+#### [Brightspace](https://brightspace.uwindsor.ca)
 
 The university's Learning Management System (LMS). It is used to view course material, submit coursework, review grades, and more.
 

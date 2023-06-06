@@ -55,7 +55,7 @@ The following organizations provide course-related support (midterm, final exam,
 
 ### CS Current Undergraduate Students (The School of Computer Science)
 
-On Blackboard, the CS Current Students organization offers tutoring for all CS courses. You can find them at the Blackboard Organizations page. For more detailed instruction on accessing their tutoring service, see [here](https://www.uwindsor.ca/science/computerscience/1082/tutoring-and-academic-assistance).
+On Brightspace, the CS Current Students organization offers tutoring for all CS courses. You can find them at the Brightspace Organizations page. For more detailed instruction on accessing their tutoring service, see [here](https://www.uwindsor.ca/science/computerscience/1082/tutoring-and-academic-assistance).
 
 ### Math and Stats Learning Centre
 
