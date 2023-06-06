@@ -50,7 +50,7 @@ While Eduroam is the primary campus-wide Wi-Fi network, you may want to use UWin
 
 ## Activating Your UWindsor Account
 
-You use your UWindsor ID to sign into your UWinsite Student, Blackboard, MySuccess, etc. Your UWindsor email address is your ID @uwindsor.ca and sign-in is via Gmail.
+You use your UWindsor ID to sign into your UWinsite Student, Brightspace, MySuccess, etc. Your UWindsor email address is your ID @uwindsor.ca and sign-in is via Gmail.
 
 To activate your ID, you will require your 9-digit Student Number and 4-digit Personal Access Code (PAC). Find these by searching your inbox, or on your acceptance letter. Visit the Leddy Library or the Computer Centre to use an internet-enabled computer and activate your account.
 
