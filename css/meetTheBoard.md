@@ -34,5 +34,5 @@ Here is your 2023-2024 CSS board:
 **Second Year Representative** - Norika Upadhyay | upadhy82@uwindsor.ca  
 **First Year Representatives** - TBD Fall 2023  
 **Event Organizer** - Nafiz Hasan | hasan55@uwindsor.ca  
-**Event Coordinators** - Anika Khan | khan661@uwindsor.ca, Akshat Sharma | sharma8d@uwindsor.ca, Ahmad Munim | munima@uwindsor.ca, Mathew | pellarim@uwindsor.ca  
+**Event Coordinators** - Anika Khan | khan661@uwindsor.ca, Akshat Sharma | sharma8d@uwindsor.ca, Ahmad Munim | munima@uwindsor.ca, Mathew Pellarin | pellarim@uwindsor.ca  
 **Secretary** - Ben Chittle | chittle5@uwindsor.ca
