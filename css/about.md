@@ -21,10 +21,8 @@ When the time comes, everyone will be notified via email and Discord on how to n
 
 Here is the most current chart showing the hierarchy of positions on CSS:
 
-![CSS Hierarchy](https://uwindsorcss.github.io/files/dir/images/F21_CSS_Hierarchy.svg)
+![CSS Hierarchy](https://uwindsorcss.github.io/files/dir/images/W22_CSS_Hierarchy.svg)
 
 ## Contact Us
 
-Due to COVID-19, we have suspended our regular office hours until we return to campus.
-
-You can also reach any of us individually on the Discord server or our email addresses, or with our society email address css@uwindsor.ca.
+You can contact any of us individually through the Discord server or by using our respective [email addresses](/css/board). Additionally, you can reach us collectively by using our society email address: css@uwindsor.ca.
