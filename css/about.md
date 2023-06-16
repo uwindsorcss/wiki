@@ -25,4 +25,4 @@ Here is the most current chart showing the hierarchy of positions on CSS:
 
 ## Contact Us
 
-You can contact any of us individually through the Discord server or by using our respective email addresses. Additionally, you can reach us collectively by using our society email address: css@uwindsor.ca.
+You can contact any of us individually through the Discord server or by using our respective [email addresses](/css/board). Additionally, you can reach us collectively by using our society email address: css@uwindsor.ca.
