@@ -25,6 +25,4 @@ Here is the most current chart showing the hierarchy of positions on CSS:
 
 ## Contact Us
 
-Due to COVID-19, we have suspended our regular office hours until we return to campus.
-
-You can also reach any of us individually on the Discord server or our email addresses, or with our society email address css@uwindsor.ca.
+You can contact any of us individually through the Discord server or by using our respective email addresses. Additionally, you can reach us collectively by using our society email address: css@uwindsor.ca.
