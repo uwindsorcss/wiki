@@ -21,7 +21,7 @@ When the time comes, everyone will be notified via email and Discord on how to n
 
 Here is the most current chart showing the hierarchy of positions on CSS:
 
-![CSS Hierarchy](https://uwindsorcss.github.io/files/dir/images/F21_CSS_Hierarchy.svg)
+![CSS Hierarchy](https://uwindsorcss.github.io/files/dir/images/W22_CSS_Hierarchy.svg)
 
 ## Contact Us
 
