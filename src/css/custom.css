@@ -8,15 +8,14 @@
 /* You can override the default Infima variables here. */
 :root {
     --ifm-color-primary: #fdcd53;
-    --ifm-color-primary-dark: #b6850b;
-    --ifm-color-primary-darker: #a37d1f;
+    --ifm-color-primary-dark: #ab8617;
+    --ifm-color-primary-darker: #a97c0b;
     --ifm-color-primary-darkest: #896a1a;
     --ifm-color-primary-light: #cba648;
     --ifm-color-primary-lighter: #d4b668;
-    --ifm-color-primary-lightest: #e1cb94;
+    --ifm-color-primary-lightest: #fdf7df;
     --ifm-code-font-size: 95%;
     --ifm-navbar-height: 64px;
-    --ifm-menu-color-background-active: #ededed !important;
 
     /* Search Bar config in light mode */
     --aa-primary-color-rgb: 27, 27, 29 !important;
@@ -28,16 +27,24 @@
 
 /* light mode */
 [data-theme="light"] {
-    --ifm-background-color: #fffefa !important;
-    --ifm-breadcrumb-color-active: #1c1e21 !important;
+    --ifm-background-color: #fffffb !important;
+    --ifm-menu-color-background-active: var(
+        --ifm-color-primary-lightest
+    ) !important;
+    --ifm-breadcrumb-item-background-active: var(
+        --ifm-color-primary-lightest
+    ) !important;
+    --ifm-breadcrumb-color-active: var(--ifm-color-primary-dark) !important;
     --ifm-link-color: var(--ifm-color-primary-dark) !important;
 
     .table-of-contents__link--active {
         color: var(--ifm-color-primary-dark) !important;
+        font-weight: 700 !important;
     }
 
     .menu__link--active {
         color: var(--ifm-color-primary-dark) !important;
+        font-weight: 700 !important;
     }
 }
 
@@ -51,8 +58,8 @@
     --aa-input-border-color-rgb: 198, 232, 240 !important;
 
     --ifm-background-color: #212227 !important;
-    --ifm-breadcrumb-item-background-active: rgb(237, 237, 237, 0.1) !important;
-    --ifm-menu-color-background-active: rgb(237, 237, 237, 0.1) !important;
+    --ifm-breadcrumb-item-background-active: #383941 !important;
+    --ifm-menu-color-background-active: #383941 !important;
 }
 
 .footer {
