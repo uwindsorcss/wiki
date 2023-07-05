@@ -249,6 +249,28 @@ function BuildJsonTable() {
                     {
                         Header: "Prerequisite(s)",
                         accessor: "prerequisites",
+                        Cell: ({value}) => {
+                            const courseCodeRegex = /\b[A-Z]{4}-\d{4}\b/g;
+                            const matches = value.match(courseCodeRegex);
+                            if (!matches) return value;
+
+                            const nonCodeParts = value.split(courseCodeRegex);
+                            const newStr = [];
+                            for (let i = 0; i < nonCodeParts.length; i++) {
+                                newStr.push(nonCodeParts[i]);
+                                if (i < matches.length) {
+                                    newStr.push(
+                                        <Link
+                                            to={`/wiki/courses/${matches[i]}/overview`}
+                                            className="course-code-link"
+                                            children={matches[i]}
+                                        />
+                                    );
+                                }
+                            }
+
+                            return <>{newStr}</>;
+                        },
                     },
                 ],
             },
