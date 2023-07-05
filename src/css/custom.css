@@ -8,7 +8,7 @@
 /* You can override the default Infima variables here. */
 :root {
     --ifm-color-primary: #fdcd53;
-    --ifm-color-primary-dark: #b08721;
+    --ifm-color-primary-dark: #b6850b;
     --ifm-color-primary-darker: #a37d1f;
     --ifm-color-primary-darkest: #896a1a;
     --ifm-color-primary-light: #cba648;
@@ -30,6 +30,15 @@
 [data-theme="light"] {
     --ifm-background-color: #fffefa !important;
     --ifm-breadcrumb-color-active: #1c1e21 !important;
+    --ifm-link-color: var(--ifm-color-primary-dark) !important;
+
+    .table-of-contents__link--active {
+        color: var(--ifm-color-primary-dark) !important;
+    }
+
+    .menu__link--active {
+        color: var(--ifm-color-primary-dark) !important;
+    }
 }
 
 /* dark mode */
