@@ -346,8 +346,8 @@
         {
             "course code": "COMP-4250",
             "course name": "Big Data Analytics and Database Design",
-            "fall": false,
-            "winter": true,
+            "fall": true,
+            "winter": false,
             "summer": false,
             "required": ["CSHAC", "BACS"],
             "prerequisites": ["COMP-3150"]
@@ -356,7 +356,7 @@
             "course code": "COMP-4400",
             "course name": "Principles of Programming Languages",
             "fall": true,
-            "winter": false,
+            "winter": true,
             "summer": false,
             "required": ["CSH", "CSSE"],
             "prerequisites": ["COMP-2140", "COMP-2310", "COMP-2540"]
