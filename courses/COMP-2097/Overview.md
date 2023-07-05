@@ -1,7 +1,7 @@
 ---
 id: overview
 title: COMP 2097 - Overview
-sidebar_label: Overview (COMP-2097)
+sidebar_label: COMP-2097
 slug: /COMP-2097/overview
 ---
 

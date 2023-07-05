@@ -1,7 +1,7 @@
 ---
 id: overview
 title: MATH 1250 - Overview
-sidebar_label: Overview (MATH-1250)
+sidebar_label: MATH-1250
 slug: /MATH-1250/overview
 ---
 

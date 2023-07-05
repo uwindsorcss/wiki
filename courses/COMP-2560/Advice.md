@@ -1,7 +1,7 @@
 ---
 id: advice
 title: COMP 2560 - Advice
-sidebar_label: Advice (COMP-2560)
+sidebar_label: COMP-2560 - Advice
 slug: /COMP-2560/advice
 ---
 

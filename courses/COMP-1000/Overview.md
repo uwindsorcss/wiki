@@ -1,7 +1,7 @@
 ---
 id: overview
 title: COMP 1000 - Overview
-sidebar_label: Overview (COMP-1000)
+sidebar_label: COMP-1000
 slug: /COMP-1000/overview
 ---
 

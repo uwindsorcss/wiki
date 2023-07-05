@@ -1,7 +1,7 @@
 ---
 id: overview
 title: COMP 1047 - Overview
-sidebar_label: Overview (COMP-1047)
+sidebar_label: COMP-1047
 slug: /COMP-1047/overview
 ---
 

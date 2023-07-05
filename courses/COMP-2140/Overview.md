@@ -1,7 +1,7 @@
 ---
 id: overview
 title: COMP 2140 - Overview
-sidebar_label: Overview (COMP-2140)
+sidebar_label: COMP-2140 - Overview
 slug: /COMP-2140/overview
 ---
 

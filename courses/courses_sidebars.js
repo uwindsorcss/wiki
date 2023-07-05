@@ -44,9 +44,9 @@ module.exports = {
             label: "Year 2 Computer Science Courses",
             items: [
                 {
-                    type: "category",
+                    type: "doc",
                     label: "COMP-2057",
-                    items: ["COMP-2057/overview"],
+                    id: "COMP-2057/overview",
                 },
                 {
                     type: "doc",

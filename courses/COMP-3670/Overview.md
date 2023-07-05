@@ -1,7 +1,7 @@
 ---
 id: overview
 title: COMP 3670 - Overview
-sidebar_label: Overview (COMP-3670)
+sidebar_label: COMP-3670
 slug: /COMP-3670/overview
 ---
 

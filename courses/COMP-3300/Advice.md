@@ -1,7 +1,7 @@
 ---
 id: advice
 title: COMP 3300 - Advice
-sidebar_label: Advice (COMP-3300)
+sidebar_label: COMP-3300 - Advice
 slug: /COMP-3300/advice
 ---
 

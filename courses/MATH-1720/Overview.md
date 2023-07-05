@@ -1,7 +1,7 @@
 ---
 id: overview
 title: MATH 1720 - Overview
-sidebar_label: Overview (MATH-1720)
+sidebar_label: MATH-1720
 slug: /MATH-1720/overview
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: overview
 title: MATH 3940 - Overview
-sidebar_label: Overview (MATH-3940)
+sidebar_label: MATH-3940
 slug: /MATH-3940/overview
 ---
 
