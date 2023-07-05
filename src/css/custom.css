@@ -15,7 +15,23 @@
     --ifm-color-primary-lighter: rgb(102, 212, 189);
     --ifm-color-primary-lightest: rgb(146, 224, 208);
     --ifm-code-font-size: 95%;
-    --ifm-navbar-height: 80px;
+    --ifm-navbar-height: 64px;
+
+    /* Search Bar config in light mode */
+    --aa-primary-color-rgb: 27, 27, 29 !important;
+    --aa-muted-color-rgb: 27, 27, 29 !important;
+    --aa-description-highlight-background-color-rgb: 27, 27, 29 !important;
+    --aa-selected-color-rgb: 255, 255, 255 !important;
+    --aa-input-border-color-rgb: 27, 27, 29 !important;
+}
+
+/* Search Bar config in dark mode */
+[data-theme="dark"] {
+    --aa-primary-color-rgb: 198, 232, 240 !important;
+    --aa-muted-color-rgb: 198, 232, 240 !important;
+    --aa-selected-color-rgb: 27, 27, 29 !important; /* Background of selected result when searching */
+    --aa-background-color-rgb: 27, 27, 29 !important;
+    --aa-input-border-color-rgb: 198, 232, 240 !important;
 }
 
 .feature_link {
@@ -67,18 +83,7 @@ nav {
 
 /* setting logo height to match the CSS hub */
 .navbar__logo {
-    height: 4.32rem;
-}
-
-/* side bar header height */
-.navbar-sidebar__brand {
-    height: calc(var(--ifm-navbar-height) + 1rem);
-}
-
-/* padding for the brand on the side bar */
-.navbar-sidebar .navbar__brand {
-    padding: 1rem 0rem;
-    padding-left: 1rem;
+    height: 3.5rem;
 }
 
 /* to keep dark mode colours while in mobile mode*/
@@ -120,22 +125,17 @@ nav {
     margin-left: 1rem;
 }
 
-/* Search Bar config in light mode */
-:root {
-    --aa-primary-color-rgb: 27, 27, 29 !important;
-    --aa-muted-color-rgb: 27, 27, 29 !important;
-    --aa-description-highlight-background-color-rgb: 27, 27, 29 !important;
-    --aa-selected-color-rgb: 255, 255, 255 !important;
-    --aa-input-border-color-rgb: 27, 27, 29 !important;
+/* Navbar item padding media queries */
+@media (max-width: 1200px) {
+    :root {
+        --ifm-navbar-item-padding-horizontal: 0.7rem;
+    }
 }
 
-/* Search Bar config in dark mode */
-[data-theme="dark"] {
-    --aa-primary-color-rgb: 198, 232, 240 !important;
-    --aa-muted-color-rgb: 198, 232, 240 !important;
-    --aa-selected-color-rgb: 27, 27, 29 !important; /* Background of selected result when searching */
-    --aa-background-color-rgb: 27, 27, 29 !important;
-    --aa-input-border-color-rgb: 198, 232, 240 !important;
+@media (max-width: 1100px) {
+    :root {
+        --ifm-navbar-item-padding-horizontal: 0.4rem;
+    }
 }
 
 /* makes sure that the icon is visible in the toggle button */
@@ -145,4 +145,15 @@ button.clean-btn:hover {
 
 .course-code-link {
     color: inherit;
+}
+
+/* Search Bar */
+.aa-DetachedSearchButton {
+    padding-right: 1rem !important;
+}
+
+@media (min-width: 1200px) {
+    .aa-DetachedSearchButton {
+        width: 200px !important;
+    }
 }
