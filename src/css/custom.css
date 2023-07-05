@@ -27,7 +27,7 @@
 
 /* light mode */
 [data-theme="light"] {
-    --ifm-background-color: #fffffb !important;
+    --ifm-background-color: #fffffc !important;
     --ifm-menu-color-background-active: var(
         --ifm-color-primary-lightest
     ) !important;
@@ -37,14 +37,9 @@
     --ifm-breadcrumb-color-active: var(--ifm-color-primary-dark) !important;
     --ifm-link-color: var(--ifm-color-primary-dark) !important;
 
-    .table-of-contents__link--active {
-        color: var(--ifm-color-primary-dark) !important;
-        font-weight: 700 !important;
-    }
-
+    .table-of-contents__link--active,
     .menu__link--active {
         color: var(--ifm-color-primary-dark) !important;
-        font-weight: 700 !important;
     }
 }
 
@@ -71,8 +66,19 @@
     color: #1c1e21;
 }
 
-.features_src-pages-styles-module {
+main section {
     padding: 5rem 0 !important;
+}
+
+.table-of-contents__link--active,
+.menu__link--active,
+.markdown ul li,
+p a {
+    font-weight: 700 !important;
+}
+
+.markdown ul li {
+    line-height: 1.8rem !important;
 }
 
 .feature_link {
