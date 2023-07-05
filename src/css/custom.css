@@ -7,15 +7,16 @@
 
 /* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #25c2a0;
-    --ifm-color-primary-dark: rgb(33, 175, 144);
-    --ifm-color-primary-darker: rgb(31, 165, 136);
-    --ifm-color-primary-darkest: rgb(26, 136, 112);
-    --ifm-color-primary-light: rgb(70, 203, 174);
-    --ifm-color-primary-lighter: rgb(102, 212, 189);
-    --ifm-color-primary-lightest: rgb(146, 224, 208);
+    --ifm-color-primary: #fdcd53;
+    --ifm-color-primary-dark: #b08721;
+    --ifm-color-primary-darker: #a37d1f;
+    --ifm-color-primary-darkest: #896a1a;
+    --ifm-color-primary-light: #cba648;
+    --ifm-color-primary-lighter: #d4b668;
+    --ifm-color-primary-lightest: #e1cb94;
     --ifm-code-font-size: 95%;
     --ifm-navbar-height: 64px;
+    --ifm-menu-color-background-active: #ededed !important;
 
     /* Search Bar config in light mode */
     --aa-primary-color-rgb: 27, 27, 29 !important;
@@ -25,13 +26,37 @@
     --aa-input-border-color-rgb: 27, 27, 29 !important;
 }
 
-/* Search Bar config in dark mode */
+/* light mode */
+[data-theme="light"] {
+    --ifm-background-color: #fffefa !important;
+    --ifm-breadcrumb-color-active: #1c1e21 !important;
+}
+
+/* dark mode */
 [data-theme="dark"] {
+    /* Search Bar config */
     --aa-primary-color-rgb: 198, 232, 240 !important;
     --aa-muted-color-rgb: 198, 232, 240 !important;
     --aa-selected-color-rgb: 27, 27, 29 !important; /* Background of selected result when searching */
     --aa-background-color-rgb: 27, 27, 29 !important;
     --aa-input-border-color-rgb: 198, 232, 240 !important;
+
+    --ifm-background-color: #212227 !important;
+    --ifm-breadcrumb-item-background-active: rgb(237, 237, 237, 0.1) !important;
+    --ifm-menu-color-background-active: rgb(237, 237, 237, 0.1) !important;
+}
+
+.footer {
+    --ifm-footer-background-color: #1c1d22;
+}
+
+.hero {
+    padding: 6.5rem 0 !important;
+    color: #1c1e21;
+}
+
+.features_src-pages-styles-module {
+    padding: 5rem 0 !important;
 }
 
 .feature_link {
@@ -57,7 +82,7 @@ nav {
 
 /* change the nav bar styling */
 .navbar {
-    --ifm-navbar-background-color: #212529;
+    --ifm-navbar-background-color: #1c1d22;
     padding: 0.5rem 0rem;
     align-content: center;
 
