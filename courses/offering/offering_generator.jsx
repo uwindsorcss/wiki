@@ -5,6 +5,7 @@
  */
 
 import React from "react";
+import {Link} from "react-router-dom";
 import regeneratorRuntime from "regenerator-runtime";
 import {
     useTable,
@@ -209,6 +210,13 @@ function BuildJsonTable() {
                     {
                         Header: "Course Code",
                         accessor: "code",
+                        Cell: ({row}) => (
+                            <Link
+                                to={`/wiki/courses/${row.original.code}/overview`}
+                                className="course-code-link"
+                                children={row.values.code}
+                            />
+                        ),
                     },
                     {
                         Header: "Course Name",
