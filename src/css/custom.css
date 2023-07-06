@@ -39,7 +39,7 @@
 
     .table-of-contents__link--active,
     .menu__link--active {
-        color: var(--ifm-color-primary-dark) !important;
+        color: var(--ifm-color-primary-darker) !important;
     }
 }
 
