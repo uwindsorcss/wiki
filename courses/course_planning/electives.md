@@ -5,7 +5,7 @@ sidebar_label: Electives To Take
 slug: /course_planning/electives
 ---
 
-_Last updated on 2022/07/29_
+_Last updated on 2023/07/06_
 
 Most CS programs require students to take some Arts/Languages/Social Science classes. The Honours Computer Science program, for example, requires three of such courses (at least one in Arts/Languages and one in Social Science).
 
@@ -56,19 +56,19 @@ This list gives you an overview about classes that you may want to take to satis
 
 Courses with these subjects in their course codes are generally permitted to satisfy Arts requirements.
 
--   ANZO
--   MACS
--   GRST, GRHS, GREK
--   DRAM
--   ENGL
--   FILM
--   GART
--   INCS
--   MUSC
--   MUSP
--   PHIL
--   VSAR, CNMA
--   WGST
+-   Anthrozoology (ANZO)
+-   Art History (MACS)
+-   Greek and Roman Studies (GRST, GRHS, GREK)
+-   Dramatic Art (DRAM)
+-   English and Creative Writing (ENGL)
+-   Film Studies (FILM)
+-   General Courses, Faculty of Arts, Humanities and Social Sciences (GART)
+-   Intercultural Studies (INCS)
+-   Music-Academic Studies (MUSC)
+-   Music-Performance Studies (MUSP)
+-   Philosophy (PHIL)
+-   Visual Arts (VSAR, CNMA)
+-   Women's and Gender Studies* (WGST) 
 
 </details>
 
@@ -76,7 +76,7 @@ Courses with these subjects in their course codes are generally permitted to sat
 
 ### Special Notes
 
--   ANZO 1600, WGST-1600, WGST-1200, WGST-1300, WGST-2300, WGST-2190, WGST-2700, WGST-3590, and WGST-3850 can satisfy either a Social Science or an Arts requirement.
+-  *The following Women's and Gender Studies courses may be taken for Arts credit: WGST-1200, WGST1300, WGST-2190, WGST-2360, WGST-2700, WGST-3590, and WGST-3850. 
 
 :::
 
@@ -102,14 +102,14 @@ Taking these courses are especially useful if you are considering student exchan
 
 Courses with these subjects in their course codes are generally permitted to satisfy Languages requirements.
 
--   ARAB
--   FREN
--   GRMN
--   GREK
--   ITLN
--   LATN
--   SPAN
--   JWST
+-   Arabic (ARAB)
+-   French (FREN)
+-   German (GRMN)
+-   Ancient Greek (GREK)
+-   Italian (ITLN)
+-   Latin (LATN)
+-   Spanish (SPAN)
+-   Hebrew (JWST)
 
 </details>
 
@@ -161,27 +161,33 @@ Courses with these subjects in their course codes are generally permitted to sat
 
 Courses with these subjects in their course codes are generally permitted to satisfy Social Science requirements.
 
--   SACR
--   CMAF
--   ECON
--   SOSC
--   HUGR
--   HIST
--   ARSC
--   WORK
--   POLS
--   PSYC
--   SWRK
--   SACR
--   WGST
+- Anthropology (SACR)
+- Anthrozoology (ANZO)
+- Communication, Media and Film (CMAF, CNMA)
+- Diaspora Studies (DIAS)
+- Disability Studies (DISB)
+- Economics (ECON)*
+- General Courses, Faculty of Arts, Humanities and Social Sciences (SOSC)**
+- Human Geography (HUGR)
+- History (HIST)
+- Interdisciplinary Arts and Science courses (ARSC)
+- Labour Studies (WORK)
+- Political Science (POLS)
+- Psychology (PSYC)
+- Social Justice (SJST)
+- Social Work (SWRK)
+- Sociology (SACR)
+- Women's and Gender Studies (WGST)***
+- Work and Employment Issues (WORK) 
 
 </details>
 
 :::note
 
 ### Special Notes
-
--   ANZO 1600, WGST-1600, WGST-1200, WGST-1300, WGST-2300, WGST-2190, WGST-2700, WGST-3590, and WGST-3850 can satisfy either a Social Science or an Arts requirement.
+-   *All Economics courses will be permitted to satisfy either Science or Social Science requirements.
+-   **The following courses may be taken for Social Science credit: ESTU-1000, and ESTU-2100. 
+-   ***ANZO 1600, WGST-1600, WGST-1200, WGST-1300, WGST-2300, WGST-2190, WGST-2700, WGST-3590, and WGST-3850 can satisfy either a Social Science or an Arts requirement.
 
 ### Course Tips
 
