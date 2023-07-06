@@ -36,11 +36,15 @@
     ) !important;
     --ifm-breadcrumb-color-active: var(--ifm-color-primary-dark) !important;
     --ifm-link-color: var(--ifm-color-primary-dark) !important;
+    --ifm-menu-color-active: var(--ifm-color-primary-dark) !important;
+}
 
-    .table-of-contents__link--active,
-    .menu__link--active {
-        color: var(--ifm-color-primary-darker) !important;
-    }
+.table-of-contents__link--active {
+    color: var(--ifm-menu-color-active) !important;
+}
+
+.table-of-contents__link:hover {
+    color: var(--ifm-color-primary-darkest) !important;
 }
 
 /* dark mode */
@@ -75,6 +79,12 @@ main section {
 .markdown ul li,
 p a {
     font-weight: 700 !important;
+}
+
+.course-code-link {
+    font-weight: 500 !important;
+    text-decoration-thickness: 1.5px !important;
+    text-decoration-color: #d9a112 !important;
 }
 
 .markdown ul li {
