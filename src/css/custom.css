@@ -13,7 +13,7 @@
     --ifm-color-primary-darkest: #896a1a;
     --ifm-color-primary-light: #cba648;
     --ifm-color-primary-lighter: #d4b668;
-    --ifm-color-primary-lightest: #fdf7df;
+    --ifm-color-primary-lightest: #fff9ea;
     --ifm-code-font-size: 95%;
     --ifm-navbar-height: 64px;
 
@@ -23,6 +23,9 @@
     --aa-description-highlight-background-color-rgb: 27, 27, 29 !important;
     --aa-selected-color-rgb: 255, 255, 255 !important;
     --aa-input-border-color-rgb: 27, 27, 29 !important;
+
+    /* Info Alert */
+    --ifm-color-info-dark: var(--ifm-color-primary) !important;
 }
 
 /* light mode */
@@ -37,6 +40,9 @@
     --ifm-breadcrumb-color-active: var(--ifm-color-primary-dark) !important;
     --ifm-link-color: var(--ifm-color-primary-dark) !important;
     --ifm-menu-color-active: var(--ifm-color-primary-dark) !important;
+    --ifm-color-info-contrast-background: var(
+        --ifm-color-primary-lightest
+    ) !important;
 }
 
 .table-of-contents__link--active {
@@ -59,6 +65,7 @@
     --ifm-background-color: #212227 !important;
     --ifm-breadcrumb-item-background-active: #383941 !important;
     --ifm-menu-color-background-active: #383941 !important;
+    --ifm-color-info-contrast-background: #29271a !important;
 }
 
 /* Footer */
