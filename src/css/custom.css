@@ -61,8 +61,26 @@
     --ifm-menu-color-background-active: #383941 !important;
 }
 
+/* Footer */
 .footer {
     --ifm-footer-background-color: #1c1d22;
+    padding: 50px 0 !important;
+}
+
+.footer__copyright {
+    margin-top: 75px !important;
+}
+
+.footer__col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .footer__col {
+        text-align: center;
+    }
 }
 
 .hero {
