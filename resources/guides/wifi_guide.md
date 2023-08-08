@@ -38,9 +38,19 @@ Which should you use? The short answer is “Connect to eduroam”. The eduroam 
 
 If prompted to trust a certificate after signing in (mainly iPhone) click trust.
 
-### For Macs
+### For Linux and Android
+-   **Wi-Fi Secuirty: WPA & WPA2 Enterprise**
+-   **Authentication: Protected EAP (PEAP)**
+-   **Anonymous Identity (username): Your full UWindsor email (example@uwindsor.ca)**
+-   **Domain: uwindsor.ca**
+-   **CA certificate: None**
+-   **PEAP Version: Automatic**
+-   **Inner Authentication: MSCHAPv2**
+-   **Identity (username): Your full UWindsor email (example@uwindsor.ca)**
+-   **Password: Your UWinID password**
+<!-- ### For Macs
 
-### For Linux
+### For Linux -->
 
 The **uwindsor** wireless network is available for use but should only be used as a **last resort**. Unlike **eduroam** and **uwinsecure**, the **uwindsor** network does not encrypt the network traffic. So, for example, if you are accessing network applications using a protocol which is insecure, (eg. http instead of https), then everyone else using the **uwindsor** network in the vicinity could view your network activity. The wireless network called **uwindsor** is not secure.
 
