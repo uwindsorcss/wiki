@@ -25,8 +25,3 @@ You'll need an American bank account or a cross-border banking account (e.g. TD 
 
 Some companies will require you to obtain a Social Security Number in the US. It's also a very good idea regardless so that you can apply for a credit card and build up a credit score in the US (can be helpful in many ways in the future). This is also straight-forward, but you need to wait until you're in the US for at least 10 days before you can apply and you might also need to wait for your employment to start.
 
-### References/More Information
-- [0] https://culturalvistas.org/programs/us/j-1-internships-training/ 
-- [1] https://www.lawfirm4immigrants.com/h1b-visa-vs-tn-visa/ 
-- [2] https://stephenholiday.com/waterloo-fulltime-guide/
-- [3] https://stephenholiday.com/Unofficial-Waterloo-USA-Intern-Guide/
