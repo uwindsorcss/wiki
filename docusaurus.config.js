@@ -25,7 +25,7 @@ module.exports = {
             items: [
                 {
                     to: "/",
-                    activeBaseRegex: "^/wiki/$",
+                    activeBaseRegex: "^/css-wiki/$",
                     label: "Home",
                     position: "left",
                 },
@@ -172,7 +172,7 @@ module.exports = {
                 path: "careers",
                 sidebarPath: require.resolve("./careers/careers_sidebars.js"),
                 routeBasePath: "careers",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                editUrl: "https://github.com/UWindsorCSS/css-wiki/tree/master/",
             },
         ],
         [
@@ -182,7 +182,7 @@ module.exports = {
                 path: "courses",
                 sidebarPath: require.resolve("./courses/courses_sidebars.js"),
                 routeBasePath: "courses",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                editUrl: "https://github.com/UWindsorCSS/css-wiki/tree/master/",
             },
         ],
         [
@@ -194,7 +194,7 @@ module.exports = {
                     "./academics/academics_sidebars.js"
                 ),
                 routeBasePath: "academics",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                editUrl: "https://github.com/UWindsorCSS/css-wiki/tree/master/",
             },
         ],
         [
@@ -206,7 +206,7 @@ module.exports = {
                     "./resources/resources_sidebars.js"
                 ),
                 routeBasePath: "resources",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                editUrl: "https://github.com/UWindsorCSS/css-wiki/tree/master/",
             },
         ],
         [
@@ -216,7 +216,7 @@ module.exports = {
                 path: "css",
                 sidebarPath: require.resolve("./css/css_sidebars.js"),
                 routeBasePath: "css",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                editUrl: "https://github.com/UWindsorCSS/css-wiki/tree/master/",
             },
         ],
         [
@@ -225,7 +225,7 @@ module.exports = {
                 id: "plugin-blog-newsletter",
                 path: "newsletter",
                 routeBasePath: "newsletter",
-                editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                editUrl: "https://github.com/UWindsorCSS/css-wiki/tree/master/",
             },
         ],
     ],
