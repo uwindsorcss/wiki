@@ -22,4 +22,4 @@ assignees: ""
 
 <!-- no need to change this section, this is only to help new contributors -->
 
-Reminder to all contributors to read the [contributing guide](https://uwindsorcss.github.io/wiki/resources/guides/contributing) before making changes!
+Reminder to all contributors to read the [contributing guide](https://uwindsorcss.github.io/css-wiki/resources/guides/contributing) before making changes!

@@ -46,7 +46,7 @@ Harshdip has followed this exact sequence.
 
 ## Planning Your Courses
 
-It is always better to have a good plan about the course you'll be taking each semester. Harshdip has completed 4 semesters, taking all the major courses. This way saving up all the electives is one approach. If you find 5 courses overwhelming, taking only 4 courses or an easy elective as a 5th course is another approach. Check out the list of [electives](/wiki/courses/course_planning/electives).
+It is always better to have a good plan about the course you'll be taking each semester. Harshdip has completed 4 semesters, taking all the major courses. This way saving up all the electives is one approach. If you find 5 courses overwhelming, taking only 4 courses or an easy elective as a 5th course is another approach. Check out the list of [electives](/css-wiki/courses/course_planning/electives).
 
 :::warning
 

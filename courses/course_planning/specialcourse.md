@@ -7,7 +7,7 @@ slug: /course_planning/specialcourse
 
 _Last updated on 2022/07/29_
 
-In addition to the classes listed in the [course offering table](/wiki/courses/), there are other CS-related classes that may not have a particular term of offering but could still be of your interest.
+In addition to the classes listed in the [course offering table](/css-wiki/courses/), there are other CS-related classes that may not have a particular term of offering but could still be of your interest.
 
 ## Selected Topics
 
@@ -58,6 +58,6 @@ They are 3 credits Pass/nonPass courses that will count toward your electives. T
 :::note
 
 **Two Birds with One Stone:**<br/>
-You could enrol in this course while you are an [OS program placement](/wiki/academics/outstandingscholars). Since the OS contract requires you to complete 45-100 hours and the course requires 106 hours and frequent reports to the instructor. With these two requirements satisfied as the OS placement, you use SCIE-3990 or SCIE-3800 as the placement in the OS contract. In the end, you get to complete a placement and a 3 credits course by working for only one.
+You could enrol in this course while you are an [OS program placement](/css-wiki/academics/outstandingscholars). Since the OS contract requires you to complete 45-100 hours and the course requires 106 hours and frequent reports to the instructor. With these two requirements satisfied as the OS placement, you use SCIE-3990 or SCIE-3800 as the placement in the OS contract. In the end, you get to complete a placement and a 3 credits course by working for only one.
 
 :::
