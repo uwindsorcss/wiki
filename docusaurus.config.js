@@ -7,7 +7,7 @@ module.exports = {
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon-32x32.png",
     organizationName: "UWindsorCSS", // Usually your GitHub org/user name.
-    projectName: "css-wiki", // Usually your repo name.
+    projectName: "wiki", // Usually your repo name.
     themeConfig: {
         defaultMode: "dark",
         docs: {
@@ -94,7 +94,7 @@ module.exports = {
                         },
                         {
                             label: "Contribute",
-                            href: "https://github.com/uwindsorcss/css-wiki",
+                            href: "https://github.com/uwindsorcss/wiki",
                         },
                         {
                             label: "How to Navigate the Wiki",
