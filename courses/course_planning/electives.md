@@ -13,7 +13,7 @@ Most CS programs require students to take some Arts/Languages/Social Science cla
 
 :::warning
 
-This list gives you an overview about classes that you may want to take to satisfy your requirements. However, you should consult an advisor first or look at your [UWinsite Students page](/css-wiki/resources/guides/uwinsite_guide#academic-progress) to see whether they can satisfy the requirements of your specific program.
+This list gives you an overview about classes that you may want to take to satisfy your requirements. However, you should consult an advisor first or look at your [UWinsite Students page](/wiki/resources/guides/uwinsite_guide#academic-progress) to see whether they can satisfy the requirements of your specific program.
 
 :::
 
