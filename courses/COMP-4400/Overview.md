@@ -1,7 +1,7 @@
 ---
 id: overview
 title: COMP 4400 - Overview
-sidebar_label: COMP-4400
+sidebar_label: COMP-4400 - Overview
 slug: /COMP-4400/overview
 ---
 

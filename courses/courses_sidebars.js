@@ -234,9 +234,9 @@ module.exports = {
                     id: "COMP-4250/overview",
                 },
                 {
-                    type: "doc",
+                    type: "category",
                     label: "COMP-4400",
-                    id: "COMP-4400/overview",
+                    items: ["COMP-4400/overview", "COMP-4400/resources"],
                 },
                 {
                     type: "doc",
