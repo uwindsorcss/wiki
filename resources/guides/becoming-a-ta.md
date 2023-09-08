@@ -1,5 +1,5 @@
 ---
-id: teaching assistant
+id: becoming-a-ta
 title: How To Become a Teaching Assistant
 sidebar_label: Becoming a TA
 slug: /guides/becoming-a-ta
