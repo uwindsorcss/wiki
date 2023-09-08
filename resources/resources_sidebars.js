@@ -19,6 +19,7 @@ module.exports = {
                 "guides/laptop_guide",
                 "guides/first_year_guide",
                 "guides/vpn_guide",
+                "guides/ta_guide",
             ],
         },
         {
