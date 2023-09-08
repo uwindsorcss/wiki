@@ -18,4 +18,4 @@ slug: /
     -   [Laptop Requirements Guide](/resources/guides/laptop_guide.md)
     -   [First Year Guide](/resources//guides//first_year_guide.md)
     -   [VPN Setup Guide](/resources//guides//vpn_guide.md)
-    -   [Teaching Assistant Guide](resources\guides\becoming-a-ta.md)
+    -   [Teaching Assistant Guide](/resources//guides//becoming-a-ta.md)
