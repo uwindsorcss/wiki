@@ -170,7 +170,7 @@ module.exports = {
             {
                 id: "plugin-docs-careers",
                 path: "careers",
-                sidebarPath: require.resolve("./careers/careers_sidebars.js"),
+                sidebarPath: require.resolve("./careers/careers-sidebars.js"),
                 routeBasePath: "careers",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
             },
@@ -180,7 +180,7 @@ module.exports = {
             {
                 id: "plugin-docs-courses",
                 path: "courses",
-                sidebarPath: require.resolve("./courses/courses_sidebars.js"),
+                sidebarPath: require.resolve("./courses/courses-sidebars.js"),
                 routeBasePath: "courses",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
             },
@@ -191,7 +191,7 @@ module.exports = {
                 id: "plugin-docs-academics",
                 path: "academics",
                 sidebarPath: require.resolve(
-                    "./academics/academics_sidebars.js"
+                    "./academics/academics-sidebars.js"
                 ),
                 routeBasePath: "academics",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
@@ -203,7 +203,7 @@ module.exports = {
                 id: "plugin-docs-resources",
                 path: "resources",
                 sidebarPath: require.resolve(
-                    "./resources/resources_sidebars.js"
+                    "./resources/resources-sidebars.js"
                 ),
                 routeBasePath: "resources",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
@@ -214,7 +214,7 @@ module.exports = {
             {
                 id: "plugin-docs-css",
                 path: "css",
-                sidebarPath: require.resolve("./css/css_sidebars.js"),
+                sidebarPath: require.resolve("./css/css-sidebars.js"),
                 routeBasePath: "css",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
             },
