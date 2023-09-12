@@ -98,7 +98,7 @@ module.exports = {
                         },
                         {
                             label: "How to Navigate the Wiki",
-                            to: "resources/guides/Navigation Guide/navigation-guide",
+                            to: "resources/guides/navigation-guide/navigation-guide",
                         },
                     ],
                 },
