@@ -49,4 +49,4 @@ _Last updated on 2023/07/04_
 
 [Follow this link for more information](https://www.uwindsor.ca/registrar/events-listing)
 
-[Click here to see important dates for previous semesters](/academics/archivedImportantDates)
+[Click here to see important dates for previous semesters](/academics/archived-important-dates)

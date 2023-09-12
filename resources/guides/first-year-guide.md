@@ -21,7 +21,7 @@ Some of the online services you can access using your UWin Account include:
 
 #### [UWinsite Student](https://student.uwindsor.ca)
 
-For browsing and enrolling in classes, viewing tuition and fees, accessing acedamic information, applying for scholarships, and more. See the [UWinsite Guide](/wiki/resources/guides/uwinsite_guide) for more details and help.
+For browsing and enrolling in classes, viewing tuition and fees, accessing acedamic information, applying for scholarships, and more. See the [UWinsite Guide](/wiki/resources/guides/uwinsite-guide) for more details and help.
 
 #### [Brightspace](https://brightspace.uwindsor.ca)
 
@@ -41,11 +41,11 @@ These wiki resources are maintained by student contributors. Always verify impor
 
 :::
 
-There are several computer science programs offered by the University of Windsor, each with their own course requirements which can be found in [the undergraduate calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars). If you follow the [recommended course sequence](/wiki/courses/course_planning/recommendedsequence), many programs will share the same courses for the first term. They are [COMP-1000](/wiki/courses/COMP-1000/overview), [COMP-1400](/wiki/courses/COMP-1400/overview), MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and an elective. See the [Courses](/wiki/courses) section for a user-friendly table of course requirements by program.
+There are several computer science programs offered by the University of Windsor, each with their own course requirements which can be found in [the undergraduate calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars). If you follow the [recommended course sequence](/wiki/courses/course-planning/recommended-sequence), many programs will share the same courses for the first term. They are [COMP-1000](/wiki/courses/COMP-1000/overview), [COMP-1400](/wiki/courses/COMP-1400/overview), MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and an elective. See the [Courses](/wiki/courses) section for a user-friendly table of course requirements by program.
 
 ### How to Enroll
 
-Incoming first year students typically have the earliest **appointment time** and may enroll in courses before all other students. Your appointment time can be found on [UWinsite](https://student.uwindsor.ca) under **My Academics -> Enrollment Deadlines**. It is recommended to enroll as early as possible, as courses have a limited capacity and desireable timeslots fill up quickly. See the [UWinsite Guide](/wiki/resources/guides/uwinsite_guide#how-to-plan--enroll-in-classes) for more details on how to enroll in classes.
+Incoming first year students typically have the earliest **appointment time** and may enroll in courses before all other students. Your appointment time can be found on [UWinsite](https://student.uwindsor.ca) under **My Academics -> Enrollment Deadlines**. It is recommended to enroll as early as possible, as courses have a limited capacity and desireable timeslots fill up quickly. See the [UWinsite Guide](/wiki/resources/guides/uwinsite-guide#how-to-plan--enroll-in-classes) for more details on how to enroll in classes.
 
 ## Recommended Software for Computer Science
 

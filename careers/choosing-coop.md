@@ -23,7 +23,7 @@ Here are some benefits you get from participating in the Co-Op program:
 
 However, you should also consider some of the drawbacks of Co-Op:
 
--   Less time flexibility: you are required to enroll in full time studies (4 or more classes) in the semesters before and after a work term. If you want to change your sequence from the [standard Co-Op sequence](/careers/coop_sequence), you must make a schedule for the classes you will take for the rest of your program and get it approved by the Co-Op office.
+-   Less time flexibility: you are required to enroll in full time studies (4 or more classes) in the semesters before and after a work term. If you want to change your sequence from the [standard Co-Op sequence](/careers/coop-sequence), you must make a schedule for the classes you will take for the rest of your program and get it approved by the Co-Op office.
 
 -   Less academic flexibility: to maintain your position in Co-Op, you must maintain a cumulative average of 60%, major average of 65% and no more than one outstanding grade below 50%.
 
