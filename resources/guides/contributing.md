@@ -44,14 +44,14 @@ Including this top section before beginning your article is vital if you want it
 -   **id**: This is a descriptive string that uniquely identifies your article. It's useful for sidebars.
 -   **title**: The title of your article, this is automatically rendered as an `h1` at the beginning of your article.
 -   **sidebar_label**: Self explanatory, shows up on the sidebar to link to your article.
--   **slug**: This refers to what is appended to the url when going to your article. Sometimes this can be confusing to work with so it's best to follow the pattern of other articles in the same directory. For example, if you're creating a guide about "Topic A", you might make the slug `/guides/topic-a`.
+-   **slug**: This refers to what is appended to the url when going to your article. Slugs are expected to adhere to a format featuring all lowercase letters and hyphens between words. For example, if you're creating a guide about "Topic A", you might make the slug `/guides/topic-a`. File names should follow the same naming scheme.
 
-Once you have this section completed, you now need to edit the relevant `XXXX.sidebars.js` file to create a link for it in the sidebar of whatever section you're writing the article for. For example, if you're creating a new guide you would update `resources_sidebars.js`. Look for items near where you'd like to place your article:
+Once you have this section completed, you now need to edit the relevant `XXXX.sidebars.js` file to create a link for it in the sidebar of whatever section you're writing the article for. For example, if you're creating a new guide you would update `resources-sidebars.js`. Look for items near where you'd like to place your article:
 
 ```js
 items: [
     ...
-    "guides/style_guide",
+    "guides/style-guide",
     "guides/contributing",
     ...
 ],
@@ -73,7 +73,7 @@ If, say, you wanted to add an article about CSS, you'll notice the sidebars file
         },
         {
             type: "doc",
-            id: "meetTheBoard",
+            id: "meet-the-board",
         },
     ],
 ```
@@ -83,7 +83,7 @@ Here, to add a new article, say with id of "meetRyan", you would add the followi
 ```js
 {
     type: "doc",
-    id: "meetRyan",
+    id: "meet-ryan",
 },
 ```
 

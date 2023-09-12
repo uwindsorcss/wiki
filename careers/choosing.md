@@ -14,5 +14,5 @@ slug: /choosing
 | Listings/Application | Co-op portal lists all companies. Applications usually done within the portal                                                                                                                                               | On your own to find/apply to companies.                                                                                                                          |
 
 [0]: https://reddit.com/r/cscareerquestions
-[1]: /careers/finding_jobs
+[1]: /careers/finding-jobs
 [2]: /careers/resumes
