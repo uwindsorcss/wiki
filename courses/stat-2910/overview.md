@@ -1,7 +1,7 @@
 ---
 id: overview
 title: STAT 2910 - Overview
-sidebar_label: Overview (STAT-2910)
+sidebar_label: STAT-2910
 slug: /stat-2910/overview
 ---
 
