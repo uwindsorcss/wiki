@@ -5,17 +5,17 @@ sidebar_label: Index
 slug: /
 ---
 
--   [Important Dates](/academics/ImportantDates.md)
--   [Textbook Guide](/academics/Textbooks.md)
--   [Course Overload Guide](/academics/course_overload.md)
+-   [Important Dates](/academics/important-dates.md)
+-   [Textbook Guide](/academics/textbooks.md)
+-   [Course Overload Guide](/academics/course-overload.md)
 -   Awards
-    -   [Finding Awards](/academics/awards/findingAwards.md)
-    -   [Applying for Awards](/academics/awards/awardApplication.md)
+    -   [Finding Awards](/academics/awards/finding-awards.md)
+    -   [Applying for Awards](/academics/awards/award-application.md)
 -   Research
-    -   [Getting Involved with Research](/academics/research/doingresearch.md)
-    -   [Outstanding Scholars](/academics/research/outstandingscholars.md)
+    -   [Getting Involved with Research](/academics/research/doing-research.md)
+    -   [Outstanding Scholars](/academics/research/outstanding-scholars.md)
 -   Support Resources
-    -   [Academic Support Resources](/academics/support/academicsupport.md)
-    -   [Academic Complaints](/academics/support/academiccomplaints.md)
-    -   [Mental Health Resources](/academics/support/mentalhealth.md)
-    -   [Physical Health Resources](/academics/support/physicalhealth.md)
+    -   [Academic Support Resources](/academics/support/academic-support.md)
+    -   [Academic Complaints](/academics/support/academic-complaints.md)
+    -   [Mental Health Resources](/academics/support/mental-health.md)
+    -   [Physical Health Resources](/academics/support/physical-health.md)
