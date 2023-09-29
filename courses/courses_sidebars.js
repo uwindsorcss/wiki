@@ -300,14 +300,14 @@ module.exports = {
                     id: "MATH-1020/overview",
                 },
                 {
-                    type: "doc",
+                    type: "category",
                     label: "MATH-1250",
-                    id: "MATH-1250/overview",
+                    items: ["MATH-1250/overview", "MATH-1250/advice"],
                 },
                 {
-                    type: "doc",
+                    type: "category",
                     label: "MATH-1720",
-                    id: "MATH-1720/overview",
+                    items: ["MATH-1720/overview", "MATH-1720/advice"],
                 },
                 {
                     type: "doc",
