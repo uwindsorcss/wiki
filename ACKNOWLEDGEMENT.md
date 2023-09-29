@@ -4,7 +4,7 @@ The CSS student wiki uses third-party codes and plug-ins. In this document, you 
 
 ## TanStack Table v7
 
--   Location: [offering_generator.jsx](courses\offering\offering_generator.jsx)
+-   Location: [offering-generator.jsx](courses\offering\offering-generator.jsx)
 -   Usage: used both plug-in and parts of example code.
 -   Original Code: https://github.com/TanStack/table/blob/v7/examples/filtering/src/App.js.
 

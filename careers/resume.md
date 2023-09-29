@@ -21,9 +21,10 @@ your secondary school education - if you've made it to University, you probably 
 
 ### Example Resumes
 
+-   [Brandon Lucier](https://scet.ch/resume)
 -   [Eric Pickup](https://drive.google.com/file/d/1QUNbEYP0TBf33-JeCfXFwp_eoqI5YDql/view)
--   [Brandon Lucier](https://scet.ch/Resume.pdf)
 -   [Harshdip Singh Deogan](https://hsdeogan.com/Resume-HarshdipSinghDeogan.pdf)
+-   [Jeremie Bornais](https://jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf)
 -   [Ryan Prairie](https://ryanprairie.com/static/extras/resume.pdf)
 
 #### Todo: Talk to Co-Op to expand this section.
