@@ -308,12 +308,12 @@ module.exports = {
                 {
                     type: "category",
                     label: "MATH-1250",
-                    items: ["MATH-1250/overview", "MATH-1250/advice"],
+                    items: ["math-1250/overview", "math-1250/advice"],
                 },
                 {
                     type: "category",
                     label: "MATH-1720",
-                    items: ["MATH-1720/overview", "MATH-1720/advice"],
+                    items: ["math-1720/overview", "math-1720/advice"],
                 },
                 {
                     type: "doc",
