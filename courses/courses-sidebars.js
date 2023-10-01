@@ -306,14 +306,14 @@ module.exports = {
                     id: "math-1020/overview",
                 },
                 {
-                    type: "doc",
+                    type: "category",
                     label: "MATH-1250",
-                    id: "math-1250/overview",
+                    items: ["math-1250/overview", "math-1250/advice"],
                 },
                 {
-                    type: "doc",
+                    type: "category",
                     label: "MATH-1720",
-                    id: "math-1720/overview",
+                    items: ["math-1720/overview", "math-1720/advice"],
                 },
                 {
                     type: "doc",
