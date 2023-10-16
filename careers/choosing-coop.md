@@ -5,7 +5,7 @@ sidebar_label: Is Co-Op Right For You?
 slug: /choosing-coop
 ---
 
-_Last updated on 2022/05/18_
+_Last updated on 2023/10/15_
 
 The University of Windsor provides Co-Op options for both undergraduate honours and graduate computer science programs. Although it is an excellent opportunity for you to develop practical skills, you should consider the pros and cons of Co-Op and whether it is worthwhile for you.
 
@@ -32,12 +32,12 @@ However, you should also consider some of the drawbacks of Co-Op:
 -   You are graded: during your work semesters, you are expected to write reports, assessments, learning objectives and portfolios. These activities, along with your employer's evaluation of you, will be used to determine if you passed/failed this work term.
 
 :::note
-The total cost of your Co-Op fees is dependent on the number and length of your work terms. Standardly, domestic students pay $455 for 8 semesters ($3640 in total), and international students pay $565 for 8 semesters ($4520 in total). However, if your placement is 8 months long instead of 4 months, you will make 5 payments instead and thus pay less in total.
+The total cost of your Co-Op fees is dependent on the number and length of your work terms. Standardly, domestic students pay $460 for 8 semesters ($3680 in total), and international students pay $570 for 8 semesters ($4560 in total). However, if your placement is 8 months long instead of 4 months, you will make 5 payments instead and thus pay less in total.
 
-Note that this amount is for [2021-2022](https://www.uwindsor.ca/coop-workplace-partnerships/317/co-op-fee) and may change for future semesters.
+Note that this amount is for [2023-2024](https://www.uwindsor.ca/coop-workplace-partnerships/317/co-op-fee) and may change for future semesters.
 :::
 
-After reading some of the potential benefits and drawbacks of Co-Op, perhaps you are able to have a better picture on whether you should enroll in a Co-Op program. If you would like to have a deeper discussion about Co-Op, you can contact our current CSS Career Advisor, [Zain Raza](mailto:razaz@uwindsor.ca), or our Work Integrated Learning Coordinator for STEM, [Kyle Cacilhas](mailto:cacilhak@uwindsor.ca).
+After reading some of the potential benefits and drawbacks of Co-Op, perhaps you are able to have a better picture on whether you should enroll in a Co-Op program. If you would like to have a deeper discussion about Co-Op, you can contact our current CSS Career Advisor, [Borhan Saflo](mailto:saflob@uwindsor.ca), or our Work Integrated Learning Coordinator for STEM, [Kyle Cacilhas](mailto:cacilhak@uwindsor.ca).
 
 ## Extra Readings
 
@@ -47,6 +47,6 @@ If you are interested in the Co-Op program, here are more resources from the Co-
 -   https://www.uwindsor.ca/cces/1218/co-op-programs
 -   https://www.uwindsor.ca/cces/
 
-You can also look at your academic calendars for information and requirement for Co-Op programs specific to your department. For the Spring 2022 academic calendar, the Co-Op regulations for Computer Science students is on page 578:
+You can also look at your academic calendars for information and requirement for Co-Op programs specific to your department. For the Spring 2023 academic calendar, the Co-Op regulations for Computer Science students is on page 578:
 
--   https://www.uwindsor.ca/secretariat/sites/uwindsor.ca.secretariat/files/undergraduate_calendar_spring_2022.pdf
+-   https://www.uwindsor.ca/secretariat/sites/uwindsor.ca.secretariat/files/undergraduate_calendar_spring_2023.pdf
