@@ -32,7 +32,7 @@ Here is your 2023-2024 CSS board:
 **Career Advisor** - Borhan Saflo | saflob@uwindsor.ca  
 **Senior Representative** - Drini Husi | husid@uwindsor.ca  
 **Second Year Representative** - Norika Upadhyay | upadhy82@uwindsor.ca  
-**First Year Representatives** - TBD Fall 2023  
+**First Year Representatives** - Joshua Lebert | lebertj@uwindsor.ca, Katarina Mantay | mantay@uwindsor.ca, Lynn Hajj Hassan | hajjhas@uwindsor.ca  
 **Event Organizer** - Nafiz Hasan | hasan55@uwindsor.ca  
 **Event Coordinators** - Anika Khan | khan661@uwindsor.ca, Akshat Sharma | sharma8d@uwindsor.ca, Ahmad Munim | munima@uwindsor.ca, Mathew Pellarin | pellarim@uwindsor.ca  
 **Secretary** - Ben Chittle | chittle5@uwindsor.ca
