@@ -55,14 +55,9 @@ COMP-3540, COMP-3670, COMP-4110, COMP-4400, COMP-4540, COMP-4800, COMP-4960 or C
 - four additional courses from any area of study, including Computer Science
 - one course at the 2XXX-4XXX level from Mathematics/Statistics or Computer Science (excluding COMP-XXX7)
 
-
 ## Bachelor of Science (Honours Computer Information Systems)
--  Computer Science: COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400, COMP-4990 (a 6.0 credit hour course), plus two additional Computer Science course at the COMP-3XX0 or COMP4XX0 level.
-- Business: ACCT-1510, ACCT-2550, FINA-2700, MKTG-1310, and STEN-1000, plus four additional
-Business courses, but excluding MSCI-2020, MSCI-2130, MSCI-2200 and MSCI-3200 MATH-1250 (or MATH-1260), MATH-1720 or MATH-1760), and STAT-2910;
-- three courses from Arts, Languages or Social Sciences, with at least one from Arts/Languages and one
-from Social Sciences;
-- six additional courses from any area of study excluding Business;
-- ECON-1100, ECON-1110.
-
-## Bachelor of Science (General)
+-  Computer Science: COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400, COMP-4990 (a 6.0 credit hour course), plus two additional Computer Science course at the COMP-3XX0 or COMP4XX0 level
+- Business: ACCT-1510, ACCT-2550, FINA-2700, MKTG-1310, and STEN-1000, plus four additional Business courses, but excluding MSCI-2020, MSCI-2130, MSCI-2200 and MSCI-3200 MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and STAT-2910
+- three courses from Arts, Languages or Social Sciences, with at least one from Arts/Languages and one from Social Sciences
+- six additional courses from any area of study excluding Business
+- ECON-1100, ECON-1110
