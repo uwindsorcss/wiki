@@ -9,11 +9,11 @@ slug: /course-planning/degree-requirements
 
 The University offers three "main" degree types: The standard Bachelor of Computer Science, as well as the Applied Computing specialization, the Software Engineering specialization, and the Computer Information Systems specialization. All four-year degrees have 40 courses.
 
-The Appplied Computing specialization's main difference is that it removes many of the theoretical computer science requirements, as well as math, and replaces them with more "applied" courses and electives. If you know you aren't interested in those theoretical CS courses (e.x. they are often mandatory when applying for a Master's degree), this may be a good option to choose. Generally speaking, your employment prospects will be the same regardless of option.
+The Applied Computing specialization's main difference is that it removes many of the theoretical computer science requirements, as well as math, and replaces them with more "applied" courses and electives. If you know you aren't interested in those theoretical CS courses (e.x. they are often mandatory when applying for a Master's degree), this may be a good option to choose. Generally speaking, your employment prospects will be the same regardless of option.
 
-You may be interested in the list of [recommended electives](https://github.com/uwindsorcss/wiki/blob/master/courses/course-planning/electives.md), and may also be interested in getting a minor. Namely, Honours students only need to take one additional math course for a Minor in Mathematics.
+You may be interested in the list of [recommended electives](https://github.com/uwindsorcss/wiki/blob/master/courses/course-planning/electives.md), and may also be interested in getting a minor. Note that Honours students recieve a Minor in Mathematics for free, just by getting a 60% in each of their required MATH courses.
 
-## Bachelor of Computer Science
+## Bachelor of Computer Science (Honours)
 - COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2140, COMP-2310, COMP-2540, COMP2560, COMP-2650, COMP-2660, COMP-3110, COMP-3150, COMP-3220, COMP-3300, COMP-3540,
 COMP-3670, COMP-4400, COMP-4540, COMP-4960 or COMP-4990 (both 6.0 credit hour courses), plus one additional Computer Science course at the COMP-3XX0 or COMP-4XX0 level.
 - MATH-1020, MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), MATH-1730, MATH-3940 (or MATH-3800) and STAT-2910 (or STAT-2920)
