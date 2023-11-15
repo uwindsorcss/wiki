@@ -9,6 +9,7 @@ module.exports = {
             label: "Course Planning",
             items: [
                 "course-planning/recommended-sequence",
+                "course-planning/degree-requirements",
                 "course-planning/electives",
                 "course-planning/special-course",
             ],
