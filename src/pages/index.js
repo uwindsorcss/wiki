@@ -95,7 +95,7 @@ function Home() {
             title={"Wiki Home"}
             description="A wiki to help students navigate computer science"
         >
-            <header className={clsx("hero hero--primary", styles.heroBanner)}>
+            <header className={clsx("hero", styles.heroBanner)}>
                 <div className="container">
                     <h1 className="hero__title">{siteConfig.title}</h1>
                     <p className="hero__subtitle">{siteConfig.tagline}</p>

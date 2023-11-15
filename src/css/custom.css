@@ -7,7 +7,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #fdcd53;
+    --ifm-color-primary: #ffd260;
     --ifm-color-primary-dark: #ab8617;
     --ifm-color-primary-darker: #a97c0b;
     --ifm-color-primary-darkest: #896a1a;
@@ -62,7 +62,7 @@
     --aa-background-color-rgb: 27, 27, 29 !important;
     --aa-input-border-color-rgb: 198, 232, 240 !important;
 
-    --ifm-background-color: #212227 !important;
+    --ifm-background-color: #0e1321 !important;
     --ifm-breadcrumb-item-background-active: #383941 !important;
     --ifm-menu-color-background-active: #383941 !important;
     --ifm-color-info-contrast-background: #29271a !important;
@@ -70,7 +70,7 @@
 
 /* Footer */
 .footer {
-    --ifm-footer-background-color: #1c1d22;
+    --ifm-footer-background-color: #141a2f;
     padding: 50px 0 !important;
 }
 
@@ -92,7 +92,12 @@
 
 .hero {
     padding: 6.5rem 0 !important;
-    color: #1c1e21;
+    color: var(--ifm-background-color) !important;
+    background-color: var(--ifm-color-primary);
+}
+
+.page {
+    min-height: calc(100vh - 450px);
 }
 
 main section {
@@ -139,7 +144,7 @@ nav {
 
 /* change the nav bar styling */
 .navbar {
-    --ifm-navbar-background-color: #1c1d22;
+    --ifm-navbar-background-color: #141a2f;
     padding: 0.5rem 0rem;
     align-content: center;
 
