@@ -13,14 +13,13 @@
     },
     "dependencies": {
         "@cmfcmf/docusaurus-search-local": "^1.1.0",
-        "@docusaurus/core": "^2.4.1",
-        "@docusaurus/preset-classic": "^2.4.1",
-        "@mdx-js/react": "^1.6.21",
+        "@docusaurus/core": "^3.0.0",
+        "@docusaurus/preset-classic": "^3.0.0",
+        "@mdx-js/react": "^3.0.0",
         "babel-plugin-transform-runtime": "^6.23.0",
-        "caniuse-lite": "^1.0.30001519",
-        "clsx": "^1.1.1",
-        "react": "^16.8.4",
-        "react-dom": "^16.8.4",
+        "clsx": "^2.0.0",
+        "react": "^18.2.0",
+        "react-dom": "18.2.0",
         "react-table": "^7.8.0"
     },
     "browserslist": {
@@ -47,6 +46,6 @@
         "endOfLine": "lf"
     },
     "devDependencies": {
-        "prettier": "2.5.1"
+        "prettier": "3.1.0"
     }
 }
