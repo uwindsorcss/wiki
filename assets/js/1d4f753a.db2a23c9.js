@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[3903],{3928:e=>{e.exports=JSON.parse('{"permalink":"/wiki/newsletter/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":13,"previousPage":"/wiki/newsletter","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
