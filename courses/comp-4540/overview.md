@@ -23,4 +23,4 @@ Yes, a textbook is absolutely required to pass this class.
 
 ## Prerequisites
 
-COMP-2310, COMP-2540, and COMP-3540 are the prerequisites for this class.
+COMP-2310 and COMP-2540 are the prerequisites for this class.
