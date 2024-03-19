@@ -15,7 +15,7 @@ Basic concepts of programming languages. Comparative study of the major programm
 
 ## Typical Course Offering
 
-COMP-4400 is typically offered in the Fall semester.
+COMP-4400 is typically offered in the Fall and Winter semesters.
 
 ## Is a Textbook Required?
 
