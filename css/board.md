@@ -5,7 +5,7 @@ sidebar_label: Meet the Board
 slug: /board
 ---
 
-Here is your 2023-2024 CSS board:
+Here is your 2024-2025 CSS board:
 
 ## Executives
 
