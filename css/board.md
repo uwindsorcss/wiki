@@ -20,13 +20,13 @@ Here is your 2024-2025 CSS board:
 **Head of Student Affairs** - Umayer Khan | khan581@uwindsor.ca  
 **Head of Communications** - Cam Vandermeersch | vandermc@uwindsor.ca  
 **Head of Events** - Niko Jones | jones94@uwindsor.ca  
-**Head of Technology** - Borhan Saflo | saflob@uwindsor.ca, Dante Masciotra | masciotd@uwindsor.ca
+**Head of Technology** - Calder Johnson | johnso1x@uwindsor.ca
 
 ---
 
 ## Board Members
 
-**Design Coordinator** - Unassigned  
+**Design Coordinator** - Zelia Piasentin | piasentz@uwindsor.ca  
 **Merchandising Coordinator** - Affan Shahid | shahid62@uwindsor.ca  
 **Promotions Coordinator** - Joshua Lebert | lebertj@uwindsor.ca  
 **Career Advisor** - Gabriel Rueda | ruedag@uwindsor.ca  
