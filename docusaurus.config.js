@@ -90,7 +90,7 @@ module.exports = {
                         },
                         {
                             label: "CS Help Site",
-                            href: "https://help.cs.uwindsor.ca/mediawiki/index.php/Welcome",
+                            href: "https://help.cs.uwindsor.ca",
                         },
                         {
                             label: "Contribute",
