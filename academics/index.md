@@ -5,6 +5,7 @@ sidebar_label: Index
 slug: /
 ---
 
+-   [Undergraduate Academic Evaluation Procedures](/academics/bylaws.md)
 -   [Important Dates](/academics/important-dates.md)
 -   [Textbook Guide](/academics/textbooks.md)
 -   [Course Overload Guide](/academics/course-overload.md)

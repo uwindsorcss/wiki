@@ -6,6 +6,10 @@ module.exports = {
         },
         {
             type: "doc",
+            id: "bylaws",
+        },
+        {
+            type: "doc",
             id: "important-dates",
         },
         {
