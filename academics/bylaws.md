@@ -5,89 +5,106 @@ sidebar_label: Undergraduate Academic Evaluation Procedures
 slug: /bylaws
 ---
 
-# Senate Bylaw 54: Undergraduate Academic Evaluation Procedures
+_Wiki Page Last Updated: 6/24/24_
 
-**Page Last Updated:** June 23, 2024 |
-**Bylaw Last Amended:** May 10, 2024
+_Bylaw Last Amended: 5/10/24_
 
-**Contents of this page is from [The University of Windsor Law Library](https://lawlibrary.uwindsor.ca/Presto/content/Detail.aspx?ctID=OTdhY2QzODgtNjhlYi00ZWY0LTg2OTUtNmU5NjEzY2JkMWYx&rID=NDAz&qrs=RmFsc2U=&q=KFVuaXZlcnNpdHlfb2ZfV2luZHNvcl9DZW50cmFsX1BvbGljaWVzLkFsbFRleHQ6KGFzc2lnbm1lbnQpKQ==&swi=Z3JhZGU=&sgn=VW5pdmVyc2l0eV9vZl9XaW5kc29yX0NlbnRyYWxfUG9saWNpZXMuQnlsYXdfTnVtYmVyPSg1NCk=&qcf=OTdhY2QzODgtNjhlYi00ZWY0LTg2OTUtNmU5NjEzY2JkMWYx&ph=VHJ1ZQ==&bckToL=VHJ1ZQ==&rrtc=VHJ1ZQ==)**
+**The contents of this page is summarized from the University of Windsor Senate Bylaw 54: Undergraduate Academic Evaluation Procedures. The original bylaw can be found in [The University of Windsor Law Library](https://lawlibrary.uwindsor.ca/Presto/content/Detail.aspx?ctID=OTdhY2QzODgtNjhlYi00ZWY0LTg2OTUtNmU5NjEzY2JkMWYx&rID=NDAz&qrs=RmFsc2U=&q=KFVuaXZlcnNpdHlfb2ZfV2luZHNvcl9DZW50cmFsX1BvbGljaWVzLkFsbFRleHQ6KGFzc2lnbm1lbnQpKQ==&swi=Z3JhZGU=&sgn=VW5pdmVyc2l0eV9vZl9XaW5kc29yX0NlbnRyYWxfUG9saWNpZXMuQnlsYXdfTnVtYmVyPSg1NCk=&qcf=OTdhY2QzODgtNjhlYi00ZWY0LTg2OTUtNmU5NjEzY2JkMWYx&ph=VHJ1ZQ==&bckToL=VHJ1ZQ==&rrtc=VHJ1ZQ==)**
 
-# Table of Contents
+#### Definitions
+- "Dean" means "Dean or Designate" (except in 2.21).
+- "Academic Administrative Unit (AAU) Head" refers to the Head of a Department, Director of a School, or Dean of an undepartmentalized Faculty.
+- "Instructor" refers to the course instructor.
+- "Day" means a normal business day for the University unless specified as a "calendar day."
+- "Final examination(s)" includes any final testing procedure during the examination period (written test, oral interview, essay, take-home test, etc.).
+- "First-entry undergraduate programs" are all undergraduate programs except those in Education and Law.
 
-# Definitions
+#### Regulations for first-Entry undergraduate programs
+**1.1** All courses must have a meaningful, non-optional final examination during the examination period.
 
-In this Bylaw,
--   "Dean" shall mean "Dean or Designate" (with the exception of 2.21)
--   "Academic Administrative Unit (AAU) Head" shall mean the Head of a Department, the Director of a School, the Dean of an undepartmentalized Faculty.
--   "Instructor" shall mean the course instructor.
--   "Day" shall mean a normal business day for the University, unless specified as “calendar day”.
--   "Final examination(s)" shall mean “any final testing procedure (written test, oral interview, essay, take home test,
-etc.) that takes place or falls due during the examination period.
--   "First-entry undergraduate programs" shall mean all undergraduate programs with the exception of undergraduate
-programs in Education and Law.
+**1.2** Exams will be scheduled for two to three-hour slots, though the actual duration may be shorter. If certain types of exams can't fit within this slot, arrangements will be made by notifying the Registrar.
 
-# Regulations for first-entry undergraduate programs
+**1.3** The last seven days before the end of classes must be free from any graded activities or assignments unless approved by the Dean.
 
-**1.1** All courses shall have some type of non-optional, meaningful, final examination during the examination period.
+  - **1.3.1** For 8-11 week courses, this applies to the last four days before exams.
+  - **1.3.2** For 6-7 week courses, this applies to the last three days before exams.
+  - **1.3.3** For 3-5 week courses, this applies to the last two days before exams.
 
-**1.2** Two to three-hour examination slots will normally be scheduled in the formal final examination periods in each
-semester for all courses which terminate in that semester. All final examinations shall take place (or fall due, as the case may be) during the two to three-hour final examination slot so scheduled. Asynchronous online examinations must commence or end within the scheduled time slot. The actual duration of testing procedures during the scheduled final examination slot may be less than the scheduled time, at the discretion of the individual instructor.
+**1.4** Each AAU sets the weight range for final testing procedures.
 
-If oral or other special types of examinations cannot be accommodated in the two to three-hour final examination slot, and satisfactory arrangements cannot be made with the course instructor, notice will be given to the Registrar by the AAU Head and special arrangements will be made.
+#### Regulations for all undergraduate programs
+**2.1** By the first day of the course, instructors must provide a detailed course outline including grading procedures, test dates, and other relevant information.
 
-**1.3** The last seven calendar days prior to, and including, the last day of classes in each period of instruction of
-twelve (or greater) weeks in duration must be free from any procedures for which a mark will be assigned, including the submission of assignments such as essays, term papers, and take home examinations. Courses that are presented by a specialized teaching method, where the testing procedures are an integral part of the instructional process, shall be exempt from this regulation subject to approval of the Dean of the Faculty in which the course is given.
+  - **2.1.1** Procedures for determining the final grade.
+  - **2.1.2** Approximate dates for tests and assignments.
+  - **2.1.3** Statement on Student Perceptions of Teaching forms.
+  - **2.1.4** Regulations on supplemental examination privileges.
+  - **2.1.5** Information on plagiarism prevention software.
+  - **2.1.6** University's marking and grading scale.
+  - **2.1.7** Last date to withdraw from the course.
+  - **2.1.8** Restrictions on the use of generative AI.
+  - **2.1.9** University's mental health resources.
+  - **2.1.10** Any other mandated matters.
 
--   **1.3.1** In the case of periods of instruction of eight-eleven weeks in duration, clause 1.3 shall apply to the last four calendar days before the start of the examination period;
+**2.2** Instructors cannot change final exam dates if set by the Registrar; other final exams must be during the official exam period.
 
--   **1.3.2** In the case of periods of instruction of six-seven weeks in duration, clause 1.3 shall apply to the last three calendar days before the start of the examination period;
+**2.3** No instruction or assessment on break days like reading weeks, holidays, or University closure days.
 
--   **1.3.3** In the case of periods of instruction of three-five weeks in duration, clause 1.3 shall apply to the last two calendar days before the start of the examination period.
+**2.4** Class participation grading must be clearly stated and should not exceed 20% of the final grade, except in exceptional cases like professional behavior courses.
 
-**1.4** It is left to each AAU to set the range of the weights of the final testing procedures.
+#### Other Evaluation Procedures
+**2.5.1** No single evaluation in first-entry undergraduate programs can be worth more than 40% of the final grade, except for specific course types. If missed due to valid reasons, its weight can be added to the final evaluation.
 
-# Regulations for all undergraduate programs
+**2.5.2** Students with three or more final exams in 24 hours can request a reschedule. Decisions will be made by the Associate Vice-President, Student Experience.
 
-**2.1** By the first day of each course, the Instructor must provide students with a course outline (hard copy or
-electronic) which includes precise information concerning the following:
+**2.5.3** Students with three or more major evaluations in 24 hours can request accommodation early in the term.
 
--   2.1.1 All procedures for determining the final grade in a course, including:
-    -   Conversion of raw scores into the final grade.
-    -   Curving.
-    -   Procedures in which students are evaluated by observers or supervisors rather than by written examinations or submitted assignments.
-    -   Types and formats of evaluations.
+**2.5.4** Unannounced quizzes must not exceed 2% each or 5% in total of the final grade. The number and value of spot quizzes must be communicated at the start of the semester.
 
--   2.1.2 The approximate dates for tests, handing in assignments, and all other activities (except unannounced
-    quizzes), which will affect the final course grade, as well as the dates of the final examination period.
-    (The anticipated release of the final examination schedule is given in Schedule A.)
+**2.6** Instructors must provide feedback worth at least 20% of the final grade two days before the withdrawal deadline.
 
--   2.1.3 A statement that the Student Perceptions of Teaching forms will be administered, in accordance with Senate policy, in:
-    -   The last two weeks of classes for courses 12-24 weeks in duration
-    -   The last week of classes for courses 6-11 weeks in duration
-    -   The last two days of classes for courses of 5 or fewer weeks in duration
+**2.7** Course outlines can be changed within the first two weeks of classes, with the final version submitted to the AAU Head.
 
--   2.1.4 The regulations concerning supplemental examination privileges which are in force in that Faculty.
+**2.8** If a test cannot be held due to an emergency, it will be rescheduled for the next regular class meeting.
 
--   2.1.5 Information regarding the use of plagiarism prevention software, in accordance with Senate policy.
+**2.9** If tests are scheduled outside regular class times, alternative arrangements must be made for students with conflicts or hardships.
 
--   2.1.6 Information regarding the University’s percentage marking and grading scale in accordance with Senate policy.
+**2.10** Courses involving evaluations by observers must provide written evaluations during the semester and preserve records of major performances.
 
--   2.1.7 Information on the last date to voluntarily withdraw from the course.
+**2.11** Students can resolve issues informally with the Instructor or AAU Head. If unresolved, they can appeal to the Dean.
 
--   2.1.8 Information or restrictions regarding the use of generative artificial intelligence (AI) in the course.
+**2.12** Unofficial final grades must be submitted to the Dean within seven calendar days after the final exam or exam period, except in the Faculty of Law.
 
--   2.1.9 Information regarding the University’s mental health resources.
+  - **2.12.1** No public posting of exams, essays, or assignments.
+  - **2.12.2** Students have the right to review marking guides and final exams, which must be kept for at least twelve months.
 
--   2.1.10 Any other matters mandated by University, Senate, or Faculty Policy.
+**2.13** Final grades are submitted by the Instructor through the AAU Head to the Dean, who then sends them to the Registrar.
 
-**2.2** Instructors may not alter the date of final examinations if scheduled and announced by the Registrar. All other
-final examinations may be scheduled only during the University’s official examination period.
+**2.14** Grade corrections can only be initiated by the Instructor and require signatures from the AAU Head and the Dean.
 
-**2.3** There shall be no instruction, nor shall there be any form of assessment scheduled or due on days identified as break days such as reading weeks, holidays, or days that the University is officially closed.
+**2.15** Students must withdraw within specified periods, with the withdrawal recorded as VW on their transcript.
 
-**2.4** The procedures for the grading of class participation should be clearly stated to students in the written
-information specifying the procedures for the determination of final grades. When class participation is included in the final grade, the proportion of the marks awarded for class participation must be reasonable in all circumstances, and in all but exceptional instances, shall not amount to more than 20% of the final grade.
+**2.16** Appeals must be made in writing within three weeks of the final mark's release, with responses due within four weeks.For JD program students, the three-week appeal period starts when they are notified of their marks.
 
-In the case of courses where students are placed in field settings (such as practica, co-op placements,
-internships, clinical and field placements), where the basics of professional behaviour form a core component
-of the learning outcomes, attendance requirements may be imposed by the program area.
+#### Grade Appeals
+**2.17.1** Informal grade review can be requested up to ten working days after the grade release.
+**2.17.2** Formal appeals can be made for incorrect evaluations or procedural irregularities, with a $20.00 fee refunded if successful.
+**2.17.3** A stay on decisions affecting student standing is in effect during the appeal process.
+
+#### Considerations for extenuating circumstances
+
+  - **2.18.1** Informal requests for consideration can be made to the Instructor.
+  - **2.18.2** Formal requests must be submitted to the Registrar with supporting documents and will be reviewed by the Dean.
+  - **2.18.3** Instructors can assign "aegrotat" or "incomplete" grades based on term work or required further work.
+
+#### Incomplete Grades
+**2.19.1** An "Incomplete" grade may be assigned at the discretion of the Instructor and AAU Head for valid reasons like missed exams or incomplete assignments due to uncontrollable circumstances.
+
+**2.19.2** The average of a student will not be calculated until they receive their final mark
+
+**2.20** Faculty will inform registrar of supplementary evaluation processes a month prior to the beginning of a semester.
+
+**2.21** If an appeal involves a course taught by a Dean, a Dean from another Faculty will handle it. If the appeal involves a course taught by an AAU Head who is not a Dean, the Dean of the Faculty offering the course will handle it.
+
+#### Alternate Examinations
+**2.22** If a student is unable to take a final exam in the allotted time due to religious reasons, they are able to submit an application to reschedule the exam.
