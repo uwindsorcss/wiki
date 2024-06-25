@@ -11,7 +11,7 @@ _Bylaw Last Amended: 5/10/24_
 
 **The contents of this page is summarized from the University of Windsor Senate Bylaw 54: Undergraduate Academic Evaluation Procedures. The original bylaw can be found in [The University of Windsor Law Library](https://lawlibrary.uwindsor.ca/Presto/content/Detail.aspx?ctID=OTdhY2QzODgtNjhlYi00ZWY0LTg2OTUtNmU5NjEzY2JkMWYx&rID=NDAz&qrs=RmFsc2U=&q=KFVuaXZlcnNpdHlfb2ZfV2luZHNvcl9DZW50cmFsX1BvbGljaWVzLkFsbFRleHQ6KGFzc2lnbm1lbnQpKQ==&swi=Z3JhZGU=&sgn=VW5pdmVyc2l0eV9vZl9XaW5kc29yX0NlbnRyYWxfUG9saWNpZXMuQnlsYXdfTnVtYmVyPSg1NCk=&qcf=OTdhY2QzODgtNjhlYi00ZWY0LTg2OTUtNmU5NjEzY2JkMWYx&ph=VHJ1ZQ==&bckToL=VHJ1ZQ==&rrtc=VHJ1ZQ==)**
 
-## Definitionsg
+## Definitions
 
 -   "Dean" means "Dean or Designate" (except in 2.21).
 -   "Academic Administrative Unit (AAU) Head" refers to the Head of a Department, Director of a School, or Dean of an undepartmentalized Faculty.
