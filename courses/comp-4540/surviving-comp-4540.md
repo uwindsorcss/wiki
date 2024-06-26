@@ -5,7 +5,7 @@ sidebar_label: Surviving COMP-4540
 slug: /comp-4540/surviving-comp-4540
 ---
 
-Much of the advice given here is the same as the advice given in the [COMP-2310 article](../COMP-2310/surviving-comp-2310), so I'd recommend reading that one in addition to this one.
+Much of the advice given here is the same as the advice given in the [COMP-2310 article](../comp-2310/surviving-comp-2310), so I'd recommend reading that one in addition to this one.
 
 ## Introduction
 

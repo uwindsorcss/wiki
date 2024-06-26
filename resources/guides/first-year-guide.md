@@ -41,7 +41,7 @@ These wiki resources are maintained by student contributors. Always verify impor
 
 :::
 
-There are several computer science programs offered by the University of Windsor, each with their own course requirements which can be found in [the undergraduate calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars). If you follow the [recommended course sequence](/wiki/courses/course-planning/recommended-sequence), many programs will share the same courses for the first term. They are [COMP-1000](/wiki/courses/COMP-1000/overview), [COMP-1400](/wiki/courses/COMP-1400/overview), MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and an elective. See the [Courses](/wiki/courses) section for a user-friendly table of course requirements by program.
+There are several computer science programs offered by the University of Windsor, each with their own course requirements which can be found in [the undergraduate calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars). If you follow the [recommended course sequence](/wiki/courses/course-planning/recommended-sequence), many programs will share the same courses for the first term. They are [COMP-1000](/wiki/courses/comp-1000/overview), [COMP-1400](/wiki/courses/comp-1400/overview), MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and an elective. See the [Courses](/wiki/courses) section for a user-friendly table of course requirements by program.
 
 ### How to Enroll
 

@@ -7,7 +7,7 @@ slug: /comp-3300/advice
 
 ## Ryan's Advice
 
-Ryan's advice is basically the same as his advice for [COMP-2560](/courses/COMP-2560/advice).
+Ryan's advice is basically the same as his advice for [COMP-2560](/courses/comp-2560/advice).
 
 This is so important it needs to be said again.
 **Cygwin and MinGW will not work for this course**.
