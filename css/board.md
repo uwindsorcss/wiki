@@ -26,7 +26,7 @@ Here is your 2024-2025 CSS board:
 
 ## Board Members
 
-**Design Coordinator** - Zelia Piasentin | piasentz@uwindsor.ca  
+**Design Coordinator** - Unassigned  
 **Merchandising Coordinator** - Affan Shahid | shahid62@uwindsor.ca  
 **Promotions Coordinator** - Joshua Lebert | lebertj@uwindsor.ca  
 **Career Advisor** - Gabriel Rueda | ruedag@uwindsor.ca  
