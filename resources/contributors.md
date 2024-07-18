@@ -65,3 +65,8 @@ Thank you for contributing to the UWindsor Computer Science Society Wiki!
 #### **Nafiz Hasan**
 
 -   https://github.com/Nafiz1
+
+#### **Jovic Panahon**
+
+-   https://github.com/jpanahon
+-   panahon@uwindsor.ca

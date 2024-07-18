@@ -10,6 +10,10 @@ module.exports = {
         },
         {
             type: "doc",
+            id: "course-categories",
+        },
+        {
+            type: "doc",
             id: "important-dates",
         },
         {
