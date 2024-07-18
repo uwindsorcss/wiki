@@ -25,7 +25,7 @@ All Language courses can count for credit as Arts/Humanities courses
 -   Music-Performance Studies (MUSP)
 -   Philosophy (PHIL)
 -   Visual Arts (VSAR, CNMA)
--   's and Gender Studies\* (WGST)
+-   Women's and Gender Studies\* (WGST)
 
 :::note
 The following Women's and Gender Studies courses may be taken for Arts credit: WGST-1200, WGST-1300, WGST-2190, WGST-2360, WGST-2700, WGST-3590, and WGST-3850.
