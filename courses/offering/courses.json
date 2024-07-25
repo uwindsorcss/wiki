@@ -264,7 +264,7 @@
             "winter": false,
             "summer": false,
             "required": ["CSH", "CSSE"],
-            "prerequisites": ["COMP-2540", "COMP-2140"]
+            "prerequisites": ["COMP-2540", "COMP-2310", "COMP-2140"]
         },
         {
             "course code": "COMP-3670",
