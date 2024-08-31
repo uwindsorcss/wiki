@@ -30,9 +30,12 @@ module.exports = {
                     id: "comp-1047/overview",
                 },
                 {
-                    type: "doc",
+                    type: "category",
                     label: "COMP-1400",
-                    id: "comp-1400/overview",
+                    items: [
+                        "comp-1400/overview",
+                        "comp-1400/comp-1400-setup-guide",
+                    ],
                 },
                 {
                     type: "doc",

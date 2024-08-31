@@ -51,6 +51,8 @@ Incoming first year students typically have the earliest **appointment time** an
 
 As a computer science student, you will learn to program in a variety of programming languages, starting with the **C Programming Language** in COMP-1400. Installing and familiarizing yourself with the necessary software on your personal computer _before_ the first day of classes will save you time and stress, **especially if you are new to programming**. All of the following software can be downloaded for free.
 
+This section goes over some fundamental software for developing code. For a more focused step-by-step guide for setting up a development environment on Windows for coding in C, check out the [COMP-1400 Development Environment Setup Guide](../../courses/comp-1400/setup-guide).
+
 ### Code Editor: Visual Studio Code
 
 #### Description
