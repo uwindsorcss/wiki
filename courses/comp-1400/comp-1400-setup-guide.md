@@ -7,6 +7,8 @@ slug: /comp-1400/setup-guide
 
 Setting up a development environment on Windows for coding in C can seem daunting for a new CS student. However, with the right tools and a step-by-step guide, the process can be straightforward. In this tutorial, we will walk through the process of setting up a development environment on Windows for coding in C.
 
+To learn more about the tools being used and for other helpful information for first year students, check out the [First Year Guide](../../resources/guides/first-year).
+
 ## Step 1: Install WSL
 
 WSL (Windows Subsystem for Linux) is a compatibility layer that allows running Linux binaries natively on Windows. It provides an easy way to get a full Linux environment running on Windows, including a terminal and package manager.
