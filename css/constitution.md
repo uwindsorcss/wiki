@@ -41,7 +41,7 @@ than the University of Windsor Students' Alliance).
 
 #### Section 1 - Positions
 
-![CSS Org Chart](./static/CSS_Hierarchy.svg)
+![CSS Org Chart](https://raw.githubusercontent.com/UWindsorCSS/Documents/master/static/CSS_Hierarchy.svg)
 
 ##### Section 1.1 - Executive Positions
 
