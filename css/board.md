@@ -32,7 +32,7 @@ Here is your 2024-2025 CSS board:
 **Career Advisor** - Gabriel Rueda | ruedag@uwindsor.ca  
 **Senior Representative** - Faraan Rashid | rashid23@uwindsor.ca  
 **Second Year Representative** - Sayhan Shaik | shaik95@uwindsor.ca  
-**First Year Representatives** - Joshua Lebert | lebertj@uwindsor.ca, Katarina Mantay | mantay@uwindsor.ca, Lynn Hajj Hassan | hajjhas@uwindsor.ca  
+**First Year Representatives** - Abir Hirani | hirania@uwindsor.ca, Brock Bovay | bovay@uwindsor.ca, Tharun Gopinath | gopinatt@uwindsor.ca  
 **Event Organizer** - Katarina Mantay | mantay@uwindsor.ca  
 **Event Coordinators** - Julia Ducharme | duchar91@uwindsor.ca, Justin Zheng | zheng1z@uwindsor.ca, Saymon Hwaier | Hwaier@uwindsor.ca, Varun Panchal | pancha43@uwindsor.ca  
 **Secretary** - Anika Khan | khan661@uwindsor.ca
