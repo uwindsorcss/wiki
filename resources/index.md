@@ -17,6 +17,6 @@ slug: /
     -   [Student Exchange Guide](/resources/guides/student-exchange-guide.md)
     -   [Laptop Requirements Guide](/resources/guides/laptop-guide.md)
     -   [First Year Guide](/resources//guides//first-year-guide.md)
-    -   [Recommended Software for Computer Science](/resources//guides//recommended-software.md)
+    -   [Recommended Software](/resources//guides//recommended-software.md)
     -   [VPN Setup Guide](/resources//guides//vpn-guide.md)
     -   [Teaching Assistant Guide](/resources//guides//becoming-a-ta.md)

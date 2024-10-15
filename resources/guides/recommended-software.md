@@ -1,7 +1,7 @@
 ---
 id: recommended-software
-title: Recommended Software for Computer Science
-sidebar_label: Recommended Software for Computer Science
+title: Recommended Software
+sidebar_label: Recommended Software
 slug: /guides/recommended-software
 ---
 

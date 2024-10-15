@@ -49,4 +49,4 @@ Incoming first year students typically have the earliest **appointment time** an
 
 ## Recommended Software for Computer Science
 
-For a detailed guide on the recommended software for computer science students, see the [Recommended Software for Computer Science](recommended-software.md) article.
+For a detailed guide on the recommended software for computer science students, see [Recommended Software](recommended-software.md).
