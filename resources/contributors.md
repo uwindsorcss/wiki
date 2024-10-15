@@ -70,3 +70,8 @@ Thank you for contributing to the UWindsor Computer Science Society Wiki!
 
 -   https://github.com/jpanahon
 -   panahon@uwindsor.ca
+
+#### **Angelo Hoeung**
+
+-   https://github.com/angelohoeung
+-   hi@hoeung.ca

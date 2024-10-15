@@ -18,6 +18,7 @@ module.exports = {
                 "guides/navigation-guide/navigation-guide",
                 "guides/laptop-guide",
                 "guides/first-year-guide",
+                "guides/recommended-software",
                 "guides/vpn-guide",
                 "guides/becoming-a-ta",
             ],
