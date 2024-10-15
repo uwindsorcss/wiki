@@ -163,7 +163,7 @@ As a computer science student, you have access to the School of Computer Science
 :::important
 
 -   You must [authenticate your UWin account](https://auth.cs.uwindsor.ca/) with the School of Computer Science before you can log in remotely.
--   To log in remotely from off-campus, you must be on the VPN first. Please refer to our guide on how to set up the VPN [here](https://uwindsorcss.github.io/wiki/resources/guides/vpn).
+-   To log in remotely from off-campus, you must be on the VPN first. Refer to the [VPN Setup Guide](./vpn).
 :::
 
 ### SSH
