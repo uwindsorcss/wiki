@@ -5,10 +5,10 @@ sidebar_label: Degree Requirements
 slug: /course-planning/degree-requirements
 ---
 
-_Last updated on 2023/11/14_
+_Last updated on 2024/10/17_
 
 :::warning
-This article is accurate as of Winter 2024. Consult the official [Academic Calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars) for the latest updates.
+This article is accurate as of Winter 2025. Consult the official [Academic Calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars) for the latest updates.
 :::
 
 # Degree Requirements
