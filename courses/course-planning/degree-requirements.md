@@ -28,13 +28,13 @@ You may be interested in the list of [recommended electives](https://github.com/
 - seven other courses from any area of study, including Computer Science.
 
 ## Bachelor of Computer Science (General)
-- COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340 (or COMP-3670), plus two additional Computer Science courses (excluding COMP-XXX7)
+- COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340 (or COMP-3670), plus two additional Computer Science courses (excluding COMP-XXX7)
 - MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and STAT-2910
 - one course from Arts/Languages, and one from Social Sciences
 - eleven other courses from any area of study, including Computer Science
 
 ## Bachelor of Computer Science (Honours Applied Computing)
-- COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400, COMP-3670, COMP-4990 (6 credit course), COMP-4150, COMP-4200, COMP-4220, COMP-4250, and two other Computer Science courses (excluding COMP-XXX7)
+- COMP-1000, COMP-1400, COMP-1410, COMP-2120, COMP-2540, COMP-2560, COMP-2650, COMP-2660, COMP-3150, COMP-3220, COMP-3300, COMP-3340, COMP-3400, COMP-3670, COMP-4990 (6 credit course), COMP-4150, COMP-4200, COMP-4220, COMP-4250, and two other Computer Science courses (excluding COMP-XXX7)
 - MATH-1250 (or MATH-1260), MATH-1720 (or MATH-1760), and STAT-2910
 - One course from Arts/Languages, and one from Social Sciences
 - Thirteen other courses from any area of study, including Computer Science
