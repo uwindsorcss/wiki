@@ -17,7 +17,7 @@ The University offers four "main" degrees: The standard Bachelor of Computer Sci
 
 The Applied Computing specialization's main difference is that it removes many of the theoretical computer science requirements, as well as math, and replaces them with more "applied" courses and electives. If you know you aren't interested in those theoretical CS courses (e.x. they are often mandatory when applying for a Master's degree), this may be a good option to choose. Generally speaking, your employment prospects will be the same regardless of option.
 
-You may be interested in the list of [recommended electives](https://github.com/uwindsorcss/wiki/blob/master/courses/course-planning/electives.md), and may also be interested in getting a minor. Note that Honours students recieve a Minor in Mathematics for free, just by getting a 60% in each of their required MATH and STAT courses.
+You may be interested in the list of [recommended electives](https://github.com/uwindsorcss/wiki/blob/master/courses/course-planning/electives.md), and may also be interested in getting a minor. Note that Honours students receive a Minor in Mathematics for free, just by getting a 60% in each of their required MATH and STAT courses.
 
 
 ## Bachelor of Computer Science (Honours)
