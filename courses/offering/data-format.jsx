@@ -20,6 +20,7 @@ function ProgramToEmoji(p) {
     else if (p === "CSSE") return "⚙";
     else if (p === "BACS") return "👔";
     else if (p === "MCS") return "📐";
+    else if (p === "BIT") return "🌐";
     return p;
 }
 

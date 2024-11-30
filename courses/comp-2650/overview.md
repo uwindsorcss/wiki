@@ -11,7 +11,7 @@ The title for COMP-2650 is "Computer Architecture I".
 
 ## Course Description
 
-This course covers fundamental concepts of digital design and CPU architecture. Topics covered include number systems, switching algebra, logic gates, circuit minimization combinational circuit, read-only memory, random-access memory, programmable logic, synchronous and asynchronous sequential circuits, latches, flip-flops, registers, counters, register transfer language. and CPU architecture overview. (Prerequisite: COMP-1400) (3 lecture hours and 1.5 laboratory hours a week)
+This course covers fundamental concepts of digital design and CPU architecture. Topics covered include number systems, switching algebra, logic gates, circuit minimization combinational circuit, read-only memory, random-access memory, programmable logic, synchronous and asynchronous sequential circuits, latches, flip-flops, registers, counters, register transfer language. and CPU architecture overview. (Prerequisite: COMP-1400 or COMP-2087) (3 lecture hours and 1.5 laboratory hours a week)
 
 ## Typical Course Offering
 
@@ -23,5 +23,5 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 ## Prerequisites
 
-COMP-1400 is the prerequisite for this class.
+COMP-1400 or COMP-2087 is the prerequisite for this class.
 

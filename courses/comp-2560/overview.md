@@ -11,7 +11,7 @@ The title for COMP-2560 is "System Programming".
 
 ## Course Description
 
-This course introduces students to advanced software development techniques in system programming using the C language in the UNIX environment. Topics include introduction to modern operating systems, system calls, managing processes, the use of fork and exec, signals, file processing, filters, pipes, scripting languages, introduction to concurrency (e.g. synchronization), network programming (e.g. using sockets), client-server problems. (Prerequisite: COMP-1410.)(3 lecture hours and 1.5 laboratory hours a week)
+This course introduces students to advanced software development techniques in system programming using the C language in the UNIX environment. Topics include introduction to modern operating systems, system calls, managing processes, the use of fork and exec, signals, file processing, filters, pipes, scripting languages, introduction to concurrency (e.g. synchronization), network programming (e.g. using sockets), client-server problems. (Prerequisite: COMP-1410 or COMP-2087)(3 lecture hours and 1.5 laboratory hours a week)
 
 ## Typical Course Offering
 
@@ -23,5 +23,5 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 ## Prerequisites
 
-COMP-1410 is the prerequisite for this class.
+COMP-1410 or COMP-2087 is the prerequisite for this class.
 

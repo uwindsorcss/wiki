@@ -11,7 +11,7 @@ The title for COMP-2750 is "Selected Topics".
 
 ## Course Description
 
-Topics may differ from year to year. (Prerequisite: COMP-1000 or MATH-1720, and COMP-1410.) (May be repeated for credit if content changes.) (3 lecture hours or equivalent.)
+Topics may differ from year to year. (Prerequisite: COMP-1000 or MATH-1720, and COMP-1410 or COMP-2087.) (May be repeated for credit if content changes.) (3 lecture hours or equivalent.)
 
 ## Typical Course Offering
 
@@ -23,5 +23,5 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 ## Prerequisites
 
-COMP-1000 or MATH-1720 and COMP-1410 are the prerequisites for this class.
+COMP-1000 or MATH-1720 and COMP-1410 (or COMP-2087) are the prerequisites for this class.
 
