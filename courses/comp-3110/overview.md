@@ -11,7 +11,7 @@ The title for COMP-3110 is "Introduction to Software Engineering".
 
 ## Course Description
 
-This course introduces the fundamental concepts, common principles, and general techniques of software engineering. It discusses the main issues involved in the development life-cycle of nontrivial software systems, including process models, feasibility studies, requirements elicitation and definition, rapid prototyping, design methodologies, verification and validation, and software evolution. Students taking this course are required to work on projects, which are designed to go through the major phases of large-scale software system development. (Prerequisite: COMP-2120 and COMP-2540.)(3 lecture hours a week)
+This course introduces the fundamental concepts, common principles, and general techniques of software engineering. It discusses the main issues involved in the development life-cycle of nontrivial software systems, including process models, feasibility studies, requirements elicitation and definition, rapid prototyping, design methodologies, verification and validation, and software evolution. Students taking this course are required to work on projects, which are designed to go through the major phases of large-scale software system development. (Prerequisite: COMP-2120 and COMP-2540 or COMP-2547.)(3 lecture hours a week)
 
 ## Typical Course Offering
 
@@ -23,5 +23,5 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 ## Prerequisites
 
-COMP-2120 and COMP-2540 are the prerequisites for this class.
+COMP-2120 and COMP-2540 (or COMP-2547) are the prerequisites for this class.
 

@@ -6,7 +6,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS", "BIT"],
             "prerequisites": []
         },
         {
@@ -15,7 +15,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": []
         },
         {
@@ -42,7 +42,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": ["COMP-1047 or COMP-2067 or COMP-1400"]
         },
         {
@@ -51,7 +51,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": []
         },
         {
@@ -64,12 +64,22 @@
             "prerequisites": ["COMP-1047", "COMP-2057"]
         },
         {
+            "course code": "COMP-2087",
+            "course name": "Programming for Beginners II",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": ["BIT"],
+            "prerequisites": ["COMP-2067"]
+
+        },
+        {
             "course code": "COMP-2097",
             "course name": "Social Media and Mobile Technology for End Users",
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": []
         },
         {
@@ -79,7 +89,7 @@
             "winter": true,
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
-            "prerequisites": ["COMP-1410"]
+            "prerequisites": ["COMP-1410 or COMP-2087"]
         },
         {
             "course code": "COMP-2140",
@@ -109,13 +119,22 @@
             "prerequisites": ["COMP-1000", "COMP-1410"]
         },
         {
+            "course code": "COMP-2547",
+            "course name": "Applied Algorithms and Data Structures",
+            "fall": false,
+            "winter": false,
+            "summer": false,
+            "required": ["BIT"],
+            "prerequisites": ["COMP-1000, COMP-2087"]
+        },
+        {
             "course code": "COMP-2560",
             "course name": "System Programming",
             "fall": true,
             "winter": true,
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
-            "prerequisites": ["COMP-1410"]
+            "prerequisites": ["COMP-1410 or COMP-2087"]
         },
         {
             "course code": "COMP-2650",
@@ -124,7 +143,7 @@
             "winter": true,
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
-            "prerequisites": ["COMP-1400"]
+            "prerequisites": ["COMP-1400 or COMP-2650"]
         },
         {
             "course code": "COMP-2660",
@@ -141,7 +160,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": ["COMP-2057"]
         },
         {
@@ -151,7 +170,7 @@
             "winter": false,
             "summer": false,
             "required": [" "],
-            "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1410"]
+            "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1410 or COMP-2087"]
         },
         {
             "course code": "COMP-2800",
@@ -163,13 +182,31 @@
             "prerequisites": ["COMP-2120"]
         },
         {
+            "course code": "COMP-3037",
+            "course name": "Information Security for IT",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["BIT"],
+            "prerequisites": ["COMP-2057 or COMP-2067"]
+        },
+        {
             "course code": "COMP-3057",
             "course name": "Cyber-Ethics",
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": ["COMP-1047", "COMP-2057"]
+        },
+        {
+            "course code": "COMP-3067",
+            "course name": "Applied Databases",
+            "fall": false,
+            "winter": false,
+            "summer": false,
+            "required": ["BIT"],
+            "prerequisites": ["COMP-2547"]
         },
         {
             "course code": "COMP-3077",
@@ -177,7 +214,7 @@
             "fall": false,
             "winter": true,
             "summer": false,
-            "required": [" "],
+            "required": ["BIT"],
             "prerequisites": ["COMP-2707"]
         },
         {
@@ -187,7 +224,7 @@
             "winter": false,
             "summer": false,
             "required": ["CSH", "CSSE"],
-            "prerequisites": ["COMP-2120", "COMP-2540"]
+            "prerequisites": ["COMP-2120", "COMP-2540 or COMP-2547"]
         },
         {
             "course code": "COMP-3150",
@@ -206,6 +243,15 @@
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE"],
             "prerequisites": ["COMP-2540", "COMP-2120"]
+        },
+        {
+            "course code": "COMP-3250",
+            "course name": "Data Analytics I",
+            "fall": false,
+            "winter": false,
+            "summer": false,
+            "required": ["BIT"],
+            "prerequisites": ["COMP-2547 or COMP-2540", "STAT-2910"]
         },
         {
             "course code": "COMP-3300",
@@ -275,7 +321,7 @@
             "required": ["CSH", "CSHAC", "CSSE", "BACS"],
             "prerequisites": [
                 "COMP-2120",
-                "COMP-2540",
+                "COMP-2540 or COMP-2547",
                 "COMP-2560",
                 "COMP-2650"
             ]
@@ -350,7 +396,7 @@
             "winter": false,
             "summer": false,
             "required": ["CSHAC", "BACS"],
-            "prerequisites": ["COMP-3150"]
+            "prerequisites": ["COMP-3150 or COMP-3250"]
         },
         {
             "course code": "COMP-4400",
@@ -448,7 +494,7 @@
             "fall": true,
             "winter": true,
             "summer": false,
-            "required": ["CSH", "CSHAC", "CIS", "CSSE"],
+            "required": ["CSH", "CSHAC", "CIS", "CSSE", "BIT"],
             "prerequisites": []
         },
         {
@@ -508,7 +554,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS"],
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "BIT"],
             "prerequisites": []
         }
     ]

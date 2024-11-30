@@ -65,6 +65,11 @@ module.exports = {
                 },
                 {
                     type: "doc",
+                    label: "COMP-2087",
+                    id: "comp-2087/overview",
+                },
+                {
+                    type: "doc",
                     label: "COMP-2097",
                     id: "comp-2097/overview",
                 },
@@ -94,6 +99,11 @@ module.exports = {
                     type: "doc",
                     label: "COMP-2540",
                     id: "comp-2540/overview",
+                },
+                {
+                    type: "doc",
+                    label: "COMP-2547",
+                    id: "comp-2547/overview",
                 },
                 {
                     type: "category",
@@ -133,8 +143,18 @@ module.exports = {
             items: [
                 {
                     type: "doc",
+                    label: "COMP-3037",
+                    id: "comp-3037/overview",
+                },
+                {
+                    type: "doc",
                     label: "COMP-3057",
                     id: "comp-3057/overview",
+                },
+                {
+                    type: "doc",
+                    label: "COMP-3067",
+                    id: "comp-3067/overview",
                 },
                 {
                     type: "doc",
@@ -155,6 +175,11 @@ module.exports = {
                     type: "doc",
                     label: "COMP-3220",
                     id: "comp-3220/overview",
+                },
+                {
+                    type: "doc",
+                    label: "COMP-3250",
+                    id: "comp-3250/overview",
                 },
                 {
                     type: "category",
