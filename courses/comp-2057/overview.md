@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-1047 or COMP-2067 or COMP-1400 is the prerequisite for this class.
 
+## Syllabus
+
+[Click here to see Section 91 syllabus](../../resources/syllabus/COMP-2057-91%20F24.pdf)
+

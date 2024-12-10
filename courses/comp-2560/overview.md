@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-1410 or COMP-2087 is the prerequisite for this class.
 
+## Syllabus
+
+[Click here to see Sections 01-02 syllabus](../../resources/syllabus/COMP-2560-01-02%20F24.docx)
+

@@ -25,3 +25,8 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3150 or COMP-3250 is the prerequisite for this class.
 
+## Syllabus
+
+- [Click here to see Fall Section 01 syllabus](../../resources/syllabus/COMP-4250-01%20F24.pdf)
+- [Click here to see Winter Section 01 syllabus](../../resources/syllabus/COMP-4250-01%20W24.pdf)
+
