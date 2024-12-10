@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3110 and COMP-3300 are the prerequisites for this class.
 
+## Syllabus
+
+[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-4110-01%20W24.pdf)
+
