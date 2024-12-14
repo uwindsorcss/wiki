@@ -27,5 +27,5 @@ COMP-1400 or COMP-2087 is the prerequisite for this class.
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-2650-01%20F24.docx)
+[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-2650-01%20F24.pdf)
 

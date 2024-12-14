@@ -27,5 +27,5 @@ COMP-3710 is the prerequisite for this class.
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-4730-01%20F24.docx)
+[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-4730-01%20F24.pdf)
 
