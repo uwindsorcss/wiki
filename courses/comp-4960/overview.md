@@ -27,5 +27,4 @@ There is no UWindsor prerequisite for this class.
 
 ## Syllabus
 
-[Click here to see the syllabus](../../resources/syllabus/COMP-4960%20F24.html)
 

@@ -27,5 +27,5 @@ Other requirements (see [1]) is the prerequisite for this class.
 
 ## Syllabus
 
-[Click here to see the syllabus](../../resources/syllabus/COMP-4500-01-02%20F24.pdf)
+
 

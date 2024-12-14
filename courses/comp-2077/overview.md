@@ -27,5 +27,5 @@ COMP-1047 and COMP-2057 are the prerequisites for this class.
 
 ## Syllabus
 
-[Click here to see the syllabus](../../resources/syllabus/COMP-2077-01-02%20F24.pdf)
+There is no syllabus for this course yet
 

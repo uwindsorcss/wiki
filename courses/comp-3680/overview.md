@@ -27,5 +27,5 @@ COMP-3300 and COMP-3670 are the prerequisites for this class.
 
 ## Syllabus
 
-[Click here to see the syllabus](../../resources/syllabus/COMP-3680-01-02%20F24.pdf)
+
 
