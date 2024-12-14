@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3670 and COMP-3680 are the prerequisites for this class.
 
+## Syllabus
+
+
+

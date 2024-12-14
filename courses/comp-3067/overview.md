@@ -25,3 +25,7 @@ There is currently no information about the Textbook requirement.
 
 COMP-2547 is the prerequisite for this class.
 
+## Syllabus
+
+
+

@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-2707 is the prerequisite for this class.
 
+## Syllabus
+
+[Click here to see Section 91 syllabus](../../resources/syllabus/COMP-3077-91%20W24.pdf)
+

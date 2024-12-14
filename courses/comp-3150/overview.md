@@ -23,5 +23,9 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 ## Prerequisites
 
-COMP-2560 or COMP-2650 and COMP-2540 are the prerequisites for this class.
+COMP-2540 or COMP-2547 is the prerequisite for this class.
+
+## Syllabus
+
+[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-3150-01%20F24.pdf)
 
