@@ -143,7 +143,7 @@
             "winter": true,
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
-            "prerequisites": ["COMP-1400 or COMP-2650"]
+            "prerequisites": ["COMP-1400 or COMP-2087"]
         },
         {
             "course code": "COMP-2660",
