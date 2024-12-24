@@ -121,7 +121,7 @@
         {
             "course code": "COMP-2547",
             "course name": "Applied Algorithms and Data Structures",
-            "fall": false,
+            "fall": true,
             "winter": false,
             "summer": false,
             "required": ["BIT"],
@@ -248,7 +248,7 @@
             "course code": "COMP-3250",
             "course name": "Data Analytics I",
             "fall": false,
-            "winter": false,
+            "winter": true,
             "summer": false,
             "required": ["BIT"],
             "prerequisites": ["COMP-2547 or COMP-2540", "STAT-2910"]
