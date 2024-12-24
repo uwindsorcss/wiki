@@ -15,7 +15,7 @@ This course provides an introduction to the programming and analysis of both lin
 
 ## Typical Course Offering
 
-There is currently no information about the typical course offering.  
+COMP-2547 is typically offered in the Fall semester.
 
 ## Is a Textbook Required?
 

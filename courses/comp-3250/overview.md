@@ -15,7 +15,7 @@ This course covers techniques for quantitative and qualitative data analysis and
 
 ## Typical Course Offering
 
-There is currently no information about the typical course offering.  
+COMP-3250 is typically offered in the Winter semester.
 
 ## Is a Textbook Required?
 
