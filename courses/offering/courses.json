@@ -197,7 +197,7 @@
             "winter": true,
             "summer": true,
             "required": ["BIT"],
-            "prerequisites": ["COMP-1047", "COMP-2057"]
+            "prerequisites": ["COMP-2057 or COMP-2540"]
         },
         {
             "course code": "COMP-3067",
