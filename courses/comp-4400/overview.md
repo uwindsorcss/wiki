@@ -27,6 +27,5 @@ COMP-2140, COMP-2310, and COMP-2540 are the prerequisites for this class.
 
 ## Syllabus
 
-- [Click here to see Fall Section 01 syllabus](../../resources/syllabus/COMP-4400-01%20F24.pdf)
-- [Click here to see Winter Section 01 syllabus](../../resources/syllabus/COMP-4400-01%20W24.pdf)
-
+- [Winter 2024](../../resources/syllabus/COMP-4400-01%20W24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-4400-01%20F24.pdf)

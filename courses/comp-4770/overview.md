@@ -25,6 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3770 is the prerequisite for this class.
 
-
 ## Syllabus
-Sorry, there is no syllabus for this course yet
+
+Sorry, we don't have a syllabus for this course yet.

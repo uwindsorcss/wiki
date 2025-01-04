@@ -27,4 +27,5 @@ COMP-1000 or MATH-1720 and COMP-1410 (or COMP-2087) are the prerequisites for th
 
 
 ## Syllabus
-Sorry, there is no syllabus for this course yet
+
+Sorry, we don't have a syllabus for this course yet.

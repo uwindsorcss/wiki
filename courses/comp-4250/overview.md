@@ -27,6 +27,5 @@ COMP-3150 or COMP-3250 is the prerequisite for this class.
 
 ## Syllabus
 
-- [Click here to see Fall Section 01 syllabus](../../resources/syllabus/COMP-4250-01%20F24.pdf)
-- [Click here to see Winter Section 01 syllabus](../../resources/syllabus/COMP-4250-01%20W24.pdf)
-
+- [Winter 2024](../../resources/syllabus/COMP-4250-01%20W24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-4250-01%20F24.pdf)

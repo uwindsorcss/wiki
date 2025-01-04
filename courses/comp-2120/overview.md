@@ -27,6 +27,5 @@ COMP-1410 or COMP-2087 is the prerequisite for this class.
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-2120-01%20F24.pdf)
-[Click here to see Section 02 syllabus](../../resources/syllabus/COMP-2120-02%20F24.pdf)
-
+- [Fall 2024 Section 1](../../resources/syllabus/COMP-2120-01%20F24.pdf)
+- [Fall 2024 Section 2](../../resources/syllabus/COMP-2120-02%20F24.pdf)

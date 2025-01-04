@@ -27,5 +27,4 @@ STAT-2910 or STAT-2920 and COMP-2540 are the prerequisites for this class.
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-3710-01%20W24.pdf)
-
+- [Winter 2024](../../resources/syllabus/COMP-3710-01%20W24.pdf)
