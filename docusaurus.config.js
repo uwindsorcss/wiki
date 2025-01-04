@@ -10,6 +10,16 @@ module.exports = {
     projectName: "wiki", // Usually your repo name.
     onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
+    future: {
+        experimental_faster: {
+          swcJsLoader: true,
+          swcJsMinimizer: true,
+          swcHtmlMinimizer: true,
+          lightningCssMinimizer: true,
+          rspackBundler: true,
+          mdxCrossCompilerCache: true,
+        }
+    },
     themeConfig: {
         defaultMode: "dark",
         docs: {
