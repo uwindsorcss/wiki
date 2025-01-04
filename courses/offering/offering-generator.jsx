@@ -4,24 +4,27 @@
  * The original code can be found here: https://github.com/TanStack/table/blob/v7/examples/filtering/src/App.js.
  */
 
-import React from "react";
-import {Link} from "react-router-dom";
-import regeneratorRuntime from "regenerator-runtime";
-import {
-    useTable,
-    useFilters,
-    useGlobalFilter,
-    useAsyncDebounce,
-} from "react-table";
+import React, {useState} from "react";
+import Link from "@docusaurus/Link";
+import {useTable, useFilters, useGlobalFilter} from "react-table";
 import ReformatData from "./data-format";
 import JsonData from "./courses.json";
+
+function useDebounce(callback, delay) {
+    const [timer, setTimer] = useState(null);
+
+    return (...args) => {
+        if (timer) clearTimeout(timer);
+        setTimer(setTimeout(() => callback(...args), delay));
+    };
+}
 
 // Defines a default UI for filtering
 // This would be the filter that searches all cells in the table rows
 function GlobalFilter({preGlobalFilteredRows, globalFilter, setGlobalFilter}) {
     const count = preGlobalFilteredRows.length;
-    const [value, setValue] = React.useState(globalFilter);
-    const onChange = useAsyncDebounce((value) => {
+    const [value, setValue] = useState(globalFilter);
+    const onChange = useDebounce((value) => {
         setGlobalFilter(value || undefined);
     }, 200);
 
@@ -212,7 +215,7 @@ function BuildJsonTable() {
                         accessor: "code",
                         Cell: ({row}) => (
                             <Link
-                                to={`/wiki/courses/${row.original.code}/overview`}
+                                to={`/wiki/courses/${row.original.code.toLowerCase()}/overview`}
                                 className="course-code-link"
                                 children={row.values.code}
                             />
@@ -261,7 +264,7 @@ function BuildJsonTable() {
                                 if (i < matches.length) {
                                     newStr.push(
                                         <Link
-                                            to={`/wiki/courses/${matches[i]}/overview`}
+                                            to={`/wiki/courses/${matches[i].toLowerCase()}/overview`}
                                             className="course-code-link"
                                             children={matches[i]}
                                         />

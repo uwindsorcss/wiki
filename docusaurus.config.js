@@ -8,6 +8,8 @@ module.exports = {
     favicon: "img/favicon-32x32.png",
     organizationName: "UWindsorCSS", // Usually your GitHub org/user name.
     projectName: "wiki", // Usually your repo name.
+    onBrokenLinks: "warn",
+    onBrokenMarkdownLinks: "warn",
     themeConfig: {
         defaultMode: "dark",
         docs: {
@@ -158,13 +160,7 @@ module.exports = {
         ],
     ],
     plugins: [
-        [
-            "@cmfcmf/docusaurus-search-local",
-            {
-                indexDocs: true,
-            },
-        ],
-
+        ["docusaurus-lunr-search", {}],
         [
             "@docusaurus/plugin-content-docs",
             {
