@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-2540 and COMP-2120 are the prerequisites for this class.
 
+
+## Syllabus
+Sorry, there is no syllabus for this course yet

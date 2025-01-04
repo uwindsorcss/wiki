@@ -25,3 +25,7 @@ There is currently no information about the Textbook requirement.
 
 COMP-1000 and COMP-2087 are the prerequisites for this class.
 
+## Syllabus
+
+[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-2547-01%20F24.pdf)
+

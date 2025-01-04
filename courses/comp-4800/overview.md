@@ -25,3 +25,9 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3110, COMP-3220, and COMP-3300 are the prerequisites for this class.
 
+
+
+## Syllabus
+Sorry, there is no syllabus for this course yet
+
+
