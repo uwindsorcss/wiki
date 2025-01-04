@@ -27,5 +27,4 @@ There is no UWindsor prerequisite for this class.
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-4990A-01%20F24.pdf)
-
+- [Fall 2024](../../resources/syllabus/COMP-4990A-01%20F24.pdf)

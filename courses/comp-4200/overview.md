@@ -27,5 +27,4 @@ COMP-3150 and COMP-3220 are the prerequisites for this class.
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-4200-01%20W24.pdf)
-
+- [Winter 2024](../../resources/syllabus/COMP-4200-01%20W24.pdf)
