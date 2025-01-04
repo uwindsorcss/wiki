@@ -33,15 +33,6 @@
     --ifm-link-color: var(--ifm-color-primary-dark) !important;
     --ifm-menu-color-active: var(--ifm-color-primary-dark) !important;
     --ifm-color-info-contrast-background: var(--ifm-color-primary-lightest) !important;
-
-    /* Search Bar */
-    .algolia-docsearch-suggestion--text {
-        color: #141a2f !important;
-    }
-
-    .algolia-docsearch-suggestion--subcategory-column-text {
-        color: #141a2f !important;
-    }
 }
 
 /* dark mode */
@@ -50,15 +41,6 @@
     --ifm-breadcrumb-item-background-active: #383941 !important;
     --ifm-menu-color-background-active: #383941 !important;
     --ifm-color-info-contrast-background: #29271a !important;
-
-    /* Search Bar*/
-    .algolia-docsearch-suggestion--text {
-        color: #f5f6f7 !important;
-    }
-
-    .algolia-docsearch-suggestion--subcategory-column-text {
-        color: #f5f6f7 !important;
-    }
 }
 
 .table-of-contents__link--active {

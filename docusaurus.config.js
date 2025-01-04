@@ -12,13 +12,13 @@ module.exports = {
     onBrokenMarkdownLinks: "warn",
     future: {
         experimental_faster: {
-          swcJsLoader: true,
-          swcJsMinimizer: true,
-          swcHtmlMinimizer: true,
-          lightningCssMinimizer: true,
-          rspackBundler: true,
-          mdxCrossCompilerCache: true,
-        }
+            swcJsLoader: true,
+            swcJsMinimizer: true,
+            swcHtmlMinimizer: true,
+            lightningCssMinimizer: true,
+            rspackBundler: true,
+            mdxCrossCompilerCache: true,
+        },
     },
     themeConfig: {
         defaultMode: "dark",
@@ -169,8 +169,19 @@ module.exports = {
             },
         ],
     ],
+    themes: [
+        [
+            require.resolve("@easyops-cn/docusaurus-search-local"),
+            {
+                hashed: true,
+                indexDocs: false,
+                indexBlog: false,
+                indexPages: true,
+                highlightSearchTermsOnTargetPage: true,
+            },
+        ],
+    ],
     plugins: [
-        ["docusaurus-lunr-search", {}],
         [
             "@docusaurus/plugin-content-docs",
             {
@@ -232,8 +243,8 @@ module.exports = {
                 path: "newsletter",
                 routeBasePath: "newsletter",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
-                onInlineAuthors: 'ignore',
-                onUntruncatedBlogPosts: 'ignore'
+                onInlineAuthors: "ignore",
+                onUntruncatedBlogPosts: "ignore",
             },
         ],
     ],
