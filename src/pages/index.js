@@ -9,7 +9,7 @@ import ThemedImage from "@theme/ThemedImage";
 
 const features = [
     {
-        title: "Course Information",
+        title: "Courses",
         imageUrl: "img/courses",
         linkTo: "courses",
         description: (
