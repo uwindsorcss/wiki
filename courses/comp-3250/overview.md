@@ -25,3 +25,6 @@ There is currently no information about the Textbook requirement.
 
 COMP-2547 (or COMP-2540) and STAT-2910 are the prerequisites for this class.
 
+
+## Syllabus
+Sorry, there is no syllabus for this course yet

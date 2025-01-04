@@ -25,3 +25,7 @@ There is currently no information about the Textbook requirement.
 
 COMP-2057 or COMP2067 is the prerequisite for this class.
 
+## Syllabus
+
+[Click here to see Section 95 syllabus](../../resources/syllabus/COMP-3037-95%20F24.pdf)
+

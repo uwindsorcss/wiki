@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-1000 and COMP-1410 are the prerequisites for this class.
 
+## Syllabus
+
+[Click here to see Sections 01-02 syllabus](../../resources/syllabus/COMP-2540-01-02%20F24.pdf)
+
