@@ -27,6 +27,6 @@ There is no UWindsor prerequisite for this class.
 
 ## Syllabus
 
-- [Click here to see Section 30 syllabus](../../resources/syllabus/COMP-1047-30%20F24.pdf)
-- [Click here to see Section 91 syllabus](../../resources/syllabus/COMP-1047-91%20F24.pdf)
+[Click here to see Section 30 syllabus](../../resources/syllabus/COMP-1047-30%20F24.pdf)
+[Click here to see Section 91 syllabus](../../resources/syllabus/COMP-1047-91%20F24.pdf)
 
