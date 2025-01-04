@@ -222,6 +222,8 @@ module.exports = {
                 path: "newsletter",
                 routeBasePath: "newsletter",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                onInlineAuthors: 'ignore',
+                onUntruncatedBlogPosts: 'ignore'
             },
         ],
     ],
