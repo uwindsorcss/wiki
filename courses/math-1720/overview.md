@@ -11,6 +11,8 @@ The title for MATH-1720 is "Differential Calculus".
 
 ## Course Description
 
+_Note: MATH-1720 and MATH-1760 count for the same credit. You can take either to fulfill the requirement for your program._
+
 This course will cover trigonometric functions and identities, inverse trigonometric functions, limits and continuity, derivatives and applications, mean value theorem, indeterminate forms and lHpitals rule, antiderivatives and an introduction to definite integrals. This course is for students who have taken both Ontario Grade 12 Advanced Functions (MHF4U) and Ontario Grade 12 Calculus and Vectors (MCV4U). Students who do not have credit for MCV4U should take MATH-1760. (Prerequisites: Ontario Grade 12 Advanced Functions (MHF4U) and Ontario Grade 12 Calculus and Vectors (MCV4U) or MATH-1780.) (Antirequisite: MATH-1760.) (3 lecture hours, 2 tutorial hours per week.)
 
 ## Typical Course Offering
@@ -24,4 +26,3 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 ## Prerequisites
 
 There is no UWindsor prerequisite for this class.
-

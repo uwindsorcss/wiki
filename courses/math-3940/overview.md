@@ -24,4 +24,3 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 ## Prerequisites
 
 MATH-1250 or MATH-1260 or MATH-1270, COMP-1410, and MATH-1730 are the prerequisites for this class.
-

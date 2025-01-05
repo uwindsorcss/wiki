@@ -12,7 +12,7 @@ module.exports = {
                 "course-planning/degree-requirements",
                 "course-planning/electives",
                 "course-planning/special-course",
-                "course-planning/4960vs4990"
+                "course-planning/4960vs4990",
             ],
         },
         {
@@ -348,7 +348,7 @@ module.exports = {
                 {
                     type: "category",
                     label: "MATH-1760",
-                    items: ["math-1760/overview", "math-1720/advice"],
+                    items: ["math-1760/overview", "math-1760/advice"],
                 },
                 {
                     type: "doc",

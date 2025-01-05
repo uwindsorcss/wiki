@@ -27,4 +27,4 @@ COMP-1047 or COMP-2067 or COMP-1400 is the prerequisite for this class.
 
 ## Syllabus
 
-- [Fall 2024](../../resources/syllabus/COMP-2057-91%20F24.pdf)
+-   [Fall 2024](../../resources/syllabus/COMP-2057-91%20F24.pdf)

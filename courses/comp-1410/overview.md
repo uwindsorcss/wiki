@@ -27,4 +27,4 @@ COMP-1000 (or MATH-1720) and COMP-1400 are the prerequisites for this class.
 
 ## Syllabus
 
-- [Fall 2024](../../resources/syllabus/COMP-1410-01%20F24.pdf)
+-   [Fall 2024](../../resources/syllabus/COMP-1410-01%20F24.pdf)

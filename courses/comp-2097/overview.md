@@ -27,4 +27,4 @@ There is no UWindsor prerequisite for this class.
 
 ## Syllabus
 
-- [Fall 2024](../../resources/syllabus/COMP-2097-91%20F24.pdf)
+-   [Fall 2024](../../resources/syllabus/COMP-2097-91%20F24.pdf)

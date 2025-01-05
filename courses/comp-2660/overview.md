@@ -27,4 +27,4 @@ COMP-2650 is the prerequisite for this class.
 
 ## Syllabus
 
-- [Fall 2024](../../resources/syllabus/COMP-2660-01%20F24.pdf)
+-   [Fall 2024](../../resources/syllabus/COMP-2660-01%20F24.pdf)
