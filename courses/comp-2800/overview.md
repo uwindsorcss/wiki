@@ -27,4 +27,4 @@ COMP-2120 is the prerequisite for this class.
 
 ## Syllabus
 
-- [Winter 2024](../../resources/syllabus/COMP-2800-01%20W24.pdf)
+-   [Winter 2024](../../resources/syllabus/COMP-2800-01%20W24.pdf)

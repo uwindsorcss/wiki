@@ -68,7 +68,7 @@ Courses with these subjects in their course codes are generally permitted to sat
 -   Music-Performance Studies (MUSP)
 -   Philosophy (PHIL)
 -   Visual Arts (VSAR, CNMA)
--   Women's and Gender Studies* (WGST) 
+-   Women's and Gender Studies\* (WGST)
 
 </details>
 
@@ -76,7 +76,7 @@ Courses with these subjects in their course codes are generally permitted to sat
 
 ### Special Notes
 
--  *The following Women's and Gender Studies courses may be taken for Arts credit: WGST-1200, WGST1300, WGST-2190, WGST-2360, WGST-2700, WGST-3590, and WGST-3850. 
+-   \*The following Women's and Gender Studies courses may be taken for Arts credit: WGST-1200, WGST1300, WGST-2190, WGST-2360, WGST-2700, WGST-3590, and WGST-3850.
 
 :::
 
@@ -161,33 +161,34 @@ Courses with these subjects in their course codes are generally permitted to sat
 
 Courses with these subjects in their course codes are generally permitted to satisfy Social Science requirements.
 
-- Anthropology (SACR)
-- Anthrozoology (ANZO)
-- Communication, Media and Film (CMAF, CNMA)
-- Diaspora Studies (DIAS)
-- Disability Studies (DISB)
-- Economics (ECON)*
-- General Courses, Faculty of Arts, Humanities and Social Sciences (SOSC)**
-- Human Geography (HUGR)
-- History (HIST)
-- Interdisciplinary Arts and Science courses (ARSC)
-- Labour Studies (WORK)
-- Political Science (POLS)
-- Psychology (PSYC)
-- Social Justice (SJST)
-- Social Work (SWRK)
-- Sociology (SACR)
-- Women's and Gender Studies (WGST)***
-- Work and Employment Issues (WORK) 
+-   Anthropology (SACR)
+-   Anthrozoology (ANZO)
+-   Communication, Media and Film (CMAF, CNMA)
+-   Diaspora Studies (DIAS)
+-   Disability Studies (DISB)
+-   Economics (ECON)\*
+-   General Courses, Faculty of Arts, Humanities and Social Sciences (SOSC)\*\*
+-   Human Geography (HUGR)
+-   History (HIST)
+-   Interdisciplinary Arts and Science courses (ARSC)
+-   Labour Studies (WORK)
+-   Political Science (POLS)
+-   Psychology (PSYC)
+-   Social Justice (SJST)
+-   Social Work (SWRK)
+-   Sociology (SACR)
+-   Women's and Gender Studies (WGST)\*\*\*
+-   Work and Employment Issues (WORK)
 
 </details>
 
 :::note
 
 ### Special Notes
--   *All Economics courses will be permitted to satisfy either Science or Social Science requirements.
--   **The following courses may be taken for Social Science credit: ESTU-1000, and ESTU-2100. 
--   ***ANZO 1600, WGST-1600, WGST-1200, WGST-1300, WGST-2300, WGST-2190, WGST-2700, WGST-3590, and WGST-3850 can satisfy either a Social Science or an Arts requirement.
+
+-   \*All Economics courses will be permitted to satisfy either Science or Social Science requirements.
+-   \*\*The following courses may be taken for Social Science credit: ESTU-1000, and ESTU-2100.
+-   \*\*\*ANZO 1600, WGST-1600, WGST-1200, WGST-1300, WGST-2300, WGST-2190, WGST-2700, WGST-3590, and WGST-3850 can satisfy either a Social Science or an Arts requirement.
 
 ### Course Tips
 

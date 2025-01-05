@@ -27,4 +27,4 @@ COMP-2707 is the prerequisite for this class.
 
 ## Syllabus
 
-- [Winter 2024](../../resources/syllabus/COMP-3077-91%20W24.pdf)
+-   [Winter 2024](../../resources/syllabus/COMP-3077-91%20W24.pdf)
