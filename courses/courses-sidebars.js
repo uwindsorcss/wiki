@@ -346,11 +346,6 @@ module.exports = {
                     items: ["math-1720/overview", "math-1720/advice"],
                 },
                 {
-                    type: "category",
-                    label: "MATH-1760",
-                    items: ["math-1760/overview", "math-1720/advice"],
-                },
-                {
                     type: "doc",
                     label: "MATH-1730",
                     id: "math-1730/overview",
