@@ -1,12 +1,14 @@
-# Get Started
+# UWindsor CS Wiki
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This repository contains the source code for the University of Windsor Computer Science Wiki.
+
+The Wiki is a collection of resources, guides, and information for students in the Computer Science program at the University of Windsor.
 
 ## Dependencies
 
 -   **Nodejs** version >= 14 or above
 
--   **Yarn** version >= 1.5
+-   **PNPM** [Guide](https://pnpm.io/installation)
 
 -   **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
@@ -18,10 +20,10 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 
 Download the [Nodejs installer](https://nodejs.org/en/download/) from their Official website.
 
-### Install Yarn
+### Install PNPM
 
 ```
-npm install --global yarn
+npm install --global pnpm
 ```
 
 ### Install Git
@@ -46,10 +48,10 @@ brew install node
 sudo port install nodejs17
 ```
 
-### Install Yarn
+### Install PNPM
 
 ```
-npm install --global yarn
+npm install --global pnpm
 ```
 
 ### Install Git
@@ -67,7 +69,7 @@ git --version
 ```bash
 sudo apt update
 sudo apt install git npm -y
-npm install --global yarn -y
+npm install --global pnpm
 ```
 
 ### Install Git
@@ -87,13 +89,13 @@ git clone git@github.com:UWindsorCSS/Wiki.git
 2. Install all dependencies
 
 ```console
-yarn install
+pnpm install
 ```
 
 3. Start the Server
 
 ```console
-yarn start
+pnpm start
 ```
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
@@ -102,34 +104,34 @@ Open web browser the enter the address `http://localhost:3000/wiki/`
 
 **Alternatively, Use following command to access application from other machine in your network:**
 
-`yarn start --host 0.0.0.0`
+`pnpm start --host 0.0.0.0`
 
 Open web browser the enter the address `http://ip-address-of-other-machine:3000/wiki/`
 
 ## Build
 
 ```console
-yarn build
+pnpm build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Important to know:
 
-The **search bar** feature **ONLY** works when you run `yarn build`. It will **NOT** work when you run `yarn start`
+The **search bar** feature **ONLY** works when you run `pnpm build`. It will **NOT** work when you run `pnpm start`
 
 ## Deployment
 
 ### Linux
 
 ```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+GIT_USER=<Your GitHub username> USE_SSH=true pnpm deploy
 ```
 
 ### Windows
 
 ```console
-cmd /C 'set "GIT_USER=uwindsorcss" && yarn deploy'
+cmd /C 'set "GIT_USER=uwindsorcss" && pnpm deploy'
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
@@ -140,18 +142,10 @@ We use [prettier](https://prettier.io). Prettier automatically formats markdown 
 
 This **MUST** be run before making a pull request
 
-### Automatically Running
+You can run prettier by running the following command:
 
-If you use VSCode, I highly recommend the prettier plugin.
-
-If you don't use VSCode, we are assuming that you can figure out your editors plugin for prettier.
-
-### Manually Running
-
-To manually run prettier, please run
-
-```console
-yarn prettier --write .
+```
+pnpm format
 ```
 
 ## Article Requirements
