@@ -57,7 +57,7 @@ const features: Feature[] = [
     },
 ];
 
-const Feature = ({ imageUrl, title, description, linkTo }: Feature) => {
+const Feature = ({imageUrl, title, description, linkTo}: Feature) => {
     return (
         <div className={clsx("col col--4", styles.feature)}>
             <Link href={linkTo} className={clsx("feature_link")}>
@@ -85,7 +85,7 @@ const Feature = ({ imageUrl, title, description, linkTo }: Feature) => {
 
 function Home() {
     const context = useDocusaurusContext();
-    const { siteConfig = { title: "", tagline: "" } } = context;
+    const {siteConfig = {title: "", tagline: ""}} = context;
     return (
         <Layout
             title={"Wiki Home"}
