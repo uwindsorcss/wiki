@@ -13,12 +13,12 @@ _Bylaw Last Amended: 5/10/24_
 
 ## Definitions
 
--   "Dean" means "Dean or Designate" (except in 2.21).
--   "Academic Administrative Unit (AAU) Head" refers to the Head of a Department, Director of a School, or Dean of an undepartmentalized Faculty.
--   "Instructor" refers to the course instructor.
--   "Day" means a normal business day for the University unless specified as a "calendar day."
--   "Final examination(s)" includes any final testing procedure during the examination period (written test, oral interview, essay, take-home test, etc.).
--   "First-entry undergraduate programs" are all undergraduate programs except those in Education and Law.
+- "Dean" means "Dean or Designate" (except in 2.21).
+- "Academic Administrative Unit (AAU) Head" refers to the Head of a Department, Director of a School, or Dean of an undepartmentalized Faculty.
+- "Instructor" refers to the course instructor.
+- "Day" means a normal business day for the University unless specified as a "calendar day."
+- "Final examination(s)" includes any final testing procedure during the examination period (written test, oral interview, essay, take-home test, etc.).
+- "First-entry undergraduate programs" are all undergraduate programs except those in Education and Law.
 
 ## Regulations for first-Entry undergraduate programs
 
@@ -28,9 +28,9 @@ _Bylaw Last Amended: 5/10/24_
 
 **1.3** The last seven days before the end of classes must be free from any graded activities or assignments unless approved by the Dean.
 
--   **1.3.1** For 8-11 week courses, this applies to the last four days before exams.
--   **1.3.2** For 6-7 week courses, this applies to the last three days before exams.
--   **1.3.3** For 3-5 week courses, this applies to the last two days before exams.
+- **1.3.1** For 8-11 week courses, this applies to the last four days before exams.
+- **1.3.2** For 6-7 week courses, this applies to the last three days before exams.
+- **1.3.3** For 3-5 week courses, this applies to the last two days before exams.
 
 **1.4** Each AAU sets the weight range for final testing procedures.
 
@@ -38,16 +38,16 @@ _Bylaw Last Amended: 5/10/24_
 
 **2.1** By the first day of the course, instructors must provide a detailed course outline including grading procedures, test dates, and other relevant information.
 
--   **2.1.1** Procedures for determining the final grade.
--   **2.1.2** Approximate dates for tests and assignments.
--   **2.1.3** Statement on Student Perceptions of Teaching forms.
--   **2.1.4** Regulations on supplemental examination privileges.
--   **2.1.5** Information on plagiarism prevention software.
--   **2.1.6** University's marking and grading scale.
--   **2.1.7** Last date to withdraw from the course.
--   **2.1.8** Restrictions on the use of generative AI.
--   **2.1.9** University's mental health resources.
--   **2.1.10** Any other mandated matters.
+- **2.1.1** Procedures for determining the final grade.
+- **2.1.2** Approximate dates for tests and assignments.
+- **2.1.3** Statement on Student Perceptions of Teaching forms.
+- **2.1.4** Regulations on supplemental examination privileges.
+- **2.1.5** Information on plagiarism prevention software.
+- **2.1.6** University's marking and grading scale.
+- **2.1.7** Last date to withdraw from the course.
+- **2.1.8** Restrictions on the use of generative AI.
+- **2.1.9** University's mental health resources.
+- **2.1.10** Any other mandated matters.
 
 **2.2** Instructors cannot change final exam dates if set by the Registrar; other final exams must be during the official exam period.
 
@@ -79,8 +79,8 @@ _Bylaw Last Amended: 5/10/24_
 
 **2.12** Unofficial final grades must be submitted to the Dean within seven calendar days after the final exam or exam period, except in the Faculty of Law.
 
--   **2.12.1** No public posting of exams, essays, or assignments.
--   **2.12.2** Students have the right to review marking guides and final exams, which must be kept for at least twelve months.
+- **2.12.1** No public posting of exams, essays, or assignments.
+- **2.12.2** Students have the right to review marking guides and final exams, which must be kept for at least twelve months.
 
 **2.13** Final grades are submitted by the Instructor through the AAU Head to the Dean, who then sends them to the Registrar.
 
@@ -98,9 +98,9 @@ _Bylaw Last Amended: 5/10/24_
 
 ## Considerations for extenuating circumstances
 
--   **2.18.1** Informal requests for consideration can be made to the Instructor.
--   **2.18.2** Formal requests must be submitted to the Registrar with supporting documents and will be reviewed by the Dean.
--   **2.18.3** Instructors can assign "aegrotat" or "incomplete" grades based on term work or required further work.
+- **2.18.1** Informal requests for consideration can be made to the Instructor.
+- **2.18.2** Formal requests must be submitted to the Registrar with supporting documents and will be reviewed by the Dean.
+- **2.18.3** Instructors can assign "aegrotat" or "incomplete" grades based on term work or required further work.
 
 ## Incomplete Grades
 

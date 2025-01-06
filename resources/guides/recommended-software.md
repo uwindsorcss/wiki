@@ -25,7 +25,7 @@ Windows, Mac, and Linux downloads are available on the [official website](https:
 
 ### Resources
 
--   [First Year Bootcamp - Setting up VSCode Workshop](https://www.youtube.com/watch?v=XPrwuvzFREU): a workshop hosted by CSS to get VS Code up and running on Windows. Note that this workshop also provides a way to install a C compiler using MinGW, which is an alternative way to the one recommended in this guide, using WSL. **MinGW is not needed for VS Code itself, and can be skipped in favour of WSL (see the next section).**
+- [First Year Bootcamp - Setting up VSCode Workshop](https://www.youtube.com/watch?v=XPrwuvzFREU): a workshop hosted by CSS to get VS Code up and running on Windows. Note that this workshop also provides a way to install a C compiler using MinGW, which is an alternative way to the one recommended in this guide, using WSL. **MinGW is not needed for VS Code itself, and can be skipped in favour of WSL (see the next section).**
 
 ## Windows Subsystem for Linux (_Windows Only_)
 
@@ -81,17 +81,17 @@ Typically, a shell will display some information before your cursor, though the 
 
 The following are some basic commands:
 
--   `ls` will list the contents of the current folder.
--   `cd folderName` will move you to the folder named "folderName".
-    -   `cd ~` will take you to your Home folder.
-    -   `cd ..` will take you back out of the folder you are currently in.
--   `echo "Chip the Cool Cat"` will display "Chip the Cool Cat" in your terminal.
--   `cat fileName` will display the contents of a the file named "fileName".
+- `ls` will list the contents of the current folder.
+- `cd folderName` will move you to the folder named "folderName".
+    - `cd ~` will take you to your Home folder.
+    - `cd ..` will take you back out of the folder you are currently in.
+- `echo "Chip the Cool Cat"` will display "Chip the Cool Cat" in your terminal.
+- `cat fileName` will display the contents of a the file named "fileName".
 
 Some tips:
 
--   You can scroll through your command history using the up and down arrows.
--   **ctrl+c** can be used to kill a process that is running in your shell.
+- You can scroll through your command history using the up and down arrows.
+- **ctrl+c** can be used to kill a process that is running in your shell.
 
 ## C Compiler: GCC
 
@@ -132,8 +132,8 @@ cd ~/Desktop
 
 Compile the program into a **binary** (runnable file, executable, etc.).
 
--   `-Wall` tells the compiler to output all warnings.
--   `-o hello.out` tells the compiler to save the created binary with the name "hello.out".
+- `-Wall` tells the compiler to output all warnings.
+- `-o hello.out` tells the compiler to save the created binary with the name "hello.out".
 
 ```sh
 gcc -Wall hello.c -o hello.out
@@ -157,14 +157,14 @@ Chip says hello!
 
 As a computer science student, you have access to the School of Computer Science's servers, which provide software in a Linux environment that you are free to use. On campus, they can be accessed using School of Computer Science computer labs. Remotely, they can be accessed in several ways.
 
--   SSH (recommended): Remotely use a shell on the server.
--   NoMachine: Remote desktop environment.
+- SSH (recommended): Remotely use a shell on the server.
+- NoMachine: Remote desktop environment.
 
 :::important
 
--   You must [authenticate your UWin account](https://auth.cs.uwindsor.ca/) with the School of Computer Science before you can log in remotely.
--   To log in remotely from off-campus, you must be on the VPN first. Refer to the [VPN Setup Guide](./vpn).
-:::
+- You must [authenticate your UWin account](https://auth.cs.uwindsor.ca/) with the School of Computer Science before you can log in remotely.
+- To log in remotely from off-campus, you must be on the VPN first. Refer to the [VPN Setup Guide](./vpn).
+  :::
 
 ### SSH
 

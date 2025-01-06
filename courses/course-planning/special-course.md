@@ -14,21 +14,21 @@ In addition to the classes listed in the [course offering table](/wiki/courses/)
 These classes offers different topics from year to year. For higher year courses, they may also offer lecture components from other graduate courses.
 When the topic changes, it may be repeated for credit. However, you should seek a CS advisor before you take these courses.
 
--   COMP-2750 (Prerequisite: COMP-1000 or MATH-1720, and COMP-1410)
--   COMP-3750 (Prerequisite: COMP-2120, COMP-2540, and COMP-2560)
--   COMP-3760 (Prerequisite: COMP-2120, COMP-2540, and COMP-2560)
--   COMP-4750 (Prerequisite: to be in Semester 7 and 8 and obtained instructor's permission)
--   COMP-4760 (Prerequisite: to be in Semester 7 and 8 and obtained instructor's permission)
+- COMP-2750 (Prerequisite: COMP-1000 or MATH-1720, and COMP-1410)
+- COMP-3750 (Prerequisite: COMP-2120, COMP-2540, and COMP-2560)
+- COMP-3760 (Prerequisite: COMP-2120, COMP-2540, and COMP-2560)
+- COMP-4750 (Prerequisite: to be in Semester 7 and 8 and obtained instructor's permission)
+- COMP-4760 (Prerequisite: to be in Semester 7 and 8 and obtained instructor's permission)
 
 ## Co-op Work Terms
 
 These classes are exclusive to students who enrolled in Co-op programs. They are Pass/nonPass classes that requires completion of 420+ hours,
 and students must pass these courses to continue in Co-op.
 
--   COMP-2980: Co-op Work Term I
--   COMP-3980. Co-op Work Term II
--   COMP-4970. Co-op Work Term III
--   COMP-4980. Co-op Work Term IV
+- COMP-2980: Co-op Work Term I
+- COMP-3980. Co-op Work Term II
+- COMP-4970. Co-op Work Term III
+- COMP-4980. Co-op Work Term IV
 
 ## Project Courses
 
@@ -40,8 +40,8 @@ In addition, they must seek the approval of the instructor to take the course wi
 
 These are courses that help you gains practical skills:
 
--   SCIE-3990 Internship Course
--   SCIE-3800 Service Learning
+- SCIE-3990 Internship Course
+- SCIE-3800 Service Learning
 
 They are 3 credits Pass/nonPass courses that will count toward your electives. These courses are the flexible version of co-op placement.
 
@@ -51,9 +51,9 @@ They are 3 credits Pass/nonPass courses that will count toward your electives. T
 
 ### Requirements:
 
--   Must complete 108 hours during the placement.
--   Report bi-weekly hour log and bi-weekly assignment about learning expereience.
--   Self evalution for midterm by the student and the final evalution done by the supervisor of the placement.
+- Must complete 108 hours during the placement.
+- Report bi-weekly hour log and bi-weekly assignment about learning expereience.
+- Self evalution for midterm by the student and the final evalution done by the supervisor of the placement.
 
 :::note
 

@@ -14,35 +14,35 @@ Harshdip has followed this exact sequence.
 
 #### First Semester
 
--   COMP-1000 Key Concepts in Computer Science
--   COMP-1400 Intro to Programming & Algorithms I
--   MATH-1720/1760 Functions and Differential Calculus
--   MATH-1250/1260 Linear Algebra
--   Elective (See if you can take another mandatory course you will have to do in the future)
+- COMP-1000 Key Concepts in Computer Science
+- COMP-1400 Intro to Programming & Algorithms I
+- MATH-1720/1760 Functions and Differential Calculus
+- MATH-1250/1260 Linear Algebra
+- Elective (See if you can take another mandatory course you will have to do in the future)
 
 #### Second Semester
 
--   ECON-1100 Intro to Economics 1 or Psychology (I took econ because I find it more fun and applicable)
--   COMP-1410 Intro to Programming & Algorithms II
--   COMP-2650 Computer Architecture 1
--   MATH-1730 Integral Calculus
--   MATH-1020 Mathematical Foundations
+- ECON-1100 Intro to Economics 1 or Psychology (I took econ because I find it more fun and applicable)
+- COMP-1410 Intro to Programming & Algorithms II
+- COMP-2650 Computer Architecture 1
+- MATH-1730 Integral Calculus
+- MATH-1020 Mathematical Foundations
 
 #### Third Semester
 
--   COMP-2310 Theoretical Foundations of Comp Sci
--   COMP-2120 Obj Oriented Programming using Java
--   COMP-2560 Systems Programming
--   COMP-2540 Data Structures & Algorithms
--   STAT-2910 Statistics for the Sciences
+- COMP-2310 Theoretical Foundations of Comp Sci
+- COMP-2120 Obj Oriented Programming using Java
+- COMP-2560 Systems Programming
+- COMP-2540 Data Structures & Algorithms
+- STAT-2910 Statistics for the Sciences
 
 #### Fourth Semester
 
--   COMP-3150 Database Management Systems
--   COMP-2140 Languages, Grammars and Translators
--   COMP-2660 Computer Architecture 2
--   COMP-3220 Object Oriented Software Analysis/Design
--   COMP-3710 Artificial Intelligence Concepts
+- COMP-3150 Database Management Systems
+- COMP-2140 Languages, Grammars and Translators
+- COMP-2660 Computer Architecture 2
+- COMP-3220 Object Oriented Software Analysis/Design
+- COMP-3710 Artificial Intelligence Concepts
 
 ## Planning Your Courses
 

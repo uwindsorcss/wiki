@@ -47,15 +47,15 @@ Sometimes, UWSA can make purchases on your behalf to avoid club members needing 
 
 ## Resources
 
--   [UWSA Signature Form](https://uwsa.ca/wp-content/uploads/2020/01/UWSA-Student-Group-Handbook-Signature-Page.pdf)
--   [Student Groups Resources Page](https://uwsa.ca/student-groups/student-group-resource-forms/)
--   [Student Groups Policy and Handbook](https://uwsa.ca/wp-content/uploads/2018/09/UWSA-Student-Group-Handbook-New.pdf)
--   [Cheque Requesition Form](https://uwsa.ca/wp-content/uploads/2020/01/UWSA-Student-Group-Handbook-Check-Requisition.pdf)
+- [UWSA Signature Form](https://uwsa.ca/wp-content/uploads/2020/01/UWSA-Student-Group-Handbook-Signature-Page.pdf)
+- [Student Groups Resources Page](https://uwsa.ca/student-groups/student-group-resource-forms/)
+- [Student Groups Policy and Handbook](https://uwsa.ca/wp-content/uploads/2018/09/UWSA-Student-Group-Handbook-New.pdf)
+- [Cheque Requesition Form](https://uwsa.ca/wp-content/uploads/2020/01/UWSA-Student-Group-Handbook-Check-Requisition.pdf)
 
 ## Tips to Make Your Club Successful
 
--   Have a digital platform for members to chat with each other. [Discord](https://discord.com/) is a great option that many clubs use.
--   Get a club email address. Even if this is a shared Gmail account, having a place to store club files and email communications online really helps keep the club organized.
-    -   Want an official @uwindsor.ca email address? You can request one [here](https://uwindsor.teamdynamix.com/TDClient/1975/Portal/KB/ArticleDet?ID=137926#:~:text=Officially%20sanctioned%20clubs%20can%20apply,.ca%20e-mail%20address) once you become a ratified group.
--   Consider creating a website. Websites are a great way for clubs to showcase what they're all about to prospective members. If you don't have much technical experience, you can use [Google Sites](http://sites.google.com) to easily make a website for free
--   Consider creating a logo for the group. A logo helps put an identity behind your club and is especially useful for promotional purposes.
+- Have a digital platform for members to chat with each other. [Discord](https://discord.com/) is a great option that many clubs use.
+- Get a club email address. Even if this is a shared Gmail account, having a place to store club files and email communications online really helps keep the club organized.
+    - Want an official @uwindsor.ca email address? You can request one [here](https://uwindsor.teamdynamix.com/TDClient/1975/Portal/KB/ArticleDet?ID=137926#:~:text=Officially%20sanctioned%20clubs%20can%20apply,.ca%20e-mail%20address) once you become a ratified group.
+- Consider creating a website. Websites are a great way for clubs to showcase what they're all about to prospective members. If you don't have much technical experience, you can use [Google Sites](http://sites.google.com) to easily make a website for free
+- Consider creating a logo for the group. A logo helps put an identity behind your club and is especially useful for promotional purposes.

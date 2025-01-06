@@ -25,7 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-1000 or MATH-1720 and COMP-1410 (or COMP-2087) are the prerequisites for this class.
 
-
 ## Syllabus
 
 Sorry, we don't have a syllabus for this course yet.

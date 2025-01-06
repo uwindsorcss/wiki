@@ -13,19 +13,19 @@ First download the VPN client for your respective machine.
 
 ### [Download for Windows and macOS](https://networklogin.uwindsor.ca/)
 
--   Authenticate with your UWinID and password on the university's GlobalProtect Portal to get to the GlobalProtect Client download links. After that, click the link that matches your operating system.
+- Authenticate with your UWinID and password on the university's GlobalProtect Portal to get to the GlobalProtect Client download links. After that, click the link that matches your operating system.
 
 ### [Download for Android and Chrome OS](https://networklogin.uwindsor.ca/)
 
--   Follow the steps in the app when prompted. Also [check which Chrome OS Systems support Android Apps](https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-android-apps) if needed.
+- Follow the steps in the app when prompted. Also [check which Chrome OS Systems support Android Apps](https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-android-apps) if needed.
 
 ### [Download for iOS devices](https://apps.apple.com/ca/app/globalprotect/id1400555706)
 
--   Follow the steps in the app when prompted.
+- Follow the steps in the app when prompted.
 
 ### [Download for Linux](http://www.infradead.org/openconnect/)
 
--   Install openconnect using the package manager for your Linux distribution.
+- Install openconnect using the package manager for your Linux distribution.
 
 ## After Downloading
 

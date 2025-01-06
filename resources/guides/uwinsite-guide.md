@@ -94,9 +94,9 @@ sent to your UWindsor email account.
 
 **In this section, you'll find:**
 
--   Your account balance including what you owe, charges, deposits and anticipated aid
--   Payment history
--   Account services
+- Your account balance including what you owe, charges, deposits and anticipated aid
+- Payment history
+- Account services
 
 #### Account Balance
 
@@ -120,14 +120,14 @@ In the **Summary By Due Date** section, you'll see a breakdown of any charges yo
 
 The **Account Services** tab on the left has four subcategories:
 
--   **Charges Due:** provides a summary by due date of the charges and deposits that you owe
--   **Opt Out Drug and Dental:** gives you the option to opt out of your drug and dental insurance
--   **Income Tax Forms:** allows you to request an income tax T2202A or T4A form by selected year.
-    ![Income tax forms page](../../static/img/uwinsite_guide/income_tax_forms.jpg)
+- **Charges Due:** provides a summary by due date of the charges and deposits that you owe
+- **Opt Out Drug and Dental:** gives you the option to opt out of your drug and dental insurance
+- **Income Tax Forms:** allows you to request an income tax T2202A or T4A form by selected year.
+  ![Income tax forms page](../../static/img/uwinsite_guide/income_tax_forms.jpg)
     1. Select a year
     2. Click the dropdown arrow to select an income tax form type
     3. Click on **download**
--   **Online Refund Request:** allows you to request a refund form from the university
+- **Online Refund Request:** allows you to request a refund form from the university
 
 ## Academics
 
@@ -171,11 +171,11 @@ This form is for **inactive students**. It functions the same way as the Change 
 
 You can request a variety of self service letters in this section:
 
--   **Attestation Letter**: If you're a student travelling outside of Canada and need a letter to prove the University of Windsor is an accredited institution, you'll request an attestation letter
--   **CO-OP Letter**: Allows international students to apply to be eligible to work during their duration at the University of Windsor
--   **Enrollment Verification Letter**: Is a student's proof of registration. It shows a student's current status and prjected completion date
--   **Gradutation Letter**: Students who have applied to graduate and have successfully completed their program requirements will recieve a graduation letter
--   **Student Snapshot**: A current view of a student's enrollment status
+- **Attestation Letter**: If you're a student travelling outside of Canada and need a letter to prove the University of Windsor is an accredited institution, you'll request an attestation letter
+- **CO-OP Letter**: Allows international students to apply to be eligible to work during their duration at the University of Windsor
+- **Enrollment Verification Letter**: Is a student's proof of registration. It shows a student's current status and prjected completion date
+- **Gradutation Letter**: Students who have applied to graduate and have successfully completed their program requirements will recieve a graduation letter
+- **Student Snapshot**: A current view of a student's enrollment status
 
 ### Academic Progress
 

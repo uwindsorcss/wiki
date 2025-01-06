@@ -37,10 +37,10 @@ The University provides a multitide of support for students who need the extra h
 
 Many text and video resources are on the Internet, so use these to your advantages to help you understand difficult concepts and practice for exams.
 
--   [Gilbert Strang Linear Algebra Lectures](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PLE7DDD91010BC51F8&index=2)
--   [Gilbert Strang Linear Algebra Recitations](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PLD022819BC6B9B21B)
--   [Linear Algebra Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/linear-algebra/)
--   [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [Gilbert Strang Linear Algebra Lectures](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PLE7DDD91010BC51F8&index=2)
+- [Gilbert Strang Linear Algebra Recitations](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PLD022819BC6B9B21B)
+- [Linear Algebra Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/linear-algebra/)
+- [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 
 ### Don't Leave Questions Blank
 

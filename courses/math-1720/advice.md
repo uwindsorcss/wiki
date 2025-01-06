@@ -37,10 +37,10 @@ The University provides a multitide of support for students who need the extra h
 
 Many text and video resources are on the Internet, so use these to your advantages to help you understand difficult concepts and practice for exams.
 
--   [The Organic Chemistry Tutor](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
--   [Paul's Online Math Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
--   [Calculus Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/single-variable-calculus/)
--   [Khan Academy](https://www.khanacademy.org/math/differential-calculus)
+- [The Organic Chemistry Tutor](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+- [Calculus Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/single-variable-calculus/)
+- [Khan Academy](https://www.khanacademy.org/math/differential-calculus)
 
 ### Don't Leave Questions Blank
 

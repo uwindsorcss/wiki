@@ -6,13 +6,13 @@ The Wiki is a collection of resources, guides, and information for students in t
 
 ## Dependencies
 
--   **Nodejs** version >= 14 or above
+- **Nodejs** version >= 14 or above
 
--   **PNPM** [Guide](https://pnpm.io/installation)
+- **PNPM** [Guide](https://pnpm.io/installation)
 
--   **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- **NPM** [Guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
--   **git**
+- **git**
 
 # How to Install
 

@@ -16,15 +16,15 @@ your secondary school education - if you've made it to University, you probably 
 
 It's no surprise that resume checkers have become automated especially for larger companies who get thousands of applicants. Companies now use ATS (applicant tracking system) to parse your resumes before it reaches an actual human being.
 
-Knowing how to pass the ATS scanner is important in getting an interview. So, how do they work?  **ATS software uses artificial intelligence and natural language processing to score and sort resumes based on how well they align with job requirements.** An ATS will scan your resume for keywords and relevant work history to make a decision on whether you will advance to the next round, optimizing your resume so that it passes the ATS scan is an important step in your job search. Otherwise, your resume can be rejected despite your qualifications for the job.
+Knowing how to pass the ATS scanner is important in getting an interview. So, how do they work? **ATS software uses artificial intelligence and natural language processing to score and sort resumes based on how well they align with job requirements.** An ATS will scan your resume for keywords and relevant work history to make a decision on whether you will advance to the next round, optimizing your resume so that it passes the ATS scan is an important step in your job search. Otherwise, your resume can be rejected despite your qualifications for the job.
 
-A few simple strategies can help set your resume up for success in passing through an applicant tracking system. 
+A few simple strategies can help set your resume up for success in passing through an applicant tracking system.
 
 ### Keep Things Simple
 
 An aesthetically pleasing resume with headers, different fonts, and visuals won’t do much to impress an ATS. Also, use a resume template. Resume templates have a higher chance of being parsed properly by an ATS compared to a resume made from scratch. Also, the content of your resume should be aligned to the left. It makes your resume more readable this way.
 
-*“Most ATS strip out formatting and parse the plain text, but you can still make your resume look nice. It is best to stay away from inserting graphics, columns, headers, footers, or tables. ATS reads top to bottom and left to right, if you have columns built into separate information the ATS might read two separate categories of information as one. Standard headers for categories, bold, capital letters, italics are all ok. Most ATS can read a PDF but Word document is almost always the safest bet.”* says Carolyn Kleiman, career coach and expert at ResumeBuilder.com
+_“Most ATS strip out formatting and parse the plain text, but you can still make your resume look nice. It is best to stay away from inserting graphics, columns, headers, footers, or tables. ATS reads top to bottom and left to right, if you have columns built into separate information the ATS might read two separate categories of information as one. Standard headers for categories, bold, capital letters, italics are all ok. Most ATS can read a PDF but Word document is almost always the safest bet.”_ says Carolyn Kleiman, career coach and expert at ResumeBuilder.com
 
 I recommend using templates from [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv) since they're designed to be properly parsed by ATS. Even so, stick with simple looking templates without anything fancy.
 
@@ -55,7 +55,7 @@ Another tip is to carefully tailor your resume to the job description. **If ther
 - The most important section if you don't have experience
 - Projects can showcase your passion for programming and your knowledge on languages and tools a company utilizes
 
-*“Build some iPhone apps, web apps, whatever! Honestly it doesn’t matter that much what you’re building as long as you’re building something. You can build a fairly meaty project in one weekend. This means that with about 3–4 weekends of work, you can make your résumé go from so-so to fantastic. Seriously — I’ve seen lots of people do this.”* - Gayle McDowell, former Google Engineer and Author of Cracking the Coding Interview
+_“Build some iPhone apps, web apps, whatever! Honestly it doesn’t matter that much what you’re building as long as you’re building something. You can build a fairly meaty project in one weekend. This means that with about 3–4 weekends of work, you can make your résumé go from so-so to fantastic. Seriously — I’ve seen lots of people do this.”_ - Gayle McDowell, former Google Engineer and Author of Cracking the Coding Interview
 
 ### Experience
 
@@ -74,6 +74,7 @@ The most important thing is to **describe what you've accomplished**, not just w
 Other sections include **extracurriculars, awards, certificates, volunteering, etc**. Include them if they relate to the job you're applying to or if it's something exceptional.
 
 Things to include can relate the following:
+
 - Computer science related volunteering experience
 - Certificates that relate to the skills the job is asking for
 - Getting 1st or 2nd place at a hackathon
@@ -81,16 +82,16 @@ Things to include can relate the following:
 
 ## Perfecting your Resume
 
--   [This article](https://www.gautamtata.com/blog/get-a-job-1) on resume design explains how to optimize your resume to
-    improve your chances of being interviewed.
--   [Jobscan](https://www.jobscan.co) can help you optimize your resume to give you the best chance to get past the robots
-    and get seen by a real recruiter.
--   [How to Write a Killer Software Engineering Resume](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/) - A must read if you want to inprove your resume
+- [This article](https://www.gautamtata.com/blog/get-a-job-1) on resume design explains how to optimize your resume to
+  improve your chances of being interviewed.
+- [Jobscan](https://www.jobscan.co) can help you optimize your resume to give you the best chance to get past the robots
+  and get seen by a real recruiter.
+- [How to Write a Killer Software Engineering Resume](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/) - A must read if you want to inprove your resume
 
 ## Example Resumes
 
--   [Brandon Lucier](https://scet.ch/resume)
--   [Eric Pickup](https://drive.google.com/file/d/1QUNbEYP0TBf33-JeCfXFwp_eoqI5YDql/view)
--   [Harshdip Singh Deogan](https://hsdeogan.com/Resume-HarshdipSinghDeogan.pdf)
--   [Jeremie Bornais](https://jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf)
--   [Ryan Prairie](https://ryanprairie.com/static/extras/resume.pdf)
+- [Brandon Lucier](https://scet.ch/resume)
+- [Eric Pickup](https://drive.google.com/file/d/1QUNbEYP0TBf33-JeCfXFwp_eoqI5YDql/view)
+- [Harshdip Singh Deogan](https://hsdeogan.com/Resume-HarshdipSinghDeogan.pdf)
+- [Jeremie Bornais](https://jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf)
+- [Ryan Prairie](https://ryanprairie.com/static/extras/resume.pdf)

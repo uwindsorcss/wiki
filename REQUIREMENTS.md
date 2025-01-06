@@ -4,12 +4,12 @@ These are the stylistic and informational requirements for articles
 
 ## Table of contents
 
--   [Last Update Date](#last-update-date)
-    -   [Articles With No Sections](#articles-with-no-sections)
-    -   [Articles With Sections](#articles-with-sections)
--   [Citations](#citations)
-    -   [Whole Article](#whole-article)
-    -   [Sections](#sections)
+- [Last Update Date](#last-update-date)
+    - [Articles With No Sections](#articles-with-no-sections)
+    - [Articles With Sections](#articles-with-sections)
+- [Citations](#citations)
+    - [Whole Article](#whole-article)
+    - [Sections](#sections)
 
 ## Last Update Date
 

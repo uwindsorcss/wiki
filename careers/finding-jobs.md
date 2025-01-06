@@ -11,14 +11,14 @@ from resumes to applying and nailing your interview.
 For co-op, job listings are located on the [central co-op portal][3]. For internships, you have to find listings
 on your own. Some good places to search:
 
--   [LinkedIn Jobs](https://www.linkedin.com/jobs/). LinkedIn isn't just a social platform for bugging recruiters!
-    It has an integrated job board with _tons_ of internships.
--   [Intern Supply](https://intern.supply), though the links are usually broken. It can serve as a master list of
-    fantastic companies that offer internships.
--   [Work In Tech](https://www1.communitech.ca/jobs) has an extensive list of job opportunities, though most of
-    them are not internships.
--   [Pitt-CSC](https://github.com/pittcsc) has a giant open source repo that tracks open CS internships for a lot of companies.
-    -   The organization had a repo for new grad roles, but it is no longer maintained. A current version is maintained by [coderQuad](https://github.com/coderQuad/New-Grad-Positions-2023).
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/). LinkedIn isn't just a social platform for bugging recruiters!
+  It has an integrated job board with _tons_ of internships.
+- [Intern Supply](https://intern.supply), though the links are usually broken. It can serve as a master list of
+  fantastic companies that offer internships.
+- [Work In Tech](https://www1.communitech.ca/jobs) has an extensive list of job opportunities, though most of
+  them are not internships.
+- [Pitt-CSC](https://github.com/pittcsc) has a giant open source repo that tracks open CS internships for a lot of companies.
+    - The organization had a repo for new grad roles, but it is no longer maintained. A current version is maintained by [coderQuad](https://github.com/coderQuad/New-Grad-Positions-2023).
 
 :::warning
 

@@ -21,10 +21,10 @@ The following course sequences is a general course sequence for the Co-Op progra
 
 The above course sequence applies to the following programs:
 
--   Bachelor of Computer Science Honours Computer Science Co-op
--   Bachelor of Computer Science Honours Applied Computing Co-op
--   Bachelor of Science Honours Computer Information Systems Co-op
--   Bachelor of Science Honours Computer Science with Software Engineering Specialization Co-op
+- Bachelor of Computer Science Honours Computer Science Co-op
+- Bachelor of Computer Science Honours Applied Computing Co-op
+- Bachelor of Science Honours Computer Information Systems Co-op
+- Bachelor of Science Honours Computer Science with Software Engineering Specialization Co-op
 
 :::note
 The fourth work-term is optional. Only three work-terms are required for the Co-Op programs.
@@ -42,6 +42,6 @@ The fourth work-term is optional. Only three work-terms are required for the Co-
 
 # Citations
 
--   [0] https://www.uwindsor.ca/coop-workplace-partnerships/311/computer-science
--   [1] https://www.uwindsor.ca/coop-workplace-partnerships/305/business-computer-science
--   [2] Spring 2022 Undergraduate Academic Calendar
+- [0] https://www.uwindsor.ca/coop-workplace-partnerships/311/computer-science
+- [1] https://www.uwindsor.ca/coop-workplace-partnerships/305/business-computer-science
+- [2] Spring 2022 Undergraduate Academic Calendar

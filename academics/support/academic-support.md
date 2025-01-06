@@ -15,9 +15,9 @@ Here are a list of UWindsor staff to contact for your program-related questions 
 
 ### Computer Science Main Office
 
--   Email: csinfo@uwindsor.ca
--   Phone: 519-253-3000 Ext. 2991.
--   Office: Lambton Tower, Room 5114
+- Email: csinfo@uwindsor.ca
+- Phone: 519-253-3000 Ext. 2991.
+- Office: Lambton Tower, Room 5114
 
 Alternatively, you can contact the Undergraduate Computer Science Secretary [Ms. Tina Palmer](mailto:tpalmer@uwindsor.ca).
 
@@ -36,18 +36,18 @@ Here are a list of Computer Science Advisors who will be able to help you with y
 
 ### Associate Dean of Science: Dr. P. Dutton
 
--   Email: science@uwindsor.ca
--   Phone: 519-253-3000 Ext. 3009
--   Office: Essex Hall, Room 242
+- Email: science@uwindsor.ca
+- Phone: 519-253-3000 Ext. 3009
+- Office: Essex Hall, Room 242
 
 Alternatively, you can contact the Academic & Student Affairs Secretary [Laura Laurie](mailto:scienceundergrad@uwindsor.ca).
 
 ### Central Academic Advising Office (for general advising)
 
--   Appointment Website: https://www.uwindsor.ca/success/advising
--   Email: advising@uwindsor.ca
--   Phone: 519-253-3000 Ext. 1414
--   Office: Dillon Hall, Lower Level (Room 111)
+- Appointment Website: https://www.uwindsor.ca/success/advising
+- Email: advising@uwindsor.ca
+- Phone: 519-253-3000 Ext. 1414
+- Office: Dillon Hall, Lower Level (Room 111)
 
 ## Course-Related Support
 
@@ -77,10 +77,10 @@ The Student Success Centre provides writing support for students who are writing
 
 **Advising**
 
--   https://www.uwindsor.ca/science/473/undergraduate-academic-advising
--   https://www.uwindsor.ca/success/advising
+- https://www.uwindsor.ca/science/473/undergraduate-academic-advising
+- https://www.uwindsor.ca/success/advising
 
 **Course Support**
 
--   https://www.uwindsor.ca/science/computerscience/sites/uwindsor.ca.science.computerscience/files/windsor_welcome_booklet_2021.pdf
--   https://www.uwindsor.ca/science/chemistry/chemistry/sites/uwindsor.ca.science.chemistry/files/pals-faq2019f_2.pdf
+- https://www.uwindsor.ca/science/computerscience/sites/uwindsor.ca.science.computerscience/files/windsor_welcome_booklet_2021.pdf
+- https://www.uwindsor.ca/science/chemistry/chemistry/sites/uwindsor.ca.science.chemistry/files/pals-faq2019f_2.pdf

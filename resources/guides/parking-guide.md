@@ -39,17 +39,17 @@ The University of Windsor will provide accessible parking to people who requests
 
 **Campus Parking Services**
 
--   Location: Joyce Entrepreneurship Centre, 1st Floor
--   Hours of Operation: Monday - Friday, 8:00 a.m. - 4:00 p.m.
--   Phone: (519) 253-3000 Ext. 2413
--   Email: parking@uwindsor.ca
+- Location: Joyce Entrepreneurship Centre, 1st Floor
+- Hours of Operation: Monday - Friday, 8:00 a.m. - 4:00 p.m.
+- Phone: (519) 253-3000 Ext. 2413
+- Email: parking@uwindsor.ca
 
 **Office of Human Rights, Equity and Accessibility**
 
--   Location: Chrysler Hall Tower, Room 325, Reception
--   Hours of Operation: Monday - Thursday, 8:30 a.m. - 4:30 p.m.; Friday, 8:30 a.m. - 12:00 p.m.
--   Phone: (519) 253-3000 ext. 3400
--   Email: ohrea@uwindsor.ca
+- Location: Chrysler Hall Tower, Room 325, Reception
+- Hours of Operation: Monday - Thursday, 8:30 a.m. - 4:30 p.m.; Friday, 8:30 a.m. - 12:00 p.m.
+- Phone: (519) 253-3000 ext. 3400
+- Email: ohrea@uwindsor.ca
 
 ## Unofficial Parking Spaces
 
