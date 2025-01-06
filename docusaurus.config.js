@@ -44,7 +44,7 @@ module.exports = {
                 {
                     to: "courses/",
                     activeBasePath: "courses",
-                    label: "Course Information",
+                    label: "Courses",
                     position: "left",
                 },
                 {

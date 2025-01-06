@@ -27,5 +27,4 @@ COMP-2120, COMP-2540 (or COMP-2547), COMP-2560, and COMP-2650 are the prerequisi
 
 ## Syllabus
 
-[Click here to see Section 01 syllabus](../../resources/syllabus/COMP-3670-01%20F24.pdf)
-
+- [Fall 2024](../../resources/syllabus/COMP-3670-01%20F24.pdf)

@@ -20,7 +20,7 @@ assignees: ""
 
 <!-- Check ONE box, [x], to select where your article should be categorized-->
 
--   [ ] Course information
+-   [ ] Courses
 -   [ ] Careers
 -   [ ] Academics
 -   [ ] Resources
