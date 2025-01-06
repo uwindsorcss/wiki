@@ -33,7 +33,6 @@ Which should you use? The short answer is “Connect to eduroam”. The eduroam 
 - CA certificate: Use System Certificates (or leave blank if this is not an option) -->
 
 - **Identity (username): Your full UWindsor email (example@uwindsor.ca)**
-  <!-- - Anonymous identity: Your full UWindsor email (example@uwindsor.ca) -->
 - **Password: Your UWinID password**
 
 If prompted to trust a certificate after signing in (mainly iPhone) click trust.
