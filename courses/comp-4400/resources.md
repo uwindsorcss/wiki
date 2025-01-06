@@ -41,15 +41,15 @@ Here are some useful links to get started with each of the different programming
 
 ### Prolog
 
--   [An excellent Prolog tutorial](https://www.youtube.com/watch?v=SykxWpFwMGs)
--   [An online Prolog interpreter](https://swish.swi-prolog.org/)
+- [An excellent Prolog tutorial](https://www.youtube.com/watch?v=SykxWpFwMGs)
+- [An online Prolog interpreter](https://swish.swi-prolog.org/)
 
 ### Scheme
 
--   [A playlist of Scheme tutorials on YouTube](https://www.youtube.com/playlist?list=PLm8dSOaqLPHKVPwBkk9UeAB2Lokl1xMJM)
--   [The DrRacket IDE for Scheme programming](https://racket-lang.org/)
+- [A playlist of Scheme tutorials on YouTube](https://www.youtube.com/playlist?list=PLm8dSOaqLPHKVPwBkk9UeAB2Lokl1xMJM)
+- [The DrRacket IDE for Scheme programming](https://racket-lang.org/)
 
 ### Lambda Calculus
 
--   [An excellent talk about Lambda calculus](https://www.youtube.com/watch?v=3VQ382QG-y4)
--   [Part two of the talk, which goes into more advanced concepts](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
+- [An excellent talk about Lambda calculus](https://www.youtube.com/watch?v=3VQ382QG-y4)
+- [Part two of the talk, which goes into more advanced concepts](https://www.youtube.com/watch?v=pAnLQ9jwN-E)

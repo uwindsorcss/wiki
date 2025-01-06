@@ -19,7 +19,7 @@ Please note that this is not a conclusive list of current awards of which Comput
 
 | Award Name                                  | Value | Criterion and Preferences                                                                                                                                                                                                                                                                                                                      | Notes                                                                                                                                                                                                              |
 | :------------------------------------------ | ----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Xerox Canada Scholarships                   | $1900 | Awarded to two students based on academic performance (min. 75% cumulative average), financial need, and understanding in Information Technology Literacy.                                                                                                                                                                                     | **Alternates annually** between being available to **Music or Visual Arts** students and **Engineering or Computer Science** students. <br/> Must be an Ontario resident and meet additional requirements[^1].      |
+| Xerox Canada Scholarships                   | $1900 | Awarded to two students based on academic performance (min. 75% cumulative average), financial need, and understanding in Information Technology Literacy.                                                                                                                                                                                     | **Alternates annually** between being available to **Music or Visual Arts** students and **Engineering or Computer Science** students. <br/> Must be an Ontario resident and meet additional requirements[^1].     |
 | Wendy Regnier Computer Science Scholarship  | $2000 | 2nd or 3rd year female student in undergrad Computer Science program. <br/>Based on academic standing, community involvement, and intention to continue in a Computer Science program.                                                                                                                                                         | Requires a letter confirming community involvement during application process. <br/>Additional requirements apply[^1].                                                                                             |
 | Kenneth J. Van Meer Scholarship             | $1700 | Gay male student in 2nd, 3rd, or 4th year Honours Computer Science (preferred), Honours Communication Studies, or any Faculty of Science Honours program. <br/>Based on good academic performance (min. 76% cumulative average) and financial need. Residents of Windsor Essex who graduated from Windsor Essex Secondary schools (preferred). | Award is renewable via re-application in later years. Must meet OSAP residency and other requirements[^1]. **Award cannot be held concurrently with the Kenneth and Rose Van Meer Memorial Entrance Scholarship.** |
 | Dean Roy Memorial Award in Computer Science | $1500 | 3rd or 4th year Computer Science student who has been in a mentoring/leadership role. Financial need is considered.                                                                                                                                                                                                                            | Additional requirements apply[^1].                                                                                                                                                                                 |
@@ -54,14 +54,14 @@ These awards are applied through UWinAward Profile in addition to any supporting
 
 The [Student Awards & Financial Aid Office][financialoffice] has compiled a list of other notable 2022-23 awards for the following student groups:
 
--   [Indigenous Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_indigenous_students.pdf)
--   [Black Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_black_african_descent_students.pdf)
--   [Part-time Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/uw_fa_rpt700_opus_2022-10-04v2.pdf)
--   [Students with Disabilities](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_disability_students.pdf)
--   [Women](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_students_who_self-identify_as_a_woman_0.pdf)
--   [Students on Exchange](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_students_on_exchange.pdf)
--   [International/US Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_international_us_students.pdf)
--   [Co-op Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_co-op_students.pdf)
+- [Indigenous Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_indigenous_students.pdf)
+- [Black Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_black_african_descent_students.pdf)
+- [Part-time Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/uw_fa_rpt700_opus_2022-10-04v2.pdf)
+- [Students with Disabilities](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_disability_students.pdf)
+- [Women](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_students_who_self-identify_as_a_woman_0.pdf)
+- [Students on Exchange](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_students_on_exchange.pdf)
+- [International/US Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_international_us_students.pdf)
+- [Co-op Students](https://www.uwindsor.ca/studentawards/sites/uwindsor.ca.studentawards/files/2022-23_awards_for_co-op_students.pdf)
 
 In addition, UWSA has their own lists of [awards and scholarships](https://uwsa.ca/services/scholarships/) of which full-time Computer Science students can apply for. Other student organizations, too, may have their own list of student awards (OPUS scholarships and awards are included in the above lists of awards).
 
@@ -73,8 +73,8 @@ Throughout the academic year, there may also be events that offer ballot draws w
 
 Additionally, here are a few scholarship websites that offer external scholarship, as suggested by the Student Awards & Financial Aid Office:
 
--   www.scholarshipscanada.com
--   www.yconic.com
+- www.scholarshipscanada.com
+- www.yconic.com
 
 The Student Success and Leadership Center also has a list of [external awards](https://www.uwindsor.ca/success/externalawards) for application.
 

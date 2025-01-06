@@ -8,6 +8,18 @@ module.exports = {
     favicon: "img/favicon-32x32.png",
     organizationName: "UWindsorCSS", // Usually your GitHub org/user name.
     projectName: "wiki", // Usually your repo name.
+    onBrokenLinks: "warn",
+    onBrokenMarkdownLinks: "warn",
+    future: {
+        experimental_faster: {
+            swcJsLoader: true,
+            swcJsMinimizer: true,
+            swcHtmlMinimizer: true,
+            lightningCssMinimizer: true,
+            rspackBundler: true,
+            mdxCrossCompilerCache: true,
+        },
+    },
     themeConfig: {
         defaultMode: "dark",
         docs: {
@@ -157,14 +169,19 @@ module.exports = {
             },
         ],
     ],
-    plugins: [
+    themes: [
         [
-            "@cmfcmf/docusaurus-search-local",
+            require.resolve("@easyops-cn/docusaurus-search-local"),
             {
-                indexDocs: true,
+                hashed: true,
+                indexDocs: false,
+                indexBlog: false,
+                indexPages: true,
+                highlightSearchTermsOnTargetPage: true,
             },
         ],
-
+    ],
+    plugins: [
         [
             "@docusaurus/plugin-content-docs",
             {
@@ -226,6 +243,8 @@ module.exports = {
                 path: "newsletter",
                 routeBasePath: "newsletter",
                 editUrl: "https://github.com/UWindsorCSS/Wiki/tree/master/",
+                onInlineAuthors: "ignore",
+                onUntruncatedBlogPosts: "ignore",
             },
         ],
     ],

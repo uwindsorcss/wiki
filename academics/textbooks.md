@@ -63,9 +63,9 @@ Leddy Library often stocks textbooks for students to temporarily borrow for free
 
 Here at the Computer Science Society, we love the law. We definitely recommend you to pay full price for a new book from the UWindsor bookstore and definitely do not recommend you to use the following sites such to get your textbooks **for free** and save hundreds of dollars without an account. These sites definitely do not provide free, safe files:
 
--   [b-ok.cc](https://b-ok.cc)
--   [libgen.is](https://libgen.is/)
--   [pdfdrive.com](https://pdfdrive.com/)
+- [b-ok.cc](https://b-ok.cc)
+- [libgen.is](https://libgen.is/)
+- [pdfdrive.com](https://pdfdrive.com/)
 
 :::warning
 Downloading textbooks for free online is illegal, and definitely always enforced. We do not recommend you to use the above sites, we have campus security on speed dial.

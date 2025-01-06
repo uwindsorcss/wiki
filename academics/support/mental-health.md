@@ -19,10 +19,10 @@ The SCC provides confidental mental health services through the form of individu
 
 _Contact Information_
 
--   Location: CAW Student Centre 2nd floor, room 293
--   Hours of Operation: Monday to Fridays, 8:30 AM - 4:30 PM
--   Email: scc@uwindsor.ca
--   Phone: 519-253-3000 Ext. 4616
+- Location: CAW Student Centre 2nd floor, room 293
+- Hours of Operation: Monday to Fridays, 8:30 AM - 4:30 PM
+- Email: scc@uwindsor.ca
+- Phone: 519-253-3000 Ext. 4616
 
 You can find more information about SCC and how to make appointments [here](https://www.uwindsor.ca/wellness/304/counselling).
 
@@ -32,10 +32,10 @@ The UWSA Peer Support Centre offers Zoom drop-in peer counselling sessions to UW
 
 _Contact Information_
 
--   Location: CAW Student Centre 2nd Floor, Room 291
--   Hours of Operation: Monday to Fridays, 10:00 AM - 8:00 PM
--   Email: psc@uwindsor.ca
--   Phone: 519-253-3000 Ext. 4551
+- Location: CAW Student Centre 2nd Floor, Room 291
+- Hours of Operation: Monday to Fridays, 10:00 AM - 8:00 PM
+- Email: psc@uwindsor.ca
+- Phone: 519-253-3000 Ext. 4551
 
 ## 24/7 Support
 
@@ -45,9 +45,9 @@ My Student Support Program is a free professional counselling service available 
 
 _Contact Information_
 
--   Website: https://myssp.app/ca/home
--   Phone (North America): 1-844-451-9700
--   Phone (Outside North America): 001-416-380-6578
+- Website: https://myssp.app/ca/home
+- Phone (North America): 1-844-451-9700
+- Phone (Outside North America): 001-416-380-6578
 
 ### Good2Talk
 
@@ -55,9 +55,9 @@ Good2Talk Ontario provides free provincial counselling service through call, tex
 
 _Contact Information_
 
--   Website: https://good2talk.ca/ontario/
--   Phone: 1-866-925-5454
--   Text: GOOD2TALKON to 686868
+- Website: https://good2talk.ca/ontario/
+- Phone: 1-866-925-5454
+- Text: GOOD2TALKON to 686868
 
 ### Wellness Together Canada
 
@@ -65,15 +65,15 @@ Wellness Together Canada provides counselling and support programs for mental he
 
 _Contact Information_
 
--   Website: https://www.wellnesstogether.ca/en-CA
--   Phone: 1-866-585-0445
--   Text: WELLNESS to 686868
+- Website: https://www.wellnesstogether.ca/en-CA
+- Phone: 1-866-585-0445
+- Text: WELLNESS to 686868
 
 ### Windsor Regional Hospital Walk-In Crisis Service
 
 The Windsor Regional Hospital Emergency Department provides walk-in services for mental health crises and emergencies.
 
--   Location: 1030 Ouellette Avenue, Windsor, Ontario
+- Location: 1030 Ouellette Avenue, Windsor, Ontario
 
 ## Insurance
 

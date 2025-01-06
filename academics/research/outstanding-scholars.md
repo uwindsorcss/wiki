@@ -13,20 +13,20 @@ UWindsor offers the Outstanding Scholars program for students to get involved in
 
 ### Pros
 
--   Paid placement: $16.35/hour (2nd/3rd year) and $17.30/hour (4th year).
--   Flexible total hours: 45-100 hours per placement.
--   Great experience to put on resume or grad school application.
--   A lot of machine learning and cyber security research projects focusing on different areas (ex. social network analysis and document and network analysis).
--   Placements are not limited in your department. OS program is a golden key that can open any research doors for you.
--   Outstanding Scholars Medal & Golden Maple Leaf Medallion will be awarded.
+- Paid placement: $16.35/hour (2nd/3rd year) and $17.30/hour (4th year).
+- Flexible total hours: 45-100 hours per placement.
+- Great experience to put on resume or grad school application.
+- A lot of machine learning and cyber security research projects focusing on different areas (ex. social network analysis and document and network analysis).
+- Placements are not limited in your department. OS program is a golden key that can open any research doors for you.
+- Outstanding Scholars Medal & Golden Maple Leaf Medallion will be awarded.
 
 ### Cons
 
--   Time consuming.
--   Depending on the research project, there is a lot of reading material.
--   Depending on the research project, do not expect to code a lot. Unless you are buidling a training model for a machine learning algorithm or simulating model.
--   Weekly or Bi-weekly meetings. Must keep close contact with professor with your progress.
--   If your supervisor is too busy, and many of them are, then you are mostly on your own. That's why finding a good supervisor is very important.
+- Time consuming.
+- Depending on the research project, there is a lot of reading material.
+- Depending on the research project, do not expect to code a lot. Unless you are buidling a training model for a machine learning algorithm or simulating model.
+- Weekly or Bi-weekly meetings. Must keep close contact with professor with your progress.
+- If your supervisor is too busy, and many of them are, then you are mostly on your own. That's why finding a good supervisor is very important.
 
 ## Applying to Outstanding Scholars
 
@@ -52,20 +52,20 @@ Students are eligible to apply if their cumulative GPA ranks among the top 250 f
 
 :::note
 
--   If you complete only 9 courses for 2 semesters in first year, then you will not receive an invitation to apply for the program. However, do not worry! you can contact [Dr. Tim Brunet](mailto:tbrunet@uwindsor.ca) to inform him about your interests in the program.
+- If you complete only 9 courses for 2 semesters in first year, then you will not receive an invitation to apply for the program. However, do not worry! you can contact [Dr. Tim Brunet](mailto:tbrunet@uwindsor.ca) to inform him about your interests in the program.
 
--   To graduate as an OS student, you must complete 6 placements, which is 6 semesters or 3 years of your study. If you have completed more than 10 courses, you won't be able to meet the requirement. However, if you plan to take extra summer courses and do a research placement, then you are eligible to apply. Contact [Dr. Tim Brunet](mailto:tbrunet@uwindsor.ca) and explain your goal to complete the program.
+- To graduate as an OS student, you must complete 6 placements, which is 6 semesters or 3 years of your study. If you have completed more than 10 courses, you won't be able to meet the requirement. However, if you plan to take extra summer courses and do a research placement, then you are eligible to apply. Contact [Dr. Tim Brunet](mailto:tbrunet@uwindsor.ca) and explain your goal to complete the program.
 
 :::
 
 ## Selection Criteria for Outstanding Scholars
 
--   Academic accomplishments: GPA 85% or higher (high school) / top 250 cumulative GPA (second-year).
--   Evident desire to do research or original creative work.
--   Evidence of community service.
--   Leadership, through excellence in athletic, creative, or other fields, or through serving in a formal leadership role.
--   Specific research project that you are interested in.
--   A reference letter from a faculty member or instructor. To get a greate reference letter, you could get to know more about a professor's research project during their office hours. This will show that you are curious and willing to learn. They will put a good word in for you.
+- Academic accomplishments: GPA 85% or higher (high school) / top 250 cumulative GPA (second-year).
+- Evident desire to do research or original creative work.
+- Evidence of community service.
+- Leadership, through excellence in athletic, creative, or other fields, or through serving in a formal leadership role.
+- Specific research project that you are interested in.
+- A reference letter from a faculty member or instructor. To get a greate reference letter, you could get to know more about a professor's research project during their office hours. This will show that you are curious and willing to learn. They will put a good word in for you.
 
 ---
 
@@ -77,6 +77,6 @@ For more information about Outstanding Scholars, see here:
 
 Furthermore, if you have any questions about the OS program, send the following CSS members an email!
 
--   [Andrea Bonato](mailto:bonato11@uwindsor.ca)
--   [Aman Patel](mailto:patel1wq@uwindsor.ca)
--   [Jeremie Bornais](mailto:borna113@uwindsor.ca)
+- [Andrea Bonato](mailto:bonato11@uwindsor.ca)
+- [Aman Patel](mailto:patel1wq@uwindsor.ca)
+- [Jeremie Bornais](mailto:borna113@uwindsor.ca)

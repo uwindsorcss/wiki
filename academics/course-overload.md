@@ -5,7 +5,7 @@ sidebar_label: Course Overload
 slug: /course-overload
 ---
 
-Course overload is taking more courses in a term than the usual prescribed number. In the Fall and Winter terms, this means taking more than 5 courses per term.  In the Intersession and Summer terms, this means taking more than 3 courses per term and more than 5 courses total. 
+Course overload is taking more courses in a term than the usual prescribed number. In the Fall and Winter terms, this means taking more than 5 courses per term. In the Intersession and Summer terms, this means taking more than 3 courses per term and more than 5 courses total.
 
 Students who have major and cumulative averages of 85% or higher may take one course on overload per term. Students with averages below this must obtain permission for course overload from the Associate Dean, Academic and Student Success. Please note that approval for course overload will only be granted in exceptional circumstances. ([Source](https://www.uwindsor.ca/fahss/online-advising/702/faq-how-do-i-register-course-overload))
 

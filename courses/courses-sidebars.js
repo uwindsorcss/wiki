@@ -12,7 +12,7 @@ module.exports = {
                 "course-planning/degree-requirements",
                 "course-planning/electives",
                 "course-planning/special-course",
-                "course-planning/4960vs4990"
+                "course-planning/4960vs4990",
             ],
         },
         {

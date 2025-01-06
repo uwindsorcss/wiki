@@ -26,4 +26,5 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 COMP-1000 and COMP-2120 are the prerequisites for this class.
 
 ## Syllabus
+
 - [Winter 2024](../../resources/syllabus/COMP-2140-01%20W24.pdf)

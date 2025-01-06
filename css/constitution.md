@@ -25,10 +25,10 @@ Science and to enhance the lives of computer science students on campus.
 Society Membership shall consist of:
 
 1. All students who are currently enrolled on a full-time basis at the
-University of Windsor majoring in a program offered by the department of
-Computer Science.
+   University of Windsor majoring in a program offered by the department of
+   Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
-covered by part a, may purchase a membership for **$20 per semester**.
+   covered by part a, may purchase a membership for **$20 per semester**.
 
 #### Section 4 - Independence
 
@@ -190,7 +190,7 @@ The **Career Advisor** shall:
 The **Senior Representative** shall:
 
 1. Report to the Head of Student Affairs.
-2. Be responsible for representing the views and concerns of third- and  fourth-year students to the executive.
+2. Be responsible for representing the views and concerns of third- and fourth-year students to the executive.
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
 4. Be responsible for making announcements at the beginning of third- and fourth-year lectures to make members aware of society events.
 
@@ -303,7 +303,6 @@ In the event that a **member** is not fulfilling their responsibilities, the fol
 3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
 4. If the **member** is removed at such a meeting, they may appeal within a reasonable period to the CSS Board, as prescribed in Section 4.
 
-
 _**Note:** In the event the **member** in question is the **President**, the **Vice President** will conduct the above procedure._
 
 #### Section 3 - Meeting to Remove an Executive or Council Member
@@ -312,28 +311,27 @@ An **Executive** meeting shall be called to determine whether a **member**
 shall continue to retain their position.
 
 - At least _one-week_ notice shall be given before the meeting. The
-**member** in question will be given an opportunity to address any issues
-and concerns raised, answer any questions as well as provide reasons why
-they should continue to hold their position.
+  **member** in question will be given an opportunity to address any issues
+  and concerns raised, answer any questions as well as provide reasons why
+  they should continue to hold their position.
 - Voting shall take place by secret ballot.
 - Quorum for the meeting shall be all of the **executives**, not including the accused.
 - If quorum is not met, or in the event that a **two-thirds vote** is
-not obtained, the individual shall retain their position.
+  not obtained, the individual shall retain their position.
 - Except at the sole request of the **member** in question, the minutes shall be sealed and shall not be published, beyond the immediate result and a notice that the minutes were sealed.
     - The President or some other executive _shall_ inform the **member** in question of the right to unseal publication of the minutes.
     - If the **member** in question is the President, then the Vice President has the responsibility to inform the President of this right.
-    - If the **member** in question shall request the minutes not be so sealed after being dutifully informed, then the minutes *shall* be published as routinely done so for Executive Meetings.
+    - If the **member** in question shall request the minutes not be so sealed after being dutifully informed, then the minutes _shall_ be published as routinely done so for Executive Meetings.
     - The **member** in question may, for a reasonable period of time following the meeting, request or permit the minutes to be unsealed in which case they shall be published as routinely done so for Executive Meetings.
     - The **member** in question may explicitly request the minutes be sealed, in which case, they shall be sealed just the same.
 
-
 #### Section 4 - Appeals of Removals
 
-A **member** removed by the Process prescribed in Section 2 may, within a reasonable period of time prescribed by the Board but not lesser than 7 days, appeal to the Board by notice in writing or some other manner acceptable to the Board to the Secretary, or if there is no Secretary, to either the Head of Student Affairs, the Senior Representative, or any First or Second Year Representatives. 
+A **member** removed by the Process prescribed in Section 2 may, within a reasonable period of time prescribed by the Board but not lesser than 7 days, appeal to the Board by notice in writing or some other manner acceptable to the Board to the Secretary, or if there is no Secretary, to either the Head of Student Affairs, the Senior Representative, or any First or Second Year Representatives.
 
-If notice is so given, then the Secretary or other member who recieves such notice shall inform the President and the remainder of the Board, which shall consider the appeal at either the next Regular Meeting or at a Special Meeting convened for that purpose, at least 1 week after reciept of such notice, but no later than 3 weeks without the consent of that **member**. 
+If notice is so given, then the Secretary or other member who recieves such notice shall inform the President and the remainder of the Board, which shall consider the appeal at either the next Regular Meeting or at a Special Meeting convened for that purpose, at least 1 week after reciept of such notice, but no later than 3 weeks without the consent of that **member**.
 
-- The **member** shall be invited to attend the meeting, but shall have no vote during such. 
+- The **member** shall be invited to attend the meeting, but shall have no vote during such.
 - Prior to such meeting, the Executive shall deliver to the Board the Minutes from the meeting to remove the member, notwithstanding any seal put in place **member**.
 - During the meeting, the Board may, by simple-majority, dismiss the appeal or allow the appeal. If the appeal is dimissed, then the removal order is confirmed. If the appeal is allowed, then the Board may do any of the following at its option:
     - Dismiss the Removal Order and reinstate the member,
@@ -341,15 +339,16 @@ If notice is so given, then the Secretary or other member who recieves such noti
     - Reverse the Removal Order and remand to continued consideration by the Executive, with any instructions the Board sees fit to issue that the Executive _shall_ consider
 - In the case of a reinstatement without dismissal of the removal order, the Board may order the unsealing of the minutes from the meeting to remove the member, and if the unsealing is refused by the member, the Board may deny reinstatement and dismiss the appeal.
 
-
 #### Section 5 - Removal at General or Regular Meeting
 
-Any Board or Executive Member at a Regular Meeting of CSS may call for the removal of any Executive Member for the reason of a lack of confidence in that member to discharge the duties properly: 
-- Such a call may be confirmed by a *simple-majority* of the Board, or disposed of by the same. The member in question may have that portion of the minutes sealed under the same procedure as for ordinary removal meetings. 
+Any Board or Executive Member at a Regular Meeting of CSS may call for the removal of any Executive Member for the reason of a lack of confidence in that member to discharge the duties properly:
+
+- Such a call may be confirmed by a _simple-majority_ of the Board, or disposed of by the same. The member in question may have that portion of the minutes sealed under the same procedure as for ordinary removal meetings.
 - A call made during one Regular meeting need not be confirmed or dimissed during that meeting, and may be confirmed or disposed of at a later meeting.
 
 Any Member of the Society may at a General Meeting call for the removal of any Executive or Board Member, except for the CSC Liason, for the reason of a lack of confidence in that member to discharge their duties properly:
-- Such a call may be confirmed by a *three-fifths* majority of the membership of that General Meeting, provided that general meeting has quorum, or may be disposed of by a *simple-majority*.
+
+- Such a call may be confirmed by a _three-fifths_ majority of the membership of that General Meeting, provided that general meeting has quorum, or may be disposed of by a _simple-majority_.
 - If the call is neither confirmed nor disposed of during the general meeting, then the Board may call a special meeting with the person who so makes the request, and confirm or dispose of it as though a call made by a Board member at a Regular Meeting to remove an Executive, but if the call is not confirmed during that meeting it is disposed of at its adjournment. If the Board does not call such a Special Meeting, then the call is disposed of.
 
 #### Section 6 - Constitutional Amendments
@@ -359,7 +358,7 @@ meeting, with a three-fourths majority vote.
 
 Any amendments must be announced one week prior to either meeting.
 
-Amendments that only include stylistic, grammatical, typographical, graphical, or formatting changes can be made to the constitution outside of a meeting, without the need for an announcement one week prior, with a three-fourths majority vote. This vote may be electronic or in-person, as decided by the President.  
+Amendments that only include stylistic, grammatical, typographical, graphical, or formatting changes can be made to the constitution outside of a meeting, without the need for an announcement one week prior, with a three-fourths majority vote. This vote may be electronic or in-person, as decided by the President.
 
 #### Section 7 - Interpretation of Bylaws
 

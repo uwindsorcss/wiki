@@ -41,10 +41,10 @@ slug: /guides/contributing
 
 Including this top section before beginning your article is vital if you want it to show up on the wiki. Each field is fairly self explanatory, but here's a quick rundown anyways:
 
--   **id**: This is a descriptive string that uniquely identifies your article. It's useful for sidebars.
--   **title**: The title of your article, this is automatically rendered as an `h1` at the beginning of your article.
--   **sidebar_label**: Self explanatory, shows up on the sidebar to link to your article.
--   **slug**: This refers to what is appended to the url when going to your article. Slugs are expected to adhere to a format featuring all lowercase letters and hyphens between words. For example, if you're creating a guide about "Topic A", you might make the slug `/guides/topic-a`. File names should follow the same naming scheme.
+- **id**: This is a descriptive string that uniquely identifies your article. It's useful for sidebars.
+- **title**: The title of your article, this is automatically rendered as an `h1` at the beginning of your article.
+- **sidebar_label**: Self explanatory, shows up on the sidebar to link to your article.
+- **slug**: This refers to what is appended to the url when going to your article. Slugs are expected to adhere to a format featuring all lowercase letters and hyphens between words. For example, if you're creating a guide about "Topic A", you might make the slug `/guides/topic-a`. File names should follow the same naming scheme.
 
 Once you have this section completed, you now need to edit the relevant `XXXX.sidebars.js` file to create a link for it in the sidebar of whatever section you're writing the article for. For example, if you're creating a new guide you would update `resources-sidebars.js`. Look for items near where you'd like to place your article:
 

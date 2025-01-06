@@ -109,11 +109,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 1. And another item.
 ```
 
--   Unordered list can use asterisks
+- Unordered list can use asterisks
 
-*   Or minuses
+* Or minuses
 
--   Or pluses
+- Or pluses
 
 ```
 * Unordered list can use asterisks

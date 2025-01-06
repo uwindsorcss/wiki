@@ -4,23 +4,13 @@
     "private": true,
     "scripts": {
         "docusaurus": "docusaurus",
-        "start": "docusaurus start",
+        "start": "docusaurus start --no-open",
         "build": "docusaurus build",
         "swizzle": "docusaurus swizzle",
         "deploy": "docusaurus deploy",
-        "serve": "docusaurus serve",
-        "clear": "docusaurus clear"
-    },
-    "dependencies": {
-        "@cmfcmf/docusaurus-search-local": "^1.2.0",
-        "@docusaurus/core": "^3.4.0",
-        "@docusaurus/preset-classic": "^3.4.0",
-        "@mdx-js/react": "^3.0.1",
-        "babel-plugin-transform-runtime": "^6.23.0",
-        "clsx": "^2.1.1",
-        "react": "^18.3.1",
-        "react-dom": "18.3.1",
-        "react-table": "^7.8.0"
+        "serve": "docusaurus serve --no-open",
+        "clear": "docusaurus clear",
+        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
     },
     "browserslist": {
         "production": [
@@ -44,7 +34,20 @@
         "bracketSpacing": false,
         "arrowParens": "always"
     },
+    "dependencies": {
+        "@docusaurus/core": "3.7.0",
+        "@docusaurus/faster": "3.7.0",
+        "@docusaurus/preset-classic": "3.7.0",
+        "@docusaurus/theme-common": "3.7.0",
+        "@easyops-cn/docusaurus-search-local": "0.46.1",
+        "@mdx-js/react": "3.1.0",
+        "clsx": "2.1.1",
+        "react": "19.0.0",
+        "react-dom": "19.0.0",
+        "react-router-dom": "7.1.1",
+        "react-table": "7.8.0"
+    },
     "devDependencies": {
-        "prettier": "3.3.2"
+        "prettier": "3.4.2"
     }
 }

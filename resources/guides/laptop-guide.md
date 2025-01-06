@@ -13,10 +13,10 @@ Here are a few things to keep in mind when purchasing/configuring your laptop:
 
 Although the following specifications are not strictly required, having these minimum specifications will make your computer less frustrating to use:
 
--   8 GB of RAM
-    -   for gaming/future-proof purposes, 12 or 16 GB is more preferable
--   256 GB of SSD storage
-    -   UWindsor provides 1 TB OneDrive cloud storage. However, it is **strongly** recommended that you upgrade to at least 512 GB. This will allow you to have space for a lot of games and software, and the extra local storage is good if you don't want the hassle of constantly uploading and downloading files from the cloud.
+- 8 GB of RAM
+    - for gaming/future-proof purposes, 12 or 16 GB is more preferable
+- 256 GB of SSD storage
+    - UWindsor provides 1 TB OneDrive cloud storage. However, it is **strongly** recommended that you upgrade to at least 512 GB. This will allow you to have space for a lot of games and software, and the extra local storage is good if you don't want the hassle of constantly uploading and downloading files from the cloud.
 
 ## Operating System
 
