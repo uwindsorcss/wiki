@@ -6,16 +6,7 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": [
-                "CSG",
-                "CSH",
-                "CSHAC",
-                "CIS",
-                "CSSE",
-                "BACS",
-                "MCS",
-                "BIT"
-            ],
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS", "BIT"],
             "prerequisites": []
         },
         {
@@ -80,6 +71,7 @@
             "summer": false,
             "required": ["BIT"],
             "prerequisites": ["COMP-2067"]
+
         },
         {
             "course code": "COMP-2097",
@@ -178,10 +170,7 @@
             "winter": false,
             "summer": false,
             "required": [" "],
-            "prerequisites": [
-                "COMP-1000 or MATH-1720",
-                "COMP-1410 or COMP-2087"
-            ]
+            "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1410 or COMP-2087"]
         },
         {
             "course code": "COMP-2800",

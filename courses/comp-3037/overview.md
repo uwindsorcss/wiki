@@ -27,4 +27,4 @@ COMP-2057 or COMP2067 is the prerequisite for this class.
 
 ## Syllabus
 
--   [Fall 2024](../../resources/syllabus/COMP-3037-95%20F24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-3037-95%20F24.pdf)

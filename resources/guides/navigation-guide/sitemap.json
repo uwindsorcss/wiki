@@ -1,268 +1,268 @@
 {
-    "Home": [
-        {
-            "name": "Home",
-            "loc": "https://uwindsorcss.github.io/wiki"
-        }
-    ],
-    "Resources": [
-        {
-            "name": "Resources",
-            "loc": "https://uwindsorcss.github.io/wiki/resources"
-        },
-        {
-            "name": "Useful Links",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/useful_links"
-        },
-        {
-            "name": "Our Contributors",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/contributors"
-        },
-        {
-            "name": "How to Contribute",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/contributing"
-        },
-        {
-            "name": "First Year Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/first_year"
-        },
-        {
-            "name": "VPN Setup Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/vpn"
-        },
-        {
-            "name": "Laptop Requirements Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/laptop"
-        },
-        {
-            "name": "How to Become a UWSA Ratified Club",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/uwsa_club"
-        },
-        {
-            "name": "Parking Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/parking"
-        },
-        {
-            "name": "Student Exchange Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/student_exchange"
-        },
-        {
-            "name": "UWinsite Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/uwinsite_guide"
-        },
-        {
-            "name": "WiFi Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/wifi"
-        },
-        {
-            "name": "Style Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/resources/guides/style"
-        }
-    ],
-    "Academics": [
-        {
-            "name": "Academics",
-            "loc": "https://uwindsorcss.github.io/wiki/academics"
-        },
-        {
-            "name": "Important Dates",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/dates"
-        },
-        {
-            "name": "Textbook Guide",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/textbooks"
-        },
-        {
-            "name": "Academic Support",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/academicsupport"
-        },
-        {
-            "name": "Research",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/doingresearch"
-        },
-        {
-            "name": "Outstanding Scholars",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/outstandingscholars"
-        },
-        {
-            "name": "Mental Health",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/mentalhealth"
-        },
-        {
-            "name": "Physical Health",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/physicalhealth"
-        },
-        {
-            "name": "Award Application",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/awardapplication"
-        },
-        {
-            "name": "Finding Awards",
-            "loc": "https://uwindsorcss.github.io/wiki/academics/findingawards"
-        }
-    ],
-    "CSS": [
-        {
-            "name": "The Computer Science Society",
-            "loc": "https://uwindsorcss.github.io/wiki/css"
-        },
-        {
-            "name": "Meet the CSS Board",
-            "loc": "https://uwindsorcss.github.io/wiki/css/board"
-        },
-        {
-            "name": "Our Constitution",
-            "loc": "https://uwindsorcss.github.io/wiki/css/constitution"
-        }
-    ],
-    "Courses": [
-        {
-            "name": "Courses",
-            "loc": "https://uwindsorcss.github.io/wiki/courses"
-        },
-        {
-            "name": "Recommended Sequence",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/course_planning/recommendedsequence"
-        },
-        {
-            "name": "Special Courses",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/course_planning/specialcourse"
-        },
-        {
-            "name": "Electives",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/course_planning/electives"
-        },
-        {
-            "name": "COMP-1000 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-1000/overview"
-        },
-        {
-            "name": "COMP-1400 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-1400/overview"
-        },
-        {
-            "name": "COMP-1410 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-1410/overview"
-        },
-        {
-            "name": "COMP-2650 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2650/overview"
-        },
-        {
-            "name": "COMP-2310 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2310/overview"
-        },
-        {
-            "name": "Surviving COMP-2310",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2310/survivingcomp2310"
-        },
-        {
-            "name": "COMP-2120 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2120/overview"
-        },
-        {
-            "name": "COMP-2560 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2560/overview"
-        },
-        {
-            "name": "COMP-2560 Advice",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2560/advice"
-        },
-        {
-            "name": "COMP-2540 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2540/overview"
-        },
-        {
-            "name": "COMP-2140 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2140/overview"
-        },
-        {
-            "name": "COMP-2140 Installing JLex",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2140/installingjlex"
-        },
-        {
-            "name": "COMP-2140 Installing Javacup",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2140/installingjavacup"
-        },
-        {
-            "name": "COMP-2660 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2660/overview"
-        },
-        {
-            "name": "COMP-2660 Easy-MASM",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2660/easymasm"
-        },
-        {
-            "name": "COMP-2800 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2800/overview"
-        },
-        {
-            "name": "COMP-3300 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3300/overview"
-        },
-        {
-            "name": "COMP-3300 Advice",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3300/advice"
-        },
-        {
-            "name": "COMP-3220 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3220/overview"
-        },
-        {
-            "name": "COMP-3110 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3110/overview"
-        },
-        {
-            "name": "COMP-3150 Overview",
-            "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3150/overview"
-        }
-    ],
-    "Careers": [
-        {
-            "name": "Careers",
-            "loc": "https://uwindsorcss.github.io/wiki/careers"
-        },
-        {
-            "name": "CO-OP vs. Internships",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/choosing"
-        },
-        {
-            "name": "CO-OP",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/choosingcoop"
-        },
-        {
-            "name": "CO-OP Sequence",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/coop_sequence"
-        },
-        {
-            "name": "Finding Jobs",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/finding_jobs"
-        },
-        {
-            "name": "Resumes",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/resumes"
-        },
-        {
-            "name": "Cover Letters",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/cover_letters"
-        },
-        {
-            "name": "Interviews",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/interviews"
-        },
-        {
-            "name": "Working in the US",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/working_in_the_us"
-        },
-        {
-            "name": "FAQ",
-            "loc": "https://uwindsorcss.github.io/wiki/careers/faq"
-        }
-    ],
-    "Newsletter": [
-        {
-            "name": "Newsletter",
-            "loc": "https://uwindsorcss.github.io/wiki/newsletter"
-        }
-    ]
+  "Home": [
+    {
+      "name": "Home",
+      "loc": "https://uwindsorcss.github.io/wiki"
+    }
+  ],
+  "Resources": [
+    {
+      "name": "Resources",
+      "loc": "https://uwindsorcss.github.io/wiki/resources"
+    },
+    {
+      "name": "Useful Links",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/useful_links"
+    },
+    {
+      "name": "Our Contributors",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/contributors"
+    },
+    {
+      "name": "How to Contribute",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/contributing"
+    },
+    {
+      "name": "First Year Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/first_year"
+    },
+    {
+      "name": "VPN Setup Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/vpn"
+    },
+    {
+      "name": "Laptop Requirements Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/laptop"
+    },
+    {
+      "name": "How to Become a UWSA Ratified Club",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/uwsa_club"
+    },
+    {
+      "name": "Parking Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/parking"
+    },
+    {
+      "name": "Student Exchange Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/student_exchange"
+    },
+    {
+      "name": "UWinsite Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/uwinsite_guide"
+    },
+    {
+      "name": "WiFi Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/wifi"
+    },
+    {
+      "name": "Style Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/resources/guides/style"
+    }
+  ],
+  "Academics" : [
+    {
+      "name": "Academics",
+      "loc": "https://uwindsorcss.github.io/wiki/academics"
+    },
+    {
+      "name": "Important Dates",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/dates"
+    },
+    {
+      "name": "Textbook Guide",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/textbooks"
+    },
+    {
+      "name": "Academic Support",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/academicsupport"
+    },
+    {
+      "name": "Research",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/doingresearch"
+    },
+    {
+      "name": "Outstanding Scholars",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/outstandingscholars"
+    },
+    {
+      "name": "Mental Health",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/mentalhealth"
+    },
+    {
+      "name": "Physical Health",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/physicalhealth"
+    },
+    {
+      "name": "Award Application",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/awardapplication"
+    },
+    {
+      "name": "Finding Awards",
+      "loc": "https://uwindsorcss.github.io/wiki/academics/findingawards"
+    }
+  ],
+  "CSS": [
+    {
+      "name": "The Computer Science Society",
+      "loc": "https://uwindsorcss.github.io/wiki/css"
+    },
+    {
+      "name": "Meet the CSS Board",
+      "loc": "https://uwindsorcss.github.io/wiki/css/board"
+    },
+    {
+      "name": "Our Constitution",
+      "loc": "https://uwindsorcss.github.io/wiki/css/constitution"
+    }
+  ],
+  "Courses": [
+    {
+      "name": "Courses",
+      "loc": "https://uwindsorcss.github.io/wiki/courses"
+    },
+    {
+      "name": "Recommended Sequence",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/course_planning/recommendedsequence"
+    },
+    {
+      "name": "Special Courses",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/course_planning/specialcourse"
+    },
+    {
+      "name": "Electives",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/course_planning/electives"
+    },
+    {
+      "name": "COMP-1000 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-1000/overview"
+    },
+    {
+      "name": "COMP-1400 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-1400/overview"
+    },
+    {
+      "name": "COMP-1410 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-1410/overview"
+    },
+    {
+      "name": "COMP-2650 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2650/overview"
+    },
+    {
+      "name": "COMP-2310 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2310/overview"
+    },
+    {
+      "name": "Surviving COMP-2310",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2310/survivingcomp2310"
+    },
+    {
+      "name": "COMP-2120 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2120/overview"
+    },
+    {
+      "name": "COMP-2560 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2560/overview"
+    },
+    {
+      "name": "COMP-2560 Advice",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2560/advice"
+    },
+    {
+      "name": "COMP-2540 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2540/overview"
+    },
+    {
+      "name": "COMP-2140 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2140/overview"
+    },
+    {
+      "name": "COMP-2140 Installing JLex",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2140/installingjlex"
+    },
+    {
+      "name": "COMP-2140 Installing Javacup",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2140/installingjavacup"
+    },
+    {
+      "name": "COMP-2660 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2660/overview"
+    },
+    {
+      "name": "COMP-2660 Easy-MASM",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2660/easymasm"
+    },
+    {
+      "name": "COMP-2800 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-2800/overview"
+    },
+    {
+      "name": "COMP-3300 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3300/overview"
+    },
+    {
+      "name": "COMP-3300 Advice",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3300/advice"
+    },
+    {
+      "name": "COMP-3220 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3220/overview"
+    },
+    {
+      "name": "COMP-3110 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3110/overview"
+    },
+    {
+      "name": "COMP-3150 Overview",
+      "loc": "https://uwindsorcss.github.io/wiki/courses/comp-3150/overview"
+    }
+  ],
+  "Careers": [
+    {
+      "name": "Careers",
+      "loc": "https://uwindsorcss.github.io/wiki/careers"
+    },
+    {
+      "name": "CO-OP vs. Internships",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/choosing"
+    },
+    {
+      "name": "CO-OP",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/choosingcoop"
+    },
+    {
+      "name": "CO-OP Sequence",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/coop_sequence"
+    },
+    {
+      "name": "Finding Jobs",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/finding_jobs"
+    },
+    {
+      "name": "Resumes",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/resumes"
+    },
+    {
+      "name": "Cover Letters",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/cover_letters"
+    },
+    {
+      "name": "Interviews",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/interviews"
+    },
+    {
+      "name": "Working in the US",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/working_in_the_us"
+    },
+    {
+      "name": "FAQ",
+      "loc": "https://uwindsorcss.github.io/wiki/careers/faq"
+    }
+  ],
+  "Newsletter": [
+    {
+      "name": "Newsletter",
+      "loc": "https://uwindsorcss.github.io/wiki/newsletter"
+    }
+  ]
 }

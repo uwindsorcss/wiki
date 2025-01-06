@@ -27,4 +27,5 @@ COMP-2540 and COMP-2120 are the prerequisites for this class.
 
 ## Syllabus
 
--   [Winter 2024](../../resources/syllabus/COMP-3340-30%20W24.pdf)
+- [Winter 2024](../../resources/syllabus/COMP-3340-30%20W24.pdf)
+

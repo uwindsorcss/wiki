@@ -27,4 +27,5 @@ COMP-2540 or COMP-2547 is the prerequisite for this class.
 
 ## Syllabus
 
--   [Fall 2024](../../resources/syllabus/COMP-3150-01%20F24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-3150-01%20F24.pdf)
+

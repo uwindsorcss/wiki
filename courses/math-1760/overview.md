@@ -11,8 +11,6 @@ The title for MATH-1760 is "Functions and Differential Calculus".
 
 ## Course Description
 
-_Note: MATH-1720 and MATH-1760 count for the same credit. You can take either to fulfill the requirement for your program._
-
 This course will cover a review of functions, trigonometric functions and identities, transcendental
 functions, inverse trigonometric functions, introduction to limits, continuity, derivatives and applications,
 mean value theorem, indeterminate forms and l’Hôpital’s rule, antiderivatives and an introduction to

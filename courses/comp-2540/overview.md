@@ -27,4 +27,4 @@ COMP-1000 and COMP-1410 are the prerequisites for this class.
 
 ## Syllabus
 
--   [Fall 2024](../../resources/syllabus/COMP-2540-01-02%20F24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-2540-01-02%20F24.pdf)

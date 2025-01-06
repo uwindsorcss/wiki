@@ -39,7 +39,6 @@ Which should you use? The short answer is “Connect to eduroam”. The eduroam 
 If prompted to trust a certificate after signing in (mainly iPhone) click trust.
 
 ### For Linux and Android
-
 -   **Wi-Fi Secuirty: WPA & WPA2 Enterprise**
 -   **Authentication: Protected EAP (PEAP)**
 -   **Anonymous Identity (username): Your full UWindsor email (example@uwindsor.ca)**

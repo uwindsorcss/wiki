@@ -27,4 +27,5 @@ There is no UWindsor prerequisite for this class.
 
 ## Syllabus
 
--   [Fall 2024](../../resources/syllabus/COMP-1000-01-02%20F24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-1000-01-02%20F24.pdf)
+

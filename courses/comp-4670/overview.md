@@ -27,4 +27,4 @@ COMP-3670 is the prerequisite for this class.
 
 ## Syllabus
 
--   [Fall 2024](../../resources/syllabus/COMP-4670-01%20F24.pdf)
+- [Fall 2024](../../resources/syllabus/COMP-4670-01%20F24.pdf)

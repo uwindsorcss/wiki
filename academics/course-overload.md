@@ -5,7 +5,7 @@ sidebar_label: Course Overload
 slug: /course-overload
 ---
 
-Course overload is taking more courses in a term than the usual prescribed number. In the Fall and Winter terms, this means taking more than 5 courses per term. In the Intersession and Summer terms, this means taking more than 3 courses per term and more than 5 courses total.
+Course overload is taking more courses in a term than the usual prescribed number. In the Fall and Winter terms, this means taking more than 5 courses per term.  In the Intersession and Summer terms, this means taking more than 3 courses per term and more than 5 courses total. 
 
 Students who have major and cumulative averages of 85% or higher may take one course on overload per term. Students with averages below this must obtain permission for course overload from the Associate Dean, Academic and Student Success. Please note that approval for course overload will only be granted in exceptional circumstances. ([Source](https://www.uwindsor.ca/fahss/online-advising/702/faq-how-do-i-register-course-overload))
 
@@ -21,17 +21,17 @@ For CS students, the process of overloading is simple:
 
 You may be wondering why someome might want to course overload. Indeed, for most students 5 classes in a semester is more enough. However, overloading does have some advantages that might make it worth it if you're up to it:
 
--   The cost increase of going from 5 classes in a semester to 6 classes in a semester is negligible. It's almost like you get a free class.
--   Some courses are only offered at specific times in the year, so overloading may help prevent you from having to delay your graduation due to unfulfilled requirements.
--   If you've ever dropped/VWd from a class, you may be slightly behind in your course sequencing. Overloading may help you get back on track.
--   Overloading multiple semesters in a row, in conjunction with taking some summer courses, may help you graduate sooner.
+- The cost increase of going from 5 classes in a semester to 6 classes in a semester is negligible. It's almost like you get a free class.
+- Some courses are only offered at specific times in the year, so overloading may help prevent you from having to delay your graduation due to unfulfilled requirements.
+- If you've ever dropped/VWd from a class, you may be slightly behind in your course sequencing. Overloading may help you get back on track.
+- Overloading multiple semesters in a row, in conjunction with taking some summer courses, may help you graduate sooner.
 
 ## Helpful Tips
 
--   Make sure the course you're overloading is a CS course. If you're taking at least one CS course in your overloaded semester, I'd recommend making that the course you overload. This is because different departments handle overloading differently, and you're more likely to have success dealing with the CS department.
--   Additionally, if you're going to be taking multiple CS courses in a semester, choose a course with a professor you have a good relationship with to be your overloaded class. Since you need their consent to overload in their class, choosing which course to overload based on the professor teaching it is your best bet.
--   Make sure all your fees are paid up on UWinsite before trying to overload. They won't let you enroll if you have an outstanding balance.
--   Make sure you're comfortable with the workload of 6+ courses. Be prepared to either increase the amount of time you spend on school or lower your grade expectations.
+- Make sure the course you're overloading is a CS course. If you're taking at least one CS course in your overloaded semester, I'd recommend making that the course you overload. This is because different departments handle overloading differently, and you're more likely to have success dealing with the CS department.
+- Additionally, if you're going to be taking multiple CS courses in a semester, choose a course with a professor you have a good relationship with to be your overloaded class. Since you need their consent to overload in their class, choosing which course to overload based on the professor teaching it is your best bet.
+- Make sure all your fees are paid up on UWinsite before trying to overload. They won't let you enroll if you have an outstanding balance.
+- Make sure you're comfortable with the workload of 6+ courses. Be prepared to either increase the amount of time you spend on school or lower your grade expectations.
 
 ## Jeremie's Experience With Overloading
 
