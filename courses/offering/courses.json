@@ -527,15 +527,6 @@
             "prerequisites": []
         },
         {
-            "course code": "MATH-1760",
-            "course name": "Functions and Differential Calculus",
-            "fall": true,
-            "winter": true,
-            "summer": false,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
-            "prerequisites": []
-        },
-        {
             "course code": "MATH-1730",
             "course name": "Integral Calculus",
             "fall": false,
