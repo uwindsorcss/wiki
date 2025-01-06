@@ -1,15 +1,16 @@
-module.exports = {
+import type {Config} from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
+
+const config: Config = {
+    baseUrl: "/wiki/",
     title: "UWindsor Computer Science Wiki",
     tagline: "Courtesy of the University of Windsor Computer Science Society",
     url: "https://uwindsorcss.github.io",
-    baseUrl: "/wiki/",
-    onBrokenLinks: "throw",
+    onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon-32x32.png",
     organizationName: "UWindsorCSS", // Usually your GitHub org/user name.
     projectName: "wiki", // Usually your repo name.
-    onBrokenLinks: "warn",
-    onBrokenMarkdownLinks: "warn",
     future: {
         experimental_faster: {
             swcJsLoader: true,
@@ -249,3 +250,5 @@ module.exports = {
         ],
     ],
 };
+
+export default config;

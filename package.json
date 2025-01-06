@@ -10,7 +10,7 @@
         "deploy": "docusaurus deploy",
         "serve": "docusaurus serve --no-open",
         "clear": "docusaurus clear",
-        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+        "format": "prettier --list-different --write \"**/*.{js,jsx,ts,tsx,json,md}\""
     },
     "browserslist": {
         "production": [
@@ -48,6 +48,10 @@
         "react-table": "7.8.0"
     },
     "devDependencies": {
-        "prettier": "3.4.2"
+        "@docusaurus/module-type-aliases": "^3.7.0",
+        "@docusaurus/tsconfig": "^3.7.0",
+        "@docusaurus/types": "^3.7.0",
+        "prettier": "3.4.2",
+        "typescript": "^5.7.2"
     }
 }
