@@ -75,7 +75,7 @@
         {
             "course code": "COMP-2087",
             "course name": "Programming for Beginners II",
-            "fall": false,
+            "fall": true,
             "winter": true,
             "summer": false,
             "required": ["BIT"],
