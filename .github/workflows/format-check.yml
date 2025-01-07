@@ -1,9 +1,6 @@
 name: Formatting check (run `pnpm format` locally if this fails)
 
-on:
-    pull_request:
-        paths:
-            - "**/*.{js,jsx,ts,tsx,json,md}"
+on: pull_request
 
 jobs:
     format-check:
