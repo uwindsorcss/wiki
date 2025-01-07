@@ -7,61 +7,57 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import ThemedImage from "@theme/ThemedImage";
 
-const features = [
+interface Feature {
+    title: string;
+    imageUrl: string;
+    linkTo: string;
+    description: string;
+    key?: number;
+}
+
+const features: Feature[] = [
     {
         title: "Courses",
         imageUrl: "img/courses",
         linkTo: "courses",
-        description: (
-            <>
-                Explore information about specific course. Tips, Tricks,
-                Information and more!
-            </>
-        ),
+        description:
+            "Explore information about specific course. Tips, Tricks, Information and more!",
     },
     {
         title: "Careers",
         imageUrl: "img/careers",
         linkTo: "careers",
-        description: <>Careers are hard. Get a leg up using our guide!</>,
+        description: "Careers are hard. Get a leg up using our guide!",
     },
     {
         title: "Academics",
         imageUrl: "img/academics",
         linkTo: "academics/",
-        description: <>Got questions about school? Find some answers here.</>,
+        description: "Got questions about school? Find some answers here.",
     },
     {
         title: "Resources",
         imageUrl: "img/resources",
         linkTo: "resources/",
-        description: <>Want to be better at Computers? Get some help here.</>,
+        description: "Want to be better at Computers? Get some help here.",
     },
     {
         title: "Computer Science Society",
         imageUrl: "img/css-icon",
         linkTo: "css/",
-        description: (
-            <>
-                This one is all about us. Here you can find our constitution,
-                who we are, and what our developers like.
-            </>
-        ),
+        description:
+            "This one is all about us. Here you can find our constitution, who we are, and what our developers like.",
     },
     {
         title: "Newsletter",
         imageUrl: "img/newsletter",
         linkTo: "newsletter/",
-        description: (
-            <>
-                An update about whats going on in Computer Science and
-                University of Windsor.
-            </>
-        ),
+        description:
+            "An update about whats going on in Computer Science and University of Windsor.",
     },
 ];
 
-const Feature = ({imageUrl, linkTo, title, description}) => {
+const Feature = ({imageUrl, title, description, linkTo}: Feature) => {
     return (
         <div className={clsx("col col--4", styles.feature)}>
             <Link href={linkTo} className={clsx("feature_link")}>
@@ -89,7 +85,7 @@ const Feature = ({imageUrl, linkTo, title, description}) => {
 
 function Home() {
     const context = useDocusaurusContext();
-    const {siteConfig = {}} = context;
+    const {siteConfig = {title: "", tagline: ""}} = context;
     return (
         <Layout
             title={"Wiki Home"}
@@ -117,8 +113,8 @@ function Home() {
                     <section className={styles.features}>
                         <div className="container">
                             <div className="row">
-                                {features.map((props, idx) => (
-                                    <Feature key={idx} {...props} />
+                                {features.map((props, index) => (
+                                    <Feature key={index} {...props} />
                                 ))}
                             </div>
                         </div>
