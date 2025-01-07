@@ -27,4 +27,4 @@ COMP-3110, COMP-3220, and COMP-3300 are the prerequisites for this class.
 
 ## Syllabus
 
-Sorry, we don't have a syllabus for this course yet.
+- [Winter 2025](../../resources/syllabus/COMP-4800-01%20W25.pdf)
