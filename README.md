@@ -151,3 +151,11 @@ pnpm format
 ## Article Requirements
 
 Please read about it at `REQUIREMENTS.md`
+
+## Contributors
+
+Thank you to all the contributors who made this wiki possible!
+
+<a href="https://github.com/uwindsorcss/wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=uwindsorcss/wiki" />
+</a>
