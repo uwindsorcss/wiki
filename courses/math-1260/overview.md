@@ -5,6 +5,10 @@ sidebar_label: MATH-1260
 slug: /math-1260/overview
 ---
 
+:::note
+MATH-1250 and MATH-1260 count for the same credit. You can take either of them for degree requirements.
+:::
+
 ## Course Title
 
 The title for MATH-1260 is "Vectors and Linear Algebra".

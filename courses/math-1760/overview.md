@@ -5,13 +5,15 @@ sidebar_label: MATH-1760
 slug: /math-1760/overview
 ---
 
+:::note
+MATH-1720 and MATH-1760 count for the same credit. You can take either of them for degree requirements.
+:::
+
 ## Course Title
 
 The title for MATH-1760 is "Functions and Differential Calculus".
 
 ## Course Description
-
-**Note: MATH-1720 and MATH-1760 count for the same credit. You can take either of them for degree requirements.**
 
 This course will cover a review of functions, trigonometric functions and identities, transcendental
 functions, inverse trigonometric functions, introduction to limits, continuity, derivatives and applications,
@@ -33,3 +35,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 ## Prerequisites
 
 There is no UWindsor prerequisite for this class.
+
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.
