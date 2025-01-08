@@ -1,7 +1,7 @@
 ---
 id: advice
-title: How to be Successful in MATH-1250
-sidebar_label: How to be Successful in MATH-1250
+title: Advice for MATH-1250
+sidebar_label: Advice for MATH-1250
 slug: /MATH-1250/advice
 ---
 
