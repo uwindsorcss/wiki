@@ -1,7 +1,7 @@
 ---
 id: advice
-title: Advice for MATH-1250
-sidebar_label: Advice for MATH-1250
+title: Advice for MATH-1250/1260
+sidebar_label: Advice for MATH-1250/1260
 slug: /math-1250/advice
 ---
 
