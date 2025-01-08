@@ -1,7 +1,7 @@
 ---
 id: advice
-title: How to be Successful in MATH-1720
-sidebar_label: How to be Successful in MATH-1720
+title: Advice for MATH-1720/1760
+sidebar_label: Advice for MATH-1720/1760
 slug: /MATH-1720/advice
 ---
 
