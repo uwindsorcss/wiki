@@ -543,10 +543,19 @@
             "fall": true,
             "winter": true,
             "summer": false,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "required": [],
             "prerequisites": [
                 "MATH-1280 or both Ontario Grade 12 Advanced Functions (MHF4U) and Calculus and Vectors (MCV4U)"
             ]
+        },
+        {
+            "course code": "MATH-1280",
+            "course name": "Access to Linear Algebra",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": []
         },
         {
             "course code": "MATH-1720",
