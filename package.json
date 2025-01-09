@@ -10,7 +10,11 @@
         "deploy": "docusaurus deploy",
         "serve": "docusaurus serve --no-open",
         "clear": "docusaurus clear",
-        "format": "prettier --list-different --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+        "format": "prettier --list-different --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+        "prepare": "husky"
+    },
+    "lint-staged": {
+        "*.{js,ts,json,css,md}": "pnpm format"
     },
     "browserslist": {
         "production": [
@@ -51,6 +55,8 @@
         "@docusaurus/module-type-aliases": "3.7.0",
         "@docusaurus/tsconfig": "3.7.0",
         "@docusaurus/types": "3.7.0",
+        "husky": "^9.1.7",
+        "lint-staged": "^15.3.0",
         "prettier": "3.4.2",
         "typescript": "5.7.2"
     }
