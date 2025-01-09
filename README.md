@@ -1,6 +1,6 @@
 # UWindsor CS Wiki
 
-This repository contains the source code for the University of Windsor Computer Science Wiki.
+This repository contains the source code for the University of Windsor Computer Science Wiki, a collection of resources, guides, and information designed for students in the University of Windsor's Computer Science program.
 
 ## Requirements
 
@@ -77,7 +77,7 @@ pnpm serve
 
 ## Article Requirements
 
-Refer to `REQUIREMENTS.md`.
+Refer to the [Article Requirements](REQUIREMENTS.md) for more information on how to write articles.
 
 ## Contributors
 
