@@ -23,9 +23,5 @@ export default {
                 "guides/becoming-a-ta",
             ],
         },
-        {
-            type: "doc",
-            id: "contributors",
-        },
     ],
 };
