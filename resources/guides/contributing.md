@@ -111,10 +111,6 @@ The process of contributing may seem daunting at first if you've never done it b
 
 When creating your pull request, you may receive comments and suggested changes to make before a CSS developer will merge your code. If this happens, you should make the suggested changes locally and then commit and push them to your fork. The pull request will automatically be updated.
 
-## Giving Yourself Credit
-
-To thank everyone for their contributions to the wiki, we've created [a page dedicated to showcasing all of our contributors](/resources/contributors). Make sure you add yourself to this list so you can be recognized for your work! Feel free to add your GitHub, personal website, and/or your email address as well.
-
 ## More Resouces
 
 Check out the [Docusaurus documentation](https://docusaurus.io/docs) for more information on how Docusaurus works!
