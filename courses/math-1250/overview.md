@@ -5,6 +5,10 @@ sidebar_label: MATH-1250
 slug: /math-1250/overview
 ---
 
+:::note
+MATH-1250 and MATH-1260 count for the same credit. You can take either of them for degree requirements.
+:::
+
 ## Course Title
 
 The title for MATH-1250 is "Linear Algebra I".
@@ -24,3 +28,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 ## Prerequisites
 
 There is no UWindsor prerequisite for this class.
+
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

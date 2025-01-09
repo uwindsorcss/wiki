@@ -342,6 +342,21 @@ export default {
                 },
                 {
                     type: "category",
+                    label: "MATH-1260",
+                    items: ["math-1260/overview", "math-1250/advice"],
+                },
+                {
+                    type: "doc",
+                    label: "MATH-1270",
+                    id: "math-1270/overview",
+                },
+                {
+                    type: "doc",
+                    label: "MATH-1280",
+                    id: "math-1280/overview",
+                },
+                {
+                    type: "category",
                     label: "MATH-1720",
                     items: ["math-1720/overview", "math-1720/advice"],
                 },
@@ -364,6 +379,11 @@ export default {
                     type: "doc",
                     label: "STAT-2910",
                     id: "stat-2910/overview",
+                },
+                {
+                    type: "doc",
+                    label: "STAT-2920",
+                    id: "stat-2920/overview",
                 },
             ],
         },

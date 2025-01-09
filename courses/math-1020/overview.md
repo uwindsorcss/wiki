@@ -24,3 +24,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 ## Prerequisites
 
 COMP-1000 or MATH-1250 or MATH-1260 or MATH-1270 is the prerequisite for this class.
+
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

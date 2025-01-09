@@ -5,7 +5,7 @@ sidebar_label: COMP-3300 - Advice
 slug: /comp-3300/advice
 ---
 
-## Ryan's Advice
+## Ryan's Advice for COMP-3300
 
 Ryan's advice is basically the same as his advice for [COMP-2560](/courses/comp-2560/advice).
 

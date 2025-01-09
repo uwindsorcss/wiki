@@ -529,6 +529,35 @@
             "prerequisites": []
         },
         {
+            "course code": "MATH-1260",
+            "course name": "Vectors and Linear Algebra",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["Ontario Grade 12 Advanced Functions (MHF4U)"]
+        },
+        {
+            "course code": "MATH-1270",
+            "course name": "Linear Algebra (Engineering)",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": [
+                "MATH-1280 or both Ontario Grade 12 Advanced Functions (MHF4U) and Calculus and Vectors (MCV4U)"
+            ]
+        },
+        {
+            "course code": "MATH-1280",
+            "course name": "Access to Linear Algebra",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": []
+        },
+        {
             "course code": "MATH-1720",
             "course name": "Differential Calculus",
             "fall": true,
@@ -576,6 +605,15 @@
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "BIT"],
             "prerequisites": []
+        },
+        {
+            "course code": "STAT-2920",
+            "course name": "Introduction to Probability",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "BIT"],
+            "prerequisites": ["MATH-1730"]
         }
     ]
 }

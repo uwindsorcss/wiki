@@ -1,8 +1,8 @@
 ---
 id: advice
-title: How to be Successful in MATH-1250
-sidebar_label: How to be Successful in MATH-1250
-slug: /MATH-1250/advice
+title: Advice for MATH-1250/1260
+sidebar_label: Advice for MATH-1250/1260
+slug: /math-1250/advice
 ---
 
 MATH-1250 (or its equivalent, MATH-1260), is one of the few math courses that first-year CS students must take. Some of the material are reviews from high school. In Ontario, MCV4U - Calculus and Vectors addresses concepts like vector spaces, dot products, cross products, etc. However, you should still practice on building good habits and learning the materials, especially if you want to go into fields like artificial intelligence, which can be math-heavy.

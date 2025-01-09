@@ -2,7 +2,7 @@
 id: advice
 title: Advice for MATH-1720/1760
 sidebar_label: Advice for MATH-1720/1760
-slug: /MATH-1720/advice
+slug: /math-1720/advice
 ---
 
 MATH-1720 (or its equivalent, MATH-1760), is one of the few math courses that first-year CS students must take. Most of the material are reviews from high school. In Ontario, the following classes addresses these materials: MHF4U - Advanced Functions and MCV4U - Calculus and Vectors. However, you should still practice on building good habits to prepare for classes like MATH-1730 (Integral Calculus).
