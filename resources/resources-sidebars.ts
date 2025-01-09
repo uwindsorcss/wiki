@@ -22,10 +22,6 @@ export default {
                 "guides/vpn-guide",
                 "guides/becoming-a-ta",
             ],
-        },
-        {
-            type: "doc",
-            id: "contributors",
-        },
+        }
     ],
 };
