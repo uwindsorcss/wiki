@@ -1,6 +1,6 @@
 # UWindsor CS Wiki
 
-This repository contains the source code for the University of Windsor Computer Science Wiki, a collection of resources, guides, and information designed for students in the University of Windsor's Computer Science program.
+This repository contains the source code for the University of Windsor Computer Science Wiki, a collection of resources, guides, and information designed for students in the University of Windsor's Computer Science programs.
 
 ## Requirements
 
