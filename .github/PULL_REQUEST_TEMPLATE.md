@@ -7,5 +7,4 @@
 ### Checks before you create your pull request
 
 - [ ] Did you read and follow article requirements?
-- [ ] Did you run prettier (`pnpm format`)?
 - [ ] Is it safe to rollback this change if anything goes wrong?
