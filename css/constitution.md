@@ -25,10 +25,10 @@ Science and to enhance the lives of computer science students on campus.
 Society Membership shall consist of:
 
 1. All students who are currently enrolled on a full-time basis at the
-   University of Windsor majoring in a program offered by the department of
-   Computer Science.
+   University of Windsor majoring in an undergraduate program offered by the
+   department of Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
-   covered by part a, may purchase a membership for **$20 per semester**.
+   covered by the previous point, may purchase a membership for **$20 per semester**.
 
 #### Section 4 - Independence
 
@@ -57,16 +57,15 @@ The society's Executive Positions shall consist of the following positions:
 2. Head of Communications
 3. Head of Technology
 4. Head of Student Affairs
-5. Event Organizer
-6. Event Coordinator (4)
-7. Merchandising Coordinator
-8. Promotions Coordinator
-9. Design Coordinator
-10. Career Advisor
-11. Senior Representative
-12. Second-Year Representative
-13. First-Year Representative (3)
-14. Secretary
+5. Event Coordinator (5)
+6. Merchandising Coordinator
+7. Promotions Coordinator
+8. Design Coordinator
+9. Career Advisor
+10. Senior Representative
+11. Second-Year Representative
+12. First-Year Representative (3)
+13. Secretary
 
 ##### Section 1.3 - Affiliate Positions
 
@@ -111,7 +110,7 @@ The **Head of Events** shall:
 
 1. Report to the Vice President.
 2. Be responsible for brainstorming events for the benefit of the social and academic life of students.
-3. Manage the entire events team (i.e., Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
+3. Manage the entire events team (i.e., Event Coordinators) by passing information to them to schedule certain events and ensuring that they are attending events.
 4. Be the final say in which events CSS will host.
 5. Create polls to allow all students to voice their opinions on what events they would like CSS to host.
 6. Be responsible for collaborating and communicating with the Head of Communications to ensure all CSS events are promoted on social media and via email.
@@ -143,16 +142,11 @@ The **Head of Student Affairs** shall:
 5. Collaborate with the Head of Events to determine events that would benefit students (e.g., workshops to prepare for interviews, co-op, teach skills, prepare for courses, etc.)
 6. Act as a moderator on the Computer Science Discord.
 
-The **Event Organizer** shall:
-
-1. Report to the Head of Events.
-2. Be responsible for communicating with venues to organize, schedule, and gather pricing for events.
-
 The **Event Coordinator(s)** shall:
 
 1. Report to the Head of Events.
 2. Be responsible for attending events and help manage the events while they are happening.
-3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as any necessary payments.
+3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as any necessary payments, including communicating with venues to organize, schedule, and gather pricing for events.
 4. Be responsible for photographing or recording events and share the photographs/videos with the Promotions Coordinator.
 5. Event Coordinators are limited to missing 2 events per semester or 4 events total per elected term before they are removed and replaced.
 
