@@ -27,7 +27,7 @@ Here is your 2025-2026 CSS board:
 ## Board Members
 
 **Design Coordinator** - Ali Al Maamouri | almaamoa@uwindsor.ca  
-**Merchandising Coordinator** - Aditya Patel | shahid62@uwindsor.ca  
+**Merchandising Coordinator** - Aditya Patel | patel8a9@uwindsor.ca  
 **Promotions Coordinator** - Asma Altumi | altumi2@uwindsor.ca  
 **Career Advisor** - Tanzim Hossain | hossai85@uwindsor.ca  
 **Senior Representative** - Faraan Rashid | rashid23@uwindsor.ca  
