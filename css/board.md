@@ -5,34 +5,33 @@ sidebar_label: Meet the Board
 slug: /board
 ---
 
-Here is your 2024-2025 CSS board:
+Here is your 2025-2026 CSS board:
 
 ## Executives
 
-**President** - Tanzim Hossain | hossai85@uwindsor.ca  
-**Vice President** - Borhan Saflo | saflob@uwindsor.ca  
-**Treasurer** - Ahmad Munim | munima@uwindsor.ca
+**President** - Affan Shahid | shahid62@uwindsor.ca  
+**Vice President** - Brock Bovay | bovay@uwindsor.ca  
+**Treasurer** - Joshua Lebert | lebertj@uwindsor.ca
 
 ---
 
 ## Board Heads
 
-**Head of Student Affairs** - Umayer Khan | khan581@uwindsor.ca  
-**Head of Communications** - Cam Vandermeersch | vandermc@uwindsor.ca  
-**Head of Events** - Niko Jones | jones94@uwindsor.ca  
-**Head of Technology** - Calder Johnson | johnso1x@uwindsor.ca
+**Head of Student Affairs** - Julia Ducharme | duchar91@uwindsor.ca  
+**Head of Communications** - Katarina Mantay | mantay@uwindsor.ca  
+**Head of Events** - Afnan Ahmed | ahmed4h1@uwindsor.ca  
+**Head of Technology** - Kevin Zhang | zhang4k1@uwindsor.ca
 
 ---
 
 ## Board Members
 
-**Design Coordinator** - Lynn Hajj Hassan | hajjhas@uwindsor.ca  
-**Merchandising Coordinator** - Affan Shahid | shahid62@uwindsor.ca  
-**Promotions Coordinator** - Joshua Lebert | lebertj@uwindsor.ca  
-**Career Advisor** - Gabriel Rueda | ruedag@uwindsor.ca  
+**Design Coordinator** - Ali Al Maamouri | almaamoa@uwindsor.ca  
+**Merchandising Coordinator** - Aditya Patel | patel8a9@uwindsor.ca  
+**Promotions Coordinator** - Asma Altumi | altumi2@uwindsor.ca  
+**Career Advisor** - Tanzim Hossain | hossai85@uwindsor.ca  
 **Senior Representative** - Faraan Rashid | rashid23@uwindsor.ca  
-**Second Year Representative** - Sayhan Shaik | shaik95@uwindsor.ca  
+**Second Year Representative** - Joanne Hou | hou95@uwindsor.ca  
 **First Year Representatives** - Abir Hirani | hirania@uwindsor.ca, Brock Bovay | bovay@uwindsor.ca, Tharun Gopinath | gopinatt@uwindsor.ca  
-**Event Organizer** - Katarina Mantay | mantay@uwindsor.ca  
-**Event Coordinators** - Julia Ducharme | duchar91@uwindsor.ca, Justin Zheng | zheng1z@uwindsor.ca, Saymon Hwaier | Hwaier@uwindsor.ca, Varun Panchal | pancha43@uwindsor.ca  
+**Event Coordinators** - Abishek Bhandari | bhanda61@uwindsor.ca, Anant Kumar Singh | singh4n3@uwindsor.ca, Kaitlyn Carbonaro | carbonac@uwindsor.ca, Riley Lozon | lozonr@uwindsor.ca, Shameer Sheikh | sheikh83@uwindsor.ca  
 **Secretary** - Anika Khan | khan661@uwindsor.ca
