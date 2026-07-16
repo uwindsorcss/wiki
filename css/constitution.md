@@ -37,6 +37,10 @@ group. To protect the interest of society members, the society shall never
 amalgamate or be absorbed by any other student group or society (other
 than the University of Windsor Students' Alliance).
 
+#### Section 5 - Affilication
+
+The Computer Science Society is and will remain not an agent or representative of the UWSA and that its views and actions in no way represent those of the UWSA.
+
 ### Article 2
 
 #### Section 1 - Positions
@@ -380,3 +384,64 @@ appointment or election, as the President deems necessary.
 
 In the case of the resignation of the President, the position shall be
 filled by the Vice President until the next election.
+
+### Article 5
+
+#### Section 1 - Purpose
+
+The Computer Science Societys Financial Policy establishes procedures for the responsible management of the Society's fianaces and outlines the process for reimbursing members for approved expenses.
+
+#### Section 2 - Finacial Authority
+
+The Treasurer shall be responsible for maintaining the society's financial records and processing reimbursements. Furthermore the Executive team shall also be responsible for overseeing the finacial proceedure of the society as needed.
+
+#### Section 3 - Authorized Spending
+
+Society funds shall only be used for purchases that support the Computer Science Socity's mission and objectives. Memebers shall recieve approval from atleast one member of the Executive team prior to making purchases on behalf of the Society.
+
+Expenses that have not been approved in advance may not be reimbursed.
+
+#### Section 4 - Reimbursement Process
+
+To recieve reimbursement, society members must:
+
+1. Obtain approval from the Executive team before making the purchase
+2. For purchases over $1000 CAD, the society must approve the purchase as a collective entity through meeting minutes or a motion as stated in the UWSA reimbursement process.
+3. Submit a reimbursement request to the treasurer via the appropriate channels either in person or through the community Discord
+3.5. Inside of the reimbursement request, members must include a reciept which includes:
+  - The vendor
+  - The date of purchase
+  - The items purchased
+  - The total ammount paid
+
+The treasurer shall be responsible for helping members through this process and if all requirements are met, will create a cheque requesition and have it signed along with another signing authourity. If any additional approval or circumstances are required, the requests will be handled by involved individual and the Executive team.
+
+#### Section 5 - Payment of Reimbursements
+
+Reimbursements shall be issued by cheque. Once a cheque request has been submitted by the Treasurer, reimbursement is typically processed within 10 business days, although processing times may vary.
+
+Once the cheque is ready, it may be picked up by the individual who incurred the approved expense or by an authorized signing authority. If a signing authority picks up a cheque on behalf of another individual, they are responsible for arranging a mutually convenient time to deliver the cheque to the intended recipient.
+
+#### Section 6 - Record Keeping
+
+The Treasurer shall maintain records of:
+
+- All income
+- All expentures
+- Reimbursement requests
+- Reciepts
+- Financial reports
+- Cheque stubs
+
+#### Section 7 - Non-Reimbursable Expenses
+
+The Computer Science Society will not Reimburse:
+
+- Purchases that were not approved in advance
+- Personal expenses unrelated to the Computer Science Society's goals
+- Expenses without adequate proof of purchase
+- Expenses that exceed an approved budget without additional Executive approval
+
+#### Section 8 - Compilance
+
+All financial activities of the Computer Science Society shall comply with the Society's Constitution and any applicable university or student association financial policies.
