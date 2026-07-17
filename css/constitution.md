@@ -397,7 +397,7 @@ The Treasurer shall be responsible for maintaining the society's financial recor
 
 #### Section 3 - Authorized Spending
 
-Society funds shall only be used for purchases that support the Computer Science Socity's mission and objectives. Memebers shall recieve approval from atleast one member of the Executive team prior to making purchases on behalf of the Society.
+Society funds shall only be used for purchases that support the Computer Science Socity's mission and objectives. Members shall recieve approval from at least one member of the Executive team prior to making purchases on behalf of the Society.
 
 Expenses that have not been approved in advance may not be reimbursed.
 
