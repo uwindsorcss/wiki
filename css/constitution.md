@@ -279,11 +279,11 @@ An **Executive** meeting shall be called to determine whether a **member** shall
 - Quorum for the meeting shall be all of the **Executive**, not including the accused.
 - If quorum is not met, or in the event that a **two-thirds vote** is not obtained, the individual shall retain their position.
 - Except at the sole request of the **member** in question, the minutes shall be sealed and shall not be published, beyond the immediate result and a notice that the minutes were sealed.
-  - The President or some other Executive _shall_ inform the **member** in question of the right to unseal publication of the minutes.
-  - If the **member** in question is the President, then the Vice President has the responsibility to inform the President of this right.
-  - If the **member** in question shall request the minutes not be so sealed after being dutifully informed, then the minutes _shall_ be published as routinely done so for Executive Meetings.
-  - The **member** in question may, for a reasonable period of time following the meeting, request or permit the minutes to be unsealed in which case they shall be published as routinely done so for Executive Meetings.
-  - The **member** in question may explicitly request the minutes be sealed, in which case, they shall be sealed just the same.
+    - The President or some other Executive _shall_ inform the **member** in question of the right to unseal publication of the minutes.
+    - If the **member** in question is the President, then the Vice President has the responsibility to inform the President of this right.
+    - If the **member** in question shall request the minutes not be so sealed after being dutifully informed, then the minutes _shall_ be published as routinely done so for Executive Meetings.
+    - The **member** in question may, for a reasonable period of time following the meeting, request or permit the minutes to be unsealed in which case they shall be published as routinely done so for Executive Meetings.
+    - The **member** in question may explicitly request the minutes be sealed, in which case, they shall be sealed just the same.
 
 #### Section 4 - Appeals of Removals
 
@@ -294,9 +294,9 @@ If notice is so given, then the Secretary or other member who receives such noti
 - The **member** shall be invited to attend the meeting, but shall have no vote during such.
 - Prior to such meeting, the Executive shall deliver to the Board the Minutes from the meeting to remove the member, notwithstanding any seal put in place by the **member**.
 - During the meeting, the Board may, by simple-majority, dismiss the appeal or allow the appeal. If the appeal is dismissed, then the removal order is confirmed. If the appeal is allowed, then the Board may do any of the following at its option:
-  - Dismiss the Removal Order and reinstate the member,
-  - Affirm the Removal Order but reinstate the member notwithstanding the removal order, possibly with such conditions as the Board may deem proper in the totality of the circumstances,
-  - Reverse the Removal Order and remand to continued consideration by the Executive, with any instructions the Board sees fit to issue that the Executive _shall_ consider
+    - Dismiss the Removal Order and reinstate the member,
+    - Affirm the Removal Order but reinstate the member notwithstanding the removal order, possibly with such conditions as the Board may deem proper in the totality of the circumstances,
+    - Reverse the Removal Order and remand to continued consideration by the Executive, with any instructions the Board sees fit to issue that the Executive _shall_ consider
 - In the case of a reinstatement without dismissal of the removal order, the Board may order the unsealing of the minutes from the meeting to remove the member, and if the unsealing is refused by the member, the Board may deny reinstatement and dismiss the appeal.
 
 #### Section 5 - Removal at General or Regular Meeting
