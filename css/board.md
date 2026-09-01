@@ -9,29 +9,29 @@ Here is your 2025-2026 CSS board:
 
 ## Executives
 
-**President** - Affan Shahid | shahid62@uwindsor.ca  
+**President** - Joshua Lebert | lebertj@uwindsor.ca  
 **Vice President** - Brock Bovay | bovay@uwindsor.ca  
-**Treasurer** - Joshua Lebert | lebertj@uwindsor.ca
+**Treasurer** - Julia Ducharme | duchar91@uwindsor.ca
 
 ---
 
 ## Board Heads
 
-**Head of Student Affairs** - Julia Ducharme | duchar91@uwindsor.ca  
-**Head of Communications** - Katarina Mantay | mantay@uwindsor.ca  
-**Head of Events** - Afnan Ahmed | ahmed4h1@uwindsor.ca  
-**Head of Technology** - Kevin Zhang | zhang4k1@uwindsor.ca
+**Head of Student Affairs** - Abir Hirani | hirania@uwindsor.ca  
+**Head of Communications** - Aditya Patel | patel8a9@uwindsor.ca  
+**Head of Events** - Yousif Elia | eliay@uwindsor.ca  
+**Head of Technology** - To be announced | 
 
 ---
 
 ## Board Members
 
-**Design Coordinator** - Ali Al Maamouri | almaamoa@uwindsor.ca  
-**Merchandising Coordinator** - Aditya Patel | patel8a9@uwindsor.ca  
-**Promotions Coordinator** - Asma Altumi | altumi2@uwindsor.ca  
-**Career Advisor** - Tanzim Hossain | hossai85@uwindsor.ca  
-**Senior Representative** - Faraan Rashid | rashid23@uwindsor.ca  
-**Second Year Representative** - Joanne Hou | hou95@uwindsor.ca  
+**Design Coordinator** - Lynn Hajj Hassan | hajjhas@uwindsor.ca  
+**Merchandising Coordinator** - Ali Abou Hamad | abouhama@uwindsor.ca  
+**Promotions Coordinator** - To be announced |  
+**Career Advisor** - To be announced | 
+**Senior Representative** - Ewaoluwa Olakunle | olakunl@uwindsor.ca  
+**Second Year Representative** - Iyanuoluwa Adegboyega | adegboyi@uwindsor.ca  
 **First Year Representatives** - Chase MacLean | maclea32@uwindsor.ca, Prushti Krunalkumar Patel | patel5dc@uwindsor.ca, Cristian Argento | argento@uwindsor.ca  
-**Event Coordinators** - Abishek Bhandari | bhanda61@uwindsor.ca, Anant Kumar Singh | singh4n3@uwindsor.ca, Kaitlyn Carbonaro | carbonac@uwindsor.ca, Riley Lozon | lozonr@uwindsor.ca, Shameer Sheikh | sheikh83@uwindsor.ca  
-**Secretary** - Anika Khan | khan661@uwindsor.ca
+**Event Coordinators** - Madi Gertsakis | gertsakm@uwindsor.ca, Rayan Chami | chamir@uwindsor.ca, Katarina Mantay | mantay@uwindsor.ca, Kaitlyn Carbonaro | carbonac@uwindsor.ca, Sadat Tanzim | tanzims@uwindsor.ca  
+**Secretary** - Riley Lozon | lozonr@uwindsor.ca
