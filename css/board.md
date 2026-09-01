@@ -20,7 +20,7 @@ Here is your 2025-2026 CSS board:
 **Head of Student Affairs** - Abir Hirani | hirania@uwindsor.ca  
 **Head of Communications** - Aditya Patel | patel8a9@uwindsor.ca  
 **Head of Events** - Yousif Elia | eliay@uwindsor.ca  
-**Head of Technology** - To be announced | 
+**Head of Technology** - To be announced |
 
 ---
 
@@ -29,7 +29,7 @@ Here is your 2025-2026 CSS board:
 **Design Coordinator** - Lynn Hajj Hassan | hajjhas@uwindsor.ca  
 **Merchandising Coordinator** - Ali Abou Hamad | abouhama@uwindsor.ca  
 **Promotions Coordinator** - To be announced |  
-**Career Advisor** - To be announced | 
+**Career Advisor** - To be announced |
 **Senior Representative** - Ewaoluwa Olakunle | olakunl@uwindsor.ca  
 **Second Year Representative** - Iyanuoluwa Adegboyega | adegboyi@uwindsor.ca  
 **First Year Representatives** - Chase MacLean | maclea32@uwindsor.ca, Prushti Krunalkumar Patel | patel5dc@uwindsor.ca, Cristian Argento | argento@uwindsor.ca  
