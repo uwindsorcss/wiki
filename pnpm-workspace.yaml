@@ -1,4 +1,4 @@
 allowBuilds:
-  '@swc/core': false
-  core-js: false
-  core-js-pure: false
+  '@swc/core': true
+  core-js: true
+  core-js-pure: true
