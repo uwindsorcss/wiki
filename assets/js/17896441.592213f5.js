@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([["7048"],{5717:function(n,e,i){i.d(e,{Z:function(){return t}});var c=i(6773);i(1699);var s=i(4434),r=i(2862);function t(n){let{children:e}=n;return(0,c.jsx)(s.Z,{components:r.Z,children:(0,c.jsx)("div",{className:"page",children:e})})}}}]);
