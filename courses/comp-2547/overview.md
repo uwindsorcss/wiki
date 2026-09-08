@@ -7,7 +7,7 @@ slug: /comp-2547/overview
 
 ## Course Title
 
-The title for COMP-2547 is "Programming for Beginners II".
+The title for COMP-2547 is "Applied Algorithms and Data Structures".
 
 ## Course Description
 
