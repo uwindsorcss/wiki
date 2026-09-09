@@ -17,6 +17,10 @@ This course is designed for people who want to make their data available to othe
 
 COMP-3340 is typically offered in the Winter and Summer semesters.
 
+:::note
+COMP-3340 is not listed in the 2026-2027 Fall offerings; it runs in Winter and Summer.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

@@ -17,6 +17,10 @@ Basic concepts of programming languages. Comparative study of the major programm
 
 COMP-4400 is typically offered in the Fall and Winter semesters.
 
+:::note
+COMP-4400 is not listed in the 2026-2027 Summer offerings; it runs in Fall and Winter.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

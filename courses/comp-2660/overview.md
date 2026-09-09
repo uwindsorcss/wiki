@@ -17,6 +17,10 @@ This course uses microprocessor programming to explore the structure of a CPU an
 
 COMP-2660 is typically offered in the Fall and Winter semesters.
 
+:::note
+For the 2026-2027 academic year, COMP-2660 is offered in the Fall semester only.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

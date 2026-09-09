@@ -5,7 +5,7 @@ sidebar_label: Special Courses
 slug: /course-planning/special-course
 ---
 
-_Last updated on 2022/07/29_
+_Last updated on 2026/09/09_
 
 In addition to the classes listed in the [course offering table](/wiki/courses/), there are other CS-related classes that may not have a particular term of offering but could still be of your interest.
 

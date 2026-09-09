@@ -17,6 +17,10 @@ This course will acquaint the students with practical details of network softwar
 
 COMP-3680 is typically offered in the Winter semester.
 
+:::note
+COMP-3680 is not listed in the 2026-2027 course offerings.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

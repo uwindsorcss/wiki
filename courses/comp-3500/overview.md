@@ -17,6 +17,10 @@ This course provides the student with basic concepts and techniques used in mult
 
 COMP-3500 is typically offered in the Fall semester.
 
+:::note
+COMP-3500 is not listed in the 2026-2027 course offerings.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

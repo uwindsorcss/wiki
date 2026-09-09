@@ -17,6 +17,10 @@ This course provides an introduction to the programming and analysis of both lin
 
 COMP-2547 is typically offered in the Fall semester.
 
+:::note
+COMP-2547 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
+:::
+
 ## Is a Textbook Required?
 
 There is currently no information about the Textbook requirement.

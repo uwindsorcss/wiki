@@ -17,6 +17,10 @@ Students will be introduced to logic and critical appraisals including reasoning
 
 COMP-2077 is typically offered in the Fall and Summer semesters.
 
+:::note
+COMP-2077 is not listed in the 2026-2027 course offerings.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

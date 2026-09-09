@@ -17,6 +17,10 @@ This course covers techniques for quantitative and qualitative data analysis and
 
 COMP-3250 is typically offered in the Winter semester.
 
+:::note
+COMP-3250 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
+:::
+
 ## Is a Textbook Required?
 
 There is currently no information about the Textbook requirement.

@@ -17,6 +17,10 @@ This course covers both advanced theoretical database materials as well as speci
 
 COMP-4150 is typically offered in the Fall semester.
 
+:::note
+COMP-4150 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

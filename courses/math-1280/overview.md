@@ -17,6 +17,10 @@ This course will cover matrix algebra, linear systems, vectors, lines and planes
 
 MATH-1280 is typically offered in the Winter Semester.
 
+:::note
+MATH-1280 is not listed in the 2026-2027 course offerings.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

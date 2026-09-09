@@ -17,6 +17,10 @@ The course will introduce students to advanced topics in Artificial Intelligence
 
 COMP-4730 is typically offered in the Fall semester.
 
+:::note
+COMP-4730 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

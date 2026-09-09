@@ -47,6 +47,4 @@ If you are interested in the Co-Op program, here are more resources from the Co-
 - https://www.uwindsor.ca/cces/1218/co-op-programs
 - https://www.uwindsor.ca/cces/
 
-You can also look at your academic calendars for information and requirement for Co-Op programs specific to your department. For the Spring 2023 academic calendar, the Co-Op regulations for Computer Science students is on page 578:
-
-- https://www.uwindsor.ca/secretariat/sites/uwindsor.ca.secretariat/files/undergraduate_calendar_spring_2023.pdf
+You can also look at your academic calendars for information and requirement for Co-Op programs specific to your department. The Co-op regulations for Computer Science students are in the "Program and Co-operative Education Regulations" section of the [Undergraduate Calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars).

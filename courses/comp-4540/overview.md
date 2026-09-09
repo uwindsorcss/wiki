@@ -7,15 +7,19 @@ slug: /comp-4540/overview
 
 ## Course Title
 
-The title for COMP-4540 is "Design and Analysis of Algorithms".
+The title for COMP-4540 is "Design and Analysis of Computer Algorithms".
 
 ## Course Description
 
-The intent of this course is to introduce the fundamental techniques in the design and analysis of computer algorithms. Topics include: asymptotic bounds, advanced data structures, searching, sorting, order statistics, oracle arguments, divide-and-conquer, greedy algorithms, dynamic programming, graph algorithms, NP completeness, and approximation algorithms. (Prerequisite: COMP-2310, COMP-2540 and COMP-3540.) (Restricted to Semester 7 and semester 8 students in Computer Science.) (3 lecture hours a week)
+The intent of this course is to introduce the fundamental techniques in the design and analysis of computer algorithms. Topics include: asymptotic bounds, advanced data structures, searching, sorting, order statistics, oracle arguments, divide-and-conquer, greedy algorithms, dynamic programming, graph algorithms, NP completeness, and approximation algorithms. (Prerequisite: COMP-2310 and COMP-2540.) (Restricted to students in any Honours Computer Science program or consent of instructor.) (3 lecture hours a week.) (May be offered as a cross-career course with COMP-8540).
 
 ## Typical Course Offering
 
 COMP-4540 is typically offered in the Fall and Winter semesters.
+
+:::note
+COMP-4540 is not listed in the 2026-2027 Summer offerings; it runs in Fall and Winter.
+:::
 
 ## Is a Textbook Required?
 

@@ -17,6 +17,10 @@ Students taking this course will learn how to create a mobile application for th
 
 COMP-4200 is typically offered in the Winter semester.
 
+:::note
+COMP-4200 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

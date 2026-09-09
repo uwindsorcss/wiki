@@ -17,6 +17,10 @@ This course introduces topics in data mining and data analytics with emphasis on
 
 COMP-4250 is typically offered in the Winter semester.
 
+:::note
+For the 2026-2027 academic year, COMP-4250 is offered in both the Fall and Winter semesters.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

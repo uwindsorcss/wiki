@@ -17,6 +17,10 @@ An introduction to computer graphics hardware and software, interfaces, standard
 
 COMP-3520 is typically offered in the Winter semester.
 
+:::note
+COMP-3520 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
+:::
+
 ## Is a Textbook Required?
 
 No, while there is a textbook listed and you may find it helpful, it is not required to succeed in this course.

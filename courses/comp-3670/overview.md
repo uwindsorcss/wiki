@@ -11,11 +11,15 @@ The title for COMP-3670 is "Computer Networks".
 
 ## Course Description
 
-This course is an introduction to computer networks and their protocols. Topics include: network architectures, transport, routing, and data link protocols, addressing, local area networks, flow and congestion control, and network security. Examples will be drawn primarily from the Internet (e.g. TCP, UDP, IP) protocol suite. (Prerequisite: COMP-2120, COMP-2540 or or COMP-2547, COMP-2560 and COMP-2650. Recommended corequisite: COMP-3300.)
+This course is an introduction to computer networks and their protocols. Topics include: network architectures, transport, routing, and data link protocols, addressing, local area networks, flow and congestion control, and network security. Examples will be drawn primarily from the Internet (e.g. TCP, UDP, IP) protocol suite. (Prerequisite: COMP-2120, COMP-2540 or COMP-2547, COMP-2560 and COMP-2650. Recommended corequisite: COMP-3300.)
 
 ## Typical Course Offering
 
 COMP-3670 is typically offered in the Fall and Summer semesters.
+
+:::note
+COMP-3670 is not listed in the 2026-2027 Winter offerings; it runs in Fall and Summer.
+:::
 
 ## Is a Textbook Required?
 

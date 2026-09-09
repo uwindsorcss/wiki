@@ -66,9 +66,9 @@
         {
             "course code": "COMP-2077",
             "course name": "Problem Solving and Information on the Internet",
-            "fall": true,
+            "fall": false,
             "winter": false,
-            "summer": true,
+            "summer": false,
             "required": [" "],
             "prerequisites": ["COMP-1047", "COMP-2057"]
         },
@@ -157,9 +157,9 @@
             "course code": "COMP-2660",
             "course name": "Computer Architecture II",
             "fall": true,
-            "winter": true,
+            "winter": false,
             "summer": false,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE"],
+            "required": [" "],
             "prerequisites": ["COMP-2650"]
         },
         {
@@ -170,6 +170,15 @@
             "summer": true,
             "required": ["BIT"],
             "prerequisites": ["COMP-2057"]
+        },
+        {
+            "course code": "COMP-2717",
+            "course name": "Artificial Intelligence: Practice and Ethics for Common Users",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": [" "],
+            "prerequisites": ["Completed semester 4 of studies"]
         },
         {
             "course code": "COMP-2750",
@@ -207,13 +216,13 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["BIT"],
-            "prerequisites": ["COMP-2057 or COMP-2540"]
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BIT"],
+            "prerequisites": ["COMP-2057 or completed Semester 4 of studies"]
         },
         {
             "course code": "COMP-3067",
             "course name": "Applied Databases",
-            "fall": false,
+            "fall": true,
             "winter": false,
             "summer": false,
             "required": ["BIT"],
@@ -299,7 +308,7 @@
         {
             "course code": "COMP-3500",
             "course name": "Introduction to Multimedia Systems",
-            "fall": true,
+            "fall": false,
             "winter": false,
             "summer": false,
             "required": [" "],
@@ -341,7 +350,7 @@
             "course code": "COMP-3680",
             "course name": "Network Practicum",
             "fall": false,
-            "winter": true,
+            "winter": false,
             "summer": false,
             "required": [" "],
             "prerequisites": ["COMP-3300", "COMP-3670"]
@@ -354,6 +363,24 @@
             "summer": false,
             "required": [" "],
             "prerequisites": ["STAT-2910 or STAT-2920", "COMP-2540"]
+        },
+        {
+            "course code": "COMP-3750",
+            "course name": "Selected Topics",
+            "fall": false,
+            "winter": false,
+            "summer": false,
+            "required": [" "],
+            "prerequisites": ["COMP-2120", "COMP-2540", "COMP-2560"]
+        },
+        {
+            "course code": "COMP-3760",
+            "course name": "Selected Topics",
+            "fall": false,
+            "winter": false,
+            "summer": false,
+            "required": [" "],
+            "prerequisites": ["COMP-2120", "COMP-2540", "COMP-2560"]
         },
         {
             "course code": "COMP-3770",
@@ -404,7 +431,7 @@
             "course code": "COMP-4250",
             "course name": "Big Data Analytics and Database Design",
             "fall": true,
-            "winter": false,
+            "winter": true,
             "summer": false,
             "required": ["CSHAC", "BACS"],
             "prerequisites": ["COMP-3150 or COMP-3250"]
@@ -420,16 +447,16 @@
         },
         {
             "course code": "COMP-4500",
-            "course name": "3D Multimedia System Development",
+            "course name": "3D Modeling and Animation",
             "fall": false,
-            "winter": true,
+            "winter": false,
             "summer": false,
             "required": [" "],
             "prerequisites": ["Other requirements (see [1])"]
         },
         {
             "course code": "COMP-4540",
-            "course name": "Design and Analysis of Algorithms",
+            "course name": "Design and Analysis of Computer Algorithms",
             "fall": true,
             "winter": true,
             "summer": false,
@@ -552,7 +579,7 @@
             "course code": "MATH-1280",
             "course name": "Access to Linear Algebra",
             "fall": false,
-            "winter": true,
+            "winter": false,
             "summer": false,
             "required": [],
             "prerequisites": []

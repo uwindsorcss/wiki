@@ -11,11 +11,15 @@ The title for COMP-2067 is "Programming for Beginners".
 
 ## Course Description
 
-This course introduces fundamental computer programming principles and structured programming concepts, with an emphasis on good programming. Stages of the software development cycles are introduced: analysis, design, implementation, debugging and deployment. (May not be used to fulfill the major requirements of any major or joint major in Computer Science.) (3 lecture hours).
+This course introduces fundamental computer programming principles and structured programming concepts, with an emphasis on good programming. Stages of the software development cycles are introduced: analysis, design, implementation, debugging and deployment. May not be used to fulfill the major requirements of any major or joint major in Computer Science, except for the Bachelor of Information Technology (BIT program.) (3 lecture hours).
 
 ## Typical Course Offering
 
 COMP-2067 is typically offered in all semesters.
+
+:::note
+For the 2026-2027 academic year, COMP-2067 is offered in the Fall and Winter semesters only (it is not offered in Summer).
+:::
 
 ## Is a Textbook Required?
 
