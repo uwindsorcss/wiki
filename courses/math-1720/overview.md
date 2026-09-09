@@ -5,6 +5,8 @@ sidebar_label: MATH-1720
 slug: /math-1720/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 :::note
 MATH-1720 and MATH-1760 count for the same credit. You can take either of them for degree requirements.
 :::
@@ -19,7 +21,7 @@ This course will cover trigonometric functions and identities, inverse trigonome
 
 ## Typical Course Offering
 
-MATH-1720 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="MATH-1720" />
 
 ## Is a Textbook Required?
 

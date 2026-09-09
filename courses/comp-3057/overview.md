@@ -5,6 +5,8 @@ sidebar_label: COMP-3057
 slug: /comp-3057/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3057 is "Cyber-Ethics".
@@ -15,7 +17,7 @@ This course will examine key challenges and topics related to ethics and societa
 
 ## Typical Course Offering
 
-COMP-3057 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-3057" />
 
 ## Is a Textbook Required?
 

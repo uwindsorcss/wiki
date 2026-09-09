@@ -5,6 +5,8 @@ sidebar_label: COMP-4740
 slug: /comp-4740/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4740 is "Advanced Topics in AI II".
@@ -15,11 +17,7 @@ The course will introduce students to advanced topics in Artificial Intelligence
 
 ## Typical Course Offering
 
-COMP-4740 is typically offered in the Winter semester.
-
-:::note
-COMP-4740 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
-:::
+<OfferingNote courseCode="COMP-4740" />
 
 ## Is a Textbook Required?
 

@@ -5,6 +5,8 @@ sidebar_label: COMP-3520
 slug: /comp-3520/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3520 is "Introduction to Computer Graphics".
@@ -15,11 +17,7 @@ An introduction to computer graphics hardware and software, interfaces, standard
 
 ## Typical Course Offering
 
-COMP-3520 is typically offered in the Winter semester.
-
-:::note
-COMP-3520 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
-:::
+<OfferingNote courseCode="COMP-3520" />
 
 ## Is a Textbook Required?
 

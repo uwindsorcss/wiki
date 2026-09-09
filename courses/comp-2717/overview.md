@@ -5,6 +5,8 @@ sidebar_label: COMP-2717
 slug: /comp-2717/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2717 is "Artificial Intelligence: Practice and Ethics for Common Users".
@@ -15,11 +17,7 @@ Given the ubiquitous use of Artificial Intelligence (AI) in everyday application
 
 ## Typical Course Offering
 
-For the 2026-2027 academic year, COMP-2717 is offered in the Fall and Winter semesters.
-
-:::note
-There is currently no information about the typical course offering beyond the current academic year.
-:::
+<OfferingNote courseCode="COMP-2717" />
 
 ## Is a Textbook Required?
 

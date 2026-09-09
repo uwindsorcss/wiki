@@ -5,6 +5,8 @@ sidebar_label: COMP-3680
 slug: /comp-3680/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3680 is "Network Practicum".
@@ -15,11 +17,7 @@ This course will acquaint the students with practical details of network softwar
 
 ## Typical Course Offering
 
-COMP-3680 is typically offered in the Winter semester.
-
-:::note
-COMP-3680 is not listed in the 2026-2027 course offerings.
-:::
+<OfferingNote courseCode="COMP-3680" />
 
 ## Is a Textbook Required?
 

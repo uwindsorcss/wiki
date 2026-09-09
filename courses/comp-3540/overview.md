@@ -5,6 +5,8 @@ sidebar_label: COMP-3540
 slug: /comp-3540/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3540 is "Theory of Computation".
@@ -15,7 +17,7 @@ Finite Automata, regular expressions and languages; properties of regular langua
 
 ## Typical Course Offering
 
-COMP-3540 is typically offered in the Fall semester.
+<OfferingNote courseCode="COMP-3540" />
 
 ## Is a Textbook Required?
 

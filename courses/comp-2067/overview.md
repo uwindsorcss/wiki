@@ -5,6 +5,8 @@ sidebar_label: COMP-2067
 slug: /comp-2067/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2067 is "Programming for Beginners".
@@ -15,11 +17,7 @@ This course introduces fundamental computer programming principles and structure
 
 ## Typical Course Offering
 
-COMP-2067 is typically offered in all semesters.
-
-:::note
-For the 2026-2027 academic year, COMP-2067 is offered in the Fall and Winter semesters only (it is not offered in Summer).
-:::
+<OfferingNote courseCode="COMP-2067" />
 
 ## Is a Textbook Required?
 

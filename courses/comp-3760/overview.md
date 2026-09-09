@@ -5,6 +5,8 @@ sidebar_label: COMP-3760
 slug: /comp-3760/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3760 is "Selected Topics".
@@ -15,7 +17,7 @@ Topics may differ from year to year. (Prerequisite: COMP-2120, COMP-2540, and CO
 
 ## Typical Course Offering
 
-There is currently no information about the typical course offering.
+<OfferingNote courseCode="COMP-3760" />
 
 ## Is a Textbook Required?
 

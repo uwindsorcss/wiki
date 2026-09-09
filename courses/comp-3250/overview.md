@@ -5,6 +5,8 @@ sidebar_label: COMP-3250
 slug: /comp-3250/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3250 is "Data Analytics I".
@@ -15,11 +17,7 @@ This course covers techniques for quantitative and qualitative data analysis and
 
 ## Typical Course Offering
 
-COMP-3250 is typically offered in the Winter semester.
-
-:::note
-COMP-3250 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
-:::
+<OfferingNote courseCode="COMP-3250" />
 
 ## Is a Textbook Required?
 

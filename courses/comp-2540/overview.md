@@ -5,6 +5,8 @@ sidebar_label: COMP-2540
 slug: /comp-2540/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2540 is "Data Structures and Algorithms".
@@ -15,7 +17,7 @@ An introduction to the programming and analysis of linear and non-linear interna
 
 ## Typical Course Offering
 
-COMP-2540 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-2540" />
 
 ## Is a Textbook Required?
 

@@ -5,6 +5,8 @@ sidebar_label: COMP-4990
 slug: /comp-4990/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4990 is "Project Management: Techniques and Tools".
@@ -15,11 +17,7 @@ This course requires students to complete an application development project in 
 
 ## Typical Course Offering
 
-COMP-4990 is typically offered in the Fall and Winter semesters.
-
-:::note
-COMP-4990 is not listed in the 2026-2027 Summer offerings; it runs in Fall and Winter.
-:::
+<OfferingNote courseCode="COMP-4990" />
 
 ## Is a Textbook Required?
 

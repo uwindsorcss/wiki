@@ -5,6 +5,8 @@ sidebar_label: MATH-1020
 slug: /math-1020/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for MATH-1020 is "Mathematical Foundations".
@@ -15,7 +17,7 @@ This course will cover mathematical logic, proof methods and development of proo
 
 ## Typical Course Offering
 
-MATH-1020 is typically offered in the Winter and Summer semesters.
+<OfferingNote courseCode="MATH-1020" />
 
 ## Is a Textbook Required?
 

@@ -5,6 +5,8 @@ sidebar_label: COMP-3037
 slug: /comp-3037/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3037 is "Information Security for IT".
@@ -15,11 +17,7 @@ The course focuses on practical topics in information security that are encounte
 
 ## Typical Course Offering
 
-COMP-3037 is typically offered in the Fall semester.
-
-:::note
-COMP-3037 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
-:::
+<OfferingNote courseCode="COMP-3037" />
 
 ## Is a Textbook Required?
 

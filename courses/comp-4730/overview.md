@@ -5,6 +5,8 @@ sidebar_label: COMP-4730
 slug: /comp-4730/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4730 is "Advanced Topics in AI I".
@@ -15,11 +17,7 @@ The course will introduce students to advanced topics in Artificial Intelligence
 
 ## Typical Course Offering
 
-COMP-4730 is typically offered in the Fall semester.
-
-:::note
-COMP-4730 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
-:::
+<OfferingNote courseCode="COMP-4730" />
 
 ## Is a Textbook Required?
 

@@ -5,6 +5,8 @@ sidebar_label: COMP-4670
 slug: /comp-4670/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4670 is "Network Security".
@@ -15,11 +17,7 @@ This course will introduce students to advanced topics in network security. Topi
 
 ## Typical Course Offering
 
-COMP-4670 is typically offered in the Fall semester.
-
-:::note
-COMP-4670 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
-:::
+<OfferingNote courseCode="COMP-4670" />
 
 ## Is a Textbook Required?
 

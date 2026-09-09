@@ -5,6 +5,8 @@ sidebar_label: COMP-3067
 slug: /comp-3067/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3067 is "Applied Databases".
@@ -15,11 +17,7 @@ This course will acquaint students with the basic concepts and application of re
 
 ## Typical Course Offering
 
-For the 2026-2027 academic year, COMP-3067 is offered in the Fall semester.
-
-:::note
-There is currently no information about the typical course offering beyond the current academic year.
-:::
+<OfferingNote courseCode="COMP-3067" />
 
 ## Is a Textbook Required?
 

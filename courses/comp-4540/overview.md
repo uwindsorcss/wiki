@@ -5,6 +5,8 @@ sidebar_label: COMP-4540 - Overview
 slug: /comp-4540/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4540 is "Design and Analysis of Computer Algorithms".
@@ -15,11 +17,7 @@ The intent of this course is to introduce the fundamental techniques in the desi
 
 ## Typical Course Offering
 
-COMP-4540 is typically offered in the Fall and Winter semesters.
-
-:::note
-COMP-4540 is not listed in the 2026-2027 Summer offerings; it runs in Fall and Winter.
-:::
+<OfferingNote courseCode="COMP-4540" />
 
 ## Is a Textbook Required?
 

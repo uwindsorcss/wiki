@@ -5,6 +5,8 @@ sidebar_label: COMP-2057
 slug: /comp-2057/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2057 is "Intro to the Internet".
@@ -15,7 +17,7 @@ Students will be introduced to the Internet as a global information infrastructu
 
 ## Typical Course Offering
 
-COMP-2057 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-2057" />
 
 ## Is a Textbook Required?
 

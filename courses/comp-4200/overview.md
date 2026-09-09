@@ -5,6 +5,8 @@ sidebar_label: COMP-4200
 slug: /comp-4200/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4200 is "Mobile Application Development".
@@ -15,11 +17,7 @@ Students taking this course will learn how to create a mobile application for th
 
 ## Typical Course Offering
 
-COMP-4200 is typically offered in the Winter semester.
-
-:::note
-COMP-4200 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
-:::
+<OfferingNote courseCode="COMP-4200" />
 
 ## Is a Textbook Required?
 

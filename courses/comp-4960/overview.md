@@ -5,6 +5,8 @@ sidebar_label: COMP-4960
 slug: /comp-4960/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4960 is "Research Project".
@@ -15,11 +17,7 @@ This course consists of two components: a) development of research skills, and b
 
 ## Typical Course Offering
 
-COMP-4960 is typically offered in the Fall and Winter semesters.
-
-:::note
-COMP-4960 is not listed in the 2026-2027 Summer offerings; it runs in Fall and Winter.
-:::
+<OfferingNote courseCode="COMP-4960" />
 
 ## Is a Textbook Required?
 

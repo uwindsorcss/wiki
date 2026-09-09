@@ -5,6 +5,8 @@ sidebar_label: COMP-1410
 slug: /comp-1410/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-1410 is "Intro to Programming and Algorithms II".
@@ -15,7 +17,7 @@ This course is the continuation of COMP-1400 that introduces students to more ad
 
 ## Typical Course Offering
 
-COMP-1410 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-1410" />
 
 ## Is a Textbook Required?
 

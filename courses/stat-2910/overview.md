@@ -5,6 +5,8 @@ sidebar_label: STAT-2910
 slug: /stat-2910/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for STAT-2910 is "Statistics for the Sciences".
@@ -15,7 +17,7 @@ This course will cover descriptive statistics, probability, discrete and continu
 
 ## Typical Course Offering
 
-STAT-2910 is typically offered in all semesters.
+<OfferingNote courseCode="STAT-2910" />
 
 ## Is a Textbook Required?
 

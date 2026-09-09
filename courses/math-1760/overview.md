@@ -5,6 +5,8 @@ sidebar_label: MATH-1760
 slug: /math-1760/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 :::note
 MATH-1720 and MATH-1760 count for the same credit. You can take either of them for degree requirements.
 :::
@@ -26,7 +28,7 @@ hours, 1 tutorial hour per week.)
 
 ## Typical Course Offering
 
-MATH-1760 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="MATH-1760" />
 
 ## Is a Textbook Required?
 

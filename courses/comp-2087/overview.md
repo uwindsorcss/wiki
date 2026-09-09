@@ -5,6 +5,8 @@ sidebar_label: COMP-2087
 slug: /comp-2087/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2087 is "Programming for Beginners II".
@@ -15,11 +17,7 @@ This course is the continuation of COMP-2067 that introduces students to more ad
 
 ## Typical Course Offering
 
-COMP-2087 is typically offered in the Winter semester.
-
-:::note
-For the 2026-2027 academic year, COMP-2087 is offered in both the Fall and Winter semesters.
-:::
+<OfferingNote courseCode="COMP-2087" />
 
 ## Is a Textbook Required?
 

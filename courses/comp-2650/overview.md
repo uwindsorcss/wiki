@@ -5,6 +5,8 @@ sidebar_label: COMP-2650
 slug: /comp-2650/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2650 is "Computer Architecture I".
@@ -15,7 +17,7 @@ This course covers fundamental concepts of digital design and CPU architecture. 
 
 ## Typical Course Offering
 
-COMP-2650 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-2650" />
 
 ## Is a Textbook Required?
 

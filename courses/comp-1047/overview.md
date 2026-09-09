@@ -5,6 +5,8 @@ sidebar_label: COMP-1047
 slug: /comp-1047/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-1047 is "Computer Concepts for End-Users".
@@ -15,7 +17,7 @@ Introduction to the concepts of operation of a computer system, including hardwa
 
 ## Typical Course Offering
 
-COMP-1047 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-1047" />
 
 ## Is a Textbook Required?
 

@@ -5,6 +5,8 @@ sidebar_label: COMP-2800
 slug: /comp-2800/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2800 is "Software Development".
@@ -15,11 +17,7 @@ This is a software development course to advance students' programming skills an
 
 ## Typical Course Offering
 
-COMP-2800 is typically offered in the Winter semester.
-
-:::note
-COMP-2800 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
-:::
+<OfferingNote courseCode="COMP-2800" />
 
 ## Is a Textbook Required?
 

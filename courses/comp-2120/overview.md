@@ -5,6 +5,8 @@ sidebar_label: COMP-2120
 slug: /comp-2120/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2120 is "Object Oriented Programming Using Java".
@@ -15,7 +17,7 @@ Concepts of classes and objects, Java applications, frames, event handling, cont
 
 ## Typical Course Offering
 
-COMP-2120 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-2120" />
 
 ## Is a Textbook Required?
 

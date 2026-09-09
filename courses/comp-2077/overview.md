@@ -5,6 +5,8 @@ sidebar_label: COMP-2077
 slug: /comp-2077/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2077 is "Problem Solving and Information on the Internet".
@@ -15,11 +17,7 @@ Students will be introduced to logic and critical appraisals including reasoning
 
 ## Typical Course Offering
 
-COMP-2077 is typically offered in the Fall and Summer semesters.
-
-:::note
-COMP-2077 is not listed in the 2026-2027 course offerings.
-:::
+<OfferingNote courseCode="COMP-2077" />
 
 ## Is a Textbook Required?
 

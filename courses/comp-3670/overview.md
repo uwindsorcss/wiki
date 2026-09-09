@@ -5,6 +5,8 @@ sidebar_label: COMP-3670
 slug: /comp-3670/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3670 is "Computer Networks".
@@ -15,11 +17,7 @@ This course is an introduction to computer networks and their protocols. Topics 
 
 ## Typical Course Offering
 
-COMP-3670 is typically offered in the Fall and Summer semesters.
-
-:::note
-COMP-3670 is not listed in the 2026-2027 Winter offerings; it runs in Fall and Summer.
-:::
+<OfferingNote courseCode="COMP-3670" />
 
 ## Is a Textbook Required?
 

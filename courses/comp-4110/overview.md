@@ -5,6 +5,8 @@ sidebar_label: COMP-4110
 slug: /comp-4110/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4110 is "Software Verification and Testing".
@@ -15,11 +17,7 @@ This course covers fundamental concepts and techniques for software verification
 
 ## Typical Course Offering
 
-COMP-4110 is typically offered in the Winter semester.
-
-:::note
-COMP-4110 is not listed in the 2026-2027 Fall or Summer offerings; it runs in Winter only.
-:::
+<OfferingNote courseCode="COMP-4110" />
 
 ## Is a Textbook Required?
 

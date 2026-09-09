@@ -5,6 +5,8 @@ sidebar_label: COMP-2707
 slug: /comp-2707/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2707 is "Advanced Web Design, Construction, and Deployment".
@@ -15,7 +17,7 @@ This course is intended to teach the student about advanced website creation and
 
 ## Typical Course Offering
 
-COMP-2707 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-2707" />
 
 ## Is a Textbook Required?
 

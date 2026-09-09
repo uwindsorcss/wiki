@@ -5,6 +5,8 @@ sidebar_label: COMP-3150
 slug: /comp-3150/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3150 is "Database Management Systems".
@@ -15,7 +17,7 @@ This course will acquaint students with the Basic concepts of Database Systems. 
 
 ## Typical Course Offering
 
-COMP-3150 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="COMP-3150" />
 
 ## Is a Textbook Required?
 

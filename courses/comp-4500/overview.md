@@ -5,6 +5,8 @@ sidebar_label: COMP-4500
 slug: /comp-4500/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4500 is "3D Modeling and Animation".
@@ -15,11 +17,7 @@ The aim of this course is to discuss and learn technologies for the development 
 
 ## Typical Course Offering
 
-COMP-4500 is typically offered in the Winter semester.
-
-:::note
-COMP-4500 is not listed in the 2026-2027 course offerings.
-:::
+<OfferingNote courseCode="COMP-4500" />
 
 ## Is a Textbook Required?
 

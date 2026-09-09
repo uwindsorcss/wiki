@@ -5,6 +5,8 @@ sidebar_label: COMP-3770
 slug: /comp-3770/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3770 is "Game Design, Development, and Tools".
@@ -15,11 +17,7 @@ This course introduces professional game design and development tools. Students 
 
 ## Typical Course Offering
 
-COMP-3770 is typically offered in the Fall semester.
-
-:::note
-COMP-3770 is not listed in the 2026-2027 Winter or Summer offerings; it runs in Fall only.
-:::
+<OfferingNote courseCode="COMP-3770" />
 
 ## Is a Textbook Required?
 
