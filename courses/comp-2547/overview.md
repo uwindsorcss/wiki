@@ -5,6 +5,8 @@ sidebar_label: COMP-2547
 slug: /comp-2547/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2547 is "Programming for Beginners II".
@@ -15,7 +17,7 @@ This course provides an introduction to the programming and analysis of both lin
 
 ## Typical Course Offering
 
-COMP-2547 is typically offered in the Fall semester.
+<OfferingNote courseCode="COMP-2547" />
 
 ## Is a Textbook Required?
 

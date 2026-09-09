@@ -5,6 +5,8 @@ sidebar_label: MATH-1250
 slug: /math-1250/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 :::note
 MATH-1250 and MATH-1260 count for the same credit. You can take either of them for degree requirements.
 :::
@@ -19,7 +21,7 @@ This course will cover linear systems, matrix algebra, determinants, n-dimension
 
 ## Typical Course Offering
 
-MATH-1250 is typically offered in all semesters.
+<OfferingNote courseCode="MATH-1250" />
 
 ## Is a Textbook Required?
 

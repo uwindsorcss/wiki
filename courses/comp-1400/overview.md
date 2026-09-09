@@ -5,6 +5,8 @@ sidebar_label: COMP-1400 - Overview
 slug: /comp-1400/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-1400 is "Intro to Programming and Algorithms I".
@@ -15,7 +17,7 @@ This course is the first of a two-course sequence designed to introduce students
 
 ## Typical Course Offering
 
-COMP-1400 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-1400" />
 
 ## Is a Textbook Required?
 

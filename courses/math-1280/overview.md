@@ -5,6 +5,8 @@ sidebar_label: MATH-1280
 slug: /math-1280/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for MATH-1280 is "Access to Linear Algebra".
@@ -15,7 +17,7 @@ This course will cover matrix algebra, linear systems, vectors, lines and planes
 
 ## Typical Course Offering
 
-MATH-1280 is typically offered in the Winter Semester.
+<OfferingNote courseCode="MATH-1280" />
 
 ## Is a Textbook Required?
 

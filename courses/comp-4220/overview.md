@@ -5,6 +5,8 @@ sidebar_label: COMP-4220
 slug: /comp-4220/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4220 is "Agile Software Development".
@@ -15,7 +17,7 @@ This project-oriented course is designed to give students experience in developi
 
 ## Typical Course Offering
 
-COMP-4220 is typically offered in the Fall semester.
+<OfferingNote courseCode="COMP-4220" />
 
 ## Is a Textbook Required?
 

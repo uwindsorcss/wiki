@@ -5,6 +5,8 @@ sidebar_label: COMP-3340
 slug: /comp-3340/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3340 is "WWW Information System Development".
@@ -15,7 +17,7 @@ This course is designed for people who want to make their data available to othe
 
 ## Typical Course Offering
 
-COMP-3340 is typically offered in the Winter and Summer semesters.
+<OfferingNote courseCode="COMP-3340" />
 
 ## Is a Textbook Required?
 

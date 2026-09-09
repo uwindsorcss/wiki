@@ -5,6 +5,8 @@ sidebar_label: COMP-4150
 slug: /comp-4150/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4150 is "Advanced and Practical Database Systems".
@@ -15,7 +17,7 @@ This course covers both advanced theoretical database materials as well as speci
 
 ## Typical Course Offering
 
-COMP-4150 is typically offered in the Fall semester.
+<OfferingNote courseCode="COMP-4150" />
 
 ## Is a Textbook Required?
 

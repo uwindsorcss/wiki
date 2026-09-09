@@ -5,6 +5,8 @@ sidebar_label: MATH-1730
 slug: /math-1730/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for MATH-1730 is "Integral Calculus".
@@ -15,7 +17,7 @@ This course will cover antiderivatives, the definite integral and the fundamenta
 
 ## Typical Course Offering
 
-MATH-1730 is typically offered in the Winter and Summer semesters.
+<OfferingNote courseCode="MATH-1730" />
 
 ## Is a Textbook Required?
 

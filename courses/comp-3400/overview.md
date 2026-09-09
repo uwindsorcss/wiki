@@ -5,6 +5,8 @@ sidebar_label: COMP-3400
 slug: /comp-3400/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3400 is "Advanced Object Oriented System Design Using C++".
@@ -15,7 +17,7 @@ The main objective of this course is to explore advanced topics of the object or
 
 ## Typical Course Offering
 
-COMP-3400 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-3400" />
 
 ## Is a Textbook Required?
 

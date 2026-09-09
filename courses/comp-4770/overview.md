@@ -5,17 +5,19 @@ sidebar_label: COMP-4770
 slug: /comp-4770/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
-The title for COMP-4770 is "Artifical Intelligence for Games".
+The title for COMP-4770 is "Artificial Intelligence for Games".
 
 ## Course Description
 
-This course provides students with an opportunity to explore theoretical and practical aspects of Artificial Intelligence for computer games. Topics may include agents, sensory systems, steering behaviours, pathfinding, decision making, planning, goal-oriented behaviour, multi-agents (groups, crowds) and learning. (This course could be used to satisfy the COMP-4730 (fourth year AI) requirement.) (Prerequisite: COMP-3770.) (Restricted to students in Honours Computer Science.) (3 lecture hours a week)
+This course provides students with an opportunity to explore theoretical and practical aspects of Artificial Intelligence for computer games. Topics may include agents, sensory systems, steering behaviours, pathfinding, decision making, planning, goal-oriented behaviour, multi-agents (groups, crowds) and learning. (Prerequisite: COMP-3770.) (Restricted to students in any Honours Computer Science program.) (3 lecture hours a week.)
 
 ## Typical Course Offering
 
-COMP-4770 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-4770" />
 
 ## Is a Textbook Required?
 

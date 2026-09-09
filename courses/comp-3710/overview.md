@@ -5,6 +5,8 @@ sidebar_label: COMP-3710
 slug: /comp-3710/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3710 is "Artificial Intelligence Concepts".
@@ -15,7 +17,7 @@ This course covers fundamental concepts in Artificial Intelligence. Topics inclu
 
 ## Typical Course Offering
 
-COMP-3710 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-3710" />
 
 ## Is a Textbook Required?
 

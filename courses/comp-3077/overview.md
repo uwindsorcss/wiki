@@ -5,6 +5,8 @@ sidebar_label: COMP-3077
 slug: /comp-3077/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3077 is "Web-Based Data Management".
@@ -15,7 +17,7 @@ This non-major course is intended to teach students how to design and build inte
 
 ## Typical Course Offering
 
-COMP-3077 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-3077" />
 
 ## Is a Textbook Required?
 

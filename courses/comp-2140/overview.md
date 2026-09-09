@@ -5,6 +5,8 @@ sidebar_label: COMP-2140 - Overview
 slug: /comp-2140/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2140 is "Computer Languages, Grammars and Translators".
@@ -15,7 +17,7 @@ Pragmatic and theoretical aspects of grammars, recognizers, and translators for 
 
 ## Typical Course Offering
 
-COMP-2140 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-2140" />
 
 ## Is a Textbook Required?
 

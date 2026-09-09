@@ -5,6 +5,8 @@ sidebar_label: COMP-2560 - Overview
 slug: /comp-2560/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2560 is "System Programming".
@@ -15,7 +17,7 @@ This course introduces students to advanced software development techniques in s
 
 ## Typical Course Offering
 
-COMP-2560 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-2560" />
 
 ## Is a Textbook Required?
 

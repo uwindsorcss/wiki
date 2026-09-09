@@ -5,6 +5,8 @@ sidebar_label: COMP-4250
 slug: /comp-4250/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4250 is "Big Data Analytics and Database Design".
@@ -15,7 +17,7 @@ This course introduces topics in data mining and data analytics with emphasis on
 
 ## Typical Course Offering
 
-COMP-4250 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-4250" />
 
 ## Is a Textbook Required?
 

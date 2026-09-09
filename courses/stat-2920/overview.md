@@ -5,6 +5,8 @@ sidebar_label: STAT-2920
 slug: /stat-2920/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for STAT-2920 is "Introduction to Probability".
@@ -15,7 +17,7 @@ This course will cover descriptive measures, combinatorics, probability, random 
 
 ## Typical Course Offering
 
-STAT-2920 is typically offered in the Fall Semester.
+<OfferingNote courseCode="STAT-2920" />
 
 ## Is a Textbook Required?
 

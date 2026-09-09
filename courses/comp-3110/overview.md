@@ -5,6 +5,8 @@ sidebar_label: COMP-3110
 slug: /comp-3110/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3110 is "Introduction to Software Engineering".
@@ -15,7 +17,7 @@ This course introduces the fundamental concepts, common principles, and general 
 
 ## Typical Course Offering
 
-COMP-3110 is typically offered in the Fall semester.
+<OfferingNote courseCode="COMP-3110" />
 
 ## Is a Textbook Required?
 

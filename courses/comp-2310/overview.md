@@ -5,6 +5,8 @@ sidebar_label: COMP-2310 - Overview
 slug: /comp-2310/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2310 is "Theoretical Foundations of Computer Science".
@@ -15,7 +17,7 @@ An introduction to Mathematical Logic, Set Theory, and Graph Theory. Topics incl
 
 ## Typical Course Offering
 
-COMP-2310 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="COMP-2310" />
 
 ## Is a Textbook Required?
 

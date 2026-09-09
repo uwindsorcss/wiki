@@ -5,6 +5,8 @@ sidebar_label: MATH-1260
 slug: /math-1260/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 :::note
 MATH-1250 and MATH-1260 count for the same credit. You can take either of them for degree requirements.
 :::
@@ -19,7 +21,7 @@ This course is for students without Ontario Grade 12 Calculus and Vectors (MCV4U
 
 ## Typical Course Offering
 
-MATH-1260 is typically offered in the Fall Semester.
+<OfferingNote courseCode="MATH-1260" />
 
 ## Is a Textbook Required?
 

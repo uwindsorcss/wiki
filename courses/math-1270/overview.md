@@ -5,6 +5,8 @@ sidebar_label: MATH-1270
 slug: /math-1270/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for MATH-1270 is "Linear Algebra (Engineering)".
@@ -15,7 +17,7 @@ This course will cover linear systems, linear transformations, matrix algebra, d
 
 ## Typical Course Offering
 
-MATH-1270 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="MATH-1270" />
 
 ## Is a Textbook Required?
 

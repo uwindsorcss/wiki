@@ -5,6 +5,8 @@ sidebar_label: COMP-4800
 slug: /comp-4800/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4800 is "Selected Topics in Software Engineering".
@@ -15,7 +17,7 @@ This course intends to connect emerging technologies with the student's theoreti
 
 ## Typical Course Offering
 
-COMP-4800 is typically offered in the Winter semester.
+<OfferingNote courseCode="COMP-4800" />
 
 ## Is a Textbook Required?
 

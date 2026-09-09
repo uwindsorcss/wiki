@@ -5,6 +5,8 @@ sidebar_label: COMP-2660 - Overview
 slug: /comp-2660/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-2660 is "Computer Architecture II".
@@ -15,7 +17,7 @@ This course uses microprocessor programming to explore the structure of a CPU an
 
 ## Typical Course Offering
 
-COMP-2660 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="COMP-2660" />
 
 ## Is a Textbook Required?
 

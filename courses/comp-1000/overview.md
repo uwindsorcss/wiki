@@ -5,6 +5,8 @@ sidebar_label: COMP-1000
 slug: /comp-1000/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-1000 is "Key Concepts in Computer Science".
@@ -15,7 +17,7 @@ The objectives of this course are to excite students' interest in computer scien
 
 ## Typical Course Offering
 
-COMP-1000 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-1000" />
 
 ## Is a Textbook Required?
 

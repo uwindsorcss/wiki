@@ -5,6 +5,8 @@ sidebar_label: COMP-3220
 slug: /comp-3220/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3220 is "Obj Oriented Software Analysis and Design".
@@ -15,7 +17,7 @@ This course builds on the knowledge of object-oriented programming, data structu
 
 ## Typical Course Offering
 
-COMP-3220 is typically offered in all semesters.
+<OfferingNote courseCode="COMP-3220" />
 
 ## Is a Textbook Required?
 

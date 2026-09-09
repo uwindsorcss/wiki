@@ -5,6 +5,8 @@ sidebar_label: COMP-4400 - Overview
 slug: /comp-4400/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-4400 is "Principles of Programming Languages".
@@ -15,7 +17,7 @@ Basic concepts of programming languages. Comparative study of the major programm
 
 ## Typical Course Offering
 
-COMP-4400 is typically offered in the Fall and Winter semesters.
+<OfferingNote courseCode="COMP-4400" />
 
 ## Is a Textbook Required?
 

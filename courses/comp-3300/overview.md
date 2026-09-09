@@ -5,6 +5,8 @@ sidebar_label: COMP-3300 - Overview
 slug: /comp-3300/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3300 is "Operating System Fundamentals".
@@ -15,7 +17,7 @@ Operating system services, introduction to primary components of multi-programmi
 
 ## Typical Course Offering
 
-COMP-3300 is typically offered in the Winter and Summer semesters.
+<OfferingNote courseCode="COMP-3300" />
 
 ## Is a Textbook Required?
 

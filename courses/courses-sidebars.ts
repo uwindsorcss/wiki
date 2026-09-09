@@ -127,6 +127,11 @@ export default {
                 },
                 {
                     type: "doc",
+                    label: "COMP-2717",
+                    id: "comp-2717/overview",
+                },
+                {
+                    type: "doc",
                     label: "COMP-2750",
                     id: "comp-2750/overview",
                 },
@@ -229,6 +234,16 @@ export default {
                     type: "doc",
                     label: "COMP-3710",
                     id: "comp-3710/overview",
+                },
+                {
+                    type: "doc",
+                    label: "COMP-3750",
+                    id: "comp-3750/overview",
+                },
+                {
+                    type: "doc",
+                    label: "COMP-3760",
+                    id: "comp-3760/overview",
                 },
                 {
                     type: "doc",

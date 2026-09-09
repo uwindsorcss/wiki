@@ -5,6 +5,8 @@ sidebar_label: MATH-3940
 slug: /math-3940/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for MATH-3940 is "Numerical Analysis for Computer Scientists".
@@ -15,7 +17,7 @@ This course is an introduction to the applications of numerical methods using co
 
 ## Typical Course Offering
 
-MATH-3940 is typically offered in the Fall semester.
+<OfferingNote courseCode="MATH-3940" />
 
 ## Is a Textbook Required?
 

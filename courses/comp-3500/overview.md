@@ -5,6 +5,8 @@ sidebar_label: COMP-3500
 slug: /comp-3500/overview
 ---
 
+import OfferingNote from "@site/src/components/OfferingNote";
+
 ## Course Title
 
 The title for COMP-3500 is "Introduction to Multimedia Systems".
@@ -15,7 +17,7 @@ This course provides the student with basic concepts and techniques used in mult
 
 ## Typical Course Offering
 
-COMP-3500 is typically offered in the Fall semester.
+<OfferingNote courseCode="COMP-3500" />
 
 ## Is a Textbook Required?
 
